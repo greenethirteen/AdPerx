@@ -1,0 +1,20 @@
+export const ALL_PURPOSE_TECHNIQUES = [
+  "Focus on THE PROBLEM",
+  "Show THE CONSEQUENCE",
+  "Spotlight THE BENEFIT",
+  "Hero THE CORE FEATURE",
+  "Make THE COMPARISON",
+  "Prove it with A DEMONSTRATION",
+  "Use A TESTIMONIAL (with a twist)",
+  "Explain via A METAPHOR",
+  "Push it with HYPERBOLE",
+  "Undersell with UNDERSTATEMENT",
+  "Flip it with IRONY",
+  "Sell it by OMISSION",
+  "Alter reality (ALTERATION)",
+  "Make a PARADOX true",
+  "Set up a TWIST",
+  "Borrow cultural heat (BORROWED INTEREST)",
+  "Show a SLICE OF LIFE",
+  "Humanize it (ANTHROPOMORPHISM)"
+];

@@ -1,0 +1,3724 @@
+{
+  "generatedAt": "2026-02-10T06:56:38.411Z",
+  "totals": {
+    "records": 4239,
+    "outbound": 4083,
+    "thumbs": 4239,
+    "uniqueOutbound": 3782,
+    "uniqueThumbs": 3900
+  },
+  "outbound": {
+    "brokenCount": 1060,
+    "brokenByStatus": {
+      "0": 601,
+      "400": 1,
+      "403": 286,
+      "404": 168,
+      "409": 2,
+      "500": 2
+    },
+    "topBrokenHosts": [
+      [
+        "dandad.org",
+        172
+      ],
+      [
+        "zhihu.com",
+        158
+      ],
+      [
+        "clios.com",
+        85
+      ],
+      [
+        "vimeo.com",
+        70
+      ],
+      [
+        "sites.wpp.com",
+        62
+      ],
+      [
+        "lbbonline.com",
+        54
+      ],
+      [
+        "youtube.com",
+        53
+      ],
+      [
+        "adsoftheworld.com",
+        27
+      ],
+      [
+        "support.google.com",
+        25
+      ],
+      [
+        "dictionary.cambridge.org",
+        18
+      ],
+      [
+        "behance.net",
+        18
+      ],
+      [
+        "zhidao.baidu.com",
+        14
+      ],
+      [
+        "adsspot.me",
+        13
+      ],
+      [
+        "adforum.com",
+        10
+      ],
+      [
+        "www2.eurobest.com",
+        8
+      ],
+      [
+        "www2.spikes.asia",
+        7
+      ],
+      [
+        "nyfadvertising.com",
+        4
+      ],
+      [
+        "movie.douban.com",
+        3
+      ],
+      [
+        "latinspots.com",
+        3
+      ],
+      [
+        "wpp.com",
+        3
+      ],
+      [
+        "shootonline.com",
+        3
+      ],
+      [
+        "zh.hinative.com",
+        3
+      ],
+      [
+        "en.wikipedia.org",
+        3
+      ],
+      [
+        "tbwa.com",
+        3
+      ],
+      [
+        "adceurope.org",
+        3
+      ]
+    ],
+    "sampleBroken": [
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/134176",
+        "affected": [
+          {
+            "id": "2025-brand-experience-activation-design-digital-craft-caption-with-intention-chicago-hearing-society",
+            "title": "BRAND EXPERIENCE & ACTIVATION + DESIGN + DIGITAL CRAFT] CAPTION WITH INTENTION",
+            "url": "https://lbbonline.com/work/134176"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239555/haaland-payback-time/",
+        "affected": [
+          {
+            "id": "2025-haaland-payback-time-supercell",
+            "title": "HAALAND PAYBACK TIME",
+            "url": "https://www.dandad.org/awards/professional/2025/239555/haaland-payback-time/"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://vimeo.com/1093757553",
+        "affected": [
+          {
+            "id": "2025-olympic-games-opening-ceremony-paris-2024-paris-2024",
+            "title": "OLYMPIC GAMES OPENING CEREMONY PARIS 2024",
+            "url": "https://vimeo.com/1093757553"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239465/daisy-vs-scammers/",
+        "affected": [
+          {
+            "id": "2025-daisy-vs-scammers-o2",
+            "title": "DAISY VS SCAMMERS",
+            "url": "https://www.dandad.org/awards/professional/2025/239465/daisy-vs-scammers/"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://vimeo.com/1092193619?autoplay=1&muted=1&stream_id=Y2xpcHN8MTYzNDQ3ODI2fGlkOmRlc2N8W10%3D&turnstile=0.Ia7XGMbqV6xlOBXIE9kZO71Bk1CQ3CNkaq03BPl_r2hpDhGd9VvteVcu4a_Ft4d3nNvSQht6pA1K1i1o31hiNc0SJvIaUgwdfAX7I7ditwZU3wRS3gr_V67C_pnGvFBWKe-HdSeVUf0nOxntgk-CA_Xr0akKQgSSsGmxmJ7WLTJq2MWSGhnRHlxgpFA8JUd9M4aNYLfBacs1HPZ866sNqFic6fAoQ6ZrVkT7U2RdzmhCSJJsI0Cq_8GCRc14AAswerS4y5cfCvHkY4dmBhCOORy-uwdi5QI5BLO3nOT2DTAepBhFHYF0w8_HXlWElEG8XZgRu_LStRjPBf_NX3nh7PMWXa9MeVSgoAEZbUG3WNhPYpdoRCpW8rjKgj5PcwB0_tv5ejYE4x4KSEdm6tcKVxzOMHPsxC5oj27iXrzomUZZd2JHB63cYNnVtQe3S8so3tkc0GZkYFVvKsxuweTDC0GCgiDXtm2aXww8_5TYxpWlpARQu5qVp1Bv3BLe4k58q3oD159mJzKMXy0RyNlHCUiHJgtkbcGw8XhJ0fvAbiv8S3B0VgWxMtvI8k1w8awbWF5caM--yNxfmMkZGsX4fxMcvH9aM2j5Ykb9pRtGw8wvCJpjNA3CbzabiO18VnNwQLWY82O_49EEuOUrIoTZqy0jFbIldKj5405qwDZyoesn0OX4VD3ll_ZoEfJ2wAVBZBy1oQywaQItFjaCz7gs5PCJUrn03-XW4JVuWeKL1ZZEuRFr4tsrH08eX2jbh_LcDS8lp7_cHFz6sHCh42tNDYNqfpAwq1tINjRFtAxutQFafMFRpBIGk9kFpdf0Ue7zh5XvAuELMTZjM43lEhz3A2QMbqxOYCvFYVDVjNx_B_WvNg88UgNQ2AEkB47i4bxC.Rvo1aQPjmfBOGdIlXNutug.36afce9fa745643ac2921f5824a50a4c424be9cc98945a495de4debd9ae79d14",
+        "affected": [
+          {
+            "id": "2025-drops-of-hope-kimberley-clark",
+            "title": "DROPS OF HOPE",
+            "url": "https://vimeo.com/1092193619?autoplay=1&muted=1&stream_id=Y2xpcHN8MTYzNDQ3ODI2fGlkOmRlc2N8W10%3D&turnstile=0.Ia7XGMbqV6xlOBXIE9kZO71Bk1CQ3CNkaq03BPl_r2hpDhGd9VvteVcu4a_Ft4d3nNvSQht6pA1K1i1o31hiNc0SJvIaUgwdfAX7I7ditwZU3wRS3gr_V67C_pnGvFBWKe-HdSeVUf0nOxntgk-CA_Xr0akKQgSSsGmxmJ7WLTJq2MWSGhnRHlxgpFA8JUd9M4aNYLfBacs1HPZ866sNqFic6fAoQ6ZrVkT7U2RdzmhCSJJsI0Cq_8GCRc14AAswerS4y5cfCvHkY4dmBhCOORy-uwdi5QI5BLO3nOT2DTAepBhFHYF0w8_HXlWElEG8XZgRu_LStRjPBf_NX3nh7PMWXa9MeVSgoAEZbUG3WNhPYpdoRCpW8rjKgj5PcwB0_tv5ejYE4x4KSEdm6tcKVxzOMHPsxC5oj27iXrzomUZZd2JHB63cYNnVtQe3S8so3tkc0GZkYFVvKsxuweTDC0GCgiDXtm2aXww8_5TYxpWlpARQu5qVp1Bv3BLe4k58q3oD159mJzKMXy0RyNlHCUiHJgtkbcGw8XhJ0fvAbiv8S3B0VgWxMtvI8k1w8awbWF5caM--yNxfmMkZGsX4fxMcvH9aM2j5Ykb9pRtGw8wvCJpjNA3CbzabiO18VnNwQLWY82O_49EEuOUrIoTZqy0jFbIldKj5405qwDZyoesn0OX4VD3ll_ZoEfJ2wAVBZBy1oQywaQItFjaCz7gs5PCJUrn03-XW4JVuWeKL1ZZEuRFr4tsrH08eX2jbh_LcDS8lp7_cHFz6sHCh42tNDYNqfpAwq1tINjRFtAxutQFafMFRpBIGk9kFpdf0Ue7zh5XvAuELMTZjM43lEhz3A2QMbqxOYCvFYVDVjNx_B_WvNg88UgNQ2AEkB47i4bxC.Rvo1aQPjmfBOGdIlXNutug.36afce9fa745643ac2921f5824a50a4c424be9cc98945a495de4debd9ae79d14"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.zhihu.com/question/20260723",
+        "affected": [
+          {
+            "id": "2025-dungeons-dragons-the-lost-episode-hasbro",
+            "title": "DUNGEONS&DRAGONS: THE LOST EPISODE",
+            "url": "https://www.zhihu.com/question/20260723"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/240679/find-your-friends/",
+        "affected": [
+          {
+            "id": "2025-find-your-friends-apple",
+            "title": "FIND YOUR FRIENDS",
+            "url": "https://www.dandad.org/awards/professional/2025/240679/find-your-friends/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239793/group-therapy/",
+        "affected": [
+          {
+            "id": "2025-group-therapy-axa",
+            "title": "GROUP THERAPY",
+            "url": "https://www.dandad.org/awards/professional/2025/239793/group-therapy/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239741/guao-guao/",
+        "affected": [
+          {
+            "id": "2025-guao-guao-desperados",
+            "title": "GUAO GUAO",
+            "url": "https://www.dandad.org/awards/professional/2025/239741/guao-guao/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239347/olympic-curry/",
+        "affected": [
+          {
+            "id": "2025-olympic-curry-mcdonald-s",
+            "title": "OLYMPIC CURRY",
+            "url": "https://www.dandad.org/awards/professional/2025/239347/olympic-curry/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239195/prize-on-the-bone/",
+        "affected": [
+          {
+            "id": "2025-prize-on-the-bone-kfc",
+            "title": "PRIZE ON THE BONE",
+            "url": "https://www.dandad.org/awards/professional/2025/239195/prize-on-the-bone/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/240779/sato-2531/",
+        "affected": [
+          {
+            "id": "2025-sato-2531-asuniwa",
+            "title": "SATO 2531",
+            "url": "https://www.dandad.org/awards/professional/2025/240779/sato-2531/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/news/stella-artois-honours-the-sacred-first-sip-in-claustrobars",
+        "affected": [
+          {
+            "id": "2025-the-sip-of-sanctuary-happiness-within-chaos-protector-of-the-chalice-stella-artois",
+            "title": "THE SIP OF SANCTUARY, HAPPINESS WITHIN CHAOS, PROTECTOR OF THE CHALICE",
+            "url": "https://lbbonline.com/news/stella-artois-honours-the-sacred-first-sip-in-claustrobars"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://vimeo.com/1092193263",
+        "affected": [
+          {
+            "id": "2025-tree-correspondents-hyundai",
+            "title": "TREE CORRESPONDENTS",
+            "url": "https://vimeo.com/1092193263"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/136481",
+        "affected": [
+          {
+            "id": "2025-avani-s-gold-britannia-marie-gold",
+            "title": "AVANI’S GOLD",
+            "url": "https://lbbonline.com/work/136481"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/news/stella-artois-hiders-keepers-campaign-celebrates-the-beer-worth-hiding",
+        "affected": [
+          {
+            "id": "2025-birthday-party-dinner-game-day-stella-artois",
+            "title": "BIRTHDAY PARTY, DINNER, GAME DAY",
+            "url": "https://lbbonline.com/news/stella-artois-hiders-keepers-campaign-celebrates-the-beer-worth-hiding"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://vimeo.com/1094609025",
+        "affected": [
+          {
+            "id": "2025-bring-korea-to-the-world-netflix",
+            "title": "BRING KOREA TO THE WORLD",
+            "url": "https://vimeo.com/1094609025"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/240747/bundles-of-joy/",
+        "affected": [
+          {
+            "id": "2025-bundles-of-joy-burger-king",
+            "title": "BUNDLES OF JOY",
+            "url": "https://www.dandad.org/awards/professional/2025/240747/bundles-of-joy/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/122683",
+        "affected": [
+          {
+            "id": "2025-coffin-life360",
+            "title": "COFFIN",
+            "url": "https://lbbonline.com/work/122683"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/136815",
+        "affected": [
+          {
+            "id": "2025-dawai-reader-alkem-laboratories",
+            "title": "DAWAI READER",
+            "url": "https://lbbonline.com/work/136815"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/136738",
+        "affected": [
+          {
+            "id": "2025-dirty-mouth-sponsorship-cif",
+            "title": "DIRTY MOUTH SPONSORSHIP",
+            "url": "https://lbbonline.com/work/136738"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/239094/find-your-summer/",
+        "affected": [
+          {
+            "id": "2025-find-your-summer-magnum",
+            "title": "FIND YOUR SUMMER",
+            "url": "https://www.dandad.org/awards/professional/2024/239094/find-your-summer/"
+          },
+          {
+            "id": "2024-find-your-summer-magnum",
+            "title": "FIND YOUR SUMMER",
+            "url": "https://www.dandad.org/awards/professional/2024/239094/find-your-summer/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/136847",
+        "affected": [
+          {
+            "id": "2025-found-in-translation-medalla-light",
+            "title": "FOUND IN TRANSLATION",
+            "url": "https://lbbonline.com/work/136847"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/240818/wendys-frosty-fix/",
+        "affected": [
+          {
+            "id": "2025-frosty-fix-wendy-s",
+            "title": "FROSTY FIX",
+            "url": "https://www.dandad.org/awards/professional/2025/240818/wendys-frosty-fix/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/131305",
+        "affected": [
+          {
+            "id": "2025-kleenex-score-kleenex",
+            "title": "KLEENEX SCORE",
+            "url": "https://lbbonline.com/work/131305"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://vimeo.com/943372451",
+        "affected": [
+          {
+            "id": "2025-lap-of-legends-michelob-ultra",
+            "title": "LAP OF LEGENDS",
+            "url": "https://vimeo.com/943372451"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239519/makeup-payment/",
+        "affected": [
+          {
+            "id": "2025-makeup-payment-mastercard",
+            "title": "MAKEUP PAYMENT",
+            "url": "https://www.dandad.org/awards/professional/2025/239519/makeup-payment/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/news/trees-dictate-art-direction-for-sustainability-driven-ooh-campaign-nature-shapes-britannia",
+        "affected": [
+          {
+            "id": "2025-nature-shapes-britannia-britannia-industries-ltd",
+            "title": "NATURE SHAPES BRITANNIA",
+            "url": "https://lbbonline.com/news/trees-dictate-art-direction-for-sustainability-driven-ooh-campaign-nature-shapes-britannia"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://www.nyfadvertising.com/Winners/WinnerDetailsNew/de7f8cbb-0f61-4cfe-a39a-a5b4202c265c",
+        "affected": [
+          {
+            "id": "2025-no-smiles-mcdonald-s-japan",
+            "title": "NO SMILES",
+            "url": "https://www.nyfadvertising.com/Winners/WinnerDetailsNew/de7f8cbb-0f61-4cfe-a39a-a5b4202c265c"
+          },
+          {
+            "id": "2024-no-smiles-mcdonald-s-japan",
+            "title": "NO SMILES",
+            "url": "https://www.nyfadvertising.com/Winners/WinnerDetailsNew/de7f8cbb-0f61-4cfe-a39a-a5b4202c265c"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/106977",
+        "affected": [
+          {
+            "id": "2025-roobadge-volkswagen",
+            "title": "ROOBADGE",
+            "url": "https://lbbonline.com/work/106977"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/237942/samsung-throwback-deals/",
+        "affected": [
+          {
+            "id": "2025-samsung-throwback-deals-samsung",
+            "title": "SAMSUNG THROWBACK DEALS",
+            "url": "https://www.dandad.org/awards/professional/2024/237942/samsung-throwback-deals/"
+          },
+          {
+            "id": "2024-samsung-throwback-deals-samsung",
+            "title": "SAMSUNG THROWBACK DEALS",
+            "url": "https://www.dandad.org/awards/professional/2024/237942/samsung-throwback-deals/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.zhihu.com/question/518660717",
+        "affected": [
+          {
+            "id": "2025-ad-free-movies-budweiser",
+            "title": "AD-FREE MOVIES",
+            "url": "https://www.zhihu.com/question/518660717"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/238849/a-piece-of-me/",
+        "affected": [
+          {
+            "id": "2025-a-piece-of-me-kpn",
+            "title": "A PIECE OF ME",
+            "url": "https://www.dandad.org/awards/professional/2024/238849/a-piece-of-me/"
+          },
+          {
+            "id": "2024-a-piece-of-me-kpn",
+            "title": "A PIECE OF ME",
+            "url": "https://www.dandad.org/awards/professional/2024/238849/a-piece-of-me/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239472/camdom/",
+        "affected": [
+          {
+            "id": "2025-camdom-billy-boy",
+            "title": "CAMDOM",
+            "url": "https://www.dandad.org/awards/professional/2025/239472/camdom/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/136489",
+        "affected": [
+          {
+            "id": "2025-chai-bansuri-the-tea-flute-unilever",
+            "title": "CHAI BANSURI: THE TEA FLUTE",
+            "url": "https://lbbonline.com/work/136489"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://mariepoumeyrol.com/excuses-bars",
+        "affected": [
+          {
+            "id": "2025-excuses-bars-heineken",
+            "title": "EXCUSES BARS",
+            "url": "https://mariepoumeyrol.com/excuses-bars"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239637/feelin-planty-good/",
+        "affected": [
+          {
+            "id": "2025-feelin-planty-good-silk",
+            "title": "FEELIN PLANTY GOOD",
+            "url": "https://www.dandad.org/awards/professional/2025/239637/feelin-planty-good/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/240491/fer/",
+        "affected": [
+          {
+            "id": "2025-fer-save-the-children",
+            "title": "FER",
+            "url": "https://www.dandad.org/awards/professional/2025/240491/fer/"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://mblht.com/football-lover-fm",
+        "affected": [
+          {
+            "id": "2025-football-over-fm-so-foot",
+            "title": "FOOTBALL OVER FM",
+            "url": "https://mblht.com/football-lover-fm"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/news/holocaust-survivors-make-the-past-chillingly-present-on-80th-anniversary",
+        "affected": [
+          {
+            "id": "2025-likes-marches-crime-history-channel",
+            "title": "LIKES, MARCHES, CRIME",
+            "url": "https://lbbonline.com/news/holocaust-survivors-make-the-past-chillingly-present-on-80th-anniversary"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/120926",
+        "affected": [
+          {
+            "id": "2025-love-the-racks-kitchenaid",
+            "title": "LOVE THE RACKS",
+            "url": "https://lbbonline.com/work/120926"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/241069/most-likely-to/",
+        "affected": [
+          {
+            "id": "2025-most-likely-to-dove",
+            "title": "MOST LIKELY TO",
+            "url": "https://www.dandad.org/awards/professional/2025/241069/most-likely-to/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/124750",
+        "affected": [
+          {
+            "id": "2025-my-gut-friend-gut",
+            "title": "MY GUT FRIEND",
+            "url": "https://lbbonline.com/work/124750"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/news/mcdonalds-isnt-for-first-dates-its-for-every-other-one",
+        "affected": [
+          {
+            "id": "2025-not-for-first-dates-mcdonald-s-fp7",
+            "title": "NOT FOR FIRST DATES",
+            "url": "https://lbbonline.com/news/mcdonalds-isnt-for-first-dates-its-for-every-other-one"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/240782/other-hand/",
+        "affected": [
+          {
+            "id": "2025-other-hand-cheetos",
+            "title": "OTHER HAND",
+            "url": "https://www.dandad.org/awards/professional/2025/240782/other-hand/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239317/packed-full-of-history/",
+        "affected": [
+          {
+            "id": "2025-packed-full-of-history-samsung",
+            "title": "PACKED FULL OF HISTORY",
+            "url": "https://www.dandad.org/awards/professional/2025/239317/packed-full-of-history/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.vml.com/work/painvisible",
+        "affected": [
+          {
+            "id": "2025-painvisible-aritium",
+            "title": "PAINVISIBLE",
+            "url": "https://www.vml.com/work/painvisible"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.lbbonline.com/work/110105",
+        "affected": [
+          {
+            "id": "2025-pub-museums-heineken",
+            "title": "PUB MUSEUMS",
+            "url": "https://www.lbbonline.com/work/110105"
+          },
+          {
+            "id": "2024-pub-museums-heineken",
+            "title": "PUB MUSEUMS",
+            "url": "https://www.lbbonline.com/work/110105"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.zhihu.com/question/595370536",
+        "affected": [
+          {
+            "id": "2025-safe-at-3am-dubai-tourism",
+            "title": "SAFE AT 3AM",
+            "url": "https://www.zhihu.com/question/595370536"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://www.nyfadvertising.com/Winners/WinnerDetailsNew/abeb8c4f-10f5-4cd9-ab53-ac0deba2a788",
+        "affected": [
+          {
+            "id": "2025-safe-sketch-save-the-children",
+            "title": "SAFE SKETCH",
+            "url": "https://www.nyfadvertising.com/Winners/WinnerDetailsNew/abeb8c4f-10f5-4cd9-ab53-ac0deba2a788"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/240971/save-us-from-the-usa/",
+        "affected": [
+          {
+            "id": "2025-save-us-from-the-usa-change-the-ref",
+            "title": "SAVE US FROM THE USA",
+            "url": "https://www.dandad.org/awards/professional/2025/240971/save-us-from-the-usa/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/110736",
+        "affected": [
+          {
+            "id": "2025-see-my-name-molson",
+            "title": "SEE MY NAME",
+            "url": "https://lbbonline.com/work/110736"
+          },
+          {
+            "id": "2024-see-my-name-molson",
+            "title": "SEE MY NAME",
+            "url": "https://lbbonline.com/work/110736"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239723/the-cheeky-controller/",
+        "affected": [
+          {
+            "id": "2025-the-cheeky-controller-xbox",
+            "title": "THE CHEEKY CONTROLLER",
+            "url": "https://www.dandad.org/awards/professional/2025/239723/the-cheeky-controller/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/240835/orange-paralympics/",
+        "affected": [
+          {
+            "id": "2025-the-greatest-run-orange",
+            "title": "THE GREATEST RUN",
+            "url": "https://www.dandad.org/awards/professional/2025/240835/orange-paralympics/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239655/the-meal/",
+        "affected": [
+          {
+            "id": "2025-the-meal-mcdonald-s",
+            "title": "THE MEAL",
+            "url": "https://www.dandad.org/awards/professional/2025/239655/the-meal/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://rorymoorefolio.com/work/kind-royale-3memn",
+        "affected": [
+          {
+            "id": "2025-the-university-of-dyslexic-thinking-made-by-dyslexia",
+            "title": "THE UNIVERSITY OF DYSLEXIC THINKING",
+            "url": "https://rorymoorefolio.com/work/kind-royale-3memn"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239399/transition-body-lotion/",
+        "affected": [
+          {
+            "id": "2025-transition-body-lotion-vaseline",
+            "title": "TRANSITION BODY LOTION",
+            "url": "https://www.dandad.org/awards/professional/2025/239399/transition-body-lotion/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/137104",
+        "affected": [
+          {
+            "id": "2025-trollboards-skyscanner",
+            "title": "TROLLBOARDS",
+            "url": "https://lbbonline.com/work/137104"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/133619",
+        "affected": [
+          {
+            "id": "2025-unfreeze-my-rights-awakening-foundation",
+            "title": "UNFREEZE MY RIGHTS",
+            "url": "https://lbbonline.com/work/133619"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239720/vi-guardian-beads/",
+        "affected": [
+          {
+            "id": "2025-vi-guardian-beads-vi",
+            "title": "VI GUARDIAN BEADS",
+            "url": "https://www.dandad.org/awards/professional/2025/239720/vi-guardian-beads/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/136358",
+        "affected": [
+          {
+            "id": "2025-visiongram-japan-blind-judo-federation",
+            "title": "VISIONGRAM",
+            "url": "https://lbbonline.com/work/136358"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/239813/w1ng-cod3s/",
+        "affected": [
+          {
+            "id": "2025-w1ng-cod3s-volaris-airlines",
+            "title": "W1NG COD3S",
+            "url": "https://www.dandad.org/awards/professional/2025/239813/w1ng-cod3s/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2025/241031/xbox-rat-race-/",
+        "affected": [
+          {
+            "id": "2025-wake-up-xbox",
+            "title": "WAKE UP",
+            "url": "https://www.dandad.org/awards/professional/2025/241031/xbox-rat-race-/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/127671",
+        "affected": [
+          {
+            "id": "2025-when-you-ve-done-enough-evil-d-enough-uber-eats",
+            "title": "WHEN YOU’VE DONE ENOUGH, EVIL’D ENOUGH",
+            "url": "https://lbbonline.com/work/127671"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.zhihu.com/question/415816830",
+        "affected": [
+          {
+            "id": "2024-the-first-edible-mascot-pop-tarts",
+            "title": "THE FIRST EDIBLE MASCOT",
+            "url": "https://www.zhihu.com/question/415816830"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/238147/womens-football/",
+        "affected": [
+          {
+            "id": "2024-women-s-football-orange",
+            "title": "WOMEN’S FOOTBALL",
+            "url": "https://www.dandad.org/awards/professional/2024/238147/womens-football/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.shots.net/news/view/reporters-without-borders-famous-first-words",
+        "affected": [
+          {
+            "id": "2024-the-first-speech-reporters-without-borders",
+            "title": "THE FIRST SPEECH",
+            "url": "https://www.shots.net/news/view/reporters-without-borders-famous-first-words"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://www.nyfadvertising.com/Winners/WinnerDetailsNew/b5d12826-52a6-4b65-8c7e-10d80d24a1a9",
+        "affected": [
+          {
+            "id": "2024-the-100th-edition-frankfurter-allgemeine-zeitung",
+            "title": "THE 100TH EDITION",
+            "url": "https://www.nyfadvertising.com/Winners/WinnerDetailsNew/b5d12826-52a6-4b65-8c7e-10d80d24a1a9"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://support.google.com/voice/answer/115061?hl=en&co=GENIE.Platform%3DAndroid",
+        "affected": [
+          {
+            "id": "2024-voice-2-diabetes-kvi-branve-fund-i-inc",
+            "title": "VOICE 2 DIABETES",
+            "url": "https://support.google.com/voice/answer/115061?hl=en&co=GENIE.Platform%3DAndroid"
+          },
+          {
+            "id": "2023-voice-of-the-checkout-tesco",
+            "title": "VOICE OF THE CHECKOUT",
+            "url": "https://support.google.com/voice/answer/115061?hl=en&co=GENIE.Platform%3DAndroid"
+          },
+          {
+            "id": "2018-the-voice-of-change-europride",
+            "title": "THE VOICE OF CHANGE",
+            "url": "https://support.google.com/voice/answer/115061?hl=en&co=GENIE.Platform%3DAndroid"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.zhihu.com/question/26046878",
+        "affected": [
+          {
+            "id": "2024-american-cancer-story-change-the-ref",
+            "title": "AMERICAN CANCER STORY",
+            "url": "https://www.zhihu.com/question/26046878"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/237894/audience-delivery/",
+        "affected": [
+          {
+            "id": "2024-audience-delivery-ifood",
+            "title": "AUDIENCE DELIVERY",
+            "url": "https://www.dandad.org/awards/professional/2024/237894/audience-delivery/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/238527/channel-4-idents/",
+        "affected": [
+          {
+            "id": "2024-channel-4-idents-channel-4",
+            "title": "CHANNEL 4 IDENTS",
+            "url": "https://www.dandad.org/awards/professional/2024/238527/channel-4-idents/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/108771",
+        "affected": [
+          {
+            "id": "2024-fit-my-feet-buckaroo-footware",
+            "title": "FIT MY FEET",
+            "url": "https://lbbonline.com/work/108771"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.zhihu.com/question/439694155",
+        "affected": [
+          {
+            "id": "2024-oreo-calls-oreo",
+            "title": "OREO CALLS",
+            "url": "https://www.zhihu.com/question/439694155"
+          },
+          {
+            "id": "2024-oreo-cheat-cookies-mondelez-europe",
+            "title": "OREO CHEAT COOKIES",
+            "url": "https://www.zhihu.com/question/439694155"
+          },
+          {
+            "id": "2024-oreo-menu-oreo",
+            "title": "OREO MENU",
+            "url": "https://www.zhihu.com/question/439694155"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://clios.com/health/winner/516484",
+        "affected": [
+          {
+            "id": "2024-paper-organs-taiwan-organ-sharing-registry-and-patient-autonomy-promotion-center",
+            "title": "PAPER ORGANS",
+            "url": "https://clios.com/health/winner/516484"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/108427",
+        "affected": [
+          {
+            "id": "2024-the-big-shake-up-aktion-deutschland-hilft",
+            "title": "THE BIG SHAKE UP",
+            "url": "https://lbbonline.com/work/108427"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://leoburnett.com/work/drop-the-turf",
+        "affected": [
+          {
+            "id": "2024-turf-finder-gatorade",
+            "title": "TURF FINDER",
+            "url": "https://leoburnett.com/work/drop-the-turf"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/239076/umbrella-species/",
+        "affected": [
+          {
+            "id": "2024-umbrella-species-wwf",
+            "title": "UMBRELLA SPECIES",
+            "url": "https://www.dandad.org/awards/professional/2024/239076/umbrella-species/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/238501/vw-70-years-campaign/",
+        "affected": [
+          {
+            "id": "2024-volkswagen-70-years-volkswagen",
+            "title": "VOLKSWAGEN 70 YEARS",
+            "url": "https://www.dandad.org/awards/professional/2024/238501/vw-70-years-campaign/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/238696/windows/",
+        "affected": [
+          {
+            "id": "2024-windows-british-airways",
+            "title": "WINDOWS",
+            "url": "https://www.dandad.org/awards/professional/2024/238696/windows/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/238383/facebook-yes-couch/",
+        "affected": [
+          {
+            "id": "2024-yes-couch-meta",
+            "title": "YES, COUCH!",
+            "url": "https://www.dandad.org/awards/professional/2024/238383/facebook-yes-couch/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2023/236565/bringback2011/",
+        "affected": [
+          {
+            "id": "2024-bringback2011-oreo-india",
+            "title": "#BRINGBACK2011",
+            "url": "https://www.dandad.org/awards/professional/2023/236565/bringback2011/"
+          },
+          {
+            "id": "2023-bringback2011-oreo-india",
+            "title": "#BRINGBACK2011",
+            "url": "https://www.dandad.org/awards/professional/2023/236565/bringback2011/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://clios.com/health/winner/520581",
+        "affected": [
+          {
+            "id": "2024-47-caf-joyeux",
+            "title": "47",
+            "url": "https://clios.com/health/winner/520581"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/238390/aid-aisle/",
+        "affected": [
+          {
+            "id": "2024-aid-aisle-freshchoice",
+            "title": "AID AISLE",
+            "url": "https://www.dandad.org/awards/professional/2024/238390/aid-aisle/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.zhihu.com/question/591009674",
+        "affected": [
+          {
+            "id": "2024-ai-president-annahar-news",
+            "title": "AI PRESIDENT",
+            "url": "https://www.zhihu.com/question/591009674"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/238063/always-open/",
+        "affected": [
+          {
+            "id": "2024-always-open-7-eleven",
+            "title": "ALWAYS OPEN",
+            "url": "https://www.dandad.org/awards/professional/2024/238063/always-open/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.zhihu.com/question/307223585",
+        "affected": [
+          {
+            "id": "2024-another-birthday-apple",
+            "title": "ANOTHER BIRTHDAY",
+            "url": "https://www.zhihu.com/question/307223585"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://andreprestes.work/ballboards",
+        "affected": [
+          {
+            "id": "2024-ballboards-mercado-libre",
+            "title": "BALLBOARDS",
+            "url": "https://andreprestes.work/ballboards"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/238339/call-glenn/",
+        "affected": [
+          {
+            "id": "2024-call-glenn-childfocus",
+            "title": "CALL GLENN",
+            "url": "https://www.dandad.org/awards/professional/2024/238339/call-glenn/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/238011/doritos-silent/",
+        "affected": [
+          {
+            "id": "2024-doritos-silent-the-world-s-first-ai-augmented-snack-doritos-pepsico",
+            "title": "DORITOS SILENT: THE WORLD’S FIRST AI AUGMENTED SNACK",
+            "url": "https://www.dandad.org/awards/professional/2024/238011/doritos-silent/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/237856/dreamcaster/",
+        "affected": [
+          {
+            "id": "2024-dreamcaster-michelob-ultra",
+            "title": "DREAMCASTER",
+            "url": "https://www.dandad.org/awards/professional/2024/237856/dreamcaster/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/238693/drink-naked/",
+        "affected": [
+          {
+            "id": "2024-drink-naked-brlo",
+            "title": "DRINK NAKED",
+            "url": "https://www.dandad.org/awards/professional/2024/238693/drink-naked/"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.52pojie.cn/thread-2012221-1-1.html",
+        "affected": [
+          {
+            "id": "2024-driving-while-black-courageous-conversation-global-foundation",
+            "title": "DRIVING WHILE BLACK",
+            "url": "https://www.52pojie.cn/thread-2012221-1-1.html"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/106931",
+        "affected": [
+          {
+            "id": "2024-highlight-your-balls-testicular-cancer-society",
+            "title": "HIGHLIGHT YOUR BALLS",
+            "url": "https://lbbonline.com/work/106931"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.zhihu.com/question/1951680999474815372",
+        "affected": [
+          {
+            "id": "2024-lulumelon-eoss-hdfc-bank",
+            "title": "LULUMELON EOSS",
+            "url": "https://www.zhihu.com/question/1951680999474815372"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/80139",
+        "affected": [
+          {
+            "id": "2024-rise-evoka",
+            "title": "RISE",
+            "url": "https://lbbonline.com/work/80139"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/109687",
+        "affected": [
+          {
+            "id": "2024-rockseeds-tbs",
+            "title": "ROCKSEEDS",
+            "url": "https://lbbonline.com/work/109687"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.zhihu.com/question/49204100",
+        "affected": [
+          {
+            "id": "2024-sans-emission-volkswagen",
+            "title": "SANS EMISSION",
+            "url": "https://www.zhihu.com/question/49204100"
+          },
+          {
+            "id": "2019-sans-forgetica-rmit-university",
+            "title": "SANS FORGETICA",
+            "url": "https://www.zhihu.com/question/49204100"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.dandad.org/awards/professional/2024/237836/solo-theres-magic-in-all-of-us/",
+        "affected": [
+          {
+            "id": "2024-solo-there-s-magic-in-all-of-us-montefiore-einstein",
+            "title": "SOLO: THERE’S MAGIC IN ALL OF US",
+            "url": "https://www.dandad.org/awards/professional/2024/237836/solo-theres-magic-in-all-of-us/"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://lbbonline.com/work/106681",
+        "affected": [
+          {
+            "id": "2024-sound-scales-baileys",
+            "title": "SOUND SCALES",
+            "url": "https://lbbonline.com/work/106681"
+          }
+        ]
+      }
+    ]
+  },
+  "generic": {
+    "count": 647,
+    "sample": [
+      {
+        "id": "2025-night-fishing-hyundai-motor-company",
+        "title": "NIGHT FISHING",
+        "url": "https://www.dandad.org/awards/professional/2025/240593/night-fishing/"
+      },
+      {
+        "id": "2025-haaland-payback-time-supercell",
+        "title": "HAALAND PAYBACK TIME",
+        "url": "https://www.dandad.org/awards/professional/2025/239555/haaland-payback-time/"
+      },
+      {
+        "id": "2025-one-second-ads-budweiser",
+        "title": "ONE SECOND ADS",
+        "url": "https://lovetheworkmore.com/2025-2/"
+      },
+      {
+        "id": "2025-a-tale-as-old-as-websites-squarespace",
+        "title": "A TALE AS OLD AS WEBSITES",
+        "url": "https://www.dandad.org/awards/professional/2025/240773/a-tale-as-old-as-websites/"
+      },
+      {
+        "id": "2025-brian-cox-goes-to-college-uber-eats",
+        "title": "BRIAN COX GOES TO COLLEGE",
+        "url": "https://www.dandad.org/awards/professional/2025/240807/brian-cox-goes-to-college/"
+      },
+      {
+        "id": "2025-burger-to-king-burger-king",
+        "title": "BURGER TO KING",
+        "url": "https://www.dandad.org/awards/professional/2025/239630/burger-to-king/"
+      },
+      {
+        "id": "2025-can-t-unsee-it-heinz",
+        "title": "CAN’T UNSEE IT",
+        "url": "https://www.dandad.org/awards/professional/2025/240822/cant-unsee-it/"
+      },
+      {
+        "id": "2025-daisy-vs-scammers-o2",
+        "title": "DAISY VS SCAMMERS",
+        "url": "https://www.dandad.org/awards/professional/2025/239465/daisy-vs-scammers/"
+      },
+      {
+        "id": "2025-erase-valentine-s-day-mondelez-international",
+        "title": "ERASE VALENTINE’S DAY",
+        "url": "https://www.dandad.org/awards/professional/2025/239673/erase-valentines-day/"
+      },
+      {
+        "id": "2025-find-your-friends-apple",
+        "title": "FIND YOUR FRIENDS",
+        "url": "https://www.dandad.org/awards/professional/2025/240679/find-your-friends/"
+      },
+      {
+        "id": "2025-group-therapy-axa",
+        "title": "GROUP THERAPY",
+        "url": "https://www.dandad.org/awards/professional/2025/239793/group-therapy/"
+      },
+      {
+        "id": "2025-guao-guao-desperados",
+        "title": "GUAO GUAO",
+        "url": "https://www.dandad.org/awards/professional/2025/239741/guao-guao/"
+      },
+      {
+        "id": "2025-ink-of-democracy-times-of-india-group",
+        "title": "INK OF DEMOCRACY",
+        "url": "https://www.dandad.org/awards/professional/2025/239395/ink-of-democracy/"
+      },
+      {
+        "id": "2025-lidlize-lidl",
+        "title": "LIDLIZE",
+        "url": "https://www.dandad.org/awards/professional/2025/240751/lidlize/"
+      },
+      {
+        "id": "2025-minefield-honey-harvesting-hope-kernel-ministry-of-foreign-affairs-of-ukraine",
+        "title": "MINEFIELD HONEY: HARVESTING HOPE",
+        "url": "https://www.dandad.org/awards/professional/2025/239604/minefield-honey/"
+      },
+      {
+        "id": "2025-name-this-oreo-oreo",
+        "title": "NAME THIS OREO",
+        "url": "https://www.dandad.org/awards/professional/2025/239805/name-this-oreo/"
+      },
+      {
+        "id": "2025-never-just-a-period-bodyform",
+        "title": "NEVER JUST A PERIOD",
+        "url": "https://www.dandad.org/awards/professional/2025/240514/never-just-a-period/"
+      },
+      {
+        "id": "2025-nutter-butter-you-good-nutter-butter",
+        "title": "NUTTER BUTTER, YOU GOOD?",
+        "url": "https://www.dandad.org/awards/professional/2025/240777/nutter-butter-you-good/"
+      },
+      {
+        "id": "2025-olympic-curry-mcdonald-s",
+        "title": "OLYMPIC CURRY",
+        "url": "https://www.dandad.org/awards/professional/2025/239347/olympic-curry/"
+      },
+      {
+        "id": "2025-prize-on-the-bone-kfc",
+        "title": "PRIZE ON THE BONE",
+        "url": "https://www.dandad.org/awards/professional/2025/239195/prize-on-the-bone/"
+      },
+      {
+        "id": "2025-sato-2531-asuniwa",
+        "title": "SATO 2531",
+        "url": "https://www.dandad.org/awards/professional/2025/240779/sato-2531/"
+      },
+      {
+        "id": "2025-tailor-swif-a-ap-rocky",
+        "title": "TAILOR SWIF",
+        "url": "https://www.dandad.org/awards/professional/2025/239348/aap-rocky-tailor-swif/"
+      },
+      {
+        "id": "2025-the-final-exam-change-the-ref",
+        "title": "THE FINAL EXAM",
+        "url": "https://www.dandad.org/awards/professional/2025/239821/the-final-exam/"
+      },
+      {
+        "id": "2025-u-up-ikea",
+        "title": "U UP?",
+        "url": "https://www.dandad.org/awards/professional/2025/239606/u-up/"
+      },
+      {
+        "id": "2025-36-months-36-months",
+        "title": "36 MONTHS",
+        "url": "https://www.dandad.org/awards/professional/2025/240710/36-months-raising-the-age-of-social-media-citizenship/"
+      },
+      {
+        "id": "2025-855-how-to-quit-opioids-anzen-health",
+        "title": "855-HOW-TO-QUIT-(OPIOIDS)",
+        "url": "https://www.dandad.org/awards/professional/2024/238402/855-how-to-quit-opioids/"
+      },
+      {
+        "id": "2025-animal-alerts-petpace",
+        "title": "ANIMAL ALERTS",
+        "url": "https://lovetheworkmore.com/2025-2/"
+      },
+      {
+        "id": "2025-believe-in-chicken-kfc",
+        "title": "BELIEVE IN CHICKEN",
+        "url": "https://www.dandad.org/awards/professional/2025/241087/believe-in-chicken-all-hail-gravy/"
+      },
+      {
+        "id": "2025-bundles-of-joy-burger-king",
+        "title": "BUNDLES OF JOY",
+        "url": "https://www.dandad.org/awards/professional/2025/240747/bundles-of-joy/"
+      },
+      {
+        "id": "2025-certified-toasters-goodman-fielder-baking",
+        "title": "CERTIFIED TOASTERS",
+        "url": "https://www.dandad.org/awards/professional/2025/240755/certified-toasters/"
+      },
+      {
+        "id": "2025-creamotherapy-my-doctor-s-recipe",
+        "title": "CREAMOTHERAPY",
+        "url": "https://www.dandad.org/awards/professional/2025/240978/creamotherapy/"
+      },
+      {
+        "id": "2025-find-your-summer-magnum",
+        "title": "FIND YOUR SUMMER",
+        "url": "https://www.dandad.org/awards/professional/2024/239094/find-your-summer/"
+      },
+      {
+        "id": "2025-flock-apple",
+        "title": "FLOCK",
+        "url": "https://www.google.com/search?client=safari&rls=en&q=FLOCK+-+APPLE+(TBWA%5CMEDIA+ARTS+LAB+LOS+ANGELES)&ie=UTF-8&oe=UTF-8"
+      },
+      {
+        "id": "2025-frosty-fix-wendy-s",
+        "title": "FROSTY FIX",
+        "url": "https://www.dandad.org/awards/professional/2025/240818/wendys-frosty-fix/"
+      },
+      {
+        "id": "2025-little-simz-flood-little-simz",
+        "title": "LITTLE SIMZ ‘FLOOD’",
+        "url": "https://www.dandad.org/awards/professional/2025/239582/little-simz-flood/"
+      },
+      {
+        "id": "2025-makeup-payment-mastercard",
+        "title": "MAKEUP PAYMENT",
+        "url": "https://www.dandad.org/awards/professional/2025/239519/makeup-payment/"
+      },
+      {
+        "id": "2025-oreo-square-cookie-oreo",
+        "title": "OREO SQUARE COOKIE",
+        "url": "https://www.dandad.org/awards/professional/2025/240957/oreo-square-cookie/"
+      },
+      {
+        "id": "2025-samsung-throwback-deals-samsung",
+        "title": "SAMSUNG THROWBACK DEALS",
+        "url": "https://www.dandad.org/awards/professional/2024/237942/samsung-throwback-deals/"
+      },
+      {
+        "id": "2025-see-them-for-real-mus-e-de-l-arm-e",
+        "title": "SEE THEM FOR REAL",
+        "url": "https://www.dandad.org/awards/professional/2025/239789/see-them-for-real/"
+      },
+      {
+        "id": "2025-someday-apple",
+        "title": "SOMEDAY",
+        "url": "https://www.dandad.org/awards/professional/2025/241036/someday/"
+      },
+      {
+        "id": "2025-sunshine-nike",
+        "title": "SUNSHINE",
+        "url": "https://lovetheworkmore.com/2025-2/"
+      },
+      {
+        "id": "2025-the-athletes-code-gatorade",
+        "title": "THE ATHLETES CODE",
+        "url": "https://www.dandad.org/awards/professional/2025/241009/the-athletes-code/"
+      },
+      {
+        "id": "2025-the-comments-section-australian-lamb",
+        "title": "THE COMMENTS SECTION",
+        "url": "https://www.dandad.org/awards/professional/2025/239516/the-comments-section/"
+      },
+      {
+        "id": "2025-the-flame-that-wasn-t-a-flame-edf",
+        "title": "THE FLAME THAT WASN’T A FLAME",
+        "url": "https://www.dandad.org/awards/professional/2025/239838/the-flame-that-wasnt-a-flame/"
+      },
+      {
+        "id": "2025-the-mind-guardian-samsung",
+        "title": "THE MIND GUARDIAN",
+        "url": "https://www.dandad.org/awards/professional/2025/241070/the-mind-guardian/"
+      },
+      {
+        "id": "2025-the-pen-to-right-history-last-prisoner-project",
+        "title": "THE PEN TO RIGHT HISTORY",
+        "url": "https://www.dandad.org/awards/professional/2025/240973/the-pen-to-right-history/"
+      },
+      {
+        "id": "2025-warren-apple",
+        "title": "WARREN",
+        "url": "https://lovetheworkmore.com/2025-2/"
+      },
+      {
+        "id": "2025-am-i-a-bad-person-nike",
+        "title": "AM I A BAD PERSON",
+        "url": "https://lovetheworkmore.com/2025-2/"
+      },
+      {
+        "id": "2025-a-piece-of-me-kpn",
+        "title": "A PIECE OF ME",
+        "url": "https://www.dandad.org/awards/professional/2024/238849/a-piece-of-me/"
+      },
+      {
+        "id": "2025-camdom-billy-boy",
+        "title": "CAMDOM",
+        "url": "https://www.dandad.org/awards/professional/2025/239472/camdom/"
+      },
+      {
+        "id": "2025-diary-of-a-head-injury-headway",
+        "title": "DIARY OF A HEAD INJURY",
+        "url": "https://www.dandad.org/awards/professional/2025/240640/doahi/"
+      },
+      {
+        "id": "2025-eye-test-menu-titan-company-limted",
+        "title": "EYE TEST MENU",
+        "url": "https://www.dandad.org/awards/professional/2025/239672/eye-test-menu/"
+      },
+      {
+        "id": "2025-feelin-planty-good-silk",
+        "title": "FEELIN PLANTY GOOD",
+        "url": "https://www.dandad.org/awards/professional/2025/239637/feelin-planty-good/"
+      },
+      {
+        "id": "2025-fer-save-the-children",
+        "title": "FER",
+        "url": "https://www.dandad.org/awards/professional/2025/240491/fer/"
+      },
+      {
+        "id": "2025-football-lover-fm-so-foot",
+        "title": "FOOTBALL LOVER FM",
+        "url": "https://www.dandad.org/awards/professional/2025/239850/lover-fm/"
+      },
+      {
+        "id": "2025-guarded-bus-stop-eletromidia",
+        "title": "GUARDED BUS STOP",
+        "url": "https://www.dandad.org/awards/professional/2024/238752/guarded-bus-stop/"
+      },
+      {
+        "id": "2025-heinz-ketchup-seemingly-ranch-kraft-heinz",
+        "title": "HEINZ KETCHUP & SEEMINGLY RANCH",
+        "url": "https://www.dandad.org/awards/professional/2024/237917/heinz-ketchup-seemingly-ranch/"
+      },
+      {
+        "id": "2025-interface-of-humanity-powered-by-ntt-ntt-human-informatics-laboratories",
+        "title": "INTERFACE OF HUMANITY POWERED BY NTT",
+        "url": "https://www.dandad.org/awards/professional/2025/240924/interface-of-humanity-powered-by-ntt/"
+      },
+      {
+        "id": "2025-invisible-stain-vanish",
+        "title": "INVISIBLE STAIN",
+        "url": "https://www.dandad.org/awards/professional/2025/241068/the-bully-monster/"
+      },
+      {
+        "id": "2025-jovem-mk-meu-karma-kondzilla",
+        "title": "JOVEM MK",
+        "url": "https://www.dandad.org/awards/professional/2025/240758/jovem-mk-meu-karma/"
+      },
+      {
+        "id": "2025-mcrib-mistakes-mcdonald-s",
+        "title": "MCRIB MISTAKES",
+        "url": "https://www.dandad.org/awards/professional/2025/239653/mcrib-mistakes/"
+      },
+      {
+        "id": "2025-meet-marina-prieto-jcdecaux",
+        "title": "MEET MARINA PRIETO",
+        "url": "https://www.dandad.org/awards/professional/2024/238071/meet-marina-prieto/"
+      },
+      {
+        "id": "2025-most-likely-to-dove",
+        "title": "MOST LIKELY TO",
+        "url": "https://www.dandad.org/awards/professional/2025/241069/most-likely-to/"
+      },
+      {
+        "id": "2025-other-hand-cheetos",
+        "title": "OTHER HAND",
+        "url": "https://www.dandad.org/awards/professional/2025/240782/other-hand/"
+      },
+      {
+        "id": "2025-packed-full-of-history-samsung",
+        "title": "PACKED FULL OF HISTORY",
+        "url": "https://www.dandad.org/awards/professional/2025/239317/packed-full-of-history/"
+      },
+      {
+        "id": "2025-reshaping-rugby-the-world-s-first-tiktok-final-2degrees",
+        "title": "RESHAPING RUGBY: THE WORLD’S FIRST TIKTOK FINAL",
+        "url": "https://www.dandad.org/awards/professional/2025/240902/reshaping-rugby-the-worlds-first-tiktok-final/"
+      },
+      {
+        "id": "2025-returning-creativity-crayola",
+        "title": "RETURNING CREATIVITY",
+        "url": "https://www.dandad.org/awards/professional/2025/240781/returning-creativity/"
+      },
+      {
+        "id": "2025-save-us-from-the-usa-change-the-ref",
+        "title": "SAVE US FROM THE USA",
+        "url": "https://www.dandad.org/awards/professional/2025/240971/save-us-from-the-usa/"
+      },
+      {
+        "id": "2025-scratched-out-patient-activation-for-prurigo-nodularis",
+        "title": "SCRATCHED OUT",
+        "url": "https://www.dandad.org/awards/professional/2025/240688/scratched-out/"
+      },
+      {
+        "id": "2025-signs-from-heaven-pangu-cloud",
+        "title": "SIGNS FROM HEAVEN",
+        "url": "https://www.dandad.org/awards/professional/2025/240802/signs-from-heaven/"
+      },
+      {
+        "id": "2025-squad-up-supercell",
+        "title": "SQUAD UP",
+        "url": "https://www.dandad.org/awards/professional/2025/241029/squad-up/"
+      },
+      {
+        "id": "2025-steal-mandaue-foam-home-store",
+        "title": "STEAL",
+        "url": "https://www.dandad.org/awards/professional/2025/240917/steal/"
+      },
+      {
+        "id": "2025-supportbelt-ford",
+        "title": "SUPPORTBELT",
+        "url": "https://www.dandad.org/awards/professional/2025/240793/supportbelt/"
+      },
+      {
+        "id": "2025-the-cause-of-the-accident-that-started-the-fire-icex",
+        "title": "THE CAUSE OF THE ACCIDENT THAT STARTED THE FIRE",
+        "url": "https://www.dandad.org/awards/professional/2025/240642/la-causa-del-accidente-que-provoco-el-incendio/"
+      },
+      {
+        "id": "2025-the-cheeky-controller-xbox",
+        "title": "THE CHEEKY CONTROLLER",
+        "url": "https://www.dandad.org/awards/professional/2025/239723/the-cheeky-controller/"
+      },
+      {
+        "id": "2025-the-fan-remote-claro-tv",
+        "title": "THE FAN REMOTE",
+        "url": "https://lovetheworkmore.com/2025-2/"
+      },
+      {
+        "id": "2025-the-greatest-run-orange",
+        "title": "THE GREATEST RUN",
+        "url": "https://www.dandad.org/awards/professional/2025/240835/orange-paralympics/"
+      },
+      {
+        "id": "2025-the-meal-mcdonald-s",
+        "title": "THE MEAL",
+        "url": "https://www.dandad.org/awards/professional/2025/239655/the-meal/"
+      },
+      {
+        "id": "2025-transition-body-lotion-vaseline",
+        "title": "TRANSITION BODY LOTION",
+        "url": "https://www.dandad.org/awards/professional/2025/239399/transition-body-lotion/"
+      },
+      {
+        "id": "2025-vi-guardian-beads-vi",
+        "title": "VI GUARDIAN BEADS",
+        "url": "https://www.dandad.org/awards/professional/2025/239720/vi-guardian-beads/"
+      },
+      {
+        "id": "2025-w1ng-cod3s-volaris-airlines",
+        "title": "W1NG COD3S",
+        "url": "https://www.dandad.org/awards/professional/2025/239813/w1ng-cod3s/"
+      },
+      {
+        "id": "2025-waiting-to-live-nhs-blood-and-transplant",
+        "title": "WAITING TO LIVE",
+        "url": "https://www.dandad.org/awards/professional/2024/238666/waiting-to-live/"
+      },
+      {
+        "id": "2025-wake-up-xbox",
+        "title": "WAKE UP",
+        "url": "https://www.dandad.org/awards/professional/2025/241031/xbox-rat-race-/"
+      },
+      {
+        "id": "2025-walrus-whizzer-virgin",
+        "title": "WALRUS WHIZZER",
+        "url": "https://www.dandad.org/awards/professional/2025/239718/virgin-media-walrus-whizzer/"
+      },
+      {
+        "id": "2024-meet-marina-prieto-jcdecaux",
+        "title": "MEET MARINA PRIETO",
+        "url": "https://www.dandad.org/awards/professional/2024/238071/meet-marina-prieto/"
+      },
+      {
+        "id": "2024-a-piece-of-me-kpn",
+        "title": "A PIECE OF ME",
+        "url": "https://www.dandad.org/awards/professional/2024/238849/a-piece-of-me/"
+      },
+      {
+        "id": "2024-women-s-football-orange",
+        "title": "WOMEN’S FOOTBALL",
+        "url": "https://www.dandad.org/awards/professional/2024/238147/womens-football/"
+      },
+      {
+        "id": "2024-the-square-meter-hornbach",
+        "title": "THE SQUARE METER",
+        "url": "https://www.dandad.org/awards/professional/2024/237794/the-square-meter/"
+      },
+      {
+        "id": "2024-find-your-summer-magnum",
+        "title": "FIND YOUR SUMMER",
+        "url": "https://www.dandad.org/awards/professional/2024/239094/find-your-summer/"
+      },
+      {
+        "id": "2024-150-years-of-whateverken-heineken",
+        "title": "150 YEARS OF WHATEVERKEN",
+        "url": "https://www.dandad.org/awards/professional/2024/238373/h150-anniversary/"
+      },
+      {
+        "id": "2024-855-how-to-quit-opioids-anzen-health",
+        "title": "855-HOW-TO-QUIT-(OPIOIDS)",
+        "url": "https://www.dandad.org/awards/professional/2024/238402/855-how-to-quit-opioids/"
+      },
+      {
+        "id": "2024-animal-alerts-petpace",
+        "title": "ANIMAL ALERTS",
+        "url": "https://lovetheworkmore.com/2024-2/"
+      },
+      {
+        "id": "2024-audience-delivery-ifood",
+        "title": "AUDIENCE DELIVERY",
+        "url": "https://www.dandad.org/awards/professional/2024/237894/audience-delivery/"
+      },
+      {
+        "id": "2024-channel-4-idents-channel-4",
+        "title": "CHANNEL 4 IDENTS",
+        "url": "https://www.dandad.org/awards/professional/2024/238527/channel-4-idents/"
+      },
+      {
+        "id": "2024-gonna-need-more-tide-tide",
+        "title": "GONNA NEED MORE TIDE",
+        "url": "https://www.dandad.org/awards/professional/2024/238409/gonna-need-more-tide/"
+      },
+      {
+        "id": "2024-if-you-re-into-it-it-s-in-the-v-a-the-v-a",
+        "title": "IF YOU’RE INTO IT, IT’S IN THE V&A",
+        "url": "https://www.dandad.org/awards/professional/2024/238456/if-youre-into-it-its-in-the-va/"
+      },
+      {
+        "id": "2024-ketchup-fraud-heinz-ketchup",
+        "title": "KETCHUP FRAUD",
+        "url": "https://www.dandad.org/awards/professional/2023/237531/heinz-fraud-ketchup/"
+      },
+      {
+        "id": "2024-madly-the-poem-the-blaze",
+        "title": "MADLY/THE POEM",
+        "url": "https://www.dandad.org/awards/professional/2024/237994/the-blaze-madly/"
+      },
+      {
+        "id": "2024-mullenlowe-global-rebrand-mullenlowe-global",
+        "title": "MULLENLOWE GLOBAL REBRAND",
+        "url": "https://www.dandad.org/awards/professional/2024/238231/mullenlowe-global-rebrand/"
+      },
+      {
+        "id": "2024-relax-tractor-apple",
+        "title": "RELAX: TRACTOR",
+        "url": "https://lovetheworkmore.com/2024-2/"
+      },
+      {
+        "id": "2024-sammakorn-not-sanpakorn-sammakorn",
+        "title": "SAMMAKORN NOT SANPAKORN",
+        "url": "https://www.dandad.org/awards/professional/2024/238288/sammakorn-not-sanpakorn/"
+      },
+      {
+        "id": "2024-samsung-impulse-samsung",
+        "title": "SAMSUNG IMPULSE",
+        "url": "https://www.dandad.org/awards/professional/2024/238851/samsung-impulse/"
+      },
+      {
+        "id": "2024-samsung-throwback-deals-samsung",
+        "title": "SAMSUNG THROWBACK DEALS",
+        "url": "https://www.dandad.org/awards/professional/2024/237942/samsung-throwback-deals/"
+      },
+      {
+        "id": "2024-the-national-sport-of-kazakhstan-ruh-fighting-championship",
+        "title": "THE NATIONAL SPORT OF KAZAKHSTAN",
+        "url": "https://lovetheworkmore.com/2024-2/"
+      },
+      {
+        "id": "2024-three-words-axa",
+        "title": "THREE WORDS",
+        "url": "https://lovetheworkmore.com/2024-2/"
+      },
+      {
+        "id": "2024-umbrella-species-wwf",
+        "title": "UMBRELLA SPECIES",
+        "url": "https://www.dandad.org/awards/professional/2024/239076/umbrella-species/"
+      },
+      {
+        "id": "2024-volkswagen-70-years-volkswagen",
+        "title": "VOLKSWAGEN 70 YEARS",
+        "url": "https://www.dandad.org/awards/professional/2024/238501/vw-70-years-campaign/"
+      },
+      {
+        "id": "2024-windows-british-airways",
+        "title": "WINDOWS",
+        "url": "https://www.dandad.org/awards/professional/2024/238696/windows/"
+      },
+      {
+        "id": "2024-yes-couch-meta",
+        "title": "YES, COUCH!",
+        "url": "https://www.dandad.org/awards/professional/2024/238383/facebook-yes-couch/"
+      },
+      {
+        "id": "2024-bringback2011-oreo-india",
+        "title": "#BRINGBACK2011",
+        "url": "https://www.dandad.org/awards/professional/2023/236565/bringback2011/"
+      },
+      {
+        "id": "2024-aid-aisle-freshchoice",
+        "title": "AID AISLE",
+        "url": "https://www.dandad.org/awards/professional/2024/238390/aid-aisle/"
+      },
+      {
+        "id": "2024-album-cover-longform-apple",
+        "title": "ALBUM COVER (LONGFORM)",
+        "url": "https://lovetheworkmore.com/2024-2/"
+      },
+      {
+        "id": "2024-a-life-in-sound-sirius-xm",
+        "title": "A LIFE IN SOUND",
+        "url": "https://lovetheworkmore.com/2024-2/"
+      },
+      {
+        "id": "2024-always-open-7-eleven",
+        "title": "ALWAYS OPEN",
+        "url": "https://www.dandad.org/awards/professional/2024/238063/always-open/"
+      },
+      {
+        "id": "2024-battle-of-the-badest-rumble-general-entertainment-authority-saudi-media-company",
+        "title": "BATTLE OF THE BADEST ‘RUMBLE’",
+        "url": "https://www.dandad.org/awards/professional/2024/238069/rumble/"
+      },
+      {
+        "id": "2024-call-glenn-childfocus",
+        "title": "CALL GLENN",
+        "url": "https://www.dandad.org/awards/professional/2024/238339/call-glenn/"
+      },
+      {
+        "id": "2024-doritos-silent-the-world-s-first-ai-augmented-snack-doritos-pepsico",
+        "title": "DORITOS SILENT: THE WORLD’S FIRST AI AUGMENTED SNACK",
+        "url": "https://www.dandad.org/awards/professional/2024/238011/doritos-silent/"
+      },
+      {
+        "id": "2024-dreamcaster-michelob-ultra",
+        "title": "DREAMCASTER",
+        "url": "https://www.dandad.org/awards/professional/2024/237856/dreamcaster/"
+      },
+      {
+        "id": "2024-drink-naked-brlo",
+        "title": "DRINK NAKED",
+        "url": "https://www.dandad.org/awards/professional/2024/238693/drink-naked/"
+      },
+      {
+        "id": "2024-fitchix-honest-eggs",
+        "title": "FITCHIX",
+        "url": "https://www.dandad.org/awards/professional/2023/237461/fitchix/"
+      },
+      {
+        "id": "2024-oatly-in-paris-oatly",
+        "title": "OATLY IN PARIS",
+        "url": "https://www.dandad.org/awards/professional/2024/238994/oatly-in-paris/"
+      },
+      {
+        "id": "2024-reach-for-the-summit-the-hokkoku-shimbun",
+        "title": "REACH FOR THE SUMMIT",
+        "url": "https://www.dandad.org/awards/professional/2024/238534/reach-for-the-summit/"
+      },
+      {
+        "id": "2024-rights-against-the-right-the-first-trademark-that-stops-trading-nazi-merch-laut-gegen-nazis",
+        "title": "RIGHTS AGAINST THE RIGHT, THE FIRST TRADEMARK THAT STOPS TRADING NAZI MERCH",
+        "url": "https://www.dandad.org/awards/professional/2024/237932/rights-against-the-right-the-first-trademark-that-stops-trading-nazi-merch/"
+      },
+      {
+        "id": "2024-shot-on-iphone-little-garlic-apple",
+        "title": "SHOT ON IPHONE | LITTLE GARLIC",
+        "url": "https://lovetheworkmore.com/2024-2/"
+      },
+      {
+        "id": "2024-snoop-goes-smokeless-solo-stove",
+        "title": "SNOOP GOES SMOKELESS",
+        "url": "https://www.dandad.org/awards/professional/2024/238530/snoop-goes-smokeless/"
+      },
+      {
+        "id": "2024-solo-there-s-magic-in-all-of-us-montefiore-einstein",
+        "title": "SOLO: THERE’S MAGIC IN ALL OF US",
+        "url": "https://www.dandad.org/awards/professional/2024/237836/solo-theres-magic-in-all-of-us/"
+      },
+      {
+        "id": "2024-the-boxer-colgate",
+        "title": "THE BOXER",
+        "url": "https://www.dandad.org/awards/professional/2024/237819/the-boxer/"
+      },
+      {
+        "id": "2024-the-greenprint-volkswagen-new-zealand",
+        "title": "THE GREENPRINT",
+        "url": "https://www.dandad.org/awards/professional/2024/238294/the-greenprint/"
+      },
+      {
+        "id": "2024-the-invincibles-iphone-apple",
+        "title": "THE INVINCIBLES / IPHONE",
+        "url": "https://www.dandad.org/awards/professional/2024/239035/the-invincibles/"
+      },
+      {
+        "id": "2024-the-last-photo-itv-x-calm",
+        "title": "THE LAST PHOTO",
+        "url": "https://www.dandad.org/awards/professional/2023/237073/the-last-photo/"
+      },
+      {
+        "id": "2024-the-underdogs-swiped-mac-apple-at-work-apple",
+        "title": "THE UNDERDOGS: SWIPED MAC | APPLE AT WORK",
+        "url": "https://www.dandad.org/awards/professional/2024/237986/the-underdogs-swiped-mac/"
+      },
+      {
+        "id": "2024-the-vault-powerade",
+        "title": "THE VAULT",
+        "url": "https://lovetheworkmore.com/2024-2/"
+      },
+      {
+        "id": "2024-this-is-an-ikea-store-ikea",
+        "title": "THIS IS AN IKEA STORE",
+        "url": "https://www.dandad.org/awards/professional/2024/237920/this-is-an-ikea-store/"
+      },
+      {
+        "id": "2024-visionos-apple-inc",
+        "title": "VISIONOS",
+        "url": "https://www.dandad.org/awards/professional/2024/238090/visionos/"
+      },
+      {
+        "id": "2024-waiting-to-live-nhs-blood-and-transplant",
+        "title": "WAITING TO LIVE",
+        "url": "https://www.dandad.org/awards/professional/2024/238666/waiting-to-live/"
+      },
+      {
+        "id": "2024-better-with-pepsi-rum-pepsi",
+        "title": "BETTER WITH PEPSI: RUM",
+        "url": "https://www.dandad.org/awards/professional/2024/238967/better-with-pepsi-rum/"
+      },
+      {
+        "id": "2024-capa-vs-war-robert-capa-contemporary-photography-center",
+        "title": "CAPA VS WAR",
+        "url": "https://www.dandad.org/awards/professional/2024/239075/capa-vs-war/"
+      },
+      {
+        "id": "2024-departures-to-countless-futures-the-hoshi-awards",
+        "title": "DEPARTURES TO COUNTLESS FUTURES",
+        "url": "https://www.dandad.org/awards/professional/2024/239062/departures-to-countless-futures/"
+      },
+      {
+        "id": "2024-don-t-let-me-go-apple",
+        "title": "DON’T LET ME GO",
+        "url": "https://www.dandad.org/awards/professional/2024/238292/dont-let-me-go/"
+      },
+      {
+        "id": "2024-ghost-campaign-burger-king",
+        "title": "GHOST CAMPAIGN",
+        "url": "https://www.dandad.org/awards/professional/2024/238436/ghost-campaign/"
+      },
+      {
+        "id": "2024-giving-a-voice-to-the-unheard-islam-alijaj",
+        "title": "GIVING A VOICE TO THE UNHEARD",
+        "url": "https://www.dandad.org/awards/professional/2024/238747/giving-a-voice-to-the-unheard/"
+      },
+      {
+        "id": "2024-horror-codes-uber-eats",
+        "title": "HORROR CODES",
+        "url": "https://www.dandad.org/awards/professional/2024/238584/uber-eats-horror-codes/"
+      },
+      {
+        "id": "2024-life-is-not-an-ikea-catalogue-ikea",
+        "title": "LIFE IS NOT AN IKEA CATALOGUE",
+        "url": "https://www.dandad.org/awards/professional/2024/238367/life-is-not-an-ikea-catalogue/"
+      },
+      {
+        "id": "2024-next-to-stok-d-stok-d-cannabis",
+        "title": "NEXT TO STOK’D",
+        "url": "https://www.dandad.org/awards/professional/2024/238266/next-to-stokd/"
+      },
+      {
+        "id": "2024-not-very-sweet-delight",
+        "title": "NOT VERY SWEET",
+        "url": "https://www.dandad.org/awards/professional/2024/238130/not-very-sweet/"
+      },
+      {
+        "id": "2024-nurses-musee-de-la-grande-guerre",
+        "title": "NURSES",
+        "url": "https://www.dandad.org/awards/professional/2024/238981/nurses/"
+      },
+      {
+        "id": "2024-rip-curl-virtual-pro-rip-curl",
+        "title": "RIP CURL VIRTUAL PRO",
+        "url": "https://www.dandad.org/awards/professional/2024/238361/rip-curl-virtual-pro/"
+      },
+      {
+        "id": "2024-selfless-shelves-arla-foods",
+        "title": "SELFLESS SHELVES",
+        "url": "https://www.dandad.org/awards/professional/2024/237930/selfless-shelves/"
+      },
+      {
+        "id": "2024-shot-on-iphone-hurac-n-ram-rez-vs-la-pi-ata-enchilada-apple",
+        "title": "SHOT ON IPHONE | HURACÁN RAMÍREZ VS. LA PIÑATA ENCHILADA",
+        "url": "https://www.dandad.org/awards/professional/2024/238276/huracan-ramirez-vs-la-pinata-enchilada/"
+      },
+      {
+        "id": "2024-the-art-of-hack-samsung",
+        "title": "THE ART OF HACK",
+        "url": "https://www.dandad.org/awards/professional/2024/237945/samsung-the-art-of-hack/"
+      },
+      {
+        "id": "2024-the-family-cookvault-iga",
+        "title": "THE FAMILY COOKVAULT",
+        "url": "https://www.dandad.org/awards/professional/2024/238203/family-cookvault/"
+      },
+      {
+        "id": "2024-the-iconic-playlist-mercedes-benz",
+        "title": "THE ICONIC PLAYLIST",
+        "url": "https://www.dandad.org/awards/professional/2024/238469/the-iconic-playlist/"
+      },
+      {
+        "id": "2024-the-minefields-honey-project-ministry-of-foreign-affairs-kernel",
+        "title": "THE MINEFIELDS HONEY PROJECT",
+        "url": "https://lovetheworkmore.com/2024-2/"
+      },
+      {
+        "id": "2024-try-galaxy-fold-experience-samsung",
+        "title": "TRY GALAXY FOLD EXPERIENCE",
+        "url": "https://www.dandad.org/awards/professional/2024/238576/try-galaxy-fold-experience/"
+      },
+      {
+        "id": "2024-under-my-skin-thai-life-insurance-co",
+        "title": "UNDER MY SKIN",
+        "url": "https://www.dandad.org/awards/professional/2024/237818/under-my-skin/"
+      },
+      {
+        "id": "2024-used-barbie-dream-cars-carbravo",
+        "title": "USED BARBIE DREAM CARS",
+        "url": "https://www.dandad.org/awards/professional/2024/237946/used-barbie-dream-cars-x-carbravo/"
+      },
+      {
+        "id": "2024-vi-human-network-testing-network-vodafone-idea-ltd",
+        "title": "VI HUMAN NETWORK TESTING NETWORK",
+        "url": "https://www.dandad.org/awards/professional/2024/237863/vi-human-network-testing-network/"
+      },
+      {
+        "id": "2024-waiting-room-apple",
+        "title": "WAITING ROOM",
+        "url": "https://www.dandad.org/awards/professional/2024/239190/waiting-room/"
+      },
+      {
+        "id": "2024-zael-the-disappearing-font-protype-studio",
+        "title": "ZAEL: THE DISAPPEARING FONT",
+        "url": "https://www.dandad.org/awards/professional/2024/239012/zael/"
+      },
+      {
+        "id": "2023-fifa-23-x-ted-lasso-ea-sports-apple",
+        "title": "FIFA 23 X TED LASSO",
+        "url": "https://www.dandad.org/awards/professional/2023/237610/fifa-23-x-ted-lasso/"
+      },
+      {
+        "id": "2023-shah-rukh-khan-my-ad-mondelez",
+        "title": "SHAH RUKH KHAN-MY-AD",
+        "url": "https://www.dandad.org/awards/professional/2022/235670/shah-rukh-khan-my-ad/"
+      },
+      {
+        "id": "2023-never-done-evolving-feat-serena-nike",
+        "title": "NEVER DONE EVOLVING FEAT SERENA",
+        "url": "https://www.dandad.org/awards/professional/2023/237426/nike-50th-serena-vs-serena/"
+      },
+      {
+        "id": "2023-beautiful-life-michael-kiwanuka",
+        "title": "BEAUTIFUL LIFE",
+        "url": "https://www.dandad.org/awards/professional/2023/237467/beautiful-life/"
+      },
+      {
+        "id": "2023-the-greatest-apple",
+        "title": "THE GREATEST",
+        "url": "https://lovetheworkmore.com/2023-2/"
+      },
+      {
+        "id": "2023-relax-it-s-iphone-r-i-p-leon-apple",
+        "title": "RELAX, IT’S IPHONE: R.I.P. LEON",
+        "url": "https://lovetheworkmore.com/2023-2/"
+      },
+      {
+        "id": "2023-the-last-photo-itv-x-calm",
+        "title": "THE LAST PHOTO",
+        "url": "https://www.dandad.org/awards/professional/2023/237073/the-last-photo/"
+      },
+      {
+        "id": "2023-a-british-original-british-airways",
+        "title": "A BRITISH ORIGINAL",
+        "url": "https://www.dandad.org/awards/professional/2023/237629/a-british-original/"
+      },
+      {
+        "id": "2023-flipvertising-samsung",
+        "title": "FLIPVERTISING",
+        "url": "https://www.dandad.org/awards/professional/2023/236700/flipvertising/"
+      },
+      {
+        "id": "2023-the-first-digital-nation-the-government-of-tuvalu",
+        "title": "THE FIRST DIGITAL NATION",
+        "url": "https://www.dandad.org/awards/professional/2023/237208/the-first-digital-nation/"
+      },
+      {
+        "id": "2023-optink-junge-helden-e-v",
+        "title": "#OPTINK",
+        "url": "https://lovetheworkmore.com/2023-2/"
+      },
+      {
+        "id": "2023-bill-it-to-bezos-jane-finch-community-centre",
+        "title": "BILL IT TO BEZOS",
+        "url": "https://www.dandad.org/awards/professional/2023/237593/bill-it-to-bezos/"
+      },
+      {
+        "id": "2023-cashback-for-your-jersey-s-back-flash-benef-cios",
+        "title": "CASHBACK FOR YOUR JERSEY’S BACK",
+        "url": "https://www.dandad.org/awards/professional/2023/236954/cash-back-for-your-jerseys-back/"
+      },
+      {
+        "id": "2023-rick-will-see-you-now-progressive-insurance",
+        "title": "RICK WILL SEE YOU NOW",
+        "url": "https://www.dandad.org/awards/professional/2023/236523/dr-rick-will-see-you-now/"
+      },
+      {
+        "id": "2023-draw-ketchup-kraft-heinz",
+        "title": "DRAW KETCHUP",
+        "url": "https://www.dandad.org/awards/professional/2021/235025/heinz-draw-ketchup/"
+      },
+      {
+        "id": "2023-he-s-coming-home-women-s-aid",
+        "title": "HE’S COMING HOME",
+        "url": "https://www.dandad.org/awards/professional/2023/236781/womens-aid-hes-coming-home/"
+      },
+      {
+        "id": "2023-home-nike",
+        "title": "HOME",
+        "url": "https://www.dandad.org/awards/professional/2023/236703/home/"
+      },
+      {
+        "id": "2023-inequality-you-can-t-ignore-the-chrysalis-initiative",
+        "title": "INEQUALITY YOU CAN’T IGNORE",
+        "url": "https://www.dandad.org/awards/professional/2023/237556/inequality-you-cant-ignore/"
+      },
+      {
+        "id": "2023-interface-interruption-tubi",
+        "title": "INTERFACE INTERRUPTION",
+        "url": "https://www.dandad.org/awards/professional/2023/237403/interface-interruption/"
+      },
+      {
+        "id": "2023-invaluable-food-madrid-fusion",
+        "title": "INVALUABLE FOOD",
+        "url": "https://www.dandad.org/awards/professional/2022/236089/invaluable-food/"
+      },
+      {
+        "id": "2023-ketchup-fraud-heinz-ketchup",
+        "title": "KETCHUP FRAUD",
+        "url": "https://www.dandad.org/awards/professional/2023/237531/heinz-fraud-ketchup/"
+      },
+      {
+        "id": "2023-me-my-autism-i-reckitt-and-ambitious-about-autism",
+        "title": "ME, MY AUTISM & I",
+        "url": "https://www.dandad.org/awards/professional/2023/237112/me-my-autism-i/"
+      },
+      {
+        "id": "2023-missing-matoaka-muskrat-magazine",
+        "title": "MISSING MATOAKA",
+        "url": "https://www.dandad.org/awards/professional/2023/237385/missing-matoaka/"
+      },
+      {
+        "id": "2023-relax-it-s-iphone-action-mode-apple",
+        "title": "RELAX, IT’S IPHONE: ACTION MODE",
+        "url": "https://lovetheworkmore.com/2023-2/"
+      },
+      {
+        "id": "2023-rosalia-motomami-live-experience-on-tiktok-tiktok",
+        "title": "ROSALIA MOTOMAMI LIVE EXPERIENCE ON TIKTOK",
+        "url": "https://www.dandad.org/awards/professional/2023/236873/rosalia-motomami-tiktok-live-performance/"
+      },
+      {
+        "id": "2023-schoolgirl-newscasters-ebm",
+        "title": "SCHOOLGIRL NEWSCASTERS",
+        "url": "https://www.dandad.org/awards/professional/2023/237578/schoolgirl-newscasters/"
+      },
+      {
+        "id": "2023-see-my-skin-vaseline",
+        "title": "SEE MY SKIN",
+        "url": "https://www.dandad.org/awards/professional/2023/237020/vaseline-see-my-skin/"
+      },
+      {
+        "id": "2023-the-forgotten-team-meo",
+        "title": "THE FORGOTTEN TEAM",
+        "url": "https://www.dandad.org/awards/professional/2023/237165/the-forgotten-team/"
+      },
+      {
+        "id": "2023-the-postponed-day-lalcec",
+        "title": "THE POSTPONED DAY",
+        "url": "https://www.dandad.org/awards/professional/2023/237265/the-postponed-day/"
+      },
+      {
+        "id": "2023-unexpected-encounters-lacoste",
+        "title": "UNEXPECTED ENCOUNTERS",
+        "url": "https://www.dandad.org/awards/professional/2023/236754/unexpected-encounters/"
+      },
+      {
+        "id": "2023-bringback2011-oreo-india",
+        "title": "#BRINGBACK2011",
+        "url": "https://www.dandad.org/awards/professional/2023/236565/bringback2011/"
+      },
+      {
+        "id": "2023-are-you-press-worthy-columbia-journalism-review",
+        "title": "ARE YOU PRESS WORTHY?",
+        "url": "https://www.dandad.org/awards/professional/2023/237618/are-you-press-worthy/"
+      },
+      {
+        "id": "2023-bundy-mixer-bundaberg",
+        "title": "BUNDY MIXER",
+        "url": "https://www.dandad.org/awards/professional/2023/237061/bundy-mixer/"
+      },
+      {
+        "id": "2023-buscap-back-to-the-city-of-god-telef-nica-vivo-motorola",
+        "title": "BUSCAPÉ. BACK TO THE CITY OF GOD.",
+        "url": "https://www.dandad.org/awards/professional/2023/237747/buscape-back-to-the-city-of-god/"
+      },
+      {
+        "id": "2023-dyicta-digital-youth-ict-academy",
+        "title": "DYICTA",
+        "url": "https://www.dandad.org/awards/professional/2023/237066/dyicta-logo-design/"
+      },
+      {
+        "id": "2023-faq-you-an-educational-revolution-ohhh-foundation",
+        "title": "FAQ YOU: AN EDUCATIONAL REVOLUTION",
+        "url": "https://www.dandad.org/awards/professional/2023/236990/faq-you-an-educational-revolution/"
+      },
+      {
+        "id": "2023-have-a-word-mayor-of-london",
+        "title": "HAVE A WORD",
+        "url": "https://www.dandad.org/awards/professional/2023/237658/have-a-word/"
+      },
+      {
+        "id": "2023-i-m-neale-daniher-fightmnd",
+        "title": "I’M NEALE DANIHER",
+        "url": "https://www.dandad.org/awards/professional/2023/237626/im-neale-daniher/"
+      },
+      {
+        "id": "2023-immortal-royal-ontario-museum-rom",
+        "title": "IMMORTAL",
+        "url": "https://www.google.com/search?client=safari&rls=en&q=IMMORTAL+-+ROYAL+ONTARIO+MUSEUM+(ROM)+(BROKEN+HEART+LOVE+AFFAIR+TORONTO)&ie=UTF-8&oe=UTF-8"
+      },
+      {
+        "id": "2023-michelob-guy-ab-inbev-michelob-ultra",
+        "title": "MICHELOB GUY",
+        "url": "https://www.dandad.org/awards/professional/2023/236720/michelob-guy/"
+      },
+      {
+        "id": "2023-nra-children-s-museum-change-the-ref",
+        "title": "NRA CHILDREN’S MUSEUM",
+        "url": "https://www.dandad.org/awards/professional/2023/237567/nra-childrens-museum/"
+      }
+    ]
+  },
+  "thumbnails": {
+    "brokenCount": 168,
+    "brokenByStatus": {
+      "0": 129,
+      "400": 4,
+      "403": 26,
+      "404": 8,
+      "406": 1
+    },
+    "topBrokenHosts": [
+      [
+        "img.youtube.com",
+        59
+      ],
+      [
+        "storage.googleapis.com",
+        16
+      ],
+      [
+        "i.ytimg.com",
+        14
+      ],
+      [
+        "mir-s3-cdn-cf.behance.net",
+        6
+      ],
+      [
+        "dictionary.cambridge.org",
+        4
+      ],
+      [
+        "adsoftheworld.com",
+        3
+      ],
+      [
+        "images.squarespace-cdn.com",
+        3
+      ],
+      [
+        "cdn.maydream.com",
+        3
+      ],
+      [
+        "assets.awwwards.com",
+        2
+      ],
+      [
+        "picx.zhimg.com",
+        2
+      ],
+      [
+        "static1.squarespace.com",
+        2
+      ],
+      [
+        "unblock.coffee",
+        2
+      ],
+      [
+        "pic1.zhimg.com",
+        2
+      ],
+      [
+        "causemarketing.com",
+        1
+      ],
+      [
+        "sp-uploads.s3.amazonaws.com",
+        1
+      ],
+      [
+        "s3.amazonaws.com",
+        1
+      ],
+      [
+        "insidemarketing.it",
+        1
+      ],
+      [
+        "taival.com",
+        1
+      ],
+      [
+        "linktr.ee",
+        1
+      ],
+      [
+        "images.benchmarkemail.com",
+        1
+      ],
+      [
+        "dyp3dma8oum24.cloudfront.net",
+        1
+      ],
+      [
+        "pfq.jp",
+        1
+      ],
+      [
+        "beaconcom.jp",
+        1
+      ],
+      [
+        "starcomww-clone.azurewebsites.net",
+        1
+      ],
+      [
+        "adruby.com",
+        1
+      ]
+    ],
+    "sampleBroken": [
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://causemarketing.com/wp-content/uploads/2017/01/dawn-saves-wildlife.png",
+        "affected": [
+          {
+            "id": "2025-in-hot-water-world-wildlife-fund",
+            "title": "IN HOT WATER",
+            "url": "https://causemarketing.com/wp-content/uploads/2017/01/dawn-saves-wildlife.png"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://sp-uploads.s3.amazonaws.com/uploads/services/8625872/20230731133124_64c7b7ac3ca68_case_study__coca__cola_s__share_a_coke__campaignpage0.jpg",
+        "affected": [
+          {
+            "id": "2025-meet-me-at-the-coke-sign-coca-cola",
+            "title": "MEET ME AT THE COKE SIGN",
+            "url": "https://sp-uploads.s3.amazonaws.com/uploads/services/8625872/20230731133124_64c7b7ac3ca68_case_study__coca__cola_s__share_a_coke__campaignpage0.jpg"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://s3.amazonaws.com/shoptagr-prod-tagimages/fog_uploads/tag_64711386/c_pad%2Ch_1400%2Cw_1400/64711386_1673710560.webp",
+        "affected": [
+          {
+            "id": "2025-speed-coupons-mercado-livre",
+            "title": "SPEED COUPONS",
+            "url": "https://s3.amazonaws.com/shoptagr-prod-tagimages/fog_uploads/tag_64711386/c_pad%2Ch_1400%2Cw_1400/64711386_1673710560.webp"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34688014/ad_34688014_3f199b235c396547_tn.jpg",
+        "affected": [
+          {
+            "id": "2024-cancer-before-cancer-peruvian-cancer-foundation",
+            "title": "CANCER BEFORE CANCER",
+            "url": "https://storage.googleapis.com/adforum-media/34688014/ad_34688014_3f199b235c396547_tn.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": "TypeError",
+        "url": "https://www.insidemarketing.it/wp-content/uploads/2024/03/rent-your-sunset-campagna-corona-2024.jpg",
+        "affected": [
+          {
+            "id": "2024-rent-your-sunset-corona",
+            "title": "RENT YOUR SUNSET",
+            "url": "https://www.insidemarketing.it/wp-content/uploads/2024/03/rent-your-sunset-campagna-corona-2024.jpg"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34653820/ad_34653820_ad4a403de76ddd3a_tn.jpg",
+        "affected": [
+          {
+            "id": "2022-black-business-beats-mercado-livre",
+            "title": "BLACK BUSINESS BEATS",
+            "url": "https://storage.googleapis.com/adforum-media/34653820/ad_34653820_ad4a403de76ddd3a_tn.jpg"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://www.taival.com/wp-content/uploads/2023/04/BASF.png",
+        "affected": [
+          {
+            "id": "2019-nobuildchallenge-wwf",
+            "title": "#NOBUILDCHALLENGE",
+            "url": "https://www.taival.com/wp-content/uploads/2023/04/BASF.png"
+          }
+        ]
+      },
+      {
+        "status": 406,
+        "error": null,
+        "url": "https://linktr.ee/og/image/bloomydays.jpg",
+        "affected": [
+          {
+            "id": "2019-bloomy-days-flowers-talking-bloomy-days",
+            "title": "BLOOMY DAYS “FLOWERS TALKING”",
+            "url": "https://linktr.ee/og/image/bloomydays.jpg"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://images.benchmarkemail.com/client1248890/image14381501.png",
+        "affected": [
+          {
+            "id": "2019-postable-fukushima-local-paper-fukushima-minpo-co",
+            "title": "POSTABLE FUKUSHIMA LOCAL PAPER",
+            "url": "https://images.benchmarkemail.com/client1248890/image14381501.png"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://dyp3dma8oum24.cloudfront.net/wp-content/uploads/2019/07/featured-1.png",
+        "affected": [
+          {
+            "id": "2019-naught-or-nice-bauble-myer",
+            "title": "NAUGHT OR NICE BAUBLE",
+            "url": "https://dyp3dma8oum24.cloudfront.net/wp-content/uploads/2019/07/featured-1.png"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/2994ec13881747.56279b78d7a45.jpg",
+        "affected": [
+          {
+            "id": "2019-air-time-sickkids",
+            "title": "AIR TIME",
+            "url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/2994ec13881747.56279b78d7a45.jpg"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://pfq.jp/wp/wp-content/uploads/2019/03/hecate_campaign_04.jpg",
+        "affected": [
+          {
+            "id": "2019-what-happened-hecate-inc",
+            "title": "WHAT HAPPENED?",
+            "url": "https://pfq.jp/wp/wp-content/uploads/2019/03/hecate_campaign_04.jpg"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://www.beaconcom.jp/sns/logo.jpg",
+        "affected": [
+          {
+            "id": "2019-the-very-happy-meal-font-mcdonald-s-japan",
+            "title": "THE VERY HAPPY MEAL FONT",
+            "url": "https://www.beaconcom.jp/sns/logo.jpg"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://starcomww-clone.azurewebsites.net/media/jxujsji3/van-hero-image.png",
+        "affected": [
+          {
+            "id": "2019-not-just-one-creator-vf-corporation",
+            "title": "NOT JUST ONE CREATOR",
+            "url": "https://starcomww-clone.azurewebsites.net/media/jxujsji3/van-hero-image.png"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://www.adruby.com/sites/default/files/styles/wide/public/image-ads/ESPN-Never-Miss-a-Move-ads-0002.jpg.webp",
+        "affected": [
+          {
+            "id": "2019-never-miss-a-move-espn",
+            "title": "NEVER MISS A MOVE",
+            "url": "https://www.adruby.com/sites/default/files/styles/wide/public/image-ads/ESPN-Never-Miss-a-Move-ads-0002.jpg.webp"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34564692/mediarepo_34587036_58a4c78dc6fe6b1c_tn.jpg",
+        "affected": [
+          {
+            "id": "2018-live-looper-downtown-records",
+            "title": "LIVE LOOPER",
+            "url": "https://storage.googleapis.com/adforum-media/34564692/mediarepo_34587036_58a4c78dc6fe6b1c_tn.jpg"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://dictionary.cambridge.org/external/images/og-image.png",
+        "affected": [
+          {
+            "id": "2018-disgusting-stories-bahay-tuluyan",
+            "title": "DISGUSTING STORIES",
+            "url": "https://dictionary.cambridge.org/external/images/og-image.png"
+          },
+          {
+            "id": "2018-inequality-balls-espn",
+            "title": "INEQUALITY BALLS",
+            "url": "https://dictionary.cambridge.org/external/images/og-image.png"
+          },
+          {
+            "id": "2018-savor-saver-ecuador-ministry-of-public-health",
+            "title": "SAVOR SAVER",
+            "url": "https://dictionary.cambridge.org/external/images/og-image.png"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34593815/ad_34593815_31d3f4ef46f4515c_tn.jpg",
+        "affected": [
+          {
+            "id": "2018-the-rape-tax-national-organization-for-victim-assistance",
+            "title": "THE RAPE TAX",
+            "url": "https://storage.googleapis.com/adforum-media/34593815/ad_34593815_31d3f4ef46f4515c_tn.jpg"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://cavalus.com.br/wp-content/uploads/2024/06/Hospital-de-Amor-vai-se-apresentar-no-GAFFFF.jpg",
+        "affected": [
+          {
+            "id": "2018-the-fall-hospital-de-amor",
+            "title": "THE FALL",
+            "url": "https://cavalus.com.br/wp-content/uploads/2024/06/Hospital-de-Amor-vai-se-apresentar-no-GAFFFF.jpg"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34568844/ad_34568844_7f305aba2623d8e7_tn.jpg",
+        "affected": [
+          {
+            "id": "2018-shitty-paper-made-from-hate",
+            "title": "SHITTY PAPER",
+            "url": "https://storage.googleapis.com/adforum-media/34568844/ad_34568844_7f305aba2623d8e7_tn.jpg"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34567288/ad_34567288_2699cadcfa1c1885_tn.jpg",
+        "affected": [
+          {
+            "id": "2018-the-alternatives-prostate-cancer-canada",
+            "title": "THE ALTERNATIVES",
+            "url": "https://storage.googleapis.com/adforum-media/34567288/ad_34567288_2699cadcfa1c1885_tn.jpg"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34568903/ad_34568903_4368ac62a828ccf1_web.jpg",
+        "affected": [
+          {
+            "id": "2018-the-canceller-reclame-aqui",
+            "title": "THE CANCELLER",
+            "url": "https://storage.googleapis.com/adforum-media/34568903/ad_34568903_4368ac62a828ccf1_web.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": "TypeError",
+        "url": "https://sanaccent.nl/content/uploads/2018/09/2017_111.png",
+        "affected": [
+          {
+            "id": "2018-connecting-seats-klm",
+            "title": "CONNECTING SEATS",
+            "url": "https://sanaccent.nl/content/uploads/2018/09/2017_111.png"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": "TypeError",
+        "url": "https://assets.awwwards.com/awards/external/2017/06/5952257866342.jpg",
+        "affected": [
+          {
+            "id": "2018-boxes-uber",
+            "title": "BOXES",
+            "url": "https://assets.awwwards.com/awards/external/2017/06/5952257866342.jpg"
+          },
+          {
+            "id": "2018-rolling-with-the-champion-uber",
+            "title": "ROLLING WITH THE CHAMPION",
+            "url": "https://assets.awwwards.com/awards/external/2017/06/5952257866342.jpg"
+          }
+        ]
+      },
+      {
+        "status": 404,
+        "error": null,
+        "url": "https://algonomy.com/wp-content/uploads/2021/01/miinto-Casestudy-image.png",
+        "affected": [
+          {
+            "id": "2018-find-yourself-miinto",
+            "title": "FIND YOURSELF",
+            "url": "https://algonomy.com/wp-content/uploads/2021/01/miinto-Casestudy-image.png"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34548413/ad_34548413_6b6e95c3e4c75687_tn.jpg",
+        "affected": [
+          {
+            "id": "2017-doors-of-thrones-tourism-ireland",
+            "title": "DOORS OF THRONES",
+            "url": "https://storage.googleapis.com/adforum-media/34548413/ad_34548413_6b6e95c3e4c75687_tn.jpg"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34539883/ad_34539883_61663013e30dae0a_tn.jpg",
+        "affected": [
+          {
+            "id": "2017-los-santos-pride-stockholm-pride",
+            "title": "LOS SANTOS PRIDE",
+            "url": "https://storage.googleapis.com/adforum-media/34539883/ad_34539883_61663013e30dae0a_tn.jpg"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://dictionary.cambridge.org/vi/external/images/og-image.png",
+        "affected": [
+          {
+            "id": "2017-the-debut-budweiser",
+            "title": "THE DEBUT",
+            "url": "https://dictionary.cambridge.org/vi/external/images/og-image.png"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://picx.zhimg.com/v2-7a4a05839f7d1abbbbf1f0cb9f63609c_r.jpg?source=172ae18b&consumer=ZHI_MENG",
+        "affected": [
+          {
+            "id": "2017-tv-doctors-of-america-cigna",
+            "title": "TV DOCTORS OF AMERICA",
+            "url": "https://picx.zhimg.com/v2-7a4a05839f7d1abbbbf1f0cb9f63609c_r.jpg?source=172ae18b&consumer=ZHI_MENG"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34547747/ad_34547747_7822a9572c105e8e_web.jpg",
+        "affected": [
+          {
+            "id": "2017-food-bullying-amman-tea",
+            "title": "FOOD BULLYING",
+            "url": "https://storage.googleapis.com/adforum-media/34547747/ad_34547747_7822a9572c105e8e_web.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": "TypeError",
+        "url": "https://auroravirtualreality.com/media/1225/cadbury-augmentedreality-freddo-halloween.jpg",
+        "affected": [
+          {
+            "id": "2017-virtual-reality-freddo-y-r",
+            "title": "VIRTUAL REALITY",
+            "url": "https://auroravirtualreality.com/media/1225/cadbury-augmentedreality-freddo-halloween.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://campaignsoftheworld.com/wp-content/uploads/2017/07/McDonalds-Snaplications.jpg",
+        "affected": [
+          {
+            "id": "2017-snaplications-mcdonald-s-australia",
+            "title": "SNAPLICATIONS",
+            "url": "https://campaignsoftheworld.com/wp-content/uploads/2017/07/McDonalds-Snaplications.jpg"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34547831/ad_34547831_572815b1c67cf137_tn.jpg",
+        "affected": [
+          {
+            "id": "2017-patria-homeland-salon-er-tico",
+            "title": "PATRIA-HOMELAND",
+            "url": "https://storage.googleapis.com/adforum-media/34547831/ad_34547831_572815b1c67cf137_tn.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://0701.static.prezi.com/preview/v2/kc2ejuf2yd2qjyk4sjnhl4vxt76jc3sachvcdoaizecfr3dnitcq_3_0.png",
+        "affected": [
+          {
+            "id": "2017-journey-to-your-dream-ingrid-activia",
+            "title": "JOURNEY TO YOUR DREAM/INGRID",
+            "url": "https://0701.static.prezi.com/preview/v2/kc2ejuf2yd2qjyk4sjnhl4vxt76jc3sachvcdoaizecfr3dnitcq_3_0.png"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": "TypeError",
+        "url": "https://img.dokumen.tips/doc/image/546d54abb4af9f6b2c8b531d/linfox-arnotts-case-study.jpg",
+        "affected": [
+          {
+            "id": "2017-souptube-campbell-arnotts",
+            "title": "SOUPTUBE",
+            "url": "https://img.dokumen.tips/doc/image/546d54abb4af9f6b2c8b531d/linfox-arnotts-case-study.jpg"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34540683/ad_34540683_27ab9a9d1913f792_tn.jpg",
+        "affected": [
+          {
+            "id": "2017-jenesupportepaslesbleus-elle-simagine-nt",
+            "title": "#JENESUPPORTEPASLESBLEUS",
+            "url": "https://storage.googleapis.com/adforum-media/34540683/ad_34540683_27ab9a9d1913f792_tn.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "http://prodimage.images-bn.com/pimages/9781482533958_p0_v1_s1200x630.jpg",
+        "affected": [
+          {
+            "id": "2017-craig-inglis-radiocentre-lucky-generals-london-war-gay-gin-lane-tate-britian",
+            "title": "CRAIG INGLIS",
+            "url": "http://prodimage.images-bn.com/pimages/9781482533958_p0_v1_s1200x630.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://storage.googleapis.com/adforum-media/34548641/ad_34548641_cccfb43c0b544561_tn.jpg",
+        "affected": [
+          {
+            "id": "2017-raincape-parachute-clothes-basket-ikea",
+            "title": "RAINCAPE, PARACHUTE, CLOTHES BASKET",
+            "url": "https://storage.googleapis.com/adforum-media/34548641/ad_34548641_cccfb43c0b544561_tn.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.adsoftheworld.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--04e5e25c45b6c94815518faeb4371b4d28b03b1c/thumbnail_299361",
+        "affected": [
+          {
+            "id": "2017-the-sons-of-all-bombs-perfil-mercado-mccann-buenos-aires-frog-snake-bat-bird-johannesburg-zoo",
+            "title": "THE SONS OF ALL BOMBS",
+            "url": "https://www.adsoftheworld.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--04e5e25c45b6c94815518faeb4371b4d28b03b1c/thumbnail_299361"
+          }
+        ]
+      },
+      {
+        "status": 403,
+        "error": null,
+        "url": "https://storage.googleapis.com/adforum-media/34548679/ad_34548679_d03fbe48b8113d8a_web.jpg",
+        "affected": [
+          {
+            "id": "2017-the-tailor-made-store-chadstone-shopping-centre",
+            "title": "THE TAILOR MADE STORE",
+            "url": "https://storage.googleapis.com/adforum-media/34548679/ad_34548679_d03fbe48b8113d8a_web.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "http://images.military.com/media/news/fireworks-sign-804x536.jpg",
+        "affected": [
+          {
+            "id": "2017-the-speaking-fireworks-military-with-ptsd",
+            "title": "THE SPEAKING FIREWORKS",
+            "url": "http://images.military.com/media/news/fireworks-sign-804x536.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "http://static1.squarespace.com/static/57e2f539d1758ebd3d812078/684cda2a2427cd1f49ad7da9/684cda2c0a63794fee8bb956/1751063954902/Screenshot+2023-09-16+at+1.47.08+PM.png?format=1500w",
+        "affected": [
+          {
+            "id": "2017-nfl-hunger-issues-snicker",
+            "title": "NFL HUNGER ISSUES",
+            "url": "http://static1.squarespace.com/static/57e2f539d1758ebd3d812078/684cda2a2427cd1f49ad7da9/684cda2c0a63794fee8bb956/1751063954902/Screenshot+2023-09-16+at+1.47.08+PM.png?format=1500w"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://pica.zhimg.com/4e069776d20a49d18d63aa4784c940d8_qhd.jpg?source=57bbeac9",
+        "affected": [
+          {
+            "id": "2017-darwin-einstein-mozart-autism-new-zealand",
+            "title": "DARWIN, EINSTEIN, MOZART",
+            "url": "https://pica.zhimg.com/4e069776d20a49d18d63aa4784c940d8_qhd.jpg?source=57bbeac9"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "http://static1.squarespace.com/static/55dbca78e4b000099dcd914b/t/65e5e083f07ad67cef0183ac/1709564035722/heart2.png?format=1500w",
+        "affected": [
+          {
+            "id": "2017-the-unstereotyped-search-getty-images",
+            "title": "THE UNSTEREOTYPED SEARCH",
+            "url": "http://static1.squarespace.com/static/55dbca78e4b000099dcd914b/t/65e5e083f07ad67cef0183ac/1709564035722/heart2.png?format=1500w"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.refuelagency.com/wp-content/uploads/2020/01/bein-sports-messi.jpg",
+        "affected": [
+          {
+            "id": "2017-fathers-bein-sports",
+            "title": "FATHERS",
+            "url": "https://www.refuelagency.com/wp-content/uploads/2020/01/bein-sports-messi.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://images.squarespace-cdn.com/content/v1/53726fa2e4b003ad465236c1/79cc0ded-64b7-4a14-b494-af954b37b335/Puss.jpg",
+        "affected": [
+          {
+            "id": "2017-ikea-30-off-ikea",
+            "title": "IKEA 30% OFF",
+            "url": "https://images.squarespace-cdn.com/content/v1/53726fa2e4b003ad465236c1/79cc0ded-64b7-4a14-b494-af954b37b335/Puss.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.restaurantguru.com/cdc0-Restaurant-Ribs-al-Rio-Paseo-Infanta-dishes.jpg",
+        "affected": [
+          {
+            "id": "2017-cheese-burger-random-corp-s-a-grey-buenos-aires-barbecue-ribs-random-corp-s-a",
+            "title": "CHEESE BURGER",
+            "url": "https://img.restaurantguru.com/cdc0-Restaurant-Ribs-al-Rio-Paseo-Infanta-dishes.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/urKVt_bEj7k/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-cheese-burger-random-corp-s-a",
+            "title": "CHEESE BURGER",
+            "url": "https://img.youtube.com/vi/urKVt_bEj7k/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/0fnly7kUkKU/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-barbecue-ribs-random-corp-s-a",
+            "title": "BARBECUE RIBS",
+            "url": "https://img.youtube.com/vi/0fnly7kUkKU/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/TT6D2KlTMPE/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-pepperoni-pizza-random-corp-s-a",
+            "title": "PEPPERONI PIZZA",
+            "url": "https://img.youtube.com/vi/TT6D2KlTMPE/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/3cd37953993499.59493f8f20795.jpg",
+        "affected": [
+          {
+            "id": "2017-old-women-bald-security-cameras",
+            "title": "OLD WOMEN / BALD",
+            "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/3cd37953993499.59493f8f20795.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/7mfUFgep7PI/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-opel-signals-opel-eye",
+            "title": "OPEL SIGNALS",
+            "url": "https://img.youtube.com/vi/7mfUFgep7PI/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://media.cargocollective.com/1/8/283984/headerimg/pierrette%20smaller.jpg",
+        "affected": [
+          {
+            "id": "2017-baker-fisherman-traffic-warden-businessman-pronto-cafe-ray",
+            "title": "BAKER / FISHERMAN / TRAFFIC WARDEN / BUSINESSMAN",
+            "url": "https://media.cargocollective.com/1/8/283984/headerimg/pierrette%20smaller.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "http://cdn.entries.clios.com/styles/clio_aotw_image_panels_retina/s3/entry_attachments/image/34/17842/ffa4.jpg",
+        "affected": [
+          {
+            "id": "2017-you-ve-gotta-have-a-team-football-federation-australia",
+            "title": "YOU’VE GOTTA HAVE A TEAM",
+            "url": "http://cdn.entries.clios.com/styles/clio_aotw_image_panels_retina/s3/entry_attachments/image/34/17842/ffa4.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/JrpUvmSzfLI/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-yournalist-euskal-irrati-telebista",
+            "title": "YOURNALIST",
+            "url": "https://img.youtube.com/vi/JrpUvmSzfLI/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/IgMjTIwh_LA/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-anonymous-friend-alcoholics-anonymous",
+            "title": "ANONYMOUS FRIEND",
+            "url": "https://img.youtube.com/vi/IgMjTIwh_LA/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/tTwd30qf1Lw/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-your-name-saves-donate-life-america",
+            "title": "YOUR NAME SAVES",
+            "url": "https://img.youtube.com/vi/tTwd30qf1Lw/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/cMvL-MUxCsk/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-a-table-to-end-hunger-the-hunger-project",
+            "title": "A TABLE TO END HUNGER",
+            "url": "https://img.youtube.com/vi/cMvL-MUxCsk/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/MtqVFBpNCIU/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-unsuccessful-ticket-sampling-folkoperan",
+            "title": "UNSUCCESSFUL TICKET SAMPLING",
+            "url": "https://img.youtube.com/vi/MtqVFBpNCIU/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d27430153376833.632e4dfc795fc.jpg",
+        "affected": [
+          {
+            "id": "2017-we-are-parrilla-burger-king",
+            "title": "WE ARE PARRILLA",
+            "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d27430153376833.632e4dfc795fc.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://images.squarespace-cdn.com/content/v1/5813bdd66a49634ff564926d/1500696643988-FNA2T9JAJQ168NBYO9D3/BOARD-VR-3OK+copy.jpg",
+        "affected": [
+          {
+            "id": "2017-hijacked-highway-sodimac-homecenter",
+            "title": "HIJACKED HIGHWAY",
+            "url": "https://images.squarespace-cdn.com/content/v1/5813bdd66a49634ff564926d/1500696643988-FNA2T9JAJQ168NBYO9D3/BOARD-VR-3OK+copy.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://forum.shiftdelete.net/styles/sdn/extra/sdn-og.png",
+        "affected": [
+          {
+            "id": "2017-domino-s-wedding-registry-domino-s",
+            "title": "DOMINO’S WEDDING REGISTRY",
+            "url": "https://forum.shiftdelete.net/styles/sdn/extra/sdn-og.png"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://fcdn.me/0c6/6b8/godiva-the-box-that-keeps-giving-image-2-0ef02e5d17b1e4cd21322ec9b3.jpg",
+        "affected": [
+          {
+            "id": "2017-the-box-that-keeps-giving-godiva",
+            "title": "THE BOX THAT KEEPS GIVING",
+            "url": "https://fcdn.me/0c6/6b8/godiva-the-box-that-keeps-giving-image-2-0ef02e5d17b1e4cd21322ec9b3.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/04/McCann-Health-New-York-Entresto_McCannHealth_4x5-1.jpg",
+        "affected": [
+          {
+            "id": "2017-split-second-boehringer-ingelheim-mccann-health-new-york-gravitylight-shell-global-j-walter-thompson-london-the-wor",
+            "title": "SPLIT SECOND",
+            "url": "https://www.mmm-online.com/wp-content/uploads/sites/2/2022/04/McCann-Health-New-York-Entresto_McCannHealth_4x5-1.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/O0gPMJoykJQ/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-gravitylight-shell-global",
+            "title": "GRAVITYLIGHT",
+            "url": "https://img.youtube.com/vi/O0gPMJoykJQ/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/lz53nunjNB8/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-stop-the-cycle-huffington-post-south-africa",
+            "title": "STOP THE CYCLE",
+            "url": "https://img.youtube.com/vi/lz53nunjNB8/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/8WZmVAeR2C0/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-max-motor-dreams-ford-spain",
+            "title": "MAX MOTOR DREAMS",
+            "url": "https://img.youtube.com/vi/8WZmVAeR2C0/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/w8U7KLuM8GE/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-qq-alert-hope-never-dies-qq",
+            "title": "QQ ALERT: HOPE NEVER DIES",
+            "url": "https://img.youtube.com/vi/w8U7KLuM8GE/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://i.ytimg.com/vi/wha3tv2rEt4/maxresdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-the-curious-afterlife-of-a-tin-artois",
+            "title": "THE CURIOUS AFTERLIFE OF A TIN",
+            "url": "https://i.ytimg.com/vi/wha3tv2rEt4/maxresdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/WNiNJ2cn96U/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-the-world-s-smartest-astrophotography-camera-tinymos",
+            "title": "THE WORLD’S SMARTEST ASTROPHOTOGRAPHY CAMERA",
+            "url": "https://img.youtube.com/vi/WNiNJ2cn96U/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/5jY94y_nyNA/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-safest-route-groupama",
+            "title": "SAFEST ROUTE",
+            "url": "https://img.youtube.com/vi/5jY94y_nyNA/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://i.ytimg.com/vi/1RJmvfW470Q/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-the-sound-book-app-nords-d-verlag",
+            "title": "THE SOUND BOOK APP",
+            "url": "https://i.ytimg.com/vi/1RJmvfW470Q/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/HfgUfgCZZ_I/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-the-app-you-ll-be-glad-you-don-t-need-united-we-dream",
+            "title": "THE APP YOU’LL BE GLAD YOU DON’T NEED",
+            "url": "https://img.youtube.com/vi/HfgUfgCZZ_I/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://i.ytimg.com/vi/ZHeYb6oEN_w/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-glicode-ezaki-glico-company",
+            "title": "GLICODE",
+            "url": "https://i.ytimg.com/vi/ZHeYb6oEN_w/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/AXNDl8_8C2Q/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-give-a-beep-h-vding-edelman-stockholm-talking-numbers-fundaci-n-huesped",
+            "title": "GIVE A BEEP",
+            "url": "https://img.youtube.com/vi/AXNDl8_8C2Q/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/cj66Oy2wQdw/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-give-a-beep-h-vding",
+            "title": "GIVE A BEEP",
+            "url": "https://img.youtube.com/vi/cj66Oy2wQdw/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://i.ytimg.com/vi/8EVfkFe_iFc/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-no-more-excuses-heineken",
+            "title": "NO MORE EXCUSES",
+            "url": "https://i.ytimg.com/vi/8EVfkFe_iFc/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/GxEhy8hU3LI/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-microsoft-course-iq-microsoft-mccann-new-york-pantone-studio-pantone-rokkan-new-york-the-history-of-the-mausoleum-o",
+            "title": "MICROSOFT COURSE IQ",
+            "url": "https://img.youtube.com/vi/GxEhy8hU3LI/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://i.ytimg.com/vi/W8Tpui8IHbk/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-microsoft-course-iq-microsoft",
+            "title": "MICROSOFT COURSE IQ",
+            "url": "https://i.ytimg.com/vi/W8Tpui8IHbk/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/GFKhzrWaNGM/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-pantone-studio-pantone",
+            "title": "PANTONE STUDIO",
+            "url": "https://img.youtube.com/vi/GFKhzrWaNGM/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/iOZVaivMLAM/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-the-history-of-the-mausoleum-of-augustus-fondazione-tim",
+            "title": "THE HISTORY OF THE MAUSOLEUM OF AUGUSTUS",
+            "url": "https://img.youtube.com/vi/iOZVaivMLAM/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/eQ74Qpdj0Cs/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-discover-the-magic-of-craft-montblanc",
+            "title": "DISCOVER THE MAGIC OF CRAFT",
+            "url": "https://img.youtube.com/vi/eQ74Qpdj0Cs/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://thefwa.com/dyn/resources/Case_Model_Case/thumbnail/7/7707/1470932368/57aca49f79bf5possessionbegins01.png",
+        "affected": [
+          {
+            "id": "2017-outcast-interactive-trailer-possession-begins-cinemax",
+            "title": "OUTCAST INTERACTIVE TRAILER: “POSSESSION BEGINS”",
+            "url": "https://thefwa.com/dyn/resources/Case_Model_Case/thumbnail/7/7707/1470932368/57aca49f79bf5possessionbegins01.png"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/DvR2RHIYW5U/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-not-easy-ibm",
+            "title": "NOT EASY",
+            "url": "https://img.youtube.com/vi/DvR2RHIYW5U/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.basketusa.com/app/themes/theme_busa_2019/static/img/chevron-down-mobile.svg",
+        "affected": [
+          {
+            "id": "2017-nba-2k-boost-2k-sports",
+            "title": "NBA 2K BOOST",
+            "url": "https://www.basketusa.com/app/themes/theme_busa_2019/static/img/chevron-down-mobile.svg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://images.squarespace-cdn.com/content/v1/53f49e1de4b0b6d7d61b5f3c/1588417279765-OV6SQDFYRK5PWTA1AMFV/Bildschirmfoto+2017-06-30+um+22.01.59.png",
+        "affected": [
+          {
+            "id": "2017-snowdrawings-swisscom",
+            "title": "SNOWDRAWINGS",
+            "url": "https://images.squarespace-cdn.com/content/v1/53f49e1de4b0b6d7d61b5f3c/1588417279765-OV6SQDFYRK5PWTA1AMFV/Bildschirmfoto+2017-06-30+um+22.01.59.png"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/xqt0gjBfErs/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-ikea-retail-therapy-ikea-kestam-holst-stockholm-silicon-valley-urxxl-sky-television-new-zealand-ddb-auckland-worlds",
+            "title": "IKEA RETAIL THERAPY",
+            "url": "https://img.youtube.com/vi/xqt0gjBfErs/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://picx.zhimg.com/v2-9fd41e84d9de517e250dcec0798d5764_r.jpg?source=172ae18b&consumer=ZHI_MENG",
+        "affected": [
+          {
+            "id": "2017-ikea-retail-therapy-ikea",
+            "title": "IKEA RETAIL THERAPY",
+            "url": "https://picx.zhimg.com/v2-9fd41e84d9de517e250dcec0798d5764_r.jpg?source=172ae18b&consumer=ZHI_MENG"
+          },
+          {
+            "id": "2016-ikea-decisions-ikea",
+            "title": "IKEA DECISIONS",
+            "url": "https://picx.zhimg.com/v2-9fd41e84d9de517e250dcec0798d5764_r.jpg?source=172ae18b&consumer=ZHI_MENG"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://i.ytimg.com/vi/Fo2YF5n_D04/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-worlds-apart-heineken",
+            "title": "WORLDS APART",
+            "url": "https://i.ytimg.com/vi/Fo2YF5n_D04/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://mir-s3-cdn-cf.behance.net/projects/max_808/a2cbc254171773.Y3JvcCw4MDgsNjMyLDAsMA.jpg",
+        "affected": [
+          {
+            "id": "2017-dytective-for-samsung-samsung-spain",
+            "title": "DYTECTIVE FOR SAMSUNG",
+            "url": "https://mir-s3-cdn-cf.behance.net/projects/max_808/a2cbc254171773.Y3JvcCw4MDgsNjMyLDAsMA.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/ybtOtdZu0xI/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-forgetting-auschwitz-remembering-auschwitz-figli-della-shoah-and-forgetting-auschwitz-remembering-auschwitz-cded",
+            "title": "FORGETTING AUSCHWITZ, REMEMBERING AUSCHWITZ",
+            "url": "https://img.youtube.com/vi/ybtOtdZu0xI/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/XnyQw2EEH-M/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-ecoalarm-fundaci-n-banco-de-bosques",
+            "title": "ECOALARM",
+            "url": "https://img.youtube.com/vi/XnyQw2EEH-M/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://www.unblock.coffee/wp-content/uploads/2022/08/The-Shared-Story-of-Harry-and-Ahmed-1.jpeg",
+        "affected": [
+          {
+            "id": "2017-the-shared-story-of-harry-and-ahmed-unicef",
+            "title": "THE SHARED STORY OF HARRY AND AHMED",
+            "url": "https://www.unblock.coffee/wp-content/uploads/2022/08/The-Shared-Story-of-Harry-and-Ahmed-1.jpeg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://1.bp.blogspot.com/-ZzBSqdJ_CBg/WKURLkvDGDI/AAAAAAAAo5Y/82lg6zMfG2gXZZPhbsFSE6fo89vfbB8TwCK4B/s1600/HP_The%2BWolf_Movie%2BPoster.jpg",
+        "affected": [
+          {
+            "id": "2017-the-wolf-hp",
+            "title": "THE WOLF",
+            "url": "https://1.bp.blogspot.com/-ZzBSqdJ_CBg/WKURLkvDGDI/AAAAAAAAo5Y/82lg6zMfG2gXZZPhbsFSE6fo89vfbB8TwCK4B/s1600/HP_The%2BWolf_Movie%2BPoster.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/m9CyMGmkgdM/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-l-amour-l-amour-intermarch",
+            "title": "L’AMOUR, L’AMOUR",
+            "url": "https://img.youtube.com/vi/m9CyMGmkgdM/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://i.ytimg.com/vi/C9b0A5x-tt0/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-the-snacker-hacker-kerry-foods",
+            "title": "THE SNACKER HACKER",
+            "url": "https://i.ytimg.com/vi/C9b0A5x-tt0/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://i.ytimg.com/vi/tBobvvTNlgc/maxresdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-tramroulette-holland-casino-tbwa-neboko-amsterdam-litbaits-the-wild-detectives-dieste-dallas-search-for-greatness-s",
+            "title": "TRAMROULETTE",
+            "url": "https://i.ytimg.com/vi/tBobvvTNlgc/maxresdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://img.youtube.com/vi/qPv8V8kOpi0/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-tramroulette-holland-casino",
+            "title": "TRAMROULETTE",
+            "url": "https://img.youtube.com/vi/qPv8V8kOpi0/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://i.ytimg.com/vi/MDpywkGQjtI/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-litbaits-the-wild-detectives",
+            "title": "LITBAITS",
+            "url": "https://i.ytimg.com/vi/MDpywkGQjtI/hqdefault.jpg"
+          }
+        ]
+      },
+      {
+        "status": 0,
+        "error": 20,
+        "url": "https://i.ytimg.com/vi/FiWw6BCKQPg/hqdefault.jpg",
+        "affected": [
+          {
+            "id": "2017-search-for-greatness-sony-playstation",
+            "title": "SEARCH FOR GREATNESS",
+            "url": "https://i.ytimg.com/vi/FiWw6BCKQPg/hqdefault.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

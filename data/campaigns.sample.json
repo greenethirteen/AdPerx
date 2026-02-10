@@ -1,0 +1,59 @@
+[
+  {
+    "id": "2025-aeromexicanos-aeromexican",
+    "title": "AEROMEXICANOS",
+    "brand": "AEROMEXICANOS",
+    "agency": "Ogilvy Mexico City",
+    "year": 2025,
+    "sourceUrl": "https://lovetheworkmore.com/2025-2/",
+    "outboundUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "formatHints": [
+      "film",
+      "digital"
+    ],
+    "topics": [
+      "travel",
+      "culture"
+    ],
+    "industry": "airlines",
+    "notes": "Sample only. Replace with real scraped data."
+  },
+  {
+    "id": "2019-dream-crazy-nike",
+    "title": "Dream Crazy",
+    "brand": "Nike",
+    "agency": "Wieden+Kennedy Portland",
+    "year": 2019,
+    "sourceUrl": "https://lovetheworkmore.com/2019/",
+    "outboundUrl": "https://www.youtube.com/watch?v=Fq2CvmgoO7I",
+    "formatHints": [
+      "film"
+    ],
+    "topics": [
+      "sports",
+      "equality"
+    ],
+    "industry": "apparel",
+    "notes": "Sample only."
+  },
+  {
+    "id": "2016-fearless-girl-ssg",
+    "title": "Fearless Girl",
+    "brand": "State Street Global Advisors",
+    "agency": "McCann New York",
+    "year": 2016,
+    "sourceUrl": "https://lovetheworkmore.com/2016/",
+    "outboundUrl": "https://en.wikipedia.org/wiki/Fearless_Girl",
+    "formatHints": [
+      "outdoor",
+      "pr",
+      "integrated"
+    ],
+    "topics": [
+      "women's rights",
+      "finance"
+    ],
+    "industry": "finance",
+    "notes": "Sample only."
+  }
+]
