@@ -11,7 +11,15 @@ type IdeateReq = {
 };
 
 function pickSources(results: Campaign[], n = 12) {
-  return results.slice(0, n).map((r) => ({
+  const usable = results.filter((r) => {
+    const t = (r.title ?? "").replace(/\s+/g, " ").trim();
+    if (!t || t.length > 180) return false;
+    if (/\n|\r/.test(t)) return false;
+    const separators = (t.match(/\s[-–]\s/g) ?? []).length;
+    if (separators > 4) return false;
+    return true;
+  });
+  return usable.slice(0, n).map((r) => ({
     id: r.id,
     title: r.title,
     brand: r.brand,
@@ -40,10 +48,12 @@ async function callOpenAIWithTools(
     "You are a creative strategist.",
     "Use ONLY the provided sources (campaign metadata + links) for evidence.",
     "For each technique, produce a Creative Angle, an insight, a big idea, and a concrete execution.",
-    "The Creative Angle should be human, idea-sparking, and non-obvious (not a slogan).",
-    "Push it: be bold, witty, and a little wild or extreme when it helps.",
-    "Keep all text very concise (aim ~8-14 words each), punchy, and useful.",
-    "Avoid filler and explainers. Write like a sharp strategist.",
+    "The Creative Angle must be edgy, culturally sharp, and non-obvious (not a slogan).",
+    "Push hard: left-field, high-tension, and provocative-but-brand-safe ideas.",
+    "Avoid generic ad-school ideas such as: countdowns, 'exclusive deals', personal stylists, serene shopping oasis, social media teasers.",
+    "Each execution must name a concrete mechanic and channel in one line.",
+    "Use short, punchy lines (roughly 9-18 words each).",
+    "Each technique should feel meaningfully different from the others.",
     "Add 2-3 pros (short bullets) that explain why the idea is strong.",
     "Every item must include 2–5 citations (campaign ids) drawn from the sources.",
     "Do not invent campaigns or citations.",
@@ -92,7 +102,7 @@ async function callOpenAIWithTools(
   const useMaxCompletion = model.startsWith("gpt-5");
   const body: any = {
     model,
-    temperature: 0.5,
+    temperature: 0.9,
     tools: [tool],
     tool_choice: { type: "function", function: { name: "emit_ideas" } },
     messages: [
@@ -147,8 +157,11 @@ async function callOpenAIPlain(
     "You are a creative strategist.",
     "Use ONLY the provided sources (campaign metadata + links) for evidence.",
     "For each technique, produce a witty campaign line, an insight, a big idea, and a concrete execution.",
-    "Keep all text very concise (aim ~8-14 words each), non-obvious, and punchy.",
-    "Avoid filler and explainers. Write like a sharp strategist.",
+    "Make ideas edgy, specific, and left-field.",
+    "Avoid safe/generic routes like countdowns, generic urgency, personal stylists, or vague influencer content.",
+    "Each execution must include a concrete mechanic + channel + payoff in one sentence.",
+    "Keep text concise (roughly 9-18 words each), non-obvious, and punchy.",
+    "Each technique should feel clearly different from the others.",
     "Add 2-3 pros (short bullets) that explain why the idea is strong.",
     "Every item must include 2–5 citations (campaign ids) drawn from the sources.",
     "Do not invent campaigns or citations.",
@@ -166,7 +179,7 @@ async function callOpenAIPlain(
   const useMaxCompletion = model.startsWith("gpt-5");
   const body: any = {
     model,
-    temperature: 0.5,
+    temperature: 0.9,
     messages: [
       { role: "system", content: system },
       { role: "user", content: JSON.stringify(user) }
@@ -202,8 +215,9 @@ async function callOpenAIPlain(
   }
   return content;
 }
-function safeParseItems(raw: string, techniques: string[]): IdeationItem[] | null {
+function safeParseItems(raw: string, techniques: string[], validCitationIds: Set<string>): IdeationItem[] | null {
   try {
+    const tidy = (v: unknown, max: number) => String(v ?? "").replace(/\s+/g, " ").trim().slice(0, max);
     const start = raw.indexOf("{");
     const end = raw.lastIndexOf("}");
     const slice = start !== -1 && end !== -1 ? raw.slice(start, end + 1) : raw;
@@ -214,17 +228,23 @@ function safeParseItems(raw: string, techniques: string[]): IdeationItem[] | nul
       .filter((x: any) => x && typeof x.technique === "string")
       .map((x: any) => ({
         technique: x.technique,
-        line: String(x.line ?? ""),
-        insight: String(x.insight ?? ""),
-        idea: String(x.idea ?? ""),
-        execution: String(x.execution ?? ""),
-        pros: Array.isArray(x.pros) ? x.pros.map(String).filter(Boolean).slice(0, 3) : [],
-        citations: Array.isArray(x.citations) ? x.citations.map(String) : []
+        line: tidy(x.line, 180),
+        insight: tidy(x.insight, 220),
+        idea: tidy(x.idea, 220),
+        execution: tidy(x.execution, 220),
+        pros: Array.isArray(x.pros) ? x.pros.map((p: unknown) => tidy(p, 90)).filter(Boolean).slice(0, 3) : [],
+        citations: Array.isArray(x.citations)
+          ? x.citations.map(String).filter((id: string) => validCitationIds.has(id)).slice(0, 5)
+          : []
       }));
     if (!normalized.length) return null;
     // Ensure full coverage order
     const map = new Map(normalized.map((i) => [i.technique, i]));
-    return techniques.map((t) => map.get(t) ?? { technique: t, line: "", insight: "", idea: "", execution: "", pros: [], citations: [] });
+    const fallbackCitations = Array.from(validCitationIds).slice(0, 2);
+    return techniques.map(
+      (t) =>
+        map.get(t) ?? { technique: t, line: "", insight: "", idea: "", execution: "", pros: [], citations: fallbackCitations }
+    );
   } catch {
     return null;
   }
@@ -243,6 +263,7 @@ export async function POST(req: Request) {
     const filters: SearchFilters = { ...(body.filters ?? {}), q: brief };
     const search = runSearch(filters, 60);
     const sources = pickSources(search.results, 6);
+    const validCitationIds = new Set(sources.map((s) => s.id));
 
     let items: IdeationItem[] | null = null;
     let failure: string | null = null;
@@ -264,7 +285,7 @@ export async function POST(req: Request) {
           raw = await callOpenAIPlain(brief, chunk, sources, "gpt-4.1-mini");
         }
         if (!raw) throw new Error("Empty OpenAI response.");
-        const parsed = safeParseItems(raw, chunk);
+        const parsed = safeParseItems(raw, chunk, validCitationIds);
         if (!parsed) throw new Error("Failed to parse OpenAI response.");
         all.push(...parsed);
       }

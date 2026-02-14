@@ -86,6 +86,7 @@ export default function AppShell() {
     filters.sort === "year_desc" &&
     VINTAGE_YEARS.every((y) => (filters.years ?? []).includes(y)) &&
     (filters.years?.length ?? 0) === VINTAGE_YEARS.length;
+  const showFiltersPanel = mode === "search";
 
   useEffect(() => {
     setPage(1);
@@ -143,12 +144,6 @@ export default function AppShell() {
             Ask (RAG)
           </button>
           <button
-            className={`rounded-xl px-3 py-2 text-sm shadow-soft transition ${mode === "patterns" ? "bg-white" : "bg-white/50 hover:bg-white"}`}
-            onClick={() => setMode("patterns")}
-          >
-            Show patterns
-          </button>
-          <button
             className={`rounded-xl px-3 py-2 text-sm shadow-soft transition ${mode === "ideate" ? "bg-white" : "bg-white/50 hover:bg-white"}`}
             onClick={() => setMode("ideate")}
           >
@@ -168,7 +163,19 @@ export default function AppShell() {
                 variant: "cannes",
                 active: isCannesShortcutActive,
                 apply: () =>
-                  window.location.assign("/")
+                  setFilters({
+                    q: "",
+                    preset: "",
+                    sort: "relevance",
+                    years: [],
+                    awardTiers: [],
+                    categories: [],
+                    industry: [],
+                    topics: [],
+                    formats: [],
+                    brands: [],
+                    agencies: []
+                  })
               },
               {
                 label: "Super Bowl Ads",
@@ -229,8 +236,8 @@ export default function AppShell() {
                 label: "Olympics",
                 apply: () =>
                   setFilters({
-                    q: "olympic olympics",
-                    preset: "",
+                    q: "",
+                    preset: "olympics",
                     sort: "relevance",
                     years: [],
                     awardTiers: [],
@@ -246,8 +253,8 @@ export default function AppShell() {
                 label: "Christmas Campaigns",
                 apply: () =>
                   setFilters({
-                    q: "christmas holiday",
-                    preset: "",
+                    q: "",
+                    preset: "christmas",
                     sort: "relevance",
                     years: [],
                     awardTiers: [],
@@ -263,8 +270,8 @@ export default function AppShell() {
                 label: "Gaming Campaigns",
                 apply: () =>
                   setFilters({
-                    q: "gaming game games esports fortnite xbox playstation nintendo",
-                    preset: "",
+                    q: "",
+                    preset: "gaming",
                     sort: "relevance",
                     years: [],
                     awardTiers: [],
@@ -295,17 +302,19 @@ export default function AppShell() {
           />
         ) : null}
 
-        <div className="grid gap-4 md:grid-cols-12">
-          <aside className="md:col-span-4 lg:col-span-3">
-            <FiltersPanel
-              filters={filters}
-              facets={data.facets}
-              onChange={setFilters}
-              loading={loading}
-            />
-          </aside>
+        <div className={`grid gap-4 ${showFiltersPanel ? "md:grid-cols-12" : ""}`}>
+          {showFiltersPanel ? (
+            <aside className="md:col-span-4 lg:col-span-3">
+              <FiltersPanel
+                filters={filters}
+                facets={data.facets}
+                onChange={setFilters}
+                loading={loading}
+              />
+            </aside>
+          ) : null}
 
-          <main className="md:col-span-8 lg:col-span-9">
+          <main className={showFiltersPanel ? "md:col-span-8 lg:col-span-9" : ""}>
             {mode === "ask" ? (
               <AskPanel filters={filters} />
             ) : mode === "patterns" ? (

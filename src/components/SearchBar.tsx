@@ -27,7 +27,7 @@ export default function SearchBar({
         </div>
         <button
           onClick={onClear}
-          className="rounded-xl border border-black/10 bg-white px-4 py-3 text-sm hover:bg-black/5"
+          className="rounded-xl border border-black/10 bg-white px-4 py-3 text-sm transition-all duration-200 hover:-translate-y-0.5 hover:bg-black/5 active:translate-y-0 active:scale-[0.98]"
           title="Reset search + filters"
         >
           Reset
@@ -83,7 +83,7 @@ export default function SearchBar({
                 key={c.label}
                 onClick={c.apply}
                 style={style}
-                className={`rounded-full px-3 py-1.5 text-xs transition-all duration-300 ${
+                className={`rounded-full px-3 py-1.5 text-xs transition-all duration-200 hover:-translate-y-0.5 active:translate-y-0 active:scale-[0.98] ${
                   isSpotlight
                     ? c.active
                       ? "animate-[chipGlow_1.8s_ease-in-out_infinite] scale-[1.02]"

@@ -78,6 +78,7 @@ function awardTierRank(tier: string | undefined) {
 function isDefaultHomeState(filters: SearchFilters) {
   return (
     !(filters.q ?? "").trim() &&
+    !(filters.preset ?? "").trim() &&
     (filters.sort ?? "relevance") === "relevance" &&
     !(filters.years?.length) &&
     !(filters.awardTiers?.length) &&
@@ -113,10 +114,36 @@ const AIRLINE_PRESET_TERMS = [
   "flybondi", "ryanair", "easyjet", "qantas", "emirates", "etihad", "lufthansa",
   "klm", "british airways", "air france", "delta", "jetblue", "united", "turkish airlines", "qatar airways"
 ];
+const OLYMPICS_PRESET_TERMS = [
+  "olympic", "olympics", "paralympic", "paralympics", "team usa", "rings", "medal", "medals"
+];
+const CHRISTMAS_PRESET_TERMS = [
+  "christmas", "xmas", "holiday", "holidays", "santa", "festive"
+];
+const GAMING_PRESET_TERMS = [
+  "gaming", "game", "games", "esports", "fortnite", "xbox", "playstation", "nintendo", "gamer"
+];
+
+function campaignSearchBlob(c: Campaign) {
+  return `${c.brand ?? ""} ${c.title ?? ""} ${c.agency ?? ""} ${c.notes ?? ""} ${c.outboundUrl ?? ""}`.toLowerCase();
+}
 
 function matchesAirlinePreset(c: Campaign) {
-  const blob = `${c.brand ?? ""} ${c.title ?? ""} ${c.agency ?? ""} ${c.notes ?? ""} ${c.outboundUrl ?? ""}`.toLowerCase();
+  const blob = campaignSearchBlob(c);
   return AIRLINE_PRESET_TERMS.some((t) => blob.includes(t));
+}
+
+function matchesTermPreset(c: Campaign, terms: string[]) {
+  const blob = campaignSearchBlob(c);
+  return terms.some((t) => blob.includes(t));
+}
+
+function matchesPreset(c: Campaign, preset: string) {
+  if (preset === "airlines") return matchesAirlinePreset(c);
+  if (preset === "olympics") return matchesTermPreset(c, OLYMPICS_PRESET_TERMS);
+  if (preset === "christmas") return matchesTermPreset(c, CHRISTMAS_PRESET_TERMS);
+  if (preset === "gaming") return matchesTermPreset(c, GAMING_PRESET_TERMS);
+  return true;
 }
 
 export function runSearch(filters: SearchFilters, limit = 48, offset = 0): SearchResponse {
@@ -133,8 +160,9 @@ export function runSearch(filters: SearchFilters, limit = 48, offset = 0): Searc
     base = campaigns.map((c) => ({ ...c, score: 0 }));
   }
 
+  const preset = (filters.preset ?? "").trim().toLowerCase();
   const filtered = base.filter((c) => {
-    if ((filters.preset ?? "") === "airlines" && !matchesAirlinePreset(c)) return false;
+    if (preset && !matchesPreset(c, preset)) return false;
     if (filters.years?.length && !filters.years.includes(Number(c.year ?? 0))) return false;
     if (filters.awardTiers?.length && !matchesAny(c.awardTier, filters.awardTiers)) return false;
     if (filters.categories?.length && !matchesAny(c.categoryBucket, filters.categories)) return false;
