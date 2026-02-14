@@ -73,6 +73,17 @@ function extractVimeoId(url) {
   return m ? m[1] : "";
 }
 
+function youtubeThumbnailCandidates(id) {
+  if (!id) return [];
+  return [
+    `https://i.ytimg.com/vi/${id}/maxresdefault.jpg`,
+    `https://i.ytimg.com/vi/${id}/sddefault.jpg`,
+    `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+    `https://i.ytimg.com/vi/${id}/mqdefault.jpg`,
+    `https://i.ytimg.com/vi/${id}/default.jpg`,
+  ];
+}
+
 function looksImageLike(raw) {
   if (!raw || !/^https?:\/\//i.test(raw)) return false;
   try {
@@ -238,7 +249,7 @@ async function repairRecord(rec) {
     const u = normalizeCaseUrl(raw || "");
     if (!u) continue;
     const yid = extractYoutubeId(u);
-    if (yid) candidates.push(`https://i.ytimg.com/vi/${yid}/default.jpg`);
+    if (yid) candidates.push(...youtubeThumbnailCandidates(yid));
     const vid = extractVimeoId(u);
     if (vid) candidates.push(`https://vumbnail.com/${vid}.jpg`);
   }

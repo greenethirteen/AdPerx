@@ -1,0 +1,357 @@
+{
+  "generatedAt": "2026-02-12T13:15:43.586Z",
+  "unresolved": 667,
+  "targeted": 106,
+  "replaced": 43,
+  "searched": 106,
+  "skippedLowScore": 2,
+  "noCandidates": 58,
+  "unavailable": 1,
+  "minScore": 0.18,
+  "changed": [
+    {
+      "id": "2025-animal-alerts-petpace",
+      "title": "ANIMAL ALERTS",
+      "brand": "PETPACE",
+      "oldUrl": "https://youtu.be/kfnhUWM876k",
+      "newUrl": "https://www.youtube.com/watch?v=SABTmY5lCSk",
+      "score": 0.5
+    },
+    {
+      "id": "2024-animal-alerts-petpace",
+      "title": "ANIMAL ALERTS",
+      "brand": "PETPACE",
+      "oldUrl": "https://youtu.be/kfnhUWM876k",
+      "newUrl": "https://www.youtube.com/watch?v=SABTmY5lCSk",
+      "score": 0.5
+    },
+    {
+      "id": "2024-the-minefields-honey-project-ministry-of-foreign-affairs-kernel",
+      "title": "THE MINEFIELDS HONEY PROJECT",
+      "brand": "MINISTRY OF FOREIGN AFFAIRS KERNEL",
+      "oldUrl": "https://www.youtube.com/watch?v=iV-T2UJPzPU&embeds_referring_euri=https%3A%2F%2Fcreative-stories.com.ua%2F&source_ve_path=MjM4NTE&feature=emb_title",
+      "newUrl": "https://www.youtube.com/watch?v=ABV3K_N7a7k",
+      "score": 0.545
+    },
+    {
+      "id": "2024-sabina-braless-sabina",
+      "title": "SABINA BRALESS",
+      "brand": "SABINA",
+      "oldUrl": "https://www.youtube.com/watch?v=4kHvxvdUgv4",
+      "newUrl": "https://www.youtube.com/watch?v=7lpA7h_7fnY",
+      "score": 0.4
+    },
+    {
+      "id": "2023-the-greatest-apple",
+      "title": "THE GREATEST",
+      "brand": "APPLE",
+      "oldUrl": "https://www.youtube.com/watch?v=8sX9IEHWRJ8",
+      "newUrl": "https://www.youtube.com/watch?v=wVXAFlueS9Y",
+      "score": 0.429
+    },
+    {
+      "id": "2023-optink-junge-helden-e-v",
+      "title": "#OPTINK",
+      "brand": "JUNGE HELDEN E.V.",
+      "oldUrl": "https://www.youtube.com/watch?v=w-DRxhi0jrc",
+      "newUrl": "https://www.youtube.com/watch?v=mt7jJpp3qDI",
+      "score": 0.5
+    },
+    {
+      "id": "2023-relax-it-s-iphone-r-i-p-leon-apple",
+      "title": "RELAX, IT’S IPHONE: R.I.P. LEON",
+      "brand": "APPLE",
+      "oldUrl": "https://www.youtube.com/watch?v=t2n0ykn4AKw",
+      "newUrl": "https://www.youtube.com/watch?v=lW6fCFYcV_0",
+      "score": 0.833
+    },
+    {
+      "id": "2023-1000-slides-globant",
+      "title": "1000 SLIDES",
+      "brand": "GLOBANT",
+      "oldUrl": "https://www.youtube.com/watch?v=zuHq15s6HSc",
+      "newUrl": "https://www.youtube.com/watch?v=MZ7TanbCypw",
+      "score": 0.571
+    },
+    {
+      "id": "2023-home-of-thoughtful-gifting-john-lewis-partners",
+      "title": "HOME OF THOUGHTFUL GIFTING",
+      "brand": "JOHN LEWIS & PARTNERS",
+      "oldUrl": "https://youtu.be/LVBeU9kjNN0",
+      "newUrl": "https://www.youtube.com/watch?v=LVBeU9kjNN0",
+      "score": 0.5
+    },
+    {
+      "id": "2023-samsung-unfear-samsung-spain",
+      "title": "SAMSUNG UNFEAR",
+      "brand": "SAMSUNG SPAIN",
+      "oldUrl": "https://www.youtube.com/watch?v=IY8QiOcKeqM",
+      "newUrl": "https://www.youtube.com/watch?v=sRH2199rS9Q",
+      "score": 0.429
+    },
+    {
+      "id": "2023-relax-it-s-iphone-action-mode-apple",
+      "title": "RELAX, IT’S IPHONE: ACTION MODE",
+      "brand": "APPLE",
+      "oldUrl": "https://www.youtube.com/watch?v=tRPqGf8nc4g",
+      "newUrl": "https://www.youtube.com/watch?v=lW6fCFYcV_0",
+      "score": 0.571
+    },
+    {
+      "id": "2023-fursat-shot-on-iphone-14-pro-apple",
+      "title": "FURSAT / SHOT ON IPHONE 14 PRO",
+      "brand": "APPLE",
+      "oldUrl": "https://www.youtube.com/watch?v=f1VEks-QQ4Y",
+      "newUrl": "https://www.youtube.com/watch?v=HSFqrAGVE7Q",
+      "score": 0.417
+    },
+    {
+      "id": "2023-mcdrop-mcdonald-s",
+      "title": "MCDROP",
+      "brand": "MCDONALD’S",
+      "oldUrl": "https://youtu.be/xPwclbn-hSs",
+      "newUrl": "https://www.youtube.com/watch?v=NNuuDiUjxVY",
+      "score": 0.4
+    },
+    {
+      "id": "2023-message-from-the-other-front-the-salvation-army",
+      "title": "MESSAGE FROM THE OTHER FRONT",
+      "brand": "THE SALVATION ARMY",
+      "oldUrl": "https://youtu.be/3Yl6Sx9Dgm8",
+      "newUrl": "https://www.youtube.com/watch?v=3Yl6Sx9Dgm8",
+      "score": 0.7
+    },
+    {
+      "id": "2023-the-gentle-giant-ad-council-love-has-no-labels",
+      "title": "THE GENTLE GIANT",
+      "brand": "AD COUNCIL LOVE HAS NO LABELS",
+      "oldUrl": "https://www.youtube.com/watch?v=LQYzsZSwEk4",
+      "newUrl": "https://www.youtube.com/watch?v=iULqWuFXXho",
+      "score": 0.7
+    },
+    {
+      "id": "2023-the-singularity-bts-squarespace",
+      "title": "THE SINGULARITY: BTS",
+      "brand": "SQUARESPACE",
+      "oldUrl": "https://www.youtube.com/watch?v=XnLTBCSgGpQ",
+      "newUrl": "https://www.youtube.com/watch?v=lIf27sHt2QA",
+      "score": 0.571
+    },
+    {
+      "id": "2022-open-spaces-burberry",
+      "title": "OPEN SPACES",
+      "brand": "BURBERRY",
+      "oldUrl": "https://www.youtube.com/watch?v=iCbfq_-cd-g",
+      "newUrl": "https://www.youtube.com/watch?v=aTNEwLSMJo4",
+      "score": 0.5
+    },
+    {
+      "id": "2022-project-convey-cox-communications",
+      "title": "PROJECT CONVEY",
+      "brand": "COX COMMUNICATIONS",
+      "oldUrl": "https://www.youtube.com/watch?v=X_jGSLqGy-Y&t=3s&ab_channel=Cox",
+      "newUrl": "https://www.youtube.com/watch?v=MwSEV_tTPUE",
+      "score": 0.333
+    },
+    {
+      "id": "2023-through-my-eyes-waka-kotahi",
+      "title": "THROUGH MY EYES",
+      "brand": "WAKA KOTAHI",
+      "oldUrl": "https://www.youtube.com/watch?v=wwEhELyQe4c",
+      "newUrl": "https://www.youtube.com/watch?v=kA1wpK55Wzw",
+      "score": 0.286
+    },
+    {
+      "id": "2022-escape-from-the-office-apple",
+      "title": "ESCAPE FROM THE OFFICE",
+      "brand": "APPLE",
+      "oldUrl": "https://www.youtube.com/watch?v=GC5Gmkn92Bg",
+      "newUrl": "https://www.youtube.com/watch?v=uWScBthI3_0",
+      "score": 0.625
+    },
+    {
+      "id": "2022-shagun-ka-lifafa-ujjivan-small-finance-bank",
+      "title": "SHAGUN KA LIFAFA",
+      "brand": "UJJIVAN SMALL FINANCE BANK",
+      "oldUrl": "https://www.youtube.com/watch?v=I7utFGsDhGQ",
+      "newUrl": "https://www.youtube.com/watch?v=cbG9XR5_ENY",
+      "score": 0.6
+    },
+    {
+      "id": "2022-ford-very-gay-raptor-ford",
+      "title": "FORD VERY GAY RAPTOR",
+      "brand": "FORD",
+      "oldUrl": "https://www.youtube.com/watch?v=6bpTflJ6yUw",
+      "newUrl": "https://www.youtube.com/watch?v=n8zQMnBfOJM",
+      "score": 0.833
+    },
+    {
+      "id": "2022-the-nominate-me-selfie-political-shakti-the-times-of-india",
+      "title": "THE NOMINATE ME SELFIE",
+      "brand": "POLITICAL SHAKTI + THE TIMES OF INDIA",
+      "oldUrl": "https://www.youtube.com/watch?v=oC0WcNpfVWA",
+      "newUrl": "https://www.youtube.com/watch?v=vHtAzKY822M",
+      "score": 0.5
+    },
+    {
+      "id": "2022-when-harry-met-santa-posten-the-norwegian-postal-service",
+      "title": "WHEN HARRY MET SANTA",
+      "brand": "POSTEN: THE NORWEGIAN POSTAL SERVICE",
+      "oldUrl": "https://www.youtube.com/watch?v=nDLumk_rQQw",
+      "newUrl": "https://www.youtube.com/watch?v=pCNnX7ahix8",
+      "score": 0.667
+    },
+    {
+      "id": "2022-now-you-know-abbott",
+      "title": "NOW YOU KNOW",
+      "brand": "ABBOTT",
+      "oldUrl": "https://www.youtube.com/watch?v=80BVDFifPd0",
+      "newUrl": "https://www.youtube.com/watch?v=rUESqJYGcDk",
+      "score": 0.5
+    },
+    {
+      "id": "2022-chornobyl-vanishing-logo-state-agency-of-ukraine-on-exclusion-zone-management",
+      "title": "CHORNOBYL VANISHING LOGO",
+      "brand": "STATE AGENCY OF UKRAINE ON EXCLUSION ZONE MANAGEMENT",
+      "oldUrl": "https://www.youtube.com/watch?v=Mzce4MifgBQ",
+      "newUrl": "https://www.youtube.com/watch?v=xtqZWSwS9hI",
+      "score": 0.571
+    },
+    {
+      "id": "2022-the-tokyo-toilet-the-nippon-foundation",
+      "title": "THE TOKYO TOILET",
+      "brand": "THE NIPPON FOUNDATION",
+      "oldUrl": "https://www.youtube.com/watch?v=TjouGyWXVM0&t=83s",
+      "newUrl": "https://www.youtube.com/watch?v=RB9rX9IpLxI",
+      "score": 0.667
+    },
+    {
+      "id": "2022-skate-nation-ghana-facebook",
+      "title": "SKATE NATION GHANA",
+      "brand": "FACEBOOK",
+      "oldUrl": "https://www.youtube.com/watch?v=E_ysoCP1UcI",
+      "newUrl": "https://www.youtube.com/watch?v=h1AsO1pUkmE",
+      "score": 0.556
+    },
+    {
+      "id": "2022-the-inheritance-pass-yellowstone-forever",
+      "title": "THE INHERITANCE PASS",
+      "brand": "YELLOWSTONE FOREVER",
+      "oldUrl": "https://www.youtube.com/watch?v=sUkkikPi6ak",
+      "newUrl": "https://www.youtube.com/watch?v=kqo_W4EcQ1U",
+      "score": 0.625
+    },
+    {
+      "id": "2022-shot-on-iphone-13-pro-the-comeback-apple",
+      "title": "SHOT ON IPHONE 13 PRO: THE COMEBACK",
+      "brand": "APPLE",
+      "oldUrl": "https://www.youtube.com/watch?v=Me3PEs88pOU",
+      "newUrl": "https://www.youtube.com/watch?v=JjypVeu9s5s",
+      "score": 0.5
+    },
+    {
+      "id": "2022-guns-stats-change-the-ref",
+      "title": "GUNS STATS",
+      "brand": "CHANGE THE REF",
+      "oldUrl": "https://www.youtube.com/watch?v=ADlLu6Iynzs",
+      "newUrl": "https://www.youtube.com/watch?v=744oTmKUOlg",
+      "score": 0.714
+    },
+    {
+      "id": "2022-reqruitement-mcdonald-s",
+      "title": "REQRUITEMENT",
+      "brand": "MCDONALD’S",
+      "oldUrl": "https://www.youtube.com/watch?v=KZjBpC8HzDE",
+      "newUrl": "https://www.youtube.com/watch?v=MrWM4wTRAQw",
+      "score": 0.333
+    },
+    {
+      "id": "2022-fumble-apple",
+      "title": "FUMBLE",
+      "brand": "APPLE",
+      "oldUrl": "https://www.youtube.com/watch?v=xJh3WIPUcOk",
+      "newUrl": "https://www.youtube.com/watch?v=OaGTAeBJQUI",
+      "score": 0.75
+    },
+    {
+      "id": "2022-airpods-3rd-generation-apple",
+      "title": "AIRPODS: 3RD GENERATION",
+      "brand": "APPLE",
+      "oldUrl": "https://www.youtube.com/watch?v=-5y2YqrlOr4",
+      "newUrl": "https://www.youtube.com/watch?v=6QkTXiRJCJs",
+      "score": 0.5
+    },
+    {
+      "id": "2022-coda-playlist-curated-by-deaf-people-apple",
+      "title": "CODA PLAYLIST CURATED BY DEAF PEOPLE",
+      "brand": "APPLE",
+      "oldUrl": "https://www.youtube.com/watch?v=8yc0mF8oMSM",
+      "newUrl": "https://www.youtube.com/watch?v=1o9JCT-q2l4",
+      "score": 0.545
+    },
+    {
+      "id": "2022-doin-laps-apple",
+      "title": "DOIN’ LAPS",
+      "brand": "APPLE",
+      "oldUrl": "https://www.youtube.com/watch?v=pJIKPzZTJXM",
+      "newUrl": "https://www.youtube.com/watch?v=J-lCMTXzi6g",
+      "score": 0.8
+    },
+    {
+      "id": "2022-start-up-45-years-of-apple-sounds-apple",
+      "title": "START UP: 45 YEARS OF APPLE SOUNDS",
+      "brand": "APPLE",
+      "oldUrl": "https://www.youtube.com/watch?v=OxJpZtp2ItE",
+      "newUrl": "https://www.youtube.com/watch?v=JuIrel4HCVo",
+      "score": 0.364
+    },
+    {
+      "id": "2014-the-first-aids-free-generation-bank-of-america",
+      "title": "THE FIRST AIDS FREE GENERATION",
+      "brand": "BANK OF AMERICA",
+      "oldUrl": "https://www.youtube.com/watch?v=hwgquII0XyA&ab_channel=DeborahMalone",
+      "newUrl": "https://www.youtube.com/watch?v=CiydLEDktL8",
+      "score": 0.3
+    },
+    {
+      "id": "2012-flavor-radio-dunkin-donuts",
+      "title": "FLAVOR RADIO",
+      "brand": "DUNKIN’ DONUTS",
+      "oldUrl": "https://www.youtube.com/watch?v=57xO-aMiHbs&ab_channel=DaeheeHan",
+      "newUrl": "https://www.youtube.com/watch?v=V2tP-FAn6u8",
+      "score": 0.625
+    },
+    {
+      "id": "2012-the-hinglish-project-ministry-of-tourism-govt-of-india",
+      "title": "THE HINGLISH PROJECT",
+      "brand": "MINISTRY OF TOURISM GOVT. OF INDIA",
+      "oldUrl": "https://www.youtube.com/watch?v=YPxK87KOMTQ",
+      "newUrl": "https://www.youtube.com/watch?v=S1w6c920DR8",
+      "score": 0.4
+    },
+    {
+      "id": "2011-welcome-home-t-mobile",
+      "title": "WELCOME HOME",
+      "brand": "T-MOBILE",
+      "oldUrl": "https://www.youtube.com/watch?v=NB3NPNM4xgo&ab_channel=lifesforsharing",
+      "newUrl": "https://www.youtube.com/watch?v=EU7pZO7cRDs",
+      "score": 0.5
+    },
+    {
+      "id": "2010-baby-elephant-zoo-antwerp",
+      "title": "BABY ELEPHANT",
+      "brand": "ZOO ANTWERP",
+      "oldUrl": "https://www.youtube.com/watch?v=F1uwexYeKAg",
+      "newUrl": "https://www.youtube.com/watch?v=h4d4IJ2RF7M",
+      "score": 0.429
+    },
+    {
+      "id": "2001-positive-spanish-red-cross",
+      "title": "POSITIVE",
+      "brand": "SPANISH RED CROSS",
+      "oldUrl": "https://www.youtube.com/watch?v=dqggsLXhs_4",
+      "newUrl": "https://www.youtube.com/watch?v=aV9PaQ5PUvQ",
+      "score": 0.5
+    }
+  ]
+}

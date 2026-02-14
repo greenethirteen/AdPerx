@@ -2,8 +2,6 @@
 
 import type { Campaign } from "@/lib/types";
 import {
-  buildScreenshotThumbnail,
-  getBestCampaignLink,
   getNextThumbnailFallback,
   getPreferredThumbnailUrl,
   isRenderableThumbnailUrl
@@ -51,36 +49,34 @@ export default function ResultsGrid({
       </div>
 
       <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-        {results.map((c) => (
-          <button
-            key={c.id}
-            onClick={() => onSelect(c.id)}
-            className="group rounded-2xl border border-black/10 bg-white p-4 text-left shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft"
-          >
+        {results.map((c) => {
+          const awardType = getAwardTypeLabel(c);
+          return (
+            <button
+              key={c.id}
+              onClick={() => onSelect(c.id)}
+              className="group rounded-2xl border border-black/10 bg-white p-4 text-left shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft"
+            >
             <div className="mb-3 overflow-hidden rounded-xl border border-black/10 bg-black/5">
               {isRenderableThumbnailUrl(c.thumbnailUrl || "") ? (
-                <img
-                  src={getPreferredThumbnailUrl(c.thumbnailUrl || "")}
-                  alt={`${c.brand} — ${c.title}`}
-                  className="h-32 w-full object-cover"
-                  loading="lazy"
-                  onError={(e) => {
-                    const img = e.currentTarget;
-                    const next = getNextThumbnailFallback(img.src);
-                    if (next && img.dataset.normalized !== "1") {
-                      img.dataset.normalized = "1";
-                      img.src = next;
-                      return;
-                    }
-                    const fallback = buildScreenshotThumbnail(getBestCampaignLink(c));
-                    if (fallback && img.dataset.screenshot !== "1") {
-                      img.dataset.screenshot = "1";
-                      img.src = fallback;
-                      return;
-                    }
-                    img.style.display = "none";
-                  }}
-                />
+                <div className="relative h-32 w-full">
+                  <div className="absolute inset-0 flex items-center justify-center text-xs text-black/50">No preview</div>
+                  <img
+                    src={getPreferredThumbnailUrl(c.thumbnailUrl || "")}
+                    alt={`${c.brand} — ${c.title}`}
+                    className="relative z-10 h-32 w-full object-cover"
+                    loading="lazy"
+                    onError={(e) => {
+                      const img = e.currentTarget;
+                      const next = getNextThumbnailFallback(img.src);
+                      if (next && next !== img.src) {
+                        img.src = next;
+                        return;
+                      }
+                      img.style.display = "none";
+                    }}
+                  />
+                </div>
               ) : (
                 <div className="flex h-32 w-full items-center justify-center text-xs text-black/50">
                   No preview
@@ -99,7 +95,8 @@ export default function ResultsGrid({
               </div>
             </div>
 
-            <div className="mt-3 flex flex-wrap gap-2">
+              <div className="mt-3 flex flex-wrap gap-2">
+                {awardType ? <AwardTypeTag>{awardType}</AwardTypeTag> : null}
               {c.industry ? <Tag>{c.industry}</Tag> : null}
               {(c.formatHints ?? []).slice(0, 2).map((t) => (
                 <Tag key={t}>{t}</Tag>
@@ -116,8 +113,9 @@ export default function ResultsGrid({
             <div className="mt-3 text-xs font-semibold text-black/60 group-hover:text-black">
               Open preview →
             </div>
-          </button>
-        ))}
+            </button>
+          );
+        })}
 
         {!results.length && !loading ? (
           <div className="col-span-full rounded-xl border border-black/10 bg-white p-6 text-sm text-black/60">
@@ -145,6 +143,16 @@ export default function ResultsGrid({
 
 function Tag({ children }: { children: React.ReactNode }) {
   return <span className="rounded-full bg-black/5 px-2 py-1 text-xs text-black/70">{children}</span>;
+}
+
+function AwardTypeTag({ children }: { children: React.ReactNode }) {
+  return <span className="rounded-full border border-black/15 bg-black/5 px-2 py-1 text-xs font-semibold text-black/80">{children}</span>;
+}
+
+function getAwardTypeLabel(c: Campaign): string {
+  const label = (c.awardCategory || c.categoryBucket || "").trim();
+  if (!label) return "";
+  return label.length > 36 ? `${label.slice(0, 33)}…` : label;
 }
 
 function PaginationControls({

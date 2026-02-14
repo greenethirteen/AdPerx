@@ -17,10 +17,12 @@ const EMPTY: SearchResponse = {
   facets: { years: {}, awardTiers: {}, categories: {}, industry: {}, topics: {}, formats: {}, brands: {}, agencies: {} }
 };
 const PAGE_SIZE = 48;
+const VINTAGE_YEARS = Array.from({ length: 1995 - 1954 + 1 }, (_, i) => 1954 + i);
 
 function qsFromFilters(f: SearchFilters) {
   const p = new URLSearchParams();
   if (f.q) p.set("q", f.q);
+  if (f.preset) p.set("preset", f.preset);
   if (f.sort && f.sort !== "relevance") p.set("sort", f.sort);
   for (const y of f.years ?? []) p.append("years", String(y));
   for (const v of f.awardTiers ?? []) p.append("awardTiers", v);
@@ -36,6 +38,7 @@ function qsFromFilters(f: SearchFilters) {
 export default function AppShell() {
   const [filters, setFilters] = useState<SearchFilters>({
     q: "",
+    preset: "",
     sort: "relevance",
     years: [],
     awardTiers: [],
@@ -57,9 +60,32 @@ export default function AppShell() {
     () => data.results.find((r) => r.id === selectedId) ?? null,
     [data.results, selectedId]
   );
+  const selectedIndex = useMemo(
+    () => (selectedId ? data.results.findIndex((r) => r.id === selectedId) : -1),
+    [data.results, selectedId]
+  );
+  const previousCampaign = selectedIndex > 0 ? data.results[selectedIndex - 1] : null;
+  const nextCampaign =
+    selectedIndex >= 0 && selectedIndex < data.results.length - 1 ? data.results[selectedIndex + 1] : null;
   const isSuperBowlShortcutActive =
     filters.sort === "year_desc" &&
-    (filters.q ?? "").toLowerCase().includes("super bowl");
+    (filters.topics ?? []).some((t) => t.toLowerCase() === "super bowl");
+  const isCannesShortcutActive =
+    !(filters.q ?? "").trim() &&
+    !(filters.preset ?? "").trim() &&
+    (filters.sort ?? "relevance") === "relevance" &&
+    !(filters.years?.length) &&
+    !(filters.awardTiers?.length) &&
+    !(filters.categories?.length) &&
+    !(filters.industry?.length) &&
+    !(filters.topics?.length) &&
+    !(filters.formats?.length) &&
+    !(filters.brands?.length) &&
+    !(filters.agencies?.length);
+  const isVintageShortcutActive =
+    filters.sort === "year_desc" &&
+    VINTAGE_YEARS.every((y) => (filters.years ?? []).includes(y)) &&
+    (filters.years?.length ?? 0) === VINTAGE_YEARS.length;
 
   useEffect(() => {
     setPage(1);
@@ -135,16 +161,45 @@ export default function AppShell() {
         {mode === "search" ? (
           <SearchBar
             value={filters.q ?? ""}
-            onChange={(q) => setFilters((s) => ({ ...s, q }))}
+            onChange={(q) => setFilters((s) => ({ ...s, q, preset: "" }))}
             quickChips={[
               {
-                label: "Grand Prix",
+                label: "Cannes Lions Winners",
+                variant: "cannes",
+                active: isCannesShortcutActive,
+                apply: () =>
+                  window.location.assign("/")
+              },
+              {
+                label: "Super Bowl Ads",
+                variant: "spotlight",
+                active: isSuperBowlShortcutActive,
                 apply: () =>
                   setFilters({
                     q: "",
-                    sort: "relevance",
+                    preset: "",
+                    sort: "year_desc",
                     years: [],
-                    awardTiers: ["Grand Prix"],
+                    awardTiers: [],
+                    categories: [],
+                    industry: [],
+                    topics: ["super bowl"],
+                    formats: [],
+                    brands: [],
+                    agencies: []
+                  })
+              },
+              {
+                label: "Vintage",
+                variant: "vintage",
+                active: isVintageShortcutActive,
+                apply: () =>
+                  setFilters({
+                    q: "",
+                    preset: "",
+                    sort: "year_desc",
+                    years: VINTAGE_YEARS,
+                    awardTiers: [],
                     categories: [],
                     industry: [],
                     topics: [],
@@ -158,11 +213,12 @@ export default function AppShell() {
                 apply: () =>
                   setFilters({
                     q: "",
+                    preset: "airlines",
                     sort: "relevance",
                     years: [],
                     awardTiers: [],
                     categories: [],
-                    industry: ["airlines"],
+                    industry: [],
                     topics: [],
                     formats: [],
                     brands: [],
@@ -174,6 +230,7 @@ export default function AppShell() {
                 apply: () =>
                   setFilters({
                     q: "olympic olympics",
+                    preset: "",
                     sort: "relevance",
                     years: [],
                     awardTiers: [],
@@ -186,28 +243,11 @@ export default function AppShell() {
                   })
               },
               {
-                label: "Super Bowl Ads",
-                variant: "spotlight",
-                active: isSuperBowlShortcutActive,
-                apply: () =>
-                  setFilters({
-                    q: "super bowl big game commercial",
-                    sort: "year_desc",
-                    years: [],
-                    awardTiers: [],
-                    categories: [],
-                    industry: [],
-                    topics: ["sports"],
-                    formats: [],
-                    brands: [],
-                    agencies: []
-                  })
-              },
-              {
                 label: "Christmas Campaigns",
                 apply: () =>
                   setFilters({
                     q: "christmas holiday",
+                    preset: "",
                     sort: "relevance",
                     years: [],
                     awardTiers: [],
@@ -223,13 +263,14 @@ export default function AppShell() {
                 label: "Gaming Campaigns",
                 apply: () =>
                   setFilters({
-                    q: "",
+                    q: "gaming game games esports fortnite xbox playstation nintendo",
+                    preset: "",
                     sort: "relevance",
                     years: [],
                     awardTiers: [],
                     categories: [],
                     industry: [],
-                    topics: ["gaming"],
+                    topics: [],
                     formats: [],
                     brands: [],
                     agencies: []
@@ -239,6 +280,7 @@ export default function AppShell() {
             onClear={() =>
               setFilters({
                 q: "",
+                preset: "",
                 sort: "relevance",
                 years: [],
                 awardTiers: [],
@@ -288,6 +330,14 @@ export default function AppShell() {
       <DetailModal
         campaign={selected}
         open={Boolean(selected)}
+        previousCampaign={previousCampaign}
+        nextCampaign={nextCampaign}
+        onPrevious={() => {
+          if (previousCampaign) setSelectedId(previousCampaign.id);
+        }}
+        onNext={() => {
+          if (nextCampaign) setSelectedId(nextCampaign.id);
+        }}
         onClose={() => setSelectedId(null)}
       />
 

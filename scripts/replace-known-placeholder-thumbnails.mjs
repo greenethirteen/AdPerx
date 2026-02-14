@@ -91,7 +91,7 @@ for (const r of data) {
 
   const yid = extractYoutubeId(out) || extractYoutubeId(src);
   if (yid) {
-    const yt = `https://i.ytimg.com/vi/${yid}/default.jpg`;
+    const yt = `https://i.ytimg.com/vi/${yid}/hqdefault.jpg`;
     // keep only if actually alive
     const st = await headStatus(yt);
     if (st >= 200 && st < 300) {

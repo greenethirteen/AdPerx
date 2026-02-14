@@ -8,12 +8,19 @@
 }
 
 html, body {
-  height: 100%;
+  min-height: 100%;
+}
+
+html {
+  background: radial-gradient(1200px 800px at 10% 0%, rgba(59,130,246,0.12), transparent 55%),
+              radial-gradient(1200px 800px at 90% 0%, rgba(168,85,247,0.10), transparent 55%),
+              rgb(var(--bg));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 body {
   color: rgb(var(--fg));
-  background: radial-gradient(1200px 800px at 10% 0%, rgba(59,130,246,0.12), transparent 55%),
-              radial-gradient(1200px 800px at 90% 0%, rgba(168,85,247,0.10), transparent 55%),
-              rgb(var(--bg));
+  background: transparent;
 }

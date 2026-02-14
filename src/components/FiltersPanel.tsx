@@ -3,6 +3,10 @@
 import { useState } from "react";
 import type { FacetCounts, SearchFilters } from "@/lib/types";
 
+const VINTAGE_START = 1954;
+const VINTAGE_END = 1995;
+const VINTAGE_KEY = "1954–1995";
+
 export default function FiltersPanel({
   filters,
   facets,
@@ -23,6 +27,9 @@ export default function FiltersPanel({
   onChange: (f: SearchFilters) => void;
   loading: boolean;
 }) {
+  const yearValues = buildYearFacetWithVintage(facets.years);
+  const selectedYearKeys = getSelectedYearKeys(filters.years ?? [], facets.years);
+
   return (
     <div className="rounded-2xl bg-white/70 p-4 shadow-soft backdrop-blur">
       <div className="flex items-center justify-between">
@@ -47,10 +54,10 @@ export default function FiltersPanel({
         />
         <Facet
           title="Year"
-          values={sortNumberKeys(facets.years)}
-          selected={(filters.years ?? []).map(String)}
+          values={yearValues}
+          selected={selectedYearKeys}
           onToggle={(v) => {
-            const years = toggle((filters.years ?? []).map(String), v).map(Number);
+            const years = toggleYearFilters(filters.years ?? [], v, facets.years);
             onChange({ ...filters, years });
           }}
           limit={12}
@@ -101,6 +108,67 @@ function sortNumberKeys(map: FacetCounts): FacetCounts {
   return Object.fromEntries(entries);
 }
 
+function buildYearFacetWithVintage(map: FacetCounts): FacetCounts {
+  const entries = Object.entries(map).filter(([k]) => k && k !== "0");
+  let vintageCount = 0;
+  const modern: Array<[string, number]> = [];
+
+  for (const [k, count] of entries) {
+    const year = Number(k);
+    if (!Number.isFinite(year)) continue;
+    if (year >= VINTAGE_START && year <= VINTAGE_END) {
+      vintageCount += count;
+    } else {
+      modern.push([k, count]);
+    }
+  }
+
+  modern.sort((a, b) => Number(b[0]) - Number(a[0]));
+  const out: Array<[string, number]> = [...modern];
+  if (vintageCount > 0) out.push([VINTAGE_KEY, vintageCount]);
+  return Object.fromEntries(out);
+}
+
+function getVintageYearsFromFacets(map: FacetCounts): number[] {
+  return Object.keys(map)
+    .map((k) => Number(k))
+    .filter((y) => Number.isFinite(y) && y >= VINTAGE_START && y <= VINTAGE_END);
+}
+
+function getSelectedYearKeys(selectedYears: number[], yearFacetMap: FacetCounts): string[] {
+  const set = new Set(selectedYears.map((y) => Number(y)).filter(Number.isFinite));
+  const vintageYears = getVintageYearsFromFacets(yearFacetMap);
+  const hasVintageSelected = vintageYears.some((y) => set.has(y));
+
+  const keys = Array.from(set)
+    .filter((y) => y < VINTAGE_START || y > VINTAGE_END)
+    .map(String);
+
+  if (hasVintageSelected) keys.push(VINTAGE_KEY);
+  return keys;
+}
+
+function toggleYearFilters(selectedYears: number[], v: string, yearFacetMap: FacetCounts): number[] {
+  const set = new Set(selectedYears.map((y) => Number(y)).filter(Number.isFinite));
+
+  if (v === VINTAGE_KEY) {
+    const vintageYears = getVintageYearsFromFacets(yearFacetMap);
+    const hasAny = vintageYears.some((y) => set.has(y));
+    if (hasAny) {
+      for (const y of vintageYears) set.delete(y);
+    } else {
+      for (const y of vintageYears) set.add(y);
+    }
+  } else {
+    const y = Number(v);
+    if (!Number.isFinite(y)) return Array.from(set).sort((a, b) => b - a);
+    if (set.has(y)) set.delete(y);
+    else set.add(y);
+  }
+
+  return Array.from(set).sort((a, b) => b - a);
+}
+
 function Facet({
   title,
   values,
@@ -114,9 +182,7 @@ function Facet({
   onToggle: (v: string) => void;
   limit: number;
 }) {
-  const allEntries = Object.entries(values)
-    .filter(([k]) => k && k !== "0")
-    .sort((a, b) => b[1] - a[1]);
+  const allEntries = sortFacetEntries(title, values);
   const [expanded, setExpanded] = useState(false);
   const entries = expanded ? allEntries : allEntries.slice(0, limit);
 
@@ -162,4 +228,36 @@ function Facet({
       )}
     </div>
   );
+}
+
+function awardTierRank(label: string): number {
+  const s = label.toLowerCase();
+  if (s.includes("grand")) return 0;
+  if (s.includes("gold")) return 1;
+  if (s.includes("silver")) return 2;
+  if (s.includes("bronze")) return 3;
+  if (s.includes("short")) return 4;
+  if (s.includes("super bowl")) return 5;
+  return 99;
+}
+
+function sortFacetEntries(title: string, values: FacetCounts): Array<[string, number]> {
+  const entries = Object.entries(values).filter(([k]) => k && k !== "0");
+  if (title === "Award Tier") {
+    return entries.sort((a, b) => {
+      const ra = awardTierRank(a[0]);
+      const rb = awardTierRank(b[0]);
+      if (ra !== rb) return ra - rb;
+      if (b[1] !== a[1]) return b[1] - a[1];
+      return a[0].localeCompare(b[0]);
+    });
+  }
+  if (title === "Year") {
+    return entries.sort((a, b) => {
+      if (a[0] === VINTAGE_KEY) return 1;
+      if (b[0] === VINTAGE_KEY) return -1;
+      return Number(b[0]) - Number(a[0]);
+    });
+  }
+  return entries.sort((a, b) => b[1] - a[1]);
 }

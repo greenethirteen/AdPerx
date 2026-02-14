@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import type { IdeationResponse, SearchFilters } from "@/lib/types";
 import { ALL_PURPOSE_TECHNIQUES } from "@/lib/techniques";
-import { cleanCaseUrl, getNextThumbnailFallback, isRenderableThumbnailUrl } from "@/lib/links";
+import { getBestCampaignLink, getNextThumbnailFallback, isRenderableThumbnailUrl } from "@/lib/links";
 
 const EMPTY: IdeationResponse = { brief: "", items: [], sources: [] };
 const DEMO_BRIEF = "Give me creative idea angles for a Harvey Nichols Christmas Sale Campaign.";
@@ -43,6 +43,42 @@ const DEMO_ITEMS: IdeationResponse["items"] = [
     execution: "Style systems content: 1 hero piece, 5 festive scenarios. Shoppable bundles across channels.",
     pros: ["Practical value message", "High merchandising flexibility", "E-commerce ready"],
     citations: []
+  },
+  {
+    technique: "Luxury Confession Booth",
+    line: "The secret things people do for a designer bargain.",
+    insight: "The most shareable festive shopping truths are mildly embarrassing and deeply relatable.",
+    idea: "Invite shoppers and creators to confess their 'sale behavior' in a premium-styled format.",
+    execution: "Street + social interview format with cinematic lighting and rapid edits. End tag: 'You’re among friends at Harvey Nichols.'",
+    pros: ["Highly social-native", "Creator-compatible", "Builds festive participation"],
+    citations: []
+  },
+  {
+    technique: "The Last-Minute Prestige Rescue",
+    line: "For people who remembered everyone else first.",
+    insight: "Late gifting triggers anxiety around quality and thoughtfulness at the same time.",
+    idea: "Frame Harvey Nichols as the fastest route to looking intentional, not rushed.",
+    execution: "Dynamic digital OOH + paid social tied to countdown moments: '48 hours left to look like you planned this months ago.'",
+    pros: ["Strong conversion urgency", "Great for retargeting windows", "Clear role for paid media"],
+    citations: []
+  },
+  {
+    technique: "Style Arbitration",
+    line: "Let the crowd settle festive style disputes in real time.",
+    insight: "Holiday dressing decisions are high-friction and people want permission to choose boldly.",
+    idea: "Launch live style face-offs using sale items, where the audience votes the winner.",
+    execution: "Interactive stories + live shopping events: 'Boardroom party vs black-tie chaos'. Winning looks become featured bundles.",
+    pros: ["Interactive engagement", "Merchandising by demand", "Community-led proof"],
+    citations: []
+  },
+  {
+    technique: "Anti-Perfect Christmas",
+    line: "Celebrate the messy, brilliant reality of festive life.",
+    insight: "Perfect-holiday advertising is often ignored; imperfect honesty feels premium when done with wit.",
+    idea: "Harvey Nichols champions beautifully imperfect festive moments — great outfits, chaotic timelines.",
+    execution: "Film series: burnt canapes, late arrivals, dramatic reunions — but impeccable looks sourced from sale edits.",
+    pros: ["Distinctive tonal lane", "Brand character building", "Cross-channel storytelling"],
+    citations: []
   }
 ];
 
@@ -67,7 +103,7 @@ export default function IdeatePanel({
   const sourceMap = useMemo(() => {
     const map = new Map<string, { label: string; thumb?: string; href?: string }>();
     for (const s of data.sources ?? []) {
-      const href = cleanCaseUrl(s.outboundUrl || "") || cleanCaseUrl(s.sourceUrl || "");
+      const href = getBestCampaignLink(s);
       map.set(s.id, { label: `${s.brand} — ${s.title}`, thumb: s.thumbnailUrl, href });
     }
     return map;

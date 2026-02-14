@@ -1,6 +1,27 @@
 import type { Campaign, FacetCounts, SearchFilters, SearchResponse } from "./types";
 import { getData } from "./data";
 
+const HOMEPAGE_FEATURED_TITLES = [
+  "DOORDASH-ALL-THE-ADS",
+  "MEET GRAHAM",
+  "#LIKEAGIRL",
+  "IT HAS TO BE HEINZ",
+  "RECYCLE ME",
+  "A BRITISH ORIGINAL",
+  "ANNE DE GAULLE",
+  "NEVER DONE EVOLVING FEAT SERENA",
+  "RELAX, IT’S IPHONE: ACTION MODE",
+  "SHAH RUKH KHAN-MY-AD",
+  "THE LOST CLASS",
+  "BLACK SUPERMARKET",
+  "DO BLACK",
+  "DREAM CRAZY",
+  "GENERATION LOCKDOWN",
+  "KEEPING FORTNITE FRESH",
+  "THE BLANK EDITION",
+  "THE WHOPPER DETOUR"
+];
+
 function inc(map: FacetCounts, key: string | undefined) {
   const k = (key ?? "").trim();
   if (!k) return;
@@ -34,10 +55,46 @@ function matchesAnyInArray(hay: string[] | undefined, needles: string[]) {
   return needles.some((n) => set.has(n.toLowerCase()));
 }
 
+function normalizedTitle(s: string | undefined) {
+  return (s ?? "")
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[^\w\s-]/g, " ")
+    .replace(/_/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function awardTierRank(tier: string | undefined) {
+  const s = (tier ?? "").toLowerCase();
+  if (s.includes("grand")) return 0;
+  if (s.includes("gold")) return 1;
+  if (s.includes("silver")) return 2;
+  if (s.includes("bronze")) return 3;
+  if (s.includes("short")) return 4;
+  return 5;
+}
+
+function isDefaultHomeState(filters: SearchFilters) {
+  return (
+    !(filters.q ?? "").trim() &&
+    (filters.sort ?? "relevance") === "relevance" &&
+    !(filters.years?.length) &&
+    !(filters.awardTiers?.length) &&
+    !(filters.categories?.length) &&
+    !(filters.industry?.length) &&
+    !(filters.topics?.length) &&
+    !(filters.formats?.length) &&
+    !(filters.brands?.length) &&
+    !(filters.agencies?.length)
+  );
+}
+
 export function parseFiltersFromQuery(q: URLSearchParams): SearchFilters {
   const sort = q.get("sort") ?? "relevance";
   return {
     q: q.get("q") ?? "",
+    preset: q.get("preset") ?? "",
     sort: sort === "year_desc" || sort === "year_asc" ? sort : "relevance",
     years: normalizeYears(q.getAll("years")),
     awardTiers: normalizeArr(q.getAll("awardTiers")),
@@ -48,6 +105,18 @@ export function parseFiltersFromQuery(q: URLSearchParams): SearchFilters {
     brands: normalizeArr(q.getAll("brands")),
     agencies: normalizeArr(q.getAll("agencies"))
   };
+}
+
+const AIRLINE_PRESET_TERMS = [
+  "airline", "airlines", "airways", "airport", "aviation", "flight", "flights",
+  "boarding pass", "cabin crew", "pilot", "jet", "boeing", "airbus",
+  "flybondi", "ryanair", "easyjet", "qantas", "emirates", "etihad", "lufthansa",
+  "klm", "british airways", "air france", "delta", "jetblue", "united", "turkish airlines", "qatar airways"
+];
+
+function matchesAirlinePreset(c: Campaign) {
+  const blob = `${c.brand ?? ""} ${c.title ?? ""} ${c.agency ?? ""} ${c.notes ?? ""} ${c.outboundUrl ?? ""}`.toLowerCase();
+  return AIRLINE_PRESET_TERMS.some((t) => blob.includes(t));
 }
 
 export function runSearch(filters: SearchFilters, limit = 48, offset = 0): SearchResponse {
@@ -65,6 +134,7 @@ export function runSearch(filters: SearchFilters, limit = 48, offset = 0): Searc
   }
 
   const filtered = base.filter((c) => {
+    if ((filters.preset ?? "") === "airlines" && !matchesAirlinePreset(c)) return false;
     if (filters.years?.length && !filters.years.includes(Number(c.year ?? 0))) return false;
     if (filters.awardTiers?.length && !matchesAny(c.awardTier, filters.awardTiers)) return false;
     if (filters.categories?.length && !matchesAny(c.categoryBucket, filters.categories)) return false;
@@ -99,7 +169,26 @@ export function runSearch(filters: SearchFilters, limit = 48, offset = 0): Searc
     inc(facets.agencies, c.agency);
   }
 
-  if (filters.sort === "year_desc") {
+  if (isDefaultHomeState(filters)) {
+    const featuredIndex = new Map(
+      HOMEPAGE_FEATURED_TITLES.map((t, i) => [normalizedTitle(t), i] as const)
+    );
+    filtered.sort((a, b) => {
+      const ai = featuredIndex.get(normalizedTitle(a.title));
+      const bi = featuredIndex.get(normalizedTitle(b.title));
+      if (ai !== undefined || bi !== undefined) {
+        if (ai !== undefined && bi !== undefined) return ai - bi;
+        return ai !== undefined ? -1 : 1;
+      }
+      const at = awardTierRank(a.awardTier);
+      const bt = awardTierRank(b.awardTier);
+      if (at !== bt) return at - bt;
+      const ay = Number(a.year ?? 0);
+      const by = Number(b.year ?? 0);
+      if (by !== ay) return by - ay;
+      return (b.score ?? 0) - (a.score ?? 0);
+    });
+  } else if (filters.sort === "year_desc") {
     filtered.sort((a, b) => {
       const ay = Number(a.year ?? 0);
       const by = Number(b.year ?? 0);

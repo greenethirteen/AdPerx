@@ -125,7 +125,7 @@ function decodeBody(buf, encoding) {
   return buf;
 }
 
-function requestUrl(url, { method = "GET", headers = {}, maxRedirects = 5, maxBytes = 250_000 } = {}) {
+function requestUrl(url, { method = "GET", headers = {}, maxRedirects = 5, maxBytes = 2_000_000 } = {}) {
   return new Promise((resolve, reject) => {
     const u = new URL(url);
     const lib = u.protocol === "https:" ? https : http;
@@ -158,9 +158,6 @@ function requestUrl(url, { method = "GET", headers = {}, maxRedirects = 5, maxBy
         res.on("data", (c) => {
           chunks.push(c);
           total += c.length;
-          if (method === "GET" && maxBytes && total > maxBytes) {
-            res.destroy();
-          }
         });
         res.on("end", () => {
           const raw = Buffer.concat(chunks);
@@ -180,7 +177,7 @@ function requestUrl(url, { method = "GET", headers = {}, maxRedirects = 5, maxBy
 }
 
 async function fetchHtml(url) {
-  const res = await requestUrl(url, { maxBytes: 250_000 });
+  const res = await requestUrl(url, { maxBytes: 2_000_000 });
   if (res.status < 200 || res.status >= 400) throw new Error(`HTTP ${res.status} for ${url}`);
   return res.body;
 }
@@ -271,11 +268,11 @@ function quickThumbnailFromUrl(url) {
     const u = new URL(url);
     if (u.hostname.includes("youtube.com")) {
       const v = u.searchParams.get("v");
-      if (v) return `https://i.ytimg.com/vi/${v}/default.jpg`;
+      if (v) return `https://i.ytimg.com/vi/${v}/hqdefault.jpg`;
     }
     if (u.hostname === "youtu.be") {
       const id = u.pathname.replace("/", "");
-      if (id) return `https://i.ytimg.com/vi/${id}/default.jpg`;
+      if (id) return `https://i.ytimg.com/vi/${id}/hqdefault.jpg`;
     }
     if (u.hostname.includes("vimeo.com")) {
       // No cheap direct thumb without API; let HTML fetch handle it

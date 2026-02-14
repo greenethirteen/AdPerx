@@ -133,17 +133,14 @@ for (const r of data) {
     thumbKnownPlaceholderRemoved += 1;
   }
 
-  if (/\/maxresdefault\.jpg/i.test(thumb)) {
-    thumb = thumb.replace(/\/maxresdefault\.jpg/gi, "/default.jpg");
-    thumbMaxresToHq += 1;
-  }
+  // Keep higher-res YouTube thumbnails intact; don't downgrade to default.jpg.
 
   if (/ytimg\.com|img\.youtube\.com/i.test(thumb)) {
     const ytFromThumb = extractYoutubeIdFromThumb(thumb);
     const ytFromLink = extractYoutubeId(r.outboundUrl) || extractYoutubeId(r.sourceUrl);
     const yt = ytFromThumb || ytFromLink;
     if (yt) {
-      thumb = `https://i.ytimg.com/vi/${yt}/default.jpg`;
+      thumb = `https://i.ytimg.com/vi/${yt}/hqdefault.jpg`;
       thumbYoutubeNormalized += 1;
     } else {
       thumb = "";
@@ -159,7 +156,7 @@ for (const r of data) {
   if (thumb && !looksImageUrl(thumb)) {
     const yt = extractYoutubeId(r.outboundUrl) || extractYoutubeId(r.sourceUrl);
     if (yt) {
-      thumb = `https://img.youtube.com/vi/${yt}/default.jpg`;
+      thumb = `https://img.youtube.com/vi/${yt}/hqdefault.jpg`;
       thumbDerivedYoutube += 1;
     } else {
       thumb = "";

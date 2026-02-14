@@ -1,0 +1,256 @@
+{
+  "generatedAt": "2026-02-13T15:03:09.978Z",
+  "targets": 979,
+  "checked": 979,
+  "broken": 30,
+  "replaced": 27,
+  "searched": 38,
+  "noCandidate": 3,
+  "lowScore": 11,
+  "unavailable": 1,
+  "changes": [
+    {
+      "id": "1995-drugstore-levi",
+      "year": 1995,
+      "brand": "LEVI",
+      "title": "DRUGSTORE",
+      "oldUrl": "https://www.youtube.com/watch?v=O-dtIuiu_To&ab_channel=EleanorKahn",
+      "newUrl": "https://www.youtube.com/watch?v=ayFX6hZDGAE",
+      "score": 0.6
+    },
+    {
+      "id": "1995-twister-volvo",
+      "year": 1995,
+      "brand": "VOLVO",
+      "title": "TWISTER",
+      "oldUrl": "https://www.youtube.com/watch?v=n_Z82gkbRio&ab_channel=EleanorKahn",
+      "newUrl": "https://www.youtube.com/watch?v=3nkO4AqE41c",
+      "score": 0.333
+    },
+    {
+      "id": "1995-madness-volvo",
+      "year": 1995,
+      "brand": "VOLVO",
+      "title": "MADNESS",
+      "oldUrl": "https://www.youtube.com/watch?v=QHGAAcDKg8U&ab_channel=rocketraccoon20",
+      "newUrl": "https://www.youtube.com/watch?v=cW4Wwjbr-jM",
+      "score": 0.333
+    },
+    {
+      "id": "1994-roads-rover-spain",
+      "year": 1994,
+      "brand": "ROVER SPAIN",
+      "title": "ROADS",
+      "oldUrl": "https://www.youtube.com/watch?v=uWT9mDd-GD8&ab_channel=rocketraccoon20",
+      "newUrl": "https://www.youtube.com/watch?v=5tLxCbEPg9g",
+      "score": 0.333
+    },
+    {
+      "id": "1994-snow-covered-jeep",
+      "year": 1994,
+      "brand": "JEEP",
+      "title": "SNOW COVERED",
+      "oldUrl": "https://www.youtube.com/watch?v=p_CvNP64g4g&ab_channel=Jeep",
+      "newUrl": "https://www.youtube.com/watch?v=roAp2mJ6WkI",
+      "score": 0.571
+    },
+    {
+      "id": "1993-box-centraal-beheer",
+      "year": 1993,
+      "brand": "CENTRAAL BEHEER",
+      "title": "BOX",
+      "oldUrl": "https://www.youtube.com/watch?v=qIPgnRQHL68&ab_channel=rocketraccoon20",
+      "newUrl": "https://www.youtube.com/watch?v=IlztLOvJSOU",
+      "score": 0.5
+    },
+    {
+      "id": "1993-new-york-new-york-coalition-for-the-homeless",
+      "year": 1993,
+      "brand": "COALITION FOR THE HOMELESS",
+      "title": "NEW YORK, NEW YORK",
+      "oldUrl": "https://www.youtube.com/watch?v=SZmi4HJkNhc&ab_channel=ten65",
+      "newUrl": "https://www.youtube.com/watch?v=Lcq2VnQcRs0",
+      "score": 0.556
+    },
+    {
+      "id": "1993-joeys-tonsils-little-caesars",
+      "year": 1993,
+      "brand": "LITTLE CAESARS",
+      "title": "JOEYS TONSILS",
+      "oldUrl": "https://www.youtube.com/watch?v=mZuFp4qY5G0&ab_channel=thankgahd",
+      "newUrl": "https://www.youtube.com/watch?v=gVJ4YNlXTss",
+      "score": 0.3
+    },
+    {
+      "id": "1993-airbag-volkswagen",
+      "year": 1993,
+      "brand": "VOLKSWAGEN",
+      "title": "AIRBAG",
+      "oldUrl": "https://www.youtube.com/watch?v=BUmCiw57DrM&ab_channel=mdftrasher",
+      "newUrl": "https://www.youtube.com/watch?v=mN-NF-jjmCY",
+      "score": 0.4
+    },
+    {
+      "id": "1992-bra-anne-klein-clothing",
+      "year": 1992,
+      "brand": "ANNE KLEIN CLOTHING",
+      "title": "BRA",
+      "oldUrl": "https://www.youtube.com/watch?v=vRAxqtWib4c&ab_channel=CalvinRussell",
+      "newUrl": "https://www.youtube.com/watch?v=QNxk6qaJzJU",
+      "score": 0.375
+    },
+    {
+      "id": "1992-8-calorie-cookie-jell-o",
+      "year": 1992,
+      "brand": "JELL-O",
+      "title": "8 CALORIE COOKIE",
+      "oldUrl": "https://www.youtube.com/watch?v=QtATZKAABpo&ab_channel=CharlesBradleyII",
+      "newUrl": "https://www.youtube.com/watch?v=L91PIYZWPqg",
+      "score": 0.333
+    },
+    {
+      "id": "1991-chick-sony",
+      "year": 1991,
+      "brand": "SONY",
+      "title": "CHICK",
+      "oldUrl": "https://www.youtube.com/watch?v=2rReTbEJ3Y4&ab_channel=10Archive",
+      "newUrl": "https://www.youtube.com/watch?v=WMld43l_Q2A",
+      "score": 0.5
+    },
+    {
+      "id": "1990-ray-charles-pepsi-cola",
+      "year": 1990,
+      "brand": "PEPSI-COLA",
+      "title": "RAY CHARLES",
+      "oldUrl": "https://www.youtube.com/watch?v=K6AFkk1LVwE&ab_channel=musickeys8",
+      "newUrl": "https://www.youtube.com/watch?v=TLbCQ0QITs0",
+      "score": 0.5
+    },
+    {
+      "id": "1990-hit-the-road-mac-apple-computer",
+      "year": 1990,
+      "brand": "APPLE COMPUTER",
+      "title": "HIT THE ROAD, MAC",
+      "oldUrl": "https://www.youtube.com/watch?v=OY5k3DZUaV0&ab_channel=AppleAll",
+      "newUrl": "https://www.youtube.com/watch?v=Ygsg5N_wn8w",
+      "score": 0.6
+    },
+    {
+      "id": "1989-revenge-oslo-sporveier",
+      "year": 1989,
+      "brand": "OSLO SPORVEIER",
+      "title": "REVENGE",
+      "oldUrl": "https://www.youtube.com/watch?v=apfP2bZ1M08&ab_channel=JoachimA%2FV",
+      "newUrl": "https://www.youtube.com/watch?v=VBqKfDlYeS4",
+      "score": 0.333
+    },
+    {
+      "id": "1988-live-demo-cheer-detergent",
+      "year": 1988,
+      "brand": "CHEER DETERGENT",
+      "title": "LIVE DEMO",
+      "oldUrl": "https://www.youtube.com/watch?v=VMyn7OblLaA&ab_channel=jeremiahjohnson",
+      "newUrl": "https://www.youtube.com/watch?v=4xtgPfrwSdA",
+      "score": 0.429
+    },
+    {
+      "id": "1987-apartment-10g-pepsi-cola",
+      "year": 1987,
+      "brand": "PEPSI-COLA",
+      "title": "APARTMENT 10G",
+      "oldUrl": "https://www.youtube.com/watch?v=i5zRaIjLJOY&ab_channel=80scommercialsforever",
+      "newUrl": "https://www.youtube.com/watch?v=ZpxqB5pBjp8",
+      "score": 0.667
+    },
+    {
+      "id": "1986-bill-heater-john-hancock-financial-services",
+      "year": 1986,
+      "brand": "JOHN HANCOCK FINANCIAL SERVICES",
+      "title": "BILL HEATER",
+      "oldUrl": "https://www.youtube.com/watch?v=Jg8K37vmeVc&ab_channel=spring",
+      "newUrl": "https://www.youtube.com/watch?v=kEdxcegm7Vo",
+      "score": 0.455
+    },
+    {
+      "id": "1988-mother-and-daugher-perfumarias",
+      "year": 1988,
+      "brand": "PERFUMARIAS",
+      "title": "MOTHER AND DAUGHER",
+      "oldUrl": "https://youtu.be/0liVnuxF_jY",
+      "newUrl": "https://www.youtube.com/watch?v=heC7VbdYr6g",
+      "score": 0.25
+    },
+    {
+      "id": "1984-eagle-winston",
+      "year": 1984,
+      "brand": "WINSTON",
+      "title": "EAGLE",
+      "oldUrl": "https://www.youtube.com/watch?v=rK_XM1Qduzc&ab_channel=JoachimA%2FV",
+      "newUrl": "https://www.youtube.com/watch?v=0B8Sqhklt1s",
+      "score": 0.5
+    },
+    {
+      "id": "1982-cold-john-smith-s",
+      "year": 1982,
+      "brand": "JOHN SMITH'S",
+      "title": "COLD",
+      "oldUrl": "https://www.youtube.com/watch?v=FSVJILsqhEA&ab_channel=ObsoleteArchive",
+      "newUrl": "https://www.youtube.com/watch?v=jTHX5S7unSA",
+      "score": 0.429
+    },
+    {
+      "id": "1980-vandalismo-telesp",
+      "year": 1980,
+      "brand": "TELESP",
+      "title": "VANDALISMO",
+      "oldUrl": "https://www.youtube.com/watch?v=Q9U9ubfqbdA&ab_channel=DoniAmaro",
+      "newUrl": "https://www.youtube.com/watch?v=BgvRN3h66bI",
+      "score": 0.4
+    },
+    {
+      "id": "1981-home-from-home-banco-itau",
+      "year": 1981,
+      "brand": "BANCO ITAU",
+      "title": "HOME FROM HOME",
+      "oldUrl": "https://www.youtube.com/watch?v=YJ_QFKAVCC0",
+      "newUrl": "https://www.youtube.com/watch?v=o3R3wfcj710",
+      "score": 0.429
+    },
+    {
+      "id": "1977-dunlop-corporate-dunlop",
+      "year": 1977,
+      "brand": "DUNLOP",
+      "title": "DUNLOP CORPORATE",
+      "oldUrl": "https://www.youtube.com/watch?v=OqfCIR7XIno&ab_channel=JontyMaster",
+      "newUrl": "https://www.youtube.com/watch?v=xxZRK99mCpI",
+      "score": 0.5
+    },
+    {
+      "id": "1974-le-restaurant-vittel",
+      "year": 1974,
+      "brand": "VITTEL",
+      "title": "LE RESTAURANT",
+      "oldUrl": "https://www.youtube.com/watch?v=msCH_nue95o&ab_channel=AdsOfTheNearPast",
+      "newUrl": "https://www.youtube.com/watch?v=nzFURAU_i78",
+      "score": 0.4
+    },
+    {
+      "id": "1970-yo-yo-national-institute-of-mental-health",
+      "year": 1970,
+      "brand": "NATIONAL INSTITUTE OF MENTAL HEALTH",
+      "title": "YO-YO",
+      "oldUrl": "https://youtu.be/k9Q-IVhuP_k",
+      "newUrl": "https://www.youtube.com/watch?v=5Q2K_axLnsA",
+      "score": 0.667
+    },
+    {
+      "id": "1970-pistol-governor-reagan-s-drug-abuse-committee",
+      "year": 1970,
+      "brand": "GOVERNOR REAGAN'S DRUG ABUSE COMMITTEE",
+      "title": "PISTOL",
+      "oldUrl": "https://youtu.be/YuGihllvO4w",
+      "newUrl": "https://www.youtube.com/watch?v=FYWS7udm0yg",
+      "score": 0.3
+    }
+  ]
+}

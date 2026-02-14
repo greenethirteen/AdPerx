@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { runSearch } from "@/lib/search";
 import type { Campaign, SearchFilters } from "@/lib/types";
+import { getBestCampaignLink } from "@/lib/links";
 
 export const runtime = "nodejs";
 
@@ -35,7 +36,7 @@ async function callOpenAI(question: string, sources: ReturnType<typeof pickSourc
     "You are an advertising research assistant.",
     "Answer using ONLY the provided sources (campaign metadata + links).",
     "Be concise, practical, and creative-director helpful.",
-    "When you reference a campaign, include (Brand — Title, Year) and attach the best link (outboundUrl if present, otherwise sourceUrl)."
+    "When you reference a campaign, include (Brand — Title, Year) and attach only a non-LoveTheWorkMore case-study link."
   ].join(" ");
 
   const user = {
@@ -91,7 +92,7 @@ export async function POST(req: Request) {
       `Here are the most relevant matches I found in your library:\n\n` +
       sources
         .map((s, i) => {
-          const link = s.outboundUrl || s.sourceUrl;
+          const link = getBestCampaignLink(s as Campaign);
           return `${i + 1}. ${s.brand} — ${s.title} (${s.year})${link ? ` → ${link}` : ""}`;
         })
         .join("\n");

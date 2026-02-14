@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import type { SearchFilters } from "@/lib/types";
-import { cleanCaseUrl } from "@/lib/links";
+import { getBestCampaignLink } from "@/lib/links";
 
 export default function AskPanel({ filters }: { filters: SearchFilters }) {
   const [question, setQuestion] = useState("");
@@ -77,7 +77,8 @@ export default function AskPanel({ filters }: { filters: SearchFilters }) {
                 <div className="text-xs font-semibold text-black/60">Sources</div>
                 <div className="mt-2 space-y-2">
                   {sources.map((s: any) => {
-                    const link = cleanCaseUrl(s.outboundUrl || "") || cleanCaseUrl(s.sourceUrl || "");
+                    const link = getBestCampaignLink(s);
+                    if (!link) return null;
                     return (
                       <a
                         key={s.id}

@@ -196,7 +196,7 @@ async function processIndex(targetPos) {
   for (const u of candidates) {
     const yid = extractYoutubeId(u);
     if (yid) {
-      rec.thumbnailUrl = `https://i.ytimg.com/vi/${yid}/default.jpg`;
+      rec.thumbnailUrl = `https://i.ytimg.com/vi/${yid}/hqdefault.jpg`;
       replaced += 1;
       return;
     }

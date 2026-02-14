@@ -18,6 +18,7 @@ export type Campaign = {
 
 export type SearchFilters = {
   q?: string;
+  preset?: string;
   sort?: "relevance" | "year_desc" | "year_asc";
   years?: number[];
   awardTiers?: string[];

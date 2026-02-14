@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-02-12T12:51:25.979Z",
+  "unresolved": 706,
+  "targets": 106,
+  "replaced": 0,
+  "bySource": {
+    "youtube": 0,
+    "web": 0
+  },
+  "searched": 106,
+  "noCandidates": 106,
+  "lowScore": 0,
+  "unavailable": 0,
+  "validatedReject": 0,
+  "minVideoScore": 0.28,
+  "minWebScore": 0.36,
+  "changed": []
+}

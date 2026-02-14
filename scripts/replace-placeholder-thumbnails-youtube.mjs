@@ -5,6 +5,16 @@ const DATA_PATH = path.resolve("data/campaigns.json");
 const PROGRESS_PATH = path.resolve("data/youtube_thumbnail_replace.progress.json");
 const PLACEHOLDER =
   "https://lovetheworkmore.com/wp-content/uploads/2021/06/thumbnail-with-correct-ratio-scaled.jpg";
+const BAD_THUMB_HOST_FRAGMENTS = [
+  "storage.googleapis.com/adforum-media",
+  "portal-assets.imgix.net",
+  "adeevee.com",
+  "adforum.com",
+  "es.adforum.com",
+  "forsman.co",
+  "ariandfriends.co",
+  "jamieandsanjiv.com",
+];
 const TARGET_MODE = (process.env.TARGET_MODE || "placeholder").toLowerCase();
 const MAX_ITEMS = Math.max(1, Number(process.env.MAX_ITEMS || "300"));
 const RESUME = process.env.RESUME === "1";
@@ -12,6 +22,7 @@ const FORCE_RETRY = process.env.FORCE_RETRY === "1";
 const ENABLE_IMAGE_FALLBACK = process.env.ENABLE_IMAGE_FALLBACK === "1";
 const REQUEST_TIMEOUT_MS = Math.max(3000, Number(process.env.REQUEST_TIMEOUT_MS || "12000"));
 const SAVE_EVERY = Math.max(10, Number(process.env.SAVE_EVERY || "25"));
+const CONCURRENCY = Math.max(1, Number(process.env.CONCURRENCY || "8"));
 
 function normalize(text) {
   return (text || "")
@@ -49,7 +60,7 @@ function extractYoutubeId(url) {
 }
 
 function thumbnailFromId(id) {
-  return `https://img.youtube.com/vi/${id}/default.jpg`;
+  return `https://img.youtube.com/vi/${id}/hqdefault.jpg`;
 }
 
 function isLikelyImageUrl(raw) {
@@ -84,6 +95,7 @@ function isKnownBadThumbnail(raw) {
     const host = u.hostname.toLowerCase();
     if (host.includes("image.thum.io")) return true;
     if (host.includes("bing.com")) return true;
+    if (BAD_THUMB_HOST_FRAGMENTS.some((part) => `${host}${u.pathname.toLowerCase()}`.includes(part))) return true;
   } catch {
     return true;
   }
@@ -229,7 +241,9 @@ async function main() {
   const rangeText = end > start ? `${start}..${end - 1}` : "none";
   console.log(`Targets(${TARGET_MODE}): ${targets.length}. Processing ${rangeText}`);
 
-  for (let i = start; i < end; i += 1) {
+  let ptr = start;
+
+  async function processOne(i) {
     const { idx, r } = targets[i];
     checked += 1;
 
@@ -246,7 +260,6 @@ async function main() {
         candidates.sort((a, b) => scoreCandidate(r, b.title) - scoreCandidate(r, a.title));
         const best = candidates[0];
         if (best && scoreCandidate(r, best.title) >= 0.2) ytId = best.id;
-        // Aggressive fallback: accept top YouTube candidate if no strong text match.
         if (!ytId && best) ytId = best.id;
       }
     }
@@ -286,6 +299,17 @@ async function main() {
       );
     }
   }
+
+  async function worker() {
+    while (true) {
+      const i = ptr;
+      ptr += 1;
+      if (i >= end) return;
+      await processOne(i);
+    }
+  }
+
+  await Promise.all(Array.from({ length: CONCURRENCY }, () => worker()));
 
   saveProgress(
     {

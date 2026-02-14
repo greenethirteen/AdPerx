@@ -1,0 +1,3684 @@
+{
+  "generatedAt": "2026-02-13T09:15:05.122Z",
+  "checked": 486,
+  "replaced": 225,
+  "low": 39,
+  "nores": 0,
+  "unavail": 0,
+  "matched": [
+    {
+      "id": "super-bowl-2016-ispot-ao8d",
+      "year": 2016,
+      "brand": "CBS",
+      "title": "Tom Selleck: I Have a Dream Foundation",
+      "url": "https://www.youtube.com/watch?v=ZgdGVFsHzZ8",
+      "ytTitle": "Super Bowl 50 (2016) CBS - Intro",
+      "score": 0.507,
+      "margin": 0.007
+    },
+    {
+      "id": "super-bowl-2016-ispot-ao8w",
+      "year": 2016,
+      "brand": "Xifaxan",
+      "title": "Football Game",
+      "url": "https://www.youtube.com/watch?v=3Hnldf3z4bY",
+      "ytTitle": "Xifaxan Super Bowl 50 Commercial",
+      "score": 0.593,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2016-ispot-aoix",
+      "year": 2016,
+      "brand": "SoFi",
+      "title": "Great Loans for Great People",
+      "url": "https://www.youtube.com/watch?v=duLtPy-gAr4",
+      "ytTitle": "Great Loans for Great People The Best Super Bowl 2016 Commercial  Ad",
+      "score": 0.975,
+      "margin": 0.18
+    },
+    {
+      "id": "super-bowl-2016-ispot-aoin",
+      "year": 2016,
+      "brand": "KFC",
+      "title": "So Long, Farewell",
+      "url": "https://www.youtube.com/watch?v=jS4n8o7FZ5o",
+      "ytTitle": "KFC Super Bowl Commercial 2016",
+      "score": 0.581,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2017-ispot-a30f",
+      "year": 2017,
+      "brand": "Amazon Echo",
+      "title": "Alexa Moments: My Girl",
+      "url": "https://www.youtube.com/watch?v=9KhGVG4Rtf8",
+      "ytTitle": "Amazon Echo׃ Super Bowl 2016 Ad Big Game Commercial",
+      "score": 0.677,
+      "margin": 0.054
+    },
+    {
+      "id": "super-bowl-2017-ispot-a30b",
+      "year": 2017,
+      "brand": "T-Mobile",
+      "title": "#BagofUnlimited With Martha Stewart",
+      "url": "https://www.youtube.com/watch?v=zZL2ho7m63Q",
+      "ytTitle": "T Mobile T - t-mobile | #bagofunlimited with martha stewart and snoop dogg | :30s tv commercial",
+      "score": 0.869,
+      "margin": 0.072
+    },
+    {
+      "id": "super-bowl-2017-ispot-a30o",
+      "year": 2017,
+      "brand": "Mr. Clean",
+      "title": "Cleaner of Your Dreams",
+      "url": "https://www.youtube.com/watch?v=MHs-S82FIn8",
+      "ytTitle": "Mr. Clean - Cleaner of Your Dreams",
+      "score": 1.48,
+      "margin": 0.267
+    },
+    {
+      "id": "super-bowl-2017-ispot-a3cj",
+      "year": 2017,
+      "brand": "84 Lumber",
+      "title": "The Journey Begins",
+      "url": "https://www.youtube.com/watch?v=J0Uk6ctu7nI",
+      "ytTitle": "84 Lumber Super Bowl Commercial | The Journey Begins",
+      "score": 1.58,
+      "margin": 0.275
+    },
+    {
+      "id": "super-bowl-2017-ispot-a33m",
+      "year": 2017,
+      "brand": "FOX",
+      "title": "MasterChef Junior Super Bowl 2017 TV Promo",
+      "url": "https://www.youtube.com/watch?v=Z3sU_FOXVG8",
+      "ytTitle": "FOX - MasterChef Junior (season 2)",
+      "score": 0.684,
+      "margin": 0.067
+    },
+    {
+      "id": "super-bowl-2018-ispot-waok",
+      "year": 2018,
+      "brand": "NBC",
+      "title": "This Is Us: The Episode You Cannot Miss!",
+      "url": "https://www.youtube.com/watch?v=JJdvo4a1zns",
+      "ytTitle": "This Is Us (NBC) \"I Love You\" Promo HD",
+      "score": 0.649,
+      "margin": 0.189
+    },
+    {
+      "id": "super-bowl-2019-ispot-is62",
+      "year": 2019,
+      "brand": "Bud Light",
+      "title": "Trojan Horse Occupants",
+      "url": "https://www.youtube.com/watch?v=9Ym0_yxG4zY",
+      "ytTitle": "\"Two Trojan Horse Occupants\" Bud Light",
+      "score": 1.067,
+      "margin": 0.036
+    },
+    {
+      "id": "super-bowl-2019-ispot-is6y",
+      "year": 2019,
+      "brand": "CBS",
+      "title": "Two Best Friends",
+      "url": "https://www.youtube.com/watch?v=IyA_4ZfVikE",
+      "ytTitle": "CBS Rejects Medical Marijuana Super Bowl Commercial",
+      "score": 0.485,
+      "margin": 0.134
+    },
+    {
+      "id": "super-bowl-2019-ispot-is6q",
+      "year": 2019,
+      "brand": "WeatherTech",
+      "title": "Dropped Call",
+      "url": "https://www.youtube.com/watch?v=EpKX_xQRTd4",
+      "ytTitle": "Scout: WeatherTech Super Bowl® Commercial",
+      "score": 0.593,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2019-ispot-is6v",
+      "year": 2019,
+      "brand": "CBS",
+      "title": "Goosebumps",
+      "url": "https://www.youtube.com/watch?v=IyA_4ZfVikE",
+      "ytTitle": "CBS Rejects Medical Marijuana Super Bowl Commercial",
+      "score": 0.522,
+      "margin": 0.034
+    },
+    {
+      "id": "super-bowl-2019-ispot-is5m",
+      "year": 2019,
+      "brand": "CBS",
+      "title": "Alicia's Pep Talk",
+      "url": "https://www.youtube.com/watch?v=IyA_4ZfVikE",
+      "ytTitle": "CBS Rejects Medical Marijuana Super Bowl Commercial",
+      "score": 0.485,
+      "margin": 0.034
+    },
+    {
+      "id": "super-bowl-2019-ispot-is5q",
+      "year": 2019,
+      "brand": "CBS",
+      "title": "NFL Greats",
+      "url": "https://www.youtube.com/watch?v=aZ9HdyiJnfk",
+      "ytTitle": "2019 Super Bowl 53 Intro Presented By CBS",
+      "score": 0.516,
+      "margin": 0.02
+    },
+    {
+      "id": "super-bowl-2019-ispot-is5a",
+      "year": 2019,
+      "brand": "Wix.com",
+      "title": "Let People Find You",
+      "url": "https://www.youtube.com/watch?v=-DINvC3o-v0",
+      "ytTitle": "Super Bowl 2016: Wix.com Super Bowl 2016 Commercial",
+      "score": 0.616,
+      "margin": 0.041
+    },
+    {
+      "id": "super-bowl-2019-ispot-is5f",
+      "year": 2019,
+      "brand": "CBS",
+      "title": "Ziva",
+      "url": "https://www.youtube.com/watch?v=AXtu92vvRb4",
+      "ytTitle": "CBS Network: \"Eyeconic\" - 2019 Super Bowl spot",
+      "score": 0.528,
+      "margin": 0.039
+    },
+    {
+      "id": "super-bowl-2019-ispot-is5k",
+      "year": 2019,
+      "brand": "CBS",
+      "title": "This Is Real News",
+      "url": "https://www.youtube.com/watch?v=Am_PuTz65UM",
+      "ytTitle": "CBS rejects Super Bowl ad touting medical marijuana",
+      "score": 0.553,
+      "margin": 0.011
+    },
+    {
+      "id": "super-bowl-2019-ispot-is1m",
+      "year": 2019,
+      "brand": "CBS",
+      "title": "It's Almost Time",
+      "url": "https://www.youtube.com/watch?v=ChlM8Je3WVg",
+      "ytTitle": "CBS Special Takes A Look At The Super Bowl's Greatest Commercials",
+      "score": 0.436,
+      "margin": 0.02
+    },
+    {
+      "id": "super-bowl-2019-ispot-is1r",
+      "year": 2019,
+      "brand": "CBS",
+      "title": "Wolves and Sheep",
+      "url": "https://www.youtube.com/watch?v=4XofrhJY1f4",
+      "ytTitle": "CBS Refuses to Air Cannabis Company's Super Bowl Ad",
+      "score": 0.417,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2019-ispot-is1o",
+      "year": 2019,
+      "brand": "McDonald's",
+      "title": "Fry Show",
+      "url": "https://www.youtube.com/watch?v=iiWp5mAWOcI",
+      "ytTitle": "McDonald’s Super Bowl 2023 TV commercial",
+      "score": 0.56,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2019-ispot-is2e",
+      "year": 2019,
+      "brand": "The UPS Store",
+      "title": "Every Ing on a Date",
+      "url": "https://www.youtube.com/watch?v=mygJq1l6PhE",
+      "ytTitle": "The UPS Store commercial",
+      "score": 0.577,
+      "margin": 0.031
+    },
+    {
+      "id": "super-bowl-2019-ispot-is1l",
+      "year": 2019,
+      "brand": "CBS",
+      "title": "Go Floogle It",
+      "url": "https://www.youtube.com/watch?v=AXtu92vvRb4",
+      "ytTitle": "CBS Network: \"Eyeconic\" - 2019 Super Bowl spot",
+      "score": 0.528,
+      "margin": 0.005
+    },
+    {
+      "id": "super-bowl-2019-ispot-i6ra",
+      "year": 2019,
+      "brand": "Bud Light",
+      "title": "Teaser: Playoffs",
+      "url": "https://www.youtube.com/watch?v=z-P6OzmgCyY",
+      "ytTitle": "2026 Bud Light Super Bowl Commercial | Keg | :60",
+      "score": 0.765,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2019-ispot-i6rn",
+      "year": 2019,
+      "brand": "Anheuser-Busch",
+      "title": "Teaser: Announcement",
+      "url": "https://www.youtube.com/watch?v=ml5oTBJAog8",
+      "ytTitle": "Anheuser-Busch's Super Bowl Ad Moves",
+      "score": 0.765,
+      "margin": 0.194
+    },
+    {
+      "id": "super-bowl-2019-ispot-iftm",
+      "year": 2019,
+      "brand": "Pepsi",
+      "title": "Teaser: Steve Carell's Decision",
+      "url": "https://www.youtube.com/watch?v=HNOJVQGnGN0",
+      "ytTitle": "Pepsi   Steve Carell's Decision Teaser",
+      "score": 0.73,
+      "margin": 0.065
+    },
+    {
+      "id": "super-bowl-2019-ispot-i6jp",
+      "year": 2019,
+      "brand": "Bud Light",
+      "title": "Teaser: NFL Playoffs",
+      "url": "https://www.youtube.com/watch?v=z-P6OzmgCyY",
+      "ytTitle": "2026 Bud Light Super Bowl Commercial | Keg | :60",
+      "score": 0.722,
+      "margin": 0.049
+    },
+    {
+      "id": "super-bowl-2019-ispot-i16c",
+      "year": 2019,
+      "brand": "Olay (Skin)",
+      "title": "Teaser: The Big Game Just Got More Glam",
+      "url": "https://www.youtube.com/watch?v=MtUI3b6o5MQ",
+      "ytTitle": "Olay - Killer Skin - Super Bowl 2019 Commercial",
+      "score": 0.474,
+      "margin": 0.128
+    },
+    {
+      "id": "super-bowl-2020-ispot-zerb",
+      "year": 2020,
+      "brand": "Microsoft Surface",
+      "title": "Be the One",
+      "url": "https://www.youtube.com/watch?v=YwtLRxQ9SnE",
+      "ytTitle": "Microsoft Surface 2 - TV Ad",
+      "score": 0.805,
+      "margin": 0.089
+    },
+    {
+      "id": "super-bowl-2020-ispot-zerz",
+      "year": 2020,
+      "brand": "NFL",
+      "title": "Building a Better Game",
+      "url": "https://www.youtube.com/watch?v=C6b5wihcHKc",
+      "ytTitle": "Super Bowl 2020 Ads | NFL 'Building a Better Game'",
+      "score": 0.972,
+      "margin": 0.38
+    },
+    {
+      "id": "super-bowl-2020-ispot-zzer",
+      "year": 2020,
+      "brand": "Budweiser",
+      "title": "Teaser: Hannah's Story",
+      "url": "https://www.youtube.com/watch?v=nHOR9_zn274",
+      "ytTitle": "Budweiser | Super Bowl LX Teaser 'Foal'",
+      "score": 0.593,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2020-ispot-zzek",
+      "year": 2020,
+      "brand": "Budweiser",
+      "title": "Teaser: Ken's Story",
+      "url": "https://www.youtube.com/watch?v=FAd8juj6-_k",
+      "ytTitle": "Budweiser | Super Bowl LX Teaser 'Stable'",
+      "score": 0.593,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2020-ispot-zzok",
+      "year": 2020,
+      "brand": "Avocados From Mexico",
+      "title": "Teaser: Neck Pillow",
+      "url": "https://www.youtube.com/watch?v=6s8lLSgsFPc",
+      "ytTitle": "The Avocados From Mexico Shopping Network | Avocados From Mexico Big Game 2020",
+      "score": 0.726,
+      "margin": 0.053
+    },
+    {
+      "id": "super-bowl-2020-ispot-zzdx",
+      "year": 2020,
+      "brand": "Budweiser",
+      "title": "Teaser: No Strangers",
+      "url": "https://www.youtube.com/watch?v=FAd8juj6-_k",
+      "ytTitle": "Budweiser | Super Bowl LX Teaser 'Stable'",
+      "score": 0.722,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2020-ispot-znns",
+      "year": 2020,
+      "brand": "Little Caesars Pizza",
+      "title": "Teaser: Mutiny",
+      "url": "https://www.youtube.com/watch?v=rPY8fCw9WA8",
+      "ytTitle": "Little Caesars pizza Super Bowl 2023 TV commercial",
+      "score": 0.875,
+      "margin": 0.147
+    },
+    {
+      "id": "super-bowl-2020-ispot-zcpb",
+      "year": 2020,
+      "brand": "Budweiser",
+      "title": "Teaser: Almost Here",
+      "url": "https://www.youtube.com/watch?v=FAd8juj6-_k",
+      "ytTitle": "Budweiser | Super Bowl LX Teaser 'Stable'",
+      "score": 0.593,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2020-ispot-zcpw",
+      "year": 2020,
+      "brand": "Avocados From Mexico",
+      "title": "Teaser: Tiara",
+      "url": "https://www.youtube.com/watch?v=UfFp2OXmGN8",
+      "ytTitle": "Tiara - Avocados from Mexico",
+      "score": 0.84,
+      "margin": 0.083
+    },
+    {
+      "id": "super-bowl-2020-ispot-zmup",
+      "year": 2020,
+      "brand": "SodaStream",
+      "title": "Teaser: Spaceman Trip",
+      "url": "https://www.youtube.com/watch?v=2-LRhS3YfkE",
+      "ytTitle": "SodaStream at Super Bowl 2020",
+      "score": 0.64,
+      "margin": 0.047
+    },
+    {
+      "id": "super-bowl-2020-ispot-zcym",
+      "year": 2020,
+      "brand": "Sabra",
+      "title": "Teaser: Dip, Watch, Win: Snacks on Snacks",
+      "url": "https://www.youtube.com/watch?v=nDgJ_4_8eKY",
+      "ytTitle": "Sabra | Super Bowl 2020",
+      "score": 0.543,
+      "margin": 0.021
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvgd",
+      "year": 2022,
+      "brand": "NBC",
+      "title": "Across America",
+      "url": "https://www.youtube.com/watch?v=Cx9RhqlAULg",
+      "ytTitle": "NBC fetches $6.5 million for Super Bowl ads",
+      "score": 0.463,
+      "margin": 0.025
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvgu",
+      "year": 2022,
+      "brand": "Universal Orlando Resort",
+      "title": "Jurassic World Velocicoaster: Apex Predator",
+      "url": "https://www.youtube.com/watch?v=c48JCJr5OC0",
+      "ytTitle": "FULL EXPERIENCE: Jurassic World VelociCoaster at Universal Orlando Resort",
+      "score": 0.951,
+      "margin": 0.043
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvpd",
+      "year": 2022,
+      "brand": "NBC",
+      "title": "Here for the Gold",
+      "url": "https://www.youtube.com/watch?v=yt8tR3nuG6A",
+      "ytTitle": "NBC Super Bowl Commercial - Brotherhood of Man",
+      "score": 0.463,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2022-ispot-q9_0",
+      "year": 2022,
+      "brand": "Amazon Prime Video",
+      "title": "Thursday Night Football",
+      "url": "https://www.youtube.com/watch?v=rnDTxvMoCus",
+      "ytTitle": "Football is Open | Thursday Night Football | Prime Video",
+      "score": 1.039,
+      "margin": 0.072
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvpt",
+      "year": 2022,
+      "brand": "NBC",
+      "title": "Dig It",
+      "url": "https://www.youtube.com/watch?v=eIjT_8xIIrY",
+      "ytTitle": "Doritos Super Bowl Commercials Win Big With Fans | NBC News",
+      "score": 0.448,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2022-ispot-quci",
+      "year": 2022,
+      "brand": "Michelob",
+      "title": "Welcome to Superior Bowl",
+      "url": "https://www.youtube.com/watch?v=LWWj9OIN--o",
+      "ytTitle": "Super Bowl LVI (56) Commercial: Michelob ULTRA - Welcome to Superior Bowl (2022)",
+      "score": 0.972,
+      "margin": 0.042
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvss",
+      "year": 2022,
+      "brand": "NBC",
+      "title": "Ultra Pass",
+      "url": "https://www.youtube.com/watch?v=yt8tR3nuG6A",
+      "ytTitle": "NBC Super Bowl Commercial - Brotherhood of Man",
+      "score": 0.463,
+      "margin": 0.019
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvg4",
+      "year": 2022,
+      "brand": "NBC",
+      "title": "Whenever, Wherever",
+      "url": "https://www.youtube.com/watch?v=WaycltYnMa8",
+      "ytTitle": "Shakira - Whenever Wherever ( Super Bowl Halftime Show Live)",
+      "score": 0.557,
+      "margin": 0.027
+    },
+    {
+      "id": "super-bowl-2022-ispot-bv2x",
+      "year": 2022,
+      "brand": "NBC",
+      "title": "World",
+      "url": "https://www.youtube.com/watch?v=Aq02MZGgprY",
+      "ytTitle": "NBC network Super Bowl promo",
+      "score": 0.522,
+      "margin": 0.022
+    },
+    {
+      "id": "super-bowl-2022-ispot-bv1j",
+      "year": 2022,
+      "brand": "Squarespace",
+      "title": "Teaser: Shh",
+      "url": "https://www.youtube.com/watch?v=2cLNMXUNzxY",
+      "ytTitle": "Unavailable (Extended) | Big Game Commercial 2026 | Squarespace",
+      "score": 0.593,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2022-ispot-bv1w",
+      "year": 2022,
+      "brand": "NFL",
+      "title": "Teaser: Darn Colors",
+      "url": "https://www.youtube.com/watch?v=c7V17-JZam0",
+      "ytTitle": "NFL Super Bowl LVIII || Born to Play Teaser",
+      "score": 0.501,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvqm",
+      "year": 2022,
+      "brand": "DraftKings",
+      "title": "Teaser: Too Good to Be True",
+      "url": "https://www.youtube.com/watch?v=C3FG7Gl07cU",
+      "ytTitle": "Super Bowl LX DraftKings Commercial #3",
+      "score": 0.522,
+      "margin": 0.022
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvqu",
+      "year": 2022,
+      "brand": "General Motors",
+      "title": "Teaser: The EV-il Children Are Our Future [T1]",
+      "url": "https://www.youtube.com/watch?v=WyVvJj3pq9I",
+      "ytTitle": "General Motors Super Bowl Commercial 2022 Dr. EV-il",
+      "score": 0.654,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvok",
+      "year": 2022,
+      "brand": "Verizon Home Internet",
+      "title": "Teaser: It Will Never Be the Same",
+      "url": "https://www.youtube.com/watch?v=hXMta3PP8q0",
+      "ytTitle": "Verizon Home Internet \"New Ride\"",
+      "score": 0.622,
+      "margin": 0.18
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvoe",
+      "year": 2022,
+      "brand": "NFL",
+      "title": "Teaser: Is This Eli's Size?",
+      "url": "https://www.youtube.com/watch?v=5PQ4HC8TNuw",
+      "ytTitle": "Official Trailer | NFL Super Bowl LII Commercial",
+      "score": 0.501,
+      "margin": 0.003
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvql",
+      "year": 2022,
+      "brand": "BMW",
+      "title": "Teaser: Where Will You Go? [T1]",
+      "url": "https://www.youtube.com/watch?v=gB6EL5X5rJI",
+      "ytTitle": "BMW Super Bowl Teaser",
+      "score": 0.522,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2022-ispot-q99_",
+      "year": 2022,
+      "brand": "NFL",
+      "title": "Teaser: Sunday Fit: Too Small",
+      "url": "https://www.youtube.com/watch?v=OAu-2TEL1m4",
+      "ytTitle": "NFL 100 Super Bowl LIV Teaser | Trailer",
+      "score": 0.451,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2022-ispot-q9u6",
+      "year": 2022,
+      "brand": "Rocket Mortgage",
+      "title": "Teaser: Warm-Ups",
+      "url": "https://www.youtube.com/watch?v=E7oPcGnn5E8",
+      "ytTitle": "Rocket mortgage superbowl commercial..",
+      "score": 0.722,
+      "margin": 0.049
+    },
+    {
+      "id": "super-bowl-2022-ispot-q99w",
+      "year": 2022,
+      "brand": "NFL",
+      "title": "Teaser: Sunday Fit",
+      "url": "https://www.youtube.com/watch?v=o88nbPry_Fs",
+      "ytTitle": "a bath fit for a Super Bowl champ",
+      "score": 0.585,
+      "margin": 0.025
+    },
+    {
+      "id": "super-bowl-2022-ispot-q9xz",
+      "year": 2022,
+      "brand": "Sam's Club",
+      "title": "Teaser: Free Fuel",
+      "url": "https://www.youtube.com/watch?v=sZxxOubOLOU",
+      "ytTitle": "Super Bowl 2022 Sam's Club VIP with Kevin Hart",
+      "score": 0.578,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2022-ispot-q9xu",
+      "year": 2022,
+      "brand": "Sam's Club",
+      "title": "Teaser: Free Car",
+      "url": "https://www.youtube.com/watch?v=sZxxOubOLOU",
+      "ytTitle": "Super Bowl 2022 Sam's Club VIP with Kevin Hart",
+      "score": 0.578,
+      "margin": 0.032
+    },
+    {
+      "id": "super-bowl-2022-ispot-q9hs",
+      "year": 2022,
+      "brand": "QuickBooks",
+      "title": "Teaser: Small Biz Key No. 5",
+      "url": "https://www.youtube.com/watch?v=zPi9tMGMHXs",
+      "ytTitle": "Small Businesses Score Big With QuickBooks",
+      "score": 0.546,
+      "margin": 0.07
+    },
+    {
+      "id": "super-bowl-2022-ispot-q9lm",
+      "year": 2022,
+      "brand": "QuickBooks",
+      "title": "Teaser: Small Biz Key No. 3",
+      "url": "https://www.youtube.com/watch?v=FY0ng5FNVoQ",
+      "ytTitle": "Quickbooks Self-Employed Commercial",
+      "score": 0.684,
+      "margin": 0.138
+    },
+    {
+      "id": "super-bowl-2022-ispot-quop",
+      "year": 2022,
+      "brand": "Rocket Mortgage",
+      "title": "Teaser: Nervous",
+      "url": "https://www.youtube.com/watch?v=E7oPcGnn5E8",
+      "ytTitle": "Rocket mortgage superbowl commercial..",
+      "score": 0.765,
+      "margin": 0.069
+    },
+    {
+      "id": "super-bowl-2022-ispot-quqb",
+      "year": 2022,
+      "brand": "Rocket Mortgage",
+      "title": "Teaser: Competitive",
+      "url": "https://www.youtube.com/watch?v=eKW6Y0Z4YKE",
+      "ytTitle": "Rocket Mortgage and Barbie Super Bowl LVI Ad 2022",
+      "score": 0.696,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2022-ispot-qvdz",
+      "year": 2022,
+      "brand": "Uber Eats",
+      "title": "Teaser: Uber Don't Eats: Gwyneth",
+      "url": "https://www.youtube.com/watch?v=UHPnh4yUo88",
+      "ytTitle": "2022. Uber Eats - Uber Don't Eats - Teaser (Gwyneth Paltrow) [Super Bowl]",
+      "score": 0.989,
+      "margin": 0.192
+    },
+    {
+      "id": "super-bowl-2022-ispot-qunn",
+      "year": 2022,
+      "brand": "Michelob",
+      "title": "Teaser: Enjoy Responsibly",
+      "url": "https://www.youtube.com/watch?v=LBJYrk0T89A",
+      "ytTitle": "The Jump | Michelob ULTRA | Super Bowl LX Teaser",
+      "score": 0.56,
+      "margin": 0.059
+    },
+    {
+      "id": "super-bowl-2022-ispot-qvba",
+      "year": 2022,
+      "brand": "Pringles",
+      "title": "Teaser: Not Alone",
+      "url": "https://www.youtube.com/watch?v=SXAQ0oeVFHU",
+      "ytTitle": "Pringles Super Bowl LVI (56) Commercial",
+      "score": 0.616,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2022-ispot-qvk4",
+      "year": 2022,
+      "brand": "Uber Eats",
+      "title": "Teaser: Uber Don't Eats: Jennifer",
+      "url": "https://www.youtube.com/watch?v=UqF561VXqQk",
+      "ytTitle": "2022. Uber Eats - Uber Don't Eats - Teaser (Jennifer Coolidge) [Super Bowl]",
+      "score": 0.989,
+      "margin": 0.192
+    },
+    {
+      "id": "super-bowl-2022-ispot-qpq3",
+      "year": 2022,
+      "brand": "DraftKings",
+      "title": "Teaser: Blender",
+      "url": "https://www.youtube.com/watch?v=PBeORHS-MDs",
+      "ytTitle": "DraftKings “Blender” Super Bowl LVI Teaser",
+      "score": 0.72,
+      "margin": 0.098
+    },
+    {
+      "id": "super-bowl-2022-ispot-qpup",
+      "year": 2022,
+      "brand": "Nissan",
+      "title": "Teaser: Thrill Driver: Take 2",
+      "url": "https://www.youtube.com/watch?v=ZgBTOYVYBpU",
+      "ytTitle": "Nissan \"Thrill Driver \" Official Trailer",
+      "score": 0.775,
+      "margin": 0.091
+    },
+    {
+      "id": "super-bowl-2022-ispot-qpwv",
+      "year": 2022,
+      "brand": "DraftKings",
+      "title": "Fortune Awaits",
+      "url": "https://www.youtube.com/watch?v=iVfaqYhXzQ8",
+      "ytTitle": "DraftKings - Fortune: Life's a Gamble - Super Bowl 2022 Commercials #SBLVI",
+      "score": 0.651,
+      "margin": 0.059
+    },
+    {
+      "id": "super-bowl-2022-ispot-qpzv",
+      "year": 2022,
+      "brand": "Hellmann's | Best Foods",
+      "title": "Teaser: The Call",
+      "url": "https://www.youtube.com/watch?v=-IbeUFd7Njs",
+      "ytTitle": "Best Foods 2026 Big Game Teaser",
+      "score": 0.828,
+      "margin": 0.405
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vdc",
+      "year": 2023,
+      "brand": "U2",
+      "title": "2023 U2:UV Achtung Baby Live at The Sphere",
+      "url": "https://www.youtube.com/watch?v=peMw65Pljoc",
+      "ytTitle": "U2:UV Achtung Baby Live At Sphere (Extended Super Bowl Trailer)",
+      "score": 1.073,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vdm",
+      "year": 2023,
+      "brand": "FOX",
+      "title": "All New Season",
+      "url": "https://www.youtube.com/watch?v=JZh9JfYrAvE",
+      "ytTitle": "FOX Super Bowl 2020 TV Commercial TV Promo Super Monday Enjoy All of It",
+      "score": 0.553,
+      "margin": 0.052
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vdh",
+      "year": 2023,
+      "brand": "FOX Nation",
+      "title": "Land of the Free",
+      "url": "https://www.youtube.com/watch?v=tEBSAiCiJd0",
+      "ytTitle": "Fox Nation's Super Bowl Commercial",
+      "score": 0.83,
+      "margin": 0.065
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vd8",
+      "year": 2023,
+      "brand": "Tubi",
+      "title": "FOX Sports: Game Progression",
+      "url": "https://www.youtube.com/watch?v=89t3_JIWezg",
+      "ytTitle": "Tubi Commercial Got Us Bad - Super Bowl",
+      "score": 0.593,
+      "margin": 0.027
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vdy",
+      "year": 2023,
+      "brand": "FOX",
+      "title": "Bear in a Hot Tub",
+      "url": "https://www.youtube.com/watch?v=hGr8y8zJx5E",
+      "ytTitle": "Bear make a B-line for Hot Tub || ViralHog",
+      "score": 0.504,
+      "margin": 0.104
+    },
+    {
+      "id": "super-bowl-2023-ispot-2p77",
+      "year": 2023,
+      "brand": "Busch Beer",
+      "title": "Shelter",
+      "url": "https://www.youtube.com/watch?v=cDLOtxx5mTM",
+      "ytTitle": "Busch Beer Super Bowl Commercial 2017",
+      "score": 0.677,
+      "margin": 0.067
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vwi",
+      "year": 2023,
+      "brand": "FanDuel",
+      "title": "Field Goal",
+      "url": "https://www.youtube.com/watch?v=_SbOORo6lQI",
+      "ytTitle": "Super Bowl LVII (57) Commercial: FanDuel - Kick of Destiny (2023)",
+      "score": 0.497,
+      "margin": 0.004
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vdt",
+      "year": 2023,
+      "brand": "FOX",
+      "title": "April",
+      "url": "https://www.youtube.com/watch?v=BYN8UHgf_BQ",
+      "ytTitle": "Fox Nation Super Bowl LVII Commercial",
+      "score": 0.593,
+      "margin": 0.167
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vw8",
+      "year": 2023,
+      "brand": "FOX",
+      "title": "Once Upon a Time",
+      "url": "https://www.youtube.com/watch?v=ck1rJq0iglQ",
+      "ytTitle": "Surprise Super Bowl 2026 trailer revealed a Once Upon a Time in Hollywood sequel",
+      "score": 0.563,
+      "margin": 0.062
+    },
+    {
+      "id": "super-bowl-2023-ispot-24ly",
+      "year": 2023,
+      "brand": "PopCorners",
+      "title": "Breaking Good",
+      "url": "https://www.youtube.com/watch?v=8OSqFilGKgg",
+      "ytTitle": "PopCorners: Breaking Good",
+      "score": 1.04,
+      "margin": 0.089
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vwu",
+      "year": 2023,
+      "brand": "NFL",
+      "title": "Run With It",
+      "url": "https://www.youtube.com/watch?v=uQ555n-DZhg",
+      "ytTitle": "Super Bowl LVII (57) Commercial: NFL - Run With It (2023)",
+      "score": 0.927,
+      "margin": 0.007
+    },
+    {
+      "id": "super-bowl-2023-ispot-27ff",
+      "year": 2023,
+      "brand": "NFL",
+      "title": "We See You",
+      "url": "https://www.youtube.com/watch?v=P6ZKHfN4EBo",
+      "ytTitle": "Super Bowl LVII (57) Commercial: NFL - We See You (2023)",
+      "score": 1.031,
+      "margin": 0.471
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vwl",
+      "year": 2023,
+      "brand": "FOX News Channel",
+      "title": "New King of Late Night",
+      "url": "https://www.youtube.com/watch?v=TVbSscTWFqk",
+      "ytTitle": "Greg Gutfeld: The new king of late night",
+      "score": 0.971,
+      "margin": 0.146
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vwr",
+      "year": 2023,
+      "brand": "CrowdStrike",
+      "title": "Trojan Horse",
+      "url": "https://www.youtube.com/watch?v=YbU5RCifujg",
+      "ytTitle": "CrowdStrike 'Trojan Horse' | Super Bowl 2023 Ads | Commercials",
+      "score": 1.031,
+      "margin": 0.285
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vae",
+      "year": 2023,
+      "brand": "FOX",
+      "title": "Looking for Love",
+      "url": "https://www.youtube.com/watch?v=BYN8UHgf_BQ",
+      "ytTitle": "Fox Nation Super Bowl LVII Commercial",
+      "score": 0.56,
+      "margin": 0.124
+    },
+    {
+      "id": "super-bowl-2023-ispot-1van",
+      "year": 2023,
+      "brand": "FOX",
+      "title": "Start With a Bang",
+      "url": "https://www.youtube.com/watch?v=BYN8UHgf_BQ",
+      "ytTitle": "Fox Nation Super Bowl LVII Commercial",
+      "score": 0.56,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2023-ispot-1var",
+      "year": 2023,
+      "brand": "FOX",
+      "title": "An Unpredictable Outcome",
+      "url": "https://www.youtube.com/watch?v=BYN8UHgf_BQ",
+      "ytTitle": "Fox Nation Super Bowl LVII Commercial",
+      "score": 0.56,
+      "margin": 0.143
+    },
+    {
+      "id": "super-bowl-2023-ispot-29tv",
+      "year": 2023,
+      "brand": "NFL",
+      "title": "Who's the Parrot?",
+      "url": "https://www.youtube.com/watch?v=zp53pX_bS_I",
+      "ytTitle": "NFL Super Bowl LVII Teaser || Who is the Parrot?",
+      "score": 1.105,
+      "margin": 0.634
+    },
+    {
+      "id": "super-bowl-2023-ispot-29vb",
+      "year": 2023,
+      "brand": "Pizza Hut",
+      "title": "The World's Largest Pizza",
+      "url": "https://www.youtube.com/watch?v=9frg2cKyCXs",
+      "ytTitle": "Pizza Hut makes the world's largest pizza!",
+      "score": 1.113,
+      "margin": 0.203
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vaw",
+      "year": 2023,
+      "brand": "FOX",
+      "title": "Once Upon a Time",
+      "url": "https://www.youtube.com/watch?v=BYN8UHgf_BQ",
+      "ytTitle": "Fox Nation Super Bowl LVII Commercial",
+      "score": 0.501,
+      "margin": 0.092
+    },
+    {
+      "id": "super-bowl-2023-ispot-29nz",
+      "year": 2023,
+      "brand": "Crown Royal",
+      "title": "Teaser: O Canada (Shred Version)",
+      "url": "https://www.youtube.com/watch?v=J0f31fQueKg",
+      "ytTitle": "Dave Grohl thanks Canada in Super Bowl ad for Crown Royal",
+      "score": 0.69,
+      "margin": 0.035
+    },
+    {
+      "id": "super-bowl-2023-ispot-2vgv",
+      "year": 2023,
+      "brand": "Uber Eats",
+      "title": "Diddy Don't Do Jingles",
+      "url": "https://www.youtube.com/watch?v=7RjM9kFjfq4",
+      "ytTitle": "Uber One Sean Combs - Diddy Don't Do Jingles",
+      "score": 0.714,
+      "margin": 0.024
+    },
+    {
+      "id": "super-bowl-2023-ispot-2pk7",
+      "year": 2023,
+      "brand": "TurboTax",
+      "title": "Frank's Palm",
+      "url": "https://www.youtube.com/watch?v=UezskH2n2e4",
+      "ytTitle": "Intuit Turbotax Super Bowl 2023 TV commercial😆😆😆😆😆",
+      "score": 0.581,
+      "margin": 0.065
+    },
+    {
+      "id": "super-bowl-2023-ispot-295a",
+      "year": 2023,
+      "brand": "Planters",
+      "title": "Teaser: Roastmaster General",
+      "url": "https://www.youtube.com/watch?v=ZngV1NEDqrM",
+      "ytTitle": "Planters Super Bowl Commercial Teaser",
+      "score": 0.56,
+      "margin": 0.044
+    },
+    {
+      "id": "super-bowl-2023-ispot-29nu",
+      "year": 2023,
+      "brand": "General Motors",
+      "title": "Teaser: Why Not an EV?: Perfect",
+      "url": "https://www.youtube.com/watch?v=W36MH4onlYg",
+      "ytTitle": "General Motors | 'Why Not an EV' | ft. Will Ferrell | 30s Ad",
+      "score": 0.694,
+      "margin": 0.056
+    },
+    {
+      "id": "super-bowl-2023-ispot-29np",
+      "year": 2023,
+      "brand": "General Motors",
+      "title": "Teaser: Why Not an EV?: Mrs. Circle [T1]",
+      "url": "https://www.youtube.com/watch?v=xCQD7VkameE",
+      "ytTitle": "General Motors Super Bowl LVI (56) Commercial",
+      "score": 0.668,
+      "margin": 0.003
+    },
+    {
+      "id": "super-bowl-2023-ispot-2uxg",
+      "year": 2023,
+      "brand": "SKECHERS",
+      "title": "Teaser: Don't Settle",
+      "url": "https://www.youtube.com/watch?v=Wr07Q26vAO0",
+      "ytTitle": "Skechers Super Bowl Commercial 2023 Snoop Dogg Ad Review",
+      "score": 0.516,
+      "margin": 0.015
+    },
+    {
+      "id": "super-bowl-2023-ispot-24kl",
+      "year": 2023,
+      "brand": "FanDuel",
+      "title": "Teaser: Machine",
+      "url": "https://www.youtube.com/watch?v=_SbOORo6lQI",
+      "ytTitle": "Super Bowl LVII (57) Commercial: FanDuel - Kick of Destiny (2023)",
+      "score": 0.506,
+      "margin": 0.013
+    },
+    {
+      "id": "super-bowl-2023-ispot-2ur_",
+      "year": 2023,
+      "brand": "Jeep",
+      "title": "Teaser: Recording Is Now in Session [T1]",
+      "url": "https://www.youtube.com/watch?v=iUDRgAxW0Wc",
+      "ytTitle": "Jeep | Super Bowl 2023 LVII (57) Commercial",
+      "score": 0.489,
+      "margin": 0.004
+    },
+    {
+      "id": "super-bowl-2023-ispot-24ll",
+      "year": 2023,
+      "brand": "Uber Eats",
+      "title": "Teaser: The Mouth of Diddy",
+      "url": "https://www.youtube.com/watch?v=r-AVkxQ__t0",
+      "ytTitle": "Uber Eats Uber One Super Bowl Commercial 2023 Teaser Sean 'Diddy' Combs Ad Review",
+      "score": 0.705,
+      "margin": 0.06
+    },
+    {
+      "id": "super-bowl-2023-ispot-2vuy",
+      "year": 2023,
+      "brand": "Rémy Martin",
+      "title": "Tease: Inch by Inch: Glass",
+      "url": "https://www.youtube.com/watch?v=sXlz7NIjRx4",
+      "ytTitle": "Super Bowl LVII (57) Commercial: Rémy Martin - Inch By Inch (2023)",
+      "score": 0.672,
+      "margin": 0.208
+    },
+    {
+      "id": "super-bowl-2023-ispot-24bi",
+      "year": 2023,
+      "brand": "Crown Royal",
+      "title": "Teaser: Dave Grohl Practices Gratitude",
+      "url": "https://www.youtube.com/watch?v=1FB_odBtFf4",
+      "ytTitle": "Dave Grohl \"Practicing Gratitude\" Crown Royal Super Bowl 57 Teaser",
+      "score": 1.008,
+      "margin": 0.023
+    },
+    {
+      "id": "super-bowl-2023-ispot-2v9t",
+      "year": 2023,
+      "brand": "Uber Eats",
+      "title": "Teaser: Orders",
+      "url": "https://www.youtube.com/watch?v=MZAXevjmO_0",
+      "ytTitle": "Jogging | Uber Eats",
+      "score": 0.805,
+      "margin": 0.04
+    },
+    {
+      "id": "super-bowl-2023-ispot-2vu7",
+      "year": 2023,
+      "brand": "Rémy Martin",
+      "title": "Teaser: Inch by Inch: Hallway",
+      "url": "https://www.youtube.com/watch?v=sXlz7NIjRx4",
+      "ytTitle": "Super Bowl LVII (57) Commercial: Rémy Martin - Inch By Inch (2023)",
+      "score": 0.696,
+      "margin": 0.227
+    },
+    {
+      "id": "super-bowl-2023-ispot-2v4k",
+      "year": 2023,
+      "brand": "Pringles",
+      "title": "Teaser: Operating Room",
+      "url": "https://www.youtube.com/watch?v=ZIsVRR68g4c",
+      "ytTitle": "Pringles Super Bowl Commercial 2023 Teaser Operating Room Ad Review",
+      "score": 1.11,
+      "margin": 0.594
+    },
+    {
+      "id": "super-bowl-2023-ispot-2vcq",
+      "year": 2023,
+      "brand": "Pepsi Zero Sugar",
+      "title": "Teaser: Screw You",
+      "url": "https://www.youtube.com/watch?v=HESCLPZthUM",
+      "ytTitle": "Pepsi Zero Sugar Commercial ￼2023￼",
+      "score": 0.729,
+      "margin": 0.039
+    },
+    {
+      "id": "super-bowl-2023-ispot-2vnp",
+      "year": 2023,
+      "brand": "E*TRADE from Morgan Stanley",
+      "title": "Teaser: Save the Date",
+      "url": "https://www.youtube.com/watch?v=X2GfWx_zqBs",
+      "ytTitle": "E*Trade Super Bowl Commercial 2023 Teaser Save the Date Ad Review",
+      "score": 0.79,
+      "margin": 0.015
+    },
+    {
+      "id": "super-bowl-2023-ispot-20od",
+      "year": 2023,
+      "brand": "PopCorners",
+      "title": "Teaser: Flooding",
+      "url": "https://www.youtube.com/watch?v=zqcHT09gkI4",
+      "ytTitle": "PopCorners: Super Bowl Teaser feat Jesse",
+      "score": 0.522,
+      "margin": 0.034
+    },
+    {
+      "id": "super-bowl-2023-ispot-20lq",
+      "year": 2023,
+      "brand": "Downy",
+      "title": "Teaser: Is That You Biscuits?",
+      "url": "https://www.youtube.com/watch?v=E12OTab7W78",
+      "ytTitle": "Downy Unstopables 2023 Super Bowl Commercial Is that you Biscuits",
+      "score": 0.91,
+      "margin": 0.101
+    },
+    {
+      "id": "super-bowl-2023-ispot-2c8p",
+      "year": 2023,
+      "brand": "Workday",
+      "title": "Teaser: Rock Star",
+      "url": "https://www.youtube.com/watch?v=K9SguZIdDXA",
+      "ytTitle": "Workday Big Game Spot: Rock Star",
+      "score": 1.105,
+      "margin": 0.1
+    },
+    {
+      "id": "super-bowl-2023-ispot-2c8h",
+      "year": 2023,
+      "brand": "Workday",
+      "title": "Teaser: New Guy",
+      "url": "https://www.youtube.com/watch?v=LrNxHKe9s-Y",
+      "ytTitle": "Workday Super Bowl Commercial 2023 Teaser Ozzy Osbourne New Guy Ad Review",
+      "score": 0.772,
+      "margin": 0.256
+    },
+    {
+      "id": "super-bowl-2023-ispot-2coh",
+      "year": 2023,
+      "brand": "Doritos",
+      "title": "Teaser: Did Someone Say a Collab",
+      "url": "https://www.youtube.com/watch?v=GDdZ50Vj-x4",
+      "ytTitle": "'YO BRO!' DORITOS SUPER BOWL COMMERCIAL 2023 🏈",
+      "score": 0.522,
+      "margin": 0.039
+    },
+    {
+      "id": "super-bowl-2023-ispot-2321",
+      "year": 2023,
+      "brand": "Michelob",
+      "title": "Teaser: Beer Run",
+      "url": "https://www.youtube.com/watch?v=-FTMNbItGVM",
+      "ytTitle": "Michelob Ultra Beer Run",
+      "score": 0.84,
+      "margin": 0.11
+    },
+    {
+      "id": "super-bowl-2023-ispot-23of",
+      "year": 2023,
+      "brand": "Michelob",
+      "title": "Teaser: Dynamic Duo",
+      "url": "https://www.youtube.com/watch?v=LBJYrk0T89A",
+      "ytTitle": "The Jump | Michelob ULTRA | Super Bowl LX Teaser",
+      "score": 0.56,
+      "margin": 0.059
+    },
+    {
+      "id": "super-bowl-2023-ispot-23h9",
+      "year": 2023,
+      "brand": "Michelob",
+      "title": "Beer Run",
+      "url": "https://www.youtube.com/watch?v=WmjQtca3PHs",
+      "ytTitle": "Michelob ULTRA | 'Beer Run' Featuring Canelo Álvarez | Song by Kenny Loggins",
+      "score": 0.747,
+      "margin": 0.21
+    },
+    {
+      "id": "super-bowl-2023-ispot-2322",
+      "year": 2023,
+      "brand": "Michelob",
+      "title": "Teaser: ULTRA on Tap",
+      "url": "https://www.youtube.com/watch?v=LBJYrk0T89A",
+      "ytTitle": "The Jump | Michelob ULTRA | Super Bowl LX Teaser",
+      "score": 0.905,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2023-ispot-2qqs",
+      "year": 2023,
+      "brand": "PopCorners",
+      "title": "Teaser: Phone Call",
+      "url": "https://www.youtube.com/watch?v=LXfEUx5vzY4",
+      "ytTitle": "PopCorners Super Bowl Commercial 2023 Aaron Paul Phone Call Teaser Ad Review",
+      "score": 0.727,
+      "margin": 0.226
+    },
+    {
+      "id": "super-bowl-2023-ispot-2hus",
+      "year": 2023,
+      "brand": "Downy",
+      "title": "Teaser: I Ordered Pizza",
+      "url": "https://www.youtube.com/watch?v=0gjLmeSjExw",
+      "ytTitle": "Downy Super Bowl Commercial 2023 Teaser Biscuits Ad Review",
+      "score": 0.543,
+      "margin": 0.046
+    },
+    {
+      "id": "super-bowl-2023-ispot-2hdt",
+      "year": 2023,
+      "brand": "FanDuel",
+      "title": "Teaser: Kick of Destiny: Agent",
+      "url": "https://www.youtube.com/watch?v=LSIHALuy63A",
+      "ytTitle": "FanDuel Kick of Destiny 3 Super Bowl 2025 Commercial",
+      "score": 0.875,
+      "margin": 0.078
+    },
+    {
+      "id": "super-bowl-2023-ispot-2iqe",
+      "year": 2023,
+      "brand": "FanDuel",
+      "title": "Kick of Destiny: Agent: $150",
+      "url": "https://www.youtube.com/watch?v=LSIHALuy63A",
+      "ytTitle": "FanDuel Kick of Destiny 3 Super Bowl 2025 Commercial",
+      "score": 0.829,
+      "margin": 0.059
+    },
+    {
+      "id": "super-bowl-2023-ispot-2x43",
+      "year": 2023,
+      "brand": "Downy",
+      "title": "Teaser: Try It for Yourself",
+      "url": "https://www.youtube.com/watch?v=giViaqkybH4",
+      "ytTitle": "Downy Unstopables 2023 Super Bowl Commercial Try It For Yourself​",
+      "score": 0.831,
+      "margin": 0.335
+    },
+    {
+      "id": "super-bowl-2023-ispot-2mki",
+      "year": 2023,
+      "brand": "Heineken 0.0",
+      "title": "Teaser: Ant-Man and the Wasp: Quantumania: Don't Judge",
+      "url": "https://www.youtube.com/watch?v=atz-Zl5ou9o",
+      "ytTitle": "Heineken 0.0|Ant-Man and The Wasp: Quantumania (BIG Game Spot)–Shrinking and Drinking, Now You Can!",
+      "score": 0.735,
+      "margin": 0.135
+    },
+    {
+      "id": "super-bowl-2023-ispot-2xsc",
+      "year": 2023,
+      "brand": "Downy",
+      "title": "Teaser: Visit From Nana",
+      "url": "https://www.youtube.com/watch?v=qGl5QiUmDEc",
+      "ytTitle": "Downy Super Bowl 2023 Commercial Visit from Nana Ad Review",
+      "score": 0.831,
+      "margin": 0.289
+    },
+    {
+      "id": "super-bowl-2023-ispot-2wpa",
+      "year": 2023,
+      "brand": "Downy",
+      "title": "Teaser: I'm Not Doing It Yet",
+      "url": "https://www.youtube.com/watch?v=0gjLmeSjExw",
+      "ytTitle": "Downy Super Bowl Commercial 2023 Teaser Biscuits Ad Review",
+      "score": 0.531,
+      "margin": 0.042
+    },
+    {
+      "id": "super-bowl-2024-ispot-6whp",
+      "year": 2024,
+      "brand": "State Farm",
+      "title": "Neighbaaa: Choppaaa",
+      "url": "https://www.youtube.com/watch?v=86DNiIg3Lyk",
+      "ytTitle": "Super Bowl LVIII (58) Commercial: State Farm - Arnold Schwarzenegger    Neighbaaa (2024)",
+      "score": 0.705,
+      "margin": 0.033
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wfg",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "When The Game Ends, Tracker Begins",
+      "url": "https://www.youtube.com/watch?v=ChlM8Je3WVg",
+      "ytTitle": "CBS Special Takes A Look At The Super Bowl's Greatest Commercials",
+      "score": 0.42,
+      "margin": 0.04
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wfs",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Bad Bad Thing",
+      "url": "https://www.youtube.com/watch?v=FvFwLiG3apE",
+      "ytTitle": "KPHO CBS 5 Super Bowl Ad Bad Food",
+      "score": 0.677,
+      "margin": 0.176
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wz2",
+      "year": 2024,
+      "brand": "DoorDash",
+      "title": "Really Long Promo Code",
+      "url": "https://www.youtube.com/watch?v=TcPz52ppSG4",
+      "ytTitle": "Doordash Promo Code - Super Bowl Commercial",
+      "score": 0.722,
+      "margin": 0.076
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wfp",
+      "year": 2024,
+      "brand": "NFL",
+      "title": "Character Playbook: Mental Health",
+      "url": "https://www.youtube.com/watch?v=9v_coDVxy-o",
+      "ytTitle": "NFL Character Playbook: Super Bowl LVIII Student Mental Health Initiative 2024",
+      "score": 0.91,
+      "margin": 0.22
+    },
+    {
+      "id": "super-bowl-2024-ispot-6az3",
+      "year": 2024,
+      "brand": "Microsoft Copilot",
+      "title": "Your Everyday AI Companion",
+      "url": "https://www.youtube.com/watch?v=l4B1UflAty8",
+      "ytTitle": "Microsoft Copilot: Your everyday AI companion",
+      "score": 1.48,
+      "margin": 0.232
+    },
+    {
+      "id": "super-bowl-2024-ispot-6aiz",
+      "year": 2024,
+      "brand": "Kia",
+      "title": "Perfect 10 [T1]",
+      "url": "https://www.youtube.com/watch?v=b-vDnJgH7hU",
+      "ytTitle": "Kia EV9 \"Perfect 10\" Super Bowl 2024 Commercial",
+      "score": 0.8,
+      "margin": 0.073
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wfk",
+      "year": 2024,
+      "brand": "Paramount+",
+      "title": "CBS Sports: UEFA Champions League",
+      "url": "https://www.youtube.com/watch?v=Csyrmf26k88",
+      "ytTitle": "Super Bowl Spot - UEFA Champions League - Paramount+ - Lisa Sabin",
+      "score": 0.905,
+      "margin": 0.15
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsl",
+      "year": 2024,
+      "brand": "Discover Card",
+      "title": "Robots",
+      "url": "https://www.youtube.com/watch?v=j3NMMNnrzUc",
+      "ytTitle": "Discover Card commercial, Dawn of Discover, Super Bowl XX 1986",
+      "score": 0.677,
+      "margin": 0.03
+    },
+    {
+      "id": "super-bowl-2024-ispot-5jy4",
+      "year": 2024,
+      "brand": "Progressive",
+      "title": "Replay: Watch Party",
+      "url": "https://www.youtube.com/watch?v=o7ZDfr8XesY",
+      "ytTitle": "Progressive 'Replay - Watch Party' Ad (Super Bowl 2024 Overtime)",
+      "score": 1.11,
+      "margin": 0.101
+    },
+    {
+      "id": "super-bowl-2024-ispot-6w__",
+      "year": 2024,
+      "brand": "NFL",
+      "title": "Character Playbook: Bullied",
+      "url": "https://www.youtube.com/watch?v=amPY4ne5VUA",
+      "ytTitle": "NFL Character Playbook Speaker Series – Super Bowl LIX",
+      "score": 0.717,
+      "margin": 0.044
+    },
+    {
+      "id": "super-bowl-2024-ispot-6ys7",
+      "year": 2024,
+      "brand": "Drumstick",
+      "title": "Doctor on the Plane",
+      "url": "https://www.youtube.com/watch?v=5auFmjoYIwY",
+      "ytTitle": "Drumstick \"Doctor on the Plane\" Super Bowl 2024 Commercial with Eric André",
+      "score": 1.031,
+      "margin": 0.38
+    },
+    {
+      "id": "super-bowl-2024-ispot-6w_g",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Professionals",
+      "url": "https://www.youtube.com/watch?v=7G2Chtw4Tn4",
+      "ytTitle": "CBS SPORTS Super Bowl 58 49ers vs chiefs promo 2024",
+      "score": 0.475,
+      "margin": 0.02
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wwd",
+      "year": 2024,
+      "brand": "Pluto TV",
+      "title": "Couch Potato Farm",
+      "url": "https://www.youtube.com/watch?v=4mPKDEfo0UM",
+      "ytTitle": "Pluto TV Couch Potato Farms",
+      "score": 1.107,
+      "margin": 0.044
+    },
+    {
+      "id": "super-bowl-2024-ispot-6www",
+      "year": 2024,
+      "brand": "Paramount+",
+      "title": "A Mountain of Entertainment: Hail Arnold",
+      "url": "https://www.youtube.com/watch?v=jEU9n0q5fCA",
+      "ytTitle": "Paramount+ Super Bowl Spot Sir Patrick Stewart Does a Hail Arnold A Mountain of Entertainment",
+      "score": 0.83,
+      "margin": 0.081
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wwy",
+      "year": 2024,
+      "brand": "NFL",
+      "title": "Dreams Come True",
+      "url": "https://www.youtube.com/watch?v=5NMg73ymyn4",
+      "ytTitle": "NFL  Dream come true",
+      "score": 0.775,
+      "margin": 0.08
+    },
+    {
+      "id": "super-bowl-2024-ispot-50np",
+      "year": 2024,
+      "brand": "NFL Shop",
+      "title": "The Drip Is in the Details: Walk: Free Shipping",
+      "url": "https://www.youtube.com/watch?v=Wyx8WOMH9ww",
+      "ytTitle": "NFL Shop \"The Drip is in the Details\" International Edit",
+      "score": 0.641,
+      "margin": 0.105
+    },
+    {
+      "id": "super-bowl-2024-ispot-6ybe",
+      "year": 2024,
+      "brand": "Etsy",
+      "title": "France",
+      "url": "https://www.youtube.com/watch?v=zTAGtmtsZqk",
+      "ytTitle": "Etsy Super Bowl Commercial 2024 France Ad Review",
+      "score": 1,
+      "margin": 0.22
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wew",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Redemption Begins",
+      "url": "https://www.youtube.com/watch?v=IyA_4ZfVikE",
+      "ytTitle": "CBS Rejects Medical Marijuana Super Bowl Commercial",
+      "score": 0.501,
+      "margin": 0.112
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wea",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Stay Tuned",
+      "url": "https://www.youtube.com/watch?v=_4iBGNjZzTs",
+      "ytTitle": "February 11, 2024 CBS Super Bowl LVIII Pregame Commercials (WIVB)",
+      "score": 0.451,
+      "margin": 0.015
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wes",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Rise Up",
+      "url": "https://www.youtube.com/watch?v=4rgs1FCEqMI",
+      "ytTitle": "NFL on CBS- RISE TO GLORY.mp4",
+      "score": 0.494,
+      "margin": 0.046
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wez",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "End Your Week With Crimes and Fire",
+      "url": "https://www.youtube.com/watch?v=q_CC9jvnzSc",
+      "ytTitle": "CBS Greatest Superbowl Commercials",
+      "score": 0.42,
+      "margin": 0.006
+    },
+    {
+      "id": "super-bowl-2024-ispot-67w_",
+      "year": 2024,
+      "brand": "Snapchat",
+      "title": "Less Social Media. More Snapchat.",
+      "url": "https://www.youtube.com/watch?v=sVoftkuvJ6U",
+      "ytTitle": "Snapchat Less Social Media More Snapchat Super Bowl 2024",
+      "score": 1.248,
+      "margin": 0.082
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wwa",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Taylor's List",
+      "url": "https://www.youtube.com/watch?v=BDA4tGhVu_M",
+      "ytTitle": "CBS Sports Commentators Sound Off in Defense of Taylor Swift Attending the Super Bowl",
+      "score": 0.47,
+      "margin": 0.034
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wen",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Find Your Heaven",
+      "url": "https://www.youtube.com/watch?v=ChlM8Je3WVg",
+      "ytTitle": "CBS Special Takes A Look At The Super Bowl's Greatest Commercials",
+      "score": 0.427,
+      "margin": 0.043
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wu5",
+      "year": 2024,
+      "brand": "He Gets Us",
+      "title": "Who Is My Neighbor?",
+      "url": "https://www.youtube.com/watch?v=xTYLWEyuHmk",
+      "ytTitle": "He Gets Us Super Bowl Ad 2024 'Who Is My Neighbor?'",
+      "score": 1.11,
+      "margin": 0.47
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wed",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Did We Ever Really Leave",
+      "url": "https://www.youtube.com/watch?v=iaRhUxDei5I",
+      "ytTitle": "WE CAN’T WAIT. Super Bowl LVIII comes to CBS and Paramount Plus on February 11, 2024. #shorts",
+      "score": 0.444,
+      "margin": 0.024
+    },
+    {
+      "id": "super-bowl-2024-ispot-6ws9",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Can You Help Me?",
+      "url": "https://www.youtube.com/watch?v=LFGg9S5iFlw",
+      "ytTitle": "You can help choose the funniest Super Bowl ad",
+      "score": 0.604,
+      "margin": 0.062
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsm",
+      "year": 2024,
+      "brand": "FanDuel",
+      "title": "Missed",
+      "url": "https://www.youtube.com/watch?v=gCFlbgoCgB8",
+      "ytTitle": "FanDuel at Super Bowl LIX",
+      "score": 0.522,
+      "margin": 0.03
+    },
+    {
+      "id": "super-bowl-2024-ispot-67hq",
+      "year": 2024,
+      "brand": "Nerds",
+      "title": "The Union",
+      "url": "https://www.youtube.com/watch?v=9OpHvHqFPeQ",
+      "ytTitle": "Super Bowl LVIII (58) Commercial: Nerds - Flashdance (2024)",
+      "score": 0.528,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2024-ispot-6ybk",
+      "year": 2024,
+      "brand": "Starry",
+      "title": "Love Triangle",
+      "url": "https://www.youtube.com/watch?v=kXONxnPJiMI",
+      "ytTitle": "Starry \"Love Triangle\" Super Bowl 2024 Commercial with Ice Spice",
+      "score": 1.031,
+      "margin": 0.059
+    },
+    {
+      "id": "super-bowl-2024-ispot-67ka",
+      "year": 2024,
+      "brand": "Pringles",
+      "title": "Mr. P",
+      "url": "https://www.youtube.com/watch?v=bB8y8dlDlFE",
+      "ytTitle": "Pringles Mr P Super Bowl 2024",
+      "score": 0.835,
+      "margin": 0.055
+    },
+    {
+      "id": "super-bowl-2024-ispot-67_d",
+      "year": 2024,
+      "brand": "Mountain Dew",
+      "title": "Aubrey Plaza Having a Blast",
+      "url": "https://www.youtube.com/watch?v=JCyQk2EUrb8",
+      "ytTitle": "Mountain Dew Super Bowl Commercial 2024 Aubrey Plaza Having a Blast Ad Review",
+      "score": 1.22,
+      "margin": 0.035
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsj",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "An Iconic Performance",
+      "url": "https://www.youtube.com/watch?v=DR0uq0CZYQs",
+      "ytTitle": "Super Bowl Greatest Commercials to air tonight on CBS",
+      "score": 0.463,
+      "margin": 0.027
+    },
+    {
+      "id": "super-bowl-2024-ispot-6aid",
+      "year": 2024,
+      "brand": "Kawasaki",
+      "title": "Mullets",
+      "url": "https://www.youtube.com/watch?v=U7JKoXQhN9M",
+      "ytTitle": "Kawasaki 2024 Big Game Ad Mullets Official TV Spot",
+      "score": 1,
+      "margin": 0.073
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wuf",
+      "year": 2024,
+      "brand": "He Gets Us",
+      "title": "Washing",
+      "url": "https://www.youtube.com/watch?v=rJf26fPBhoc",
+      "ytTitle": "He Gets Us - Foot Washing (Super Bowl, 2024)",
+      "score": 0.927,
+      "margin": 0.132
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsf",
+      "year": 2024,
+      "brand": "Twentieth Century Studios",
+      "title": "Kingdom of the Planet of the Apes Super Bowl 2024",
+      "url": "https://www.youtube.com/watch?v=yLGJz1qeeEI",
+      "ytTitle": "Kingdom of the Planet of the Apes Official Trailer Super Bowl 2024 Commercial",
+      "score": 0.726,
+      "margin": 0.029
+    },
+    {
+      "id": "super-bowl-2024-ispot-67zr",
+      "year": 2024,
+      "brand": "M&M's",
+      "title": "Almost Champions Ring of Comfort",
+      "url": "https://www.youtube.com/watch?v=8MXNoAZlKlY",
+      "ytTitle": "M&M’S \"Almost Champions Ring of Comfort\" Super Bowl 2024 Commercial",
+      "score": 1.293,
+      "margin": 0.033
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsw",
+      "year": 2024,
+      "brand": "Universal Pictures",
+      "title": "Wicked Super Bowl 2024",
+      "url": "https://www.youtube.com/watch?v=n9TUi628nrA",
+      "ytTitle": "\"Wicked\" - Spot Super Bowl (Universal Pictures Portugal)",
+      "score": 1.008,
+      "margin": 0.233
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsu",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Can't Hide",
+      "url": "https://www.youtube.com/watch?v=IyA_4ZfVikE",
+      "ytTitle": "CBS Rejects Medical Marijuana Super Bowl Commercial",
+      "score": 0.501,
+      "margin": 0.065
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wss",
+      "year": 2024,
+      "brand": "VEOZAH",
+      "title": "Not Flash",
+      "url": "https://www.youtube.com/watch?v=CV7nmjnXa4o",
+      "ytTitle": "VeoZah: Not Flash TV Commercial (100% Hormone-Free) #tvcommercials #veozah #hotflashes #medicine",
+      "score": 0.71,
+      "margin": 0.129
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsn",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Things Got Out of Hand",
+      "url": "https://www.youtube.com/watch?v=IyA_4ZfVikE",
+      "ytTitle": "CBS Rejects Medical Marijuana Super Bowl Commercial",
+      "score": 0.451,
+      "margin": 0.031
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsd",
+      "year": 2024,
+      "brand": "CBS",
+      "title": "Different Backgrounds",
+      "url": "https://www.youtube.com/watch?v=cbfW6ic5W9I",
+      "ytTitle": "NFL on CBS presentation outro 2024-25 (SUPER BOWL LVIII)",
+      "score": 0.481,
+      "margin": 0.012
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsr",
+      "year": 2024,
+      "brand": "Paramount Pictures",
+      "title": "A Quiet Place: Day One Super Bowl 2024",
+      "url": "https://www.youtube.com/watch?v=QTg2dmnBg6c",
+      "ytTitle": "A Quiet Place: Day One | Download & Keep now | Big Game Spot | Paramount Pictures UK",
+      "score": 0.97,
+      "margin": 0.034
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wuz",
+      "year": 2024,
+      "brand": "WeatherTech",
+      "title": "Time To Protect",
+      "url": "https://www.youtube.com/watch?v=_Qhwpi5LGJk",
+      "ytTitle": "WeatherTech Big Game 2024: Time To Protect",
+      "score": 1.385,
+      "margin": 0.793
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsy",
+      "year": 2024,
+      "brand": "Pizza Hut",
+      "title": "Pizza Wha-Hut?",
+      "url": "https://www.youtube.com/watch?v=wnMMHqJXh3c",
+      "ytTitle": "Pizza Hut / Pizza Wha-Hut - 2024 Super Bowl Commercial",
+      "score": 1.11,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsg",
+      "year": 2024,
+      "brand": "DraftKings",
+      "title": "Bet $5 Get $200 Instantly",
+      "url": "https://www.youtube.com/watch?v=UOnUsGBb2W8",
+      "ytTitle": "DraftKings Super Bowl Promo Code | Bet $5, Get $280 at Super Bowl LVI!",
+      "score": 0.69,
+      "margin": 0.029
+    },
+    {
+      "id": "super-bowl-2024-ispot-6ws_",
+      "year": 2024,
+      "brand": "YouTube TV",
+      "title": "Migration",
+      "url": "https://www.youtube.com/watch?v=NBuB85VsZfI",
+      "ytTitle": "NFL Sunday Ticket | Migration",
+      "score": 0.64,
+      "margin": 0.218
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsp",
+      "year": 2024,
+      "brand": "NFL",
+      "title": "The Dream Begins",
+      "url": "https://www.youtube.com/watch?v=e-YOu3ZvBJA",
+      "ytTitle": "NFL Super Bowl LVIII || The Dream Begins",
+      "score": 1.305,
+      "margin": 0.195
+    },
+    {
+      "id": "super-bowl-2024-ispot-6yrg",
+      "year": 2024,
+      "brand": "Kia",
+      "title": "Teaser: The Power Within [T1]",
+      "url": "https://www.youtube.com/watch?v=CauAm-sCPBE",
+      "ytTitle": "Kia EV9 Super Bowl 2024 Teaser The Power Within",
+      "score": 0.831,
+      "margin": 0.271
+    },
+    {
+      "id": "super-bowl-2024-ispot-6yqp",
+      "year": 2024,
+      "brand": "Volkswagen",
+      "title": "Car Meet-Up [T1]",
+      "url": "https://www.youtube.com/watch?v=r9V0h3tkwFA",
+      "ytTitle": "Volkswagen Super Bowl Commercial 2024 Teaser Arrival Ad Review",
+      "score": 0.543,
+      "margin": 0.027
+    },
+    {
+      "id": "super-bowl-2024-ispot-6yy1",
+      "year": 2024,
+      "brand": "CrowdStrike",
+      "title": "Teaser: They're Back",
+      "url": "https://www.youtube.com/watch?v=Ukyqiw27Vn8",
+      "ytTitle": "CrowdStrike Super Bowl Commercial 2024 Teaser They're Back Ad Review",
+      "score": 1.031,
+      "margin": 0.489
+    },
+    {
+      "id": "super-bowl-2024-ispot-6ltb",
+      "year": 2024,
+      "brand": "e.l.f. Cosmetics",
+      "title": "Teaser: You've Been Summoned",
+      "url": "https://www.youtube.com/watch?v=OcUS7qBM1kI",
+      "ytTitle": "e.l.f. Cosmetics Super Bowl 2024 Commercial with the Cast of Suits",
+      "score": 0.531,
+      "margin": 0.024
+    },
+    {
+      "id": "super-bowl-2024-ispot-6lez",
+      "year": 2024,
+      "brand": "BMW",
+      "title": "Teaser: Why Would They Do That [T1]",
+      "url": "https://www.youtube.com/watch?v=ik0Vsmuhf5U",
+      "ytTitle": "BMW Super Bowl Commercial 2024 Teaser",
+      "score": 0.543,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2024-ispot-6lwt",
+      "year": 2024,
+      "brand": "FanDuel",
+      "title": "Rules of Marketing: Get $200",
+      "url": "https://www.youtube.com/watch?v=o2U3yE4Us_4",
+      "ytTitle": "Rob Gronkowski & FanDuel Sportsbook | Super Bowl commercial 2024 | Best Commercials",
+      "score": 0.483,
+      "margin": 0.005
+    },
+    {
+      "id": "super-bowl-2024-ispot-6vkc",
+      "year": 2024,
+      "brand": "Pringles",
+      "title": "Teaser: Uncanny",
+      "url": "https://www.youtube.com/watch?v=saKY-ADpaNc",
+      "ytTitle": "Super Bowl Commercial 2024 | Pringles Commercial | Uncanny | Best Commercials",
+      "score": 0.8,
+      "margin": 0.178
+    },
+    {
+      "id": "super-bowl-2024-ispot-6vdi",
+      "year": 2024,
+      "brand": "Reese's",
+      "title": "Teaser: Sprinkler",
+      "url": "https://www.youtube.com/watch?v=g4J3HEizR-s",
+      "ytTitle": "Reese's Super Bowl Commercial 2024 Teaser Sprinkler Ad Review",
+      "score": 1,
+      "margin": 0.396
+    },
+    {
+      "id": "super-bowl-2024-ispot-6ke5",
+      "year": 2024,
+      "brand": "Michelob",
+      "title": "Teaser: Sidelines",
+      "url": "https://www.youtube.com/watch?v=LBJYrk0T89A",
+      "ytTitle": "The Jump | Michelob ULTRA | Super Bowl LX Teaser",
+      "score": 0.593,
+      "margin": 0.07
+    },
+    {
+      "id": "super-bowl-2024-ispot-6vwn",
+      "year": 2024,
+      "brand": "M&M's",
+      "title": "Teaser: Encouraging",
+      "url": "https://www.youtube.com/watch?v=0LO0EFW_hSU",
+      "ytTitle": "M&M's Super Bowl Commercial 2024 Teaser Dan Marino, Terrell Owens Encouraging Ad Review",
+      "score": 0.497,
+      "margin": 0.137
+    },
+    {
+      "id": "super-bowl-2024-ispot-6vtm",
+      "year": 2024,
+      "brand": "Doritos",
+      "title": "Teaser: Where Did Dinamita Go?",
+      "url": "https://www.youtube.com/watch?v=aEZqbzKjsAU",
+      "ytTitle": "Doritos Dinamita | Super Bowl 2024 commercial | Where did Dinamita go | Best Commercials",
+      "score": 0.989,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2024-ispot-50ap",
+      "year": 2024,
+      "brand": "FanDuel",
+      "title": "Super Bowl Kick of Destiny 2: Bet $5",
+      "url": "https://www.youtube.com/watch?v=LSIHALuy63A",
+      "ytTitle": "FanDuel Kick of Destiny 3 Super Bowl 2025 Commercial",
+      "score": 0.875,
+      "margin": 0.078
+    },
+    {
+      "id": "super-bowl-2024-ispot-50aa",
+      "year": 2024,
+      "brand": "FanDuel",
+      "title": "Super Bowl Kick of Destiny 2",
+      "url": "https://www.youtube.com/watch?v=VPYhYICMcug",
+      "ytTitle": "Gronk & FanDuel Sportsbook Super Bowl Kick of Destiny 2 | Again",
+      "score": 1.03,
+      "margin": 0.058
+    },
+    {
+      "id": "super-bowl-2025-ispot-tozp",
+      "year": 2025,
+      "brand": "NerdWallet",
+      "title": "Genius Beluga",
+      "url": "https://www.youtube.com/watch?v=edfCDlxsVVA",
+      "ytTitle": "Nerdwallet Super Bowl Commercial 2025 Genius Beluga",
+      "score": 1.22,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2025-ispot-fpeh",
+      "year": 2025,
+      "brand": "Salesforce",
+      "title": "Dining Fiasco",
+      "url": "https://www.youtube.com/watch?v=Lp9OEfkWfLI",
+      "ytTitle": "Salesforce Big Game Ad: @MrBeast's Vault",
+      "score": 0.501,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzj0",
+      "year": 2025,
+      "brand": "FOX",
+      "title": "Full Display",
+      "url": "https://www.youtube.com/watch?v=sR3BLS5A7lM",
+      "ytTitle": "Super Bowl LIX (59) on FOX intro | KCvsPHI | 2/9/2025",
+      "score": 0.528,
+      "margin": 0.064
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzdq",
+      "year": 2025,
+      "brand": "Rocket Mortgage",
+      "title": "Own the Dream",
+      "url": "https://www.youtube.com/watch?v=4HrZCmKQVnE",
+      "ytTitle": "Own The Next Dream | Rocket Mortgage",
+      "score": 1.06,
+      "margin": 0.035
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzro",
+      "year": 2025,
+      "brand": "Pringles",
+      "title": "The Call of The Mustaches",
+      "url": "https://www.youtube.com/watch?v=O8C4r62c0XQ",
+      "ytTitle": "Pringles \"The Call of The Mustaches\" Extended Super Bowl 2025 Commercial",
+      "score": 1.22,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzjx",
+      "year": 2025,
+      "brand": "FOX",
+      "title": "The Button",
+      "url": "https://www.youtube.com/watch?v=BYN8UHgf_BQ",
+      "ytTitle": "Fox Nation Super Bowl LVII Commercial",
+      "score": 0.593,
+      "margin": 0.128
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzyy",
+      "year": 2025,
+      "brand": "FOX",
+      "title": "Get Ready",
+      "url": "https://www.youtube.com/watch?v=QH4P1axKzVY",
+      "ytTitle": "Pepsi Super Bowl Commercial 2021 The Weeknd Get Ready",
+      "score": 0.591,
+      "margin": 0.031
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzya",
+      "year": 2025,
+      "brand": "NYU Langone Medical Center",
+      "title": "Football Team",
+      "url": "https://www.youtube.com/watch?v=1gyft4HGJo4",
+      "ytTitle": "NYU Langone Health Super Bowl 59 Commercial",
+      "score": 0.412,
+      "margin": 0.031
+    },
+    {
+      "id": "super-bowl-2025-ispot-taxm",
+      "year": 2025,
+      "brand": "NFL",
+      "title": "Somebody",
+      "url": "https://www.youtube.com/watch?v=INcHuTGplxk",
+      "ytTitle": "BBBS x NFL Inspire Change \"I Am Somebody\" Super Bowl Ad",
+      "score": 0.724,
+      "margin": 0.003
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzjs",
+      "year": 2025,
+      "brand": "FOX",
+      "title": "Let's Go",
+      "url": "https://www.youtube.com/watch?v=yr_SYnu5aMM",
+      "ytTitle": "Let's Go Brandon Super Bowl Ad",
+      "score": 0.498,
+      "margin": 0.034
+    },
+    {
+      "id": "super-bowl-2025-ispot-tw2m",
+      "year": 2025,
+      "brand": "Michelob",
+      "title": "The ULTRA Hustle",
+      "url": "https://www.youtube.com/watch?v=uFFkcF4cC9M",
+      "ytTitle": "Michelob Ultra / The ULTRA Hustle - 2025 Super Bowl Commercial",
+      "score": 1.11,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2025-ispot-tofj",
+      "year": 2025,
+      "brand": "Cirkul",
+      "title": "You Got Cirkul",
+      "url": "https://www.youtube.com/watch?v=DaEMiWlhMtY",
+      "ytTitle": "You Got Cirkul",
+      "score": 1.205,
+      "margin": 0.233
+    },
+    {
+      "id": "super-bowl-2025-ispot-toxg",
+      "year": 2025,
+      "brand": "Novartis",
+      "title": "Teaser: What Matters Most",
+      "url": "https://www.youtube.com/watch?v=gk8QYliTFo8",
+      "ytTitle": "Novartis Super Bowl 2025 Commercial Tease with Hailee Steinfeld",
+      "score": 0.507,
+      "margin": 0.018
+    },
+    {
+      "id": "super-bowl-2025-ispot-to_e",
+      "year": 2025,
+      "brand": "DoorDash",
+      "title": "Teaser: I Love My Job",
+      "url": "https://www.youtube.com/watch?v=F4TQ_50u2xw",
+      "ytTitle": "DoorDash Super Bowl 2025 Commercial with Nate Bargatze",
+      "score": 0.543,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2025-ispot-to__",
+      "year": 2025,
+      "brand": "NFL",
+      "title": "Teaser: Touchdown",
+      "url": "https://www.youtube.com/watch?v=5PQ4HC8TNuw",
+      "ytTitle": "Official Trailer | NFL Super Bowl LII Commercial",
+      "score": 0.593,
+      "margin": 0.065
+    },
+    {
+      "id": "super-bowl-2025-ispot-topi",
+      "year": 2025,
+      "brand": "Little Caesars Pizza",
+      "title": "Teaser: Sorry Eugene",
+      "url": "https://www.youtube.com/watch?v=rPY8fCw9WA8",
+      "ytTitle": "Little Caesars pizza Super Bowl 2023 TV commercial",
+      "score": 0.829,
+      "margin": 0.009
+    },
+    {
+      "id": "super-bowl-2025-ispot-tok3",
+      "year": 2025,
+      "brand": "Little Caesars Pizza",
+      "title": "Teaser: What a Pro",
+      "url": "https://www.youtube.com/watch?v=rPY8fCw9WA8",
+      "ytTitle": "Little Caesars pizza Super Bowl 2023 TV commercial",
+      "score": 0.829,
+      "margin": 0.054
+    },
+    {
+      "id": "super-bowl-2025-ispot-toku",
+      "year": 2025,
+      "brand": "Homes.com",
+      "title": "Teaser: Gibberish",
+      "url": "https://www.youtube.com/watch?v=u4xPH5Zo7-I",
+      "ytTitle": "Homes.com Super Bowl 2025 \"Gibberish\" Teaser",
+      "score": 1.02,
+      "margin": 0.215
+    },
+    {
+      "id": "super-bowl-2025-ispot-tokd",
+      "year": 2025,
+      "brand": "Homes.com",
+      "title": "Teaser: Cat",
+      "url": "https://www.youtube.com/watch?v=qHFXlFmOqLo",
+      "ytTitle": "Homes.com | It's a Sign",
+      "score": 0.805,
+      "margin": 0.112
+    },
+    {
+      "id": "super-bowl-2025-ispot-togv",
+      "year": 2025,
+      "brand": "Homes.com",
+      "title": "Teaser: Backwards",
+      "url": "https://www.youtube.com/watch?v=CYtqKe-OPyo",
+      "ytTitle": "Homes.com \"Backwards\" Superbowl Ad",
+      "score": 0.83,
+      "margin": 0.025
+    },
+    {
+      "id": "super-bowl-2025-ispot-toqs",
+      "year": 2025,
+      "brand": "NFL",
+      "title": "Teaser: Morning Announcement",
+      "url": "https://www.youtube.com/watch?v=cBE7AySwsvA",
+      "ytTitle": "Super Bowl LIX || Morning Announcement Teaser",
+      "score": 0.925,
+      "margin": 0.409
+    },
+    {
+      "id": "super-bowl-2025-ispot-tobo",
+      "year": 2025,
+      "brand": "Homes.com",
+      "title": "Teaser: Interpretive Dance",
+      "url": "https://www.youtube.com/watch?v=NarjE79jRIM",
+      "ytTitle": "Homes.com \"Interpretive Dance\" Superbowl Ad",
+      "score": 0.909,
+      "margin": 0.244
+    },
+    {
+      "id": "super-bowl-2025-ispot-tdxv",
+      "year": 2025,
+      "brand": "Uber Eats",
+      "title": "Teaser: Matthew McConaughey's Voice Message",
+      "url": "https://www.youtube.com/watch?v=kxgEpPBnY8w",
+      "ytTitle": "Uber Eats Super Bowl 2025 Commercial with Matthew McConaughey",
+      "score": 0.985,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2025-ispot-tddo",
+      "year": 2025,
+      "brand": "Blue Square Alliance Against Hate",
+      "title": "Teaser: Snoop and Tom",
+      "url": "https://www.youtube.com/watch?v=kfKuf4aVHxU",
+      "ytTitle": "Robert Kraft's Blue Square Alliance Against Hate to air Super Bowl ad",
+      "score": 0.825,
+      "margin": 0.091
+    },
+    {
+      "id": "super-bowl-2025-ispot-taw6",
+      "year": 2025,
+      "brand": "Taco Bell",
+      "title": "Teaser: Photobomb",
+      "url": "https://www.youtube.com/watch?v=B0O_LeuKTJU",
+      "ytTitle": "Taco Bell 2025 Big Game Teaser | Photobomb feat. Doja Cat",
+      "score": 1.11,
+      "margin": 0.279
+    },
+    {
+      "id": "super-bowl-2025-ispot-taoc",
+      "year": 2025,
+      "brand": "Stella Artois",
+      "title": "Teaser: David and Dave The Big News",
+      "url": "https://www.youtube.com/watch?v=xCIbPpXza8Y",
+      "ytTitle": "David & Dave - The Big News pt. 1 (Super Bowl LIX) - Stella Artois",
+      "score": 0.967,
+      "margin": 0.057
+    },
+    {
+      "id": "super-bowl-2025-ispot-taoj",
+      "year": 2025,
+      "brand": "Bud Light",
+      "title": "Teaser: Knock, Knock... It's #SBLIX",
+      "url": "https://www.youtube.com/watch?v=z-P6OzmgCyY",
+      "ytTitle": "2026 Bud Light Super Bowl Commercial | Keg | :60",
+      "score": 0.722,
+      "margin": 0.049
+    },
+    {
+      "id": "super-bowl-2025-ispot-ta7u",
+      "year": 2025,
+      "brand": "Instacart",
+      "title": "We're Here Deals Teaser",
+      "url": "https://www.youtube.com/watch?v=nVUPazjaHl8",
+      "ytTitle": "“We’re Here” Big Game Spot I Instacart",
+      "score": 1.013,
+      "margin": 0.208
+    },
+    {
+      "id": "super-bowl-2025-ispot-taaa",
+      "year": 2025,
+      "brand": "MSC Cruises",
+      "title": "Teaser: Set Sail With MSC Cruises",
+      "url": "https://www.youtube.com/watch?v=jIA1rktnwgE",
+      "ytTitle": "Set Sail With MSC Cruises | 2025 Super Bowl LIX  | Super Bowl Commercial",
+      "score": 0.91,
+      "margin": 0.108
+    },
+    {
+      "id": "super-bowl-2025-ispot-t7wg",
+      "year": 2025,
+      "brand": "Michelob",
+      "title": "Teaser: The Anticipation",
+      "url": "https://www.youtube.com/watch?v=fLeRDVNu_Bo",
+      "ytTitle": "The Anticipation | Michelob ULTRA",
+      "score": 0.73,
+      "margin": 0.056
+    },
+    {
+      "id": "super-bowl-2025-ispot-t76n",
+      "year": 2025,
+      "brand": "Pringles",
+      "title": "Teaser: Eyes to the Sky",
+      "url": "https://www.youtube.com/watch?v=YdBA5tH9ooI",
+      "ytTitle": "Pringles Super Bowl Commercial 2025 | Eyes to the Sky | 2025 Super Bowl LIX",
+      "score": 0.831,
+      "margin": 0
+    },
+    {
+      "id": "super-bowl-2025-ispot-tk5r",
+      "year": 2025,
+      "brand": "Dove (Skin Care)",
+      "title": "Teaser: One Small Drop",
+      "url": "https://www.youtube.com/watch?v=pURQ1JfV-fo",
+      "ytTitle": "Dove Super Bowl Commercial 2025 Teaser One Small Drop Ad Review",
+      "score": 0.926,
+      "margin": 0.599
+    },
+    {
+      "id": "super-bowl-2025-ispot-tv3c",
+      "year": 2025,
+      "brand": "Häagen-Dazs",
+      "title": "Teaser: Engines On",
+      "url": "https://www.youtube.com/watch?v=bOdEl7xpQz0",
+      "ytTitle": "Häagen Dazs Super Bowl Commercial 2025 Teaser Engines on Ad Review",
+      "score": 1.11,
+      "margin": 0.2
+    },
+    {
+      "id": "super-bowl-2025-ispot-tkl0",
+      "year": 2025,
+      "brand": "Doritos",
+      "title": "Teaser: Crash the Super Bowl: Slap",
+      "url": "https://www.youtube.com/watch?v=h5tOtVqTf6k",
+      "ytTitle": "Doritos Crash the Super Bowl - Slap",
+      "score": 1.38,
+      "margin": 0.367
+    },
+    {
+      "id": "super-bowl-2025-ispot-tvjg",
+      "year": 2025,
+      "brand": "FanDuel",
+      "title": "Teaser: The Dream: Bet $5, Get $200",
+      "url": "https://www.youtube.com/watch?v=LSIHALuy63A",
+      "ytTitle": "FanDuel Kick of Destiny 3 Super Bowl 2025 Commercial",
+      "score": 0.522,
+      "margin": 0.022
+    },
+    {
+      "id": "super-bowl-2025-ispot-farq",
+      "year": 2025,
+      "brand": "Doritos",
+      "title": "Teaser: Crash the Super Bowl: Goat",
+      "url": "https://www.youtube.com/watch?v=9lEdk9fuJ8s",
+      "ytTitle": "Doritos Crash the Super Bowl - Goat",
+      "score": 1.38,
+      "margin": 0.367
+    }
+  ],
+  "failed": [
+    {
+      "id": "super-bowl-2016-ispot-iecg",
+      "reason": "low",
+      "best": {
+        "title": "Every Drop Counts: Colgate Ad on Sustainability",
+        "s": 1.0085714285714285
+      }
+    },
+    {
+      "id": "super-bowl-2016-ispot-aomm",
+      "reason": "low",
+      "best": {
+        "title": "The Formation World Tour",
+        "s": 0.7949999999999999
+      }
+    },
+    {
+      "id": "super-bowl-2016-ispot-aoma",
+      "reason": "low",
+      "best": {
+        "title": "Breaking down the best commercials from the Super Bowl",
+        "s": 0.4125
+      }
+    },
+    {
+      "id": "super-bowl-2016-ispot-aomd",
+      "reason": "low",
+      "best": {
+        "title": "Zeke ¦ Our SUPER Commercial from the Big BOWL Game ¦ Dollar Shave Club",
+        "s": 1.1133333333333333
+      }
+    },
+    {
+      "id": "super-bowl-2016-ispot-aoe6",
+      "reason": "low",
+      "best": {
+        "title": "Rush Hour CBS Trailer #2",
+        "s": 0.8400000000000001
+      }
+    },
+    {
+      "id": "super-bowl-2016-ispot-aoif",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2016-ispot-aoiz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2016-ispot-72oq",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2016-ispot-aoxg",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2016-ispot-aogp",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2016-ispot-athq",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2016-ispot-athr",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2017-ispot-acft",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2017-ispot-a3p6",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2017-ispot-a309",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2017-ispot-a30j",
+      "reason": "low",
+      "best": {
+        "title": "Best commercials from Super Bowl 2017",
+        "s": 0.34222222222222226
+      }
+    },
+    {
+      "id": "super-bowl-2017-ispot-a304",
+      "reason": "low",
+      "best": {
+        "title": "Daytona 500 FOX Promo",
+        "s": 0.9075
+      }
+    },
+    {
+      "id": "super-bowl-2017-ispot-a3ph",
+      "reason": "low",
+      "best": {
+        "title": "FX Network - FX Has the Movies Promo Winter 2017",
+        "s": 0.5742857142857143
+      }
+    },
+    {
+      "id": "super-bowl-2017-ispot-a306",
+      "reason": "low",
+      "best": {
+        "title": "The Walking Dead Super Bowl 2017 Commercial",
+        "s": 0.7749999999999999
+      }
+    },
+    {
+      "id": "super-bowl-2017-ispot-a3cq",
+      "reason": "low",
+      "best": {
+        "title": "Stranger Things 2 | Super Bowl 2017 Ad | Netflix",
+        "s": 0.4008333333333333
+      }
+    },
+    {
+      "id": "super-bowl-2017-ispot-a3ce",
+      "reason": "low",
+      "best": {
+        "title": "Best commercials from Super Bowl 2017",
+        "s": 0.35125
+      }
+    },
+    {
+      "id": "super-bowl-2017-ispot-a3cu",
+      "reason": "low",
+      "best": {
+        "title": "Kia Super Bowl Commercial 2017 Melissa McCarthy",
+        "s": 0.35125
+      }
+    },
+    {
+      "id": "super-bowl-2017-ispot-a3cf",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2017-ispot-a33e",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2017-ispot-a33f",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2018-ispot-wazd",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2018-ispot-waoe",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2018-ispot-waor",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2018-ispot-waoy",
+      "reason": "low",
+      "best": {
+        "title": "The All-American Halftime Show FREE—Watch at Turning Point USA on Youtube #superbowl #halftime",
+        "s": 0.18083333333333335
+      }
+    },
+    {
+      "id": "super-bowl-2018-ispot-waol",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2018-ispot-wao6",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2018-ispot-waix",
+      "reason": "low",
+      "best": {
+        "title": "2018 PyeongChang Winter Olympics Closing Montage NBC",
+        "s": 0.9023611111111111
+      }
+    },
+    {
+      "id": "super-bowl-2018-ispot-waih",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2018-ispot-waiq",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2018-ispot-wjst",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2018-ispot-wjoz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is6l",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is6f",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is66",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is5s",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is55",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is5n",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is5v",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is5w",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is1h",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is1p",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is10",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is1_",
+      "reason": "low",
+      "best": {
+        "title": "The Winner For Best Super Bowl Ad Goes To...",
+        "s": 0.46571428571428575
+      }
+    },
+    {
+      "id": "super-bowl-2019-ispot-iszm",
+      "reason": "low",
+      "best": {
+        "title": "YouTube TV, Watch Like A Fan",
+        "s": 1.48
+      }
+    },
+    {
+      "id": "super-bowl-2019-ispot-is14",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-isol",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-is2c",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-islm",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-igut",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-iguy",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-isld",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-igqu",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-igq5",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-igcf",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-igco",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-itgz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-ifxf",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-iffz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-iffd",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-iff6",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2019-ispot-iffk",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zer2",
+      "reason": "low",
+      "best": {
+        "title": "Watch all the BEST 2026 Super Bowl LX ads I NFL I Fox Sports",
+        "s": 0.395
+      }
+    },
+    {
+      "id": "super-bowl-2020-ispot-zejl",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zejs",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zejk",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zerp",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zerk",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zerd",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zsmc",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zsqb",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zuli",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zzwb",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zmui",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2020-ispot-zmzc",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tekh",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-teka",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-teky",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tekl",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tekp",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tegj",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tekg",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tegr",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tegg",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tegd",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tesn",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tesz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tesc",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tesk",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-test",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2021-ispot-tes2",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvkr",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvs0",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvk6",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvpz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvpj",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvpr",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvsn",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvbl",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvky",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-q9h9",
+      "reason": "low",
+      "best": {
+        "title": "Super Bowl LVI (56) Commercial: Caesars Sportsbooks - Sit Down Dinner (2022)",
+        "s": 0.2841666666666667
+      }
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvpf",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvtv",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvg3",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvtx",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvv4",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvg0",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvbc",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-q463",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvby",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-bvp5",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-q9yw",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-q9ry",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-q92c",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-q9te",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-q9ne",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-q4gu",
+      "reason": "low",
+      "best": {
+        "title": "Super Bowl LVI (56) Commercial: Caesars Sportsbooks - Sit Down Dinner (2022)",
+        "s": 0.28
+      }
+    },
+    {
+      "id": "super-bowl-2022-ispot-qpuf",
+      "reason": "low",
+      "best": {
+        "title": "Nissan Presents: Thrill Driver",
+        "s": 0.73
+      }
+    },
+    {
+      "id": "super-bowl-2022-ispot-qpuv",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-qpmh",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-qpwg",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-qpwn",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-qc4n",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-qc4j",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2022-ispot-qcpw",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vdw",
+      "reason": "low",
+      "best": {
+        "title": "INDIANA JONES 5: THE DIAL OF DESTINY Official Super Bowl Trailer (2023)",
+        "s": 0.6971428571428571
+      }
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vdf",
+      "reason": "low",
+      "best": {
+        "title": "Ram Trucks | 2025 Big Game | Goldilocks and the Three Trucks feat. Glen Powell | :90",
+        "s": 0.3910714285714285
+      }
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vwk",
+      "reason": "low",
+      "best": {
+        "title": "Watch all the BEST 2026 Super Bowl LX ads I NFL I Fox Sports",
+        "s": 0.395
+      }
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vw5",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-2uiz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vwt",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vwb",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vw2",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-2uik",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vww",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-2uds",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vl2",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1va9",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vwy",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1va4",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vau",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vyz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vav",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1va0",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-2ux2",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vam",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vlt",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vas",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-1vaz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2023-ispot-2ueh",
+      "reason": "low",
+      "best": {
+        "title": "General Motors | 'Why Not an EV' | ft. Will Ferrell | 30s Ad",
+        "s": 0.6938888888888888
+      }
+    },
+    {
+      "id": "super-bowl-2023-ispot-2vco",
+      "reason": "low",
+      "best": {
+        "title": "Pepsi Zero Sugar Commercial (2026)",
+        "s": 0.7749999999999999
+      }
+    },
+    {
+      "id": "super-bowl-2023-ispot-20_k",
+      "reason": "low",
+      "best": {
+        "title": "Molson Coors / Coors Light, Miller Lite | The High Stakes Beer Ad - 2023 Super Bowl Commercial",
+        "s": 0.3484848484848485
+      }
+    },
+    {
+      "id": "super-bowl-2023-ispot-2vdj",
+      "reason": "low",
+      "best": {
+        "title": "General Motors | 'Why Not an EV' | ft. Will Ferrell | 30s Ad",
+        "s": 0.6938888888888888
+      }
+    },
+    {
+      "id": "super-bowl-2024-ispot-6w_o",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6w_1",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wwi",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wwe",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-67kx",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-67zl",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wzc",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6aat",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-67zp",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6w_m",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6ws8",
+      "reason": "low",
+      "best": {
+        "title": "Homes.com | It's a Sign",
+        "s": 0.8049999999999999
+      }
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wse",
+      "reason": "low",
+      "best": {
+        "title": "i’m in a super bowl commercial!!! @byomaofficial  made ALL my dreams come true 💕🏈🐰",
+        "s": 0.3125
+      }
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsx",
+      "reason": "low",
+      "best": {
+        "title": "Apartments.com | Secret | :30",
+        "s": 0.8049999999999999
+      }
+    },
+    {
+      "id": "super-bowl-2024-ispot-6wsk",
+      "reason": "low",
+      "best": {
+        "title": "CBS SPORTS PGA TOUR GENESIS INVITATIONAL PROMO 2024",
+        "s": 0.6603030303030303
+      }
+    },
+    {
+      "id": "super-bowl-2024-ispot-6a8q",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-5p57",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6atw",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-67ad",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-67jr",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-67xs",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-67md",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-67ti",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-67n9",
+      "reason": "low",
+      "best": {
+        "title": "Homes.com | It's a Sign",
+        "s": 0.8049999999999999
+      }
+    },
+    {
+      "id": "super-bowl-2024-ispot-67ll",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-67oj",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6y50",
+      "reason": "low",
+      "best": {
+        "title": "E*TRADE from Morgan Stanley | The Duel",
+        "s": 0.9075
+      }
+    },
+    {
+      "id": "super-bowl-2024-ispot-6ygs",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6ywf",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6l9p",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6lpk",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-6leh",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-59ac",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-59a8",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-59ae",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-59b0",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-59qb",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-59zh",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-5u6k",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-54f4",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-54ur",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2024-ispot-54bh",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzc2",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzc1",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzcq",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzcb",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzck",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tihw",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzme",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzms",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzm2",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzm1",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzrg",
+      "reason": "low",
+      "best": {
+        "title": "'Martin Scorsese Presents: The Saints' Extended Trailer | Fox Nation",
+        "s": 1.3228571428571427
+      }
+    },
+    {
+      "id": "super-bowl-2025-ispot-tdji",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzmn",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzrp",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzr4",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzyo",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzrj",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzrm",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzry",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tv9y",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzrk",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzr2",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzrc",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzd_",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tixy",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzrz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzrb",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzrt",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzdp",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tzr1",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tom8",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tokz",
+      "reason": "low",
+      "best": {
+        "title": "Homes.com | It's a Sign",
+        "s": 0.8049999999999999
+      }
+    },
+    {
+      "id": "super-bowl-2025-ispot-togq",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tixw",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tics",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-titf",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tinl",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tizk",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tizz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tioc",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tio5",
+      "reason": "low",
+      "best": {
+        "title": "Homes.com | It's a Sign",
+        "s": 0.665
+      }
+    },
+    {
+      "id": "super-bowl-2025-ispot-tdfi",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-td6f",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-td5a",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-twxh",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-twj5",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-taq0",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-taev",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tajp",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tax_",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tasv",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tazz",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tao9",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-ta7q",
+      "reason": "low",
+      "best": {
+        "title": "Best Foods 2026 Big Game Teaser",
+        "s": 0.8275
+      }
+    },
+    {
+      "id": "super-bowl-2025-ispot-t7dn",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-t76l",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-t7sv",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-ty0k",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tlpi",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tlnn",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tltd",
+      "reason": "error",
+      "error": "TypeError: fetch failed"
+    },
+    {
+      "id": "super-bowl-2025-ispot-tvj6",
+      "reason": "low",
+      "best": {
+        "title": "FanDuel Commercial 2025 - (USA) ",
+        "s": 0.5725
+      }
+    },
+    {
+      "id": "super-bowl-2025-ispot-tvy3",
+      "reason": "low",
+      "best": {
+        "title": "Who's That - GoDaddy's Back in the Game",
+        "s": 1.28
+      }
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
-  "next": 439,
-  "checked": 439,
-  "replaced": 439,
-  "youtubeSet": 80,
+  "next": 376,
+  "checked": 400,
+  "replaced": 0,
+  "youtubeSet": 0,
   "vimeoSet": 0,
-  "pageImageSet": 8,
-  "screenshotSet": 351,
-  "failed": 0,
-  "updatedAt": "2026-02-09T12:21:24.344Z"
+  "pageImageSet": 0,
+  "screenshotSet": 0,
+  "failed": 377,
+  "updatedAt": "2026-02-12T04:15:46.960Z"
 }

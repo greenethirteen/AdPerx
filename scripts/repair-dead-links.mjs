@@ -25,6 +25,8 @@ if (fs.existsSync(envPath)) {
 const HASDATA_API_KEY = process.env.HASDATA_API_KEY || "";
 const MAX_FIXES = Number(process.env.MAX_FIXES ?? "300");
 const USE_DEAD_LIST = process.env.USE_DEAD_LIST !== "0";
+const SKIP_STATUS_CHECK = process.env.SKIP_STATUS_CHECK !== "0";
+const SKIP_HASDATA = process.env.SKIP_HASDATA === "1";
 const VIDEO_ONLY = process.env.VIDEO_ONLY === "1";
 const DEFAULT_ALLOW_DOMAINS = "youtube.com,youtu.be,vimeo.com,dandad.org,clios.com,adsoftheworld.com,lbbonline.com";
 const ALLOW_DOMAINS_RAW = Object.prototype.hasOwnProperty.call(process.env, "ALLOW_DOMAINS")
@@ -38,6 +40,7 @@ const PREFERRED_VIDEO_DOMAINS = (process.env.PREFERRED_VIDEO_DOMAINS || "youtube
   .split(",")
   .map((s) => s.trim())
   .filter(Boolean);
+const REQUEST_TIMEOUT_MS = Number(process.env.REQUEST_TIMEOUT_MS || "12000");
 const SEARCH_ENGINE_HOSTS = new Set(["bing.com", "www.bing.com", "duckduckgo.com", "www.duckduckgo.com"]);
 
 if (!fs.existsSync(dataPath)) {
@@ -110,6 +113,9 @@ function requestUrl(url, { method = "GET", headers = {}, maxRedirects = 5, maxBy
         });
       }
     );
+    req.setTimeout(REQUEST_TIMEOUT_MS, () => {
+      req.destroy(new Error("request_timeout"));
+    });
     req.on("error", () => resolve({ status: 0, headers: {}, body: "" }));
     req.end();
   });
@@ -251,11 +257,11 @@ function quickThumbnailFromUrl(url) {
     const u = new URL(url);
     if (u.hostname.includes("youtube.com")) {
       const v = u.searchParams.get("v");
-      if (v) return `https://i.ytimg.com/vi/${v}/default.jpg`;
+      if (v) return `https://i.ytimg.com/vi/${v}/hqdefault.jpg`;
     }
     if (u.hostname === "youtu.be") {
       const id = u.pathname.replace("/", "");
-      if (id) return `https://i.ytimg.com/vi/${id}/default.jpg`;
+      if (id) return `https://i.ytimg.com/vi/${id}/hqdefault.jpg`;
     }
   } catch {
     return "";
@@ -330,15 +336,19 @@ for (const r of data) {
     console.log(`Heartbeat: checked ${checked} / ${total}, fixed ${fixed}`);
     lastLog = Date.now();
   }
-  const status = await fetchStatus(r.outboundUrl);
-  if (status && status < 400) continue;
+  if (!(USE_DEAD_LIST && SKIP_STATUS_CHECK)) {
+    const status = await fetchStatus(r.outboundUrl);
+    if (status && status < 400) continue;
+  }
 
   const q = buildSearchQuery(r);
   let results = null;
-  try {
-    results = await safeRequest(() => searchHasData(q));
-  } catch {
-    hasDataFailures += 1;
+  if (!SKIP_HASDATA) {
+    try {
+      results = await safeRequest(() => searchHasData(q));
+    } catch {
+      hasDataFailures += 1;
+    }
   }
   if (!results?.length) {
     try {

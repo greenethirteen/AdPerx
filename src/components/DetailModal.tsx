@@ -3,7 +3,6 @@
 import { useEffect } from "react";
 import type { Campaign } from "@/lib/types";
 import {
-  buildScreenshotThumbnail,
   getBestCampaignLink,
   getNextThumbnailFallback,
   getPreferredThumbnailUrl,
@@ -13,30 +12,41 @@ import {
 export default function DetailModal({
   campaign,
   open,
+  previousCampaign,
+  nextCampaign,
+  onPrevious,
+  onNext,
   onClose
 }: {
   campaign: Campaign | null;
   open: boolean;
+  previousCampaign: Campaign | null;
+  nextCampaign: Campaign | null;
+  onPrevious: () => void;
+  onNext: () => void;
   onClose: () => void;
 }) {
   useEffect(() => {
     if (!open) return;
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "Escape") onClose();
+      if (e.key === "ArrowLeft") onPrevious();
+      if (e.key === "ArrowRight") onNext();
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [open, onClose]);
+  }, [open, onClose, onPrevious, onNext]);
 
   if (!open || !campaign) return null;
 
   const link = getBestCampaignLink(campaign);
   const embed = getEmbedUrl(link);
+  const hasSideColumn = Boolean(campaign.notes);
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
       <div className="absolute inset-0 bg-black/40 backdrop-blur-sm" onClick={onClose} />
-      <div className="relative w-full max-w-4xl overflow-hidden rounded-3xl bg-white shadow-soft">
+      <div className="relative w-full max-w-3xl overflow-hidden rounded-3xl bg-white shadow-soft">
         <div className="flex items-start justify-between gap-4 border-b border-black/10 p-5">
           <div className="min-w-0">
             <div className="text-xs font-semibold text-black/60">{campaign.brand}</div>
@@ -54,16 +64,48 @@ export default function DetailModal({
             {campaign.agency ? <div className="mt-2 text-sm text-black/60">{campaign.agency}</div> : null}
           </div>
 
-          <button
-            onClick={onClose}
-            className="rounded-xl border border-black/10 bg-white px-3 py-2 text-sm hover:bg-black/5"
-          >
-            Close
-          </button>
+          <div className="flex min-w-[220px] flex-col gap-2">
+            <div className="flex items-center gap-2">
+              <button
+                onClick={onPrevious}
+                disabled={!previousCampaign}
+                className="rounded-xl border border-black/10 bg-white px-3 py-2 text-sm hover:bg-black/5 disabled:cursor-not-allowed disabled:opacity-40"
+                title={previousCampaign ? "Previous case study" : "No previous case study"}
+              >
+                ← Prev
+              </button>
+              <button
+                onClick={onNext}
+                disabled={!nextCampaign}
+                className="rounded-xl border border-black/10 bg-white px-3 py-2 text-sm hover:bg-black/5 disabled:cursor-not-allowed disabled:opacity-40"
+                title={nextCampaign ? "Next case study" : "No next case study"}
+              >
+                Next →
+              </button>
+              <button
+                onClick={onClose}
+                className="rounded-xl border border-black/10 bg-white px-3 py-2 text-sm hover:bg-black/5"
+              >
+                Close
+              </button>
+            </div>
+            <a
+              className={`block rounded-2xl px-4 py-3 text-center text-sm font-semibold text-white ${link ? "bg-black hover:bg-black/90" : "cursor-not-allowed bg-black/30"}`}
+              href={link || undefined}
+              target={link ? "_blank" : undefined}
+              rel={link ? "noreferrer" : undefined}
+              aria-disabled={!link}
+              onClick={(e) => {
+                if (!link) e.preventDefault();
+              }}
+            >
+              {link ? "Open case study →" : "No case-study link available"}
+            </a>
+          </div>
         </div>
 
-        <div className="grid gap-0 md:grid-cols-5">
-          <div className="md:col-span-3">
+        <div className={`grid gap-0 ${hasSideColumn ? "md:grid-cols-5" : ""}`}>
+          <div className={hasSideColumn ? "md:col-span-4" : ""}>
             {embed ? (
               <div className="aspect-video w-full bg-black">
                 <iframe
@@ -76,27 +118,23 @@ export default function DetailModal({
               </div>
             ) : isRenderableThumbnailUrl(campaign.thumbnailUrl || "") ? (
               <div className="aspect-video w-full bg-black/5">
-                <img
-                  src={getPreferredThumbnailUrl(campaign.thumbnailUrl || "")}
-                  alt={`${campaign.brand} — ${campaign.title}`}
-                  className="h-full w-full object-cover"
-                  onError={(e) => {
-                    const img = e.currentTarget;
-                    const next = getNextThumbnailFallback(img.src);
-                    if (next && img.dataset.normalized !== "1") {
-                      img.dataset.normalized = "1";
-                      img.src = next;
-                      return;
-                    }
-                    const fallback = buildScreenshotThumbnail(link);
-                    if (fallback && img.dataset.screenshot !== "1") {
-                      img.dataset.screenshot = "1";
-                      img.src = fallback;
-                      return;
-                    }
-                    img.style.display = "none";
-                  }}
-                />
+                <div className="relative h-full w-full">
+                  <div className="absolute inset-0 flex items-center justify-center text-sm text-black/50">No preview</div>
+                  <img
+                    src={getPreferredThumbnailUrl(campaign.thumbnailUrl || "")}
+                    alt={`${campaign.brand} — ${campaign.title}`}
+                    className="relative z-10 h-full w-full object-cover"
+                    onError={(e) => {
+                      const img = e.currentTarget;
+                      const next = getNextThumbnailFallback(img.src);
+                      if (next && next !== img.src) {
+                        img.src = next;
+                        return;
+                      }
+                      img.style.display = "none";
+                    }}
+                  />
+                </div>
               </div>
             ) : (
               <div className="p-6 text-sm text-black/60">
@@ -105,40 +143,16 @@ export default function DetailModal({
             )}
           </div>
 
-          <div className="md:col-span-2">
-            <div className="space-y-3 p-6">
-              <a
-                className="block rounded-2xl bg-black px-4 py-3 text-center text-sm font-semibold text-white hover:bg-black/90"
-                href={link}
-                target="_blank"
-                rel="noreferrer"
-              >
-                Open case study →
-              </a>
-
-              {campaign.sourceUrl ? (
-                <a
-                  className="block rounded-2xl border border-black/10 bg-white px-4 py-3 text-center text-sm font-semibold hover:bg-black/5"
-                  href={campaign.sourceUrl}
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Open LoveTheWorkMore page
-                </a>
-              ) : null}
-
-              {campaign.notes ? (
+          {hasSideColumn ? (
+            <div className="md:col-span-1">
+              <div className="space-y-3 p-6">
                 <div className="rounded-2xl border border-black/10 bg-white p-4 text-sm text-black/70">
                   <div className="text-xs font-semibold text-black/60">Notes</div>
                   <div className="mt-2 whitespace-pre-wrap">{campaign.notes}</div>
                 </div>
-              ) : null}
-
-              <div className="rounded-2xl border border-black/10 bg-white p-4 text-xs text-black/55">
-                Tip: add your own notes and tags in <span className="font-semibold">data/campaigns.json</span>, then rebuild the index.
               </div>
             </div>
-          </div>
+          ) : null}
         </div>
       </div>
     </div>
@@ -162,8 +176,16 @@ function getEmbedUrl(url: string) {
       return id ? `https://www.youtube.com/embed/${id}` : "";
     }
     if (u.hostname.includes("vimeo.com")) {
-      const id = u.pathname.split("/").filter(Boolean).pop();
-      return id ? `https://player.vimeo.com/video/${id}` : "";
+      const parts = u.pathname.split("/").filter(Boolean);
+      const numeric = parts.find((p) => /^\d+$/.test(p));
+      const id =
+        u.hostname.includes("player.vimeo.com") && parts[0] === "video"
+          ? parts[1]
+          : numeric || parts[0];
+      const hashFromPath = parts.find((p) => /^[a-f0-9]{8,}$/i.test(p));
+      const hash = u.searchParams.get("h") || hashFromPath || "";
+      if (!id) return "";
+      return `https://player.vimeo.com/video/${id}${hash ? `?h=${hash}` : ""}`;
     }
     return "";
   } catch {

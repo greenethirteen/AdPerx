@@ -1,0 +1,722 @@
+[
+  {
+    "id": "2025-one-second-ads-budweiser",
+    "year": 2025,
+    "brand": "BUDWEISER",
+    "title": "ONE SECOND ADS",
+    "url": "https://www.youtube.com/watch?v=d-mtDQXtR6I",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2025-animal-alerts-petpace",
+    "year": 2025,
+    "brand": "PETPACE",
+    "title": "ANIMAL ALERTS",
+    "url": "https://youtu.be/kfnhUWM876k",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2025-sunshine-nike",
+    "year": 2025,
+    "brand": "NIKE",
+    "title": "SUNSHINE",
+    "url": "https://www.youtube.com/watch?v=qvFnf2EEd20",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2025-warren-apple",
+    "year": 2025,
+    "brand": "APPLE",
+    "title": "WARREN",
+    "url": "https://www.youtube.com/watch?v=3m0MoYKwVTM",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2025-am-i-a-bad-person-nike",
+    "year": 2025,
+    "brand": "NIKE",
+    "title": "AM I A BAD PERSON",
+    "url": "https://www.youtube.com/watch?v=pwLergHG81c",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2025-child-wedding-cards-un-women",
+    "year": 2025,
+    "brand": "UN WOMEN",
+    "title": "CHILD WEDDING CARDS",
+    "url": "https://www.youtube.com/watch?v=G_dzr4SJqjY",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2025-the-fan-remote-claro-tv",
+    "year": 2025,
+    "brand": "CLARO TV+",
+    "title": "THE FAN REMOTE",
+    "url": "https://www.youtube.com/watch?v=3BbpfDvl6f4",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2024-child-wedding-cards-un-women",
+    "year": 2024,
+    "brand": "UN WOMEN",
+    "title": "CHILD WEDDING CARDS",
+    "url": "https://www.youtube.com/watch?v=G_dzr4SJqjY",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2024-animal-alerts-petpace",
+    "year": 2024,
+    "brand": "PETPACE",
+    "title": "ANIMAL ALERTS",
+    "url": "https://youtu.be/kfnhUWM876k",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2024-relax-tractor-apple",
+    "year": 2024,
+    "brand": "APPLE",
+    "title": "RELAX: TRACTOR",
+    "url": "https://www.youtube.com/watch?v=kuOQdo7t3Xk",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2024-the-national-sport-of-kazakhstan-ruh-fighting-championship",
+    "year": 2024,
+    "brand": "RUH FIGHTING CHAMPIONSHIP",
+    "title": "THE NATIONAL SPORT OF KAZAKHSTAN",
+    "url": "https://www.youtube.com/watch?v=F2yHQAw1n9U&ab_channel=CommercialJunky",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2024-three-words-axa",
+    "year": 2024,
+    "brand": "AXA",
+    "title": "THREE WORDS",
+    "url": "https://www.youtube.com/watch?v=PZrR8l88PCE",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2024-album-cover-longform-apple",
+    "year": 2024,
+    "brand": "APPLE",
+    "title": "ALBUM COVER (LONGFORM)",
+    "url": "https://www.youtube.com/watch?v=ei0WDdT4-6A",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2024-a-life-in-sound-sirius-xm",
+    "year": 2024,
+    "brand": "SIRIUS XM",
+    "title": "A LIFE IN SOUND",
+    "url": "https://www.youtube.com/watch?v=VrT0Vt5wVdw",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2024-shot-on-iphone-little-garlic-apple",
+    "year": 2024,
+    "brand": "APPLE",
+    "title": "SHOT ON IPHONE | LITTLE GARLIC",
+    "url": "https://www.youtube.com/watch?v=U1unmE6OlYM",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2024-the-vault-powerade",
+    "year": 2024,
+    "brand": "POWERADE",
+    "title": "THE VAULT",
+    "url": "https://www.youtube.com/watch?v=5OMKmJ9onhE&ab_channel=Powerade",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2024-sabina-braless-sabina",
+    "year": 2024,
+    "brand": "SABINA",
+    "title": "SABINA BRALESS",
+    "url": "https://www.youtube.com/watch?v=4kHvxvdUgv4",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2024-the-minefields-honey-project-ministry-of-foreign-affairs-kernel",
+    "year": 2024,
+    "brand": "MINISTRY OF FOREIGN AFFAIRS KERNEL",
+    "title": "THE MINEFIELDS HONEY PROJECT",
+    "url": "https://www.youtube.com/watch?v=iV-T2UJPzPU&embeds_referring_euri=https%3A%2F%2Fcreative-stories.com.ua%2F&source_ve_path=MjM4NTE&feature=emb_title",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2023-the-greatest-apple",
+    "year": 2023,
+    "brand": "APPLE",
+    "title": "THE GREATEST",
+    "url": "https://www.youtube.com/watch?v=8sX9IEHWRJ8",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2023-relax-it-s-iphone-r-i-p-leon-apple",
+    "year": 2023,
+    "brand": "APPLE",
+    "title": "RELAX, IT’S IPHONE: R.I.P. LEON",
+    "url": "https://www.youtube.com/watch?v=t2n0ykn4AKw",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2023-optink-junge-helden-e-v",
+    "year": 2023,
+    "brand": "JUNGE HELDEN E.V.",
+    "title": "#OPTINK",
+    "url": "https://www.youtube.com/watch?v=w-DRxhi0jrc",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2023-relax-it-s-iphone-action-mode-apple",
+    "year": 2023,
+    "brand": "APPLE",
+    "title": "RELAX, IT’S IPHONE: ACTION MODE",
+    "url": "https://www.youtube.com/watch?v=tRPqGf8nc4g",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2023-1000-slides-globant",
+    "year": 2023,
+    "brand": "GLOBANT",
+    "title": "1000 SLIDES",
+    "url": "https://www.youtube.com/watch?v=zuHq15s6HSc",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2023-a-promo-nobody-s-heard-of-mcdonald-s",
+    "year": 2023,
+    "brand": "MCDONALD’S",
+    "title": "A PROMO NOBODY’S HEARD OF",
+    "url": "https://www.youtube.com/watch?v=4ULOquuWIcM",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2023-home-of-thoughtful-gifting-john-lewis-partners",
+    "year": 2023,
+    "brand": "JOHN LEWIS & PARTNERS",
+    "title": "HOME OF THOUGHTFUL GIFTING",
+    "url": "https://youtu.be/LVBeU9kjNN0",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2023-samsung-unfear-samsung-spain",
+    "year": 2023,
+    "brand": "SAMSUNG SPAIN",
+    "title": "SAMSUNG UNFEAR",
+    "url": "https://www.youtube.com/watch?v=IY8QiOcKeqM",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2023-fursat-shot-on-iphone-14-pro-apple",
+    "year": 2023,
+    "brand": "APPLE",
+    "title": "FURSAT / SHOT ON IPHONE 14 PRO",
+    "url": "https://www.youtube.com/watch?v=f1VEks-QQ4Y",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2023-mcdrop-mcdonald-s",
+    "year": 2023,
+    "brand": "MCDONALD’S",
+    "title": "MCDROP",
+    "url": "https://youtu.be/xPwclbn-hSs",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2023-message-from-the-other-front-the-salvation-army",
+    "year": 2023,
+    "brand": "THE SALVATION ARMY",
+    "title": "MESSAGE FROM THE OTHER FRONT",
+    "url": "https://youtu.be/3Yl6Sx9Dgm8",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2023-the-gentle-giant-ad-council-love-has-no-labels",
+    "year": 2023,
+    "brand": "AD COUNCIL LOVE HAS NO LABELS",
+    "title": "THE GENTLE GIANT",
+    "url": "https://www.youtube.com/watch?v=LQYzsZSwEk4",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2023-the-singularity-bts-squarespace",
+    "year": 2023,
+    "brand": "SQUARESPACE",
+    "title": "THE SINGULARITY: BTS",
+    "url": "https://www.youtube.com/watch?v=XnLTBCSgGpQ",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2023-the-smart-legacy-ifthen-inc",
+    "year": 2023,
+    "brand": "IFTHEN. INC",
+    "title": "THE SMART LEGACY",
+    "url": "https://www.youtube.com/watch?v=54L-gF98YC4",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2023-through-my-eyes-waka-kotahi",
+    "year": 2023,
+    "brand": "WAKA KOTAHI",
+    "title": "THROUGH MY EYES",
+    "url": "https://www.youtube.com/watch?v=wwEhELyQe4c",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2022-escape-from-the-office-apple",
+    "year": 2022,
+    "brand": "APPLE",
+    "title": "ESCAPE FROM THE OFFICE",
+    "url": "https://www.youtube.com/watch?v=GC5Gmkn92Bg",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-project-convey-cox-communications",
+    "year": 2022,
+    "brand": "COX COMMUNICATIONS",
+    "title": "PROJECT CONVEY",
+    "url": "https://www.youtube.com/watch?v=X_jGSLqGy-Y&t=3s&ab_channel=Cox",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-open-spaces-burberry",
+    "year": 2022,
+    "brand": "BURBERRY",
+    "title": "OPEN SPACES",
+    "url": "https://www.youtube.com/watch?v=iCbfq_-cd-g",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-the-prevention-grid-sce",
+    "year": 2022,
+    "brand": "SCE",
+    "title": "THE PREVENTION GRID",
+    "url": "https://youtu.be/cTSSntuolU0",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-shagun-ka-lifafa-ujjivan-small-finance-bank",
+    "year": 2022,
+    "brand": "UJJIVAN SMALL FINANCE BANK",
+    "title": "SHAGUN KA LIFAFA",
+    "url": "https://www.youtube.com/watch?v=I7utFGsDhGQ",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-the-nominate-me-selfie-political-shakti-the-times-of-india",
+    "year": 2022,
+    "brand": "POLITICAL SHAKTI + THE TIMES OF INDIA",
+    "title": "THE NOMINATE ME SELFIE",
+    "url": "https://www.youtube.com/watch?v=oC0WcNpfVWA",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-ford-very-gay-raptor-ford",
+    "year": 2022,
+    "brand": "FORD",
+    "title": "FORD VERY GAY RAPTOR",
+    "url": "https://www.youtube.com/watch?v=6bpTflJ6yUw",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-when-harry-met-santa-posten-the-norwegian-postal-service",
+    "year": 2022,
+    "brand": "POSTEN: THE NORWEGIAN POSTAL SERVICE",
+    "title": "WHEN HARRY MET SANTA",
+    "url": "https://www.youtube.com/watch?v=nDLumk_rQQw",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-shot-on-iphone-13-pro-the-comeback-apple",
+    "year": 2022,
+    "brand": "APPLE",
+    "title": "SHOT ON IPHONE 13 PRO: THE COMEBACK",
+    "url": "https://www.youtube.com/watch?v=Me3PEs88pOU",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-now-you-know-abbott",
+    "year": 2022,
+    "brand": "ABBOTT",
+    "title": "NOW YOU KNOW",
+    "url": "https://www.youtube.com/watch?v=80BVDFifPd0",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-chornobyl-vanishing-logo-state-agency-of-ukraine-on-exclusion-zone-management",
+    "year": 2022,
+    "brand": "STATE AGENCY OF UKRAINE ON EXCLUSION ZONE MANAGEMENT",
+    "title": "CHORNOBYL VANISHING LOGO",
+    "url": "https://www.youtube.com/watch?v=Mzce4MifgBQ",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-the-tokyo-toilet-the-nippon-foundation",
+    "year": 2022,
+    "brand": "THE NIPPON FOUNDATION",
+    "title": "THE TOKYO TOILET",
+    "url": "https://www.youtube.com/watch?v=TjouGyWXVM0&t=83s",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-we-will-become-better-lgbtnet-org",
+    "year": 2022,
+    "brand": "LGBTNET.ORG",
+    "title": "WE WILL BECOME BETTER",
+    "url": "https://www.youtube.com/watch?v=hGRkKVPpcvU",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-skate-nation-ghana-facebook",
+    "year": 2022,
+    "brand": "FACEBOOK",
+    "title": "SKATE NATION GHANA",
+    "url": "https://www.youtube.com/watch?v=E_ysoCP1UcI",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-the-inheritance-pass-yellowstone-forever",
+    "year": 2022,
+    "brand": "YELLOWSTONE FOREVER",
+    "title": "THE INHERITANCE PASS",
+    "url": "https://www.youtube.com/watch?v=sUkkikPi6ak",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-reqruitement-mcdonald-s",
+    "year": 2022,
+    "brand": "MCDONALD’S",
+    "title": "REQRUITEMENT",
+    "url": "https://www.youtube.com/watch?v=KZjBpC8HzDE",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-guns-stats-change-the-ref",
+    "year": 2022,
+    "brand": "CHANGE THE REF",
+    "title": "GUNS STATS",
+    "url": "https://www.youtube.com/watch?v=ADlLu6Iynzs",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-airpods-3rd-generation-apple",
+    "year": 2022,
+    "brand": "APPLE",
+    "title": "AIRPODS: 3RD GENERATION",
+    "url": "https://www.youtube.com/watch?v=-5y2YqrlOr4",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-future-2021-the-concept-eqg-mercedes-benz",
+    "year": 2022,
+    "brand": "MERCEDES BENZ",
+    "title": "“FUTURE 2021”: THE CONCEPT EQG",
+    "url": "https://www.youtube.com/watch?v=if-4pPa7KGw",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-start-up-45-years-of-apple-sounds-apple",
+    "year": 2022,
+    "brand": "APPLE",
+    "title": "START UP: 45 YEARS OF APPLE SOUNDS",
+    "url": "https://www.youtube.com/watch?v=OxJpZtp2ItE",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-doin-laps-apple",
+    "year": 2022,
+    "brand": "APPLE",
+    "title": "DOIN’ LAPS",
+    "url": "https://www.youtube.com/watch?v=pJIKPzZTJXM",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-fumble-apple",
+    "year": 2022,
+    "brand": "APPLE",
+    "title": "FUMBLE",
+    "url": "https://www.youtube.com/watch?v=xJh3WIPUcOk",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2022-the-truth-takes-a-journalist-the-new-york-times",
+    "year": 2022,
+    "brand": "THE NEW YORK TIMES",
+    "title": "THE TRUTH TAKES A JOURNALIST",
+    "url": "https://www.youtube.com/watch?v=uAsmh7yuR3U",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-an-unlikely-friendship-prime-video",
+    "year": 2022,
+    "brand": "PRIME VIDEO",
+    "title": "AN UNLIKELY FRIENDSHIP",
+    "url": "https://www.youtube.com/watch?v=KMmjYIW_4tE",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-coda-playlist-curated-by-deaf-people-apple",
+    "year": 2022,
+    "brand": "APPLE",
+    "title": "CODA PLAYLIST CURATED BY DEAF PEOPLE",
+    "url": "https://www.youtube.com/watch?v=8yc0mF8oMSM",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2022-play-has-no-limits-feat-kenshi-yonezu-sony",
+    "year": 2022,
+    "brand": "SONY",
+    "title": "PLAY HAS NO LIMITS FEAT. KENSHI YONEZU",
+    "url": "https://www.youtube.com/watch?v=4yuEnY9ItqA",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2022-add-the-m-ywca",
+    "year": 2022,
+    "brand": "YWCA",
+    "title": "ADD THE M",
+    "url": "https://www.youtube.com/watch?v=Yxule2f9h6Q&feature=emb_title&ab_channel=JacquelynParent",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2022-plasticoff-whirlpool",
+    "year": 2022,
+    "brand": "WHIRLPOOL",
+    "title": "PLASTICOFF",
+    "url": "https://www.youtube.com/watch?v=h8nAxntnzGc",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-gear-up-bank-of-montreal",
+    "year": 2022,
+    "brand": "BANK OF MONTREAL",
+    "title": "GEAR UP",
+    "url": "https://www.youtube.com/watch?v=BY4U9CzDq7E",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-stayfree-project-free-period-johnson-johnson",
+    "year": 2022,
+    "brand": "JOHNSON & JOHNSON",
+    "title": "STAYFREE PROJECT FREE PERIOD",
+    "url": "https://www.youtube.com/watch?v=oUK6ZGKfA6Q",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-one-second-suit-h-m",
+    "year": 2022,
+    "brand": "H&M",
+    "title": "ONE/SECOND/SUIT",
+    "url": "https://www.youtube.com/watch?v=z7Vpgx0bdxo",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2022-the-first-car-showroom-inside-a-bus-kia-motors",
+    "year": 2022,
+    "brand": "KIA MOTORS",
+    "title": "THE FIRST CAR SHOWROOM INSIDE A BUS",
+    "url": "https://www.youtube.com/watch?v=ZHKbjImAras&ab_channel=JoshuaRueda",
+    "status": 200,
+    "note": "youtube_unavailable_0"
+  },
+  {
+    "id": "2014-daddy-citroen",
+    "year": 2014,
+    "brand": "CITROEN",
+    "title": "DADDY",
+    "url": "https://www.youtube.com/watch?v=cE-1DNrcls4&ab_channel=HavasGroup",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2014-friend-compass-momondo",
+    "year": 2014,
+    "brand": "MOMONDO",
+    "title": "FRIEND COMPASS",
+    "url": "https://www.youtube.com/watch?v=I2hi1wZcjOA&ab_channel=McCannParis",
+    "status": 200,
+    "note": "youtube_unavailable_401"
+  },
+  {
+    "id": "2014-boardwalk-old-spice",
+    "year": 2014,
+    "brand": "OLD SPICE",
+    "title": "BOARDWALK",
+    "url": "https://www.youtube.com/watch?v=1BOfhSVUI38&ab_channel=AdFibs.Com",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2014-the-big-leap-lacoste",
+    "year": 2014,
+    "brand": "LACOSTE",
+    "title": "THE BIG LEAP",
+    "url": "https://www.youtube.com/watch?v=BzB3KW4uBhw&ab_channel=HavasGroup",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2014-amazing-street-hacks-watchdogs",
+    "year": 2014,
+    "brand": "WATCHDOGS",
+    "title": "AMAZING STREET HACKS",
+    "url": "https://www.youtube.com/watch?v=gbswS7AcrnI&ab_channel=HavasGroup",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2014-cat-lady-devondale-long-life-milk",
+    "year": 2014,
+    "brand": "DEVONDALE LONG LIFE MILK",
+    "title": "CAT LADY",
+    "url": "https://www.youtube.com/watch?v=AqrnQ1KdR20&ab_channel=AndrewKovalenko",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2014-no-child-brides-child-survival-india",
+    "year": 2014,
+    "brand": "CHILD SURVIVAL INDIA",
+    "title": "NO CHILD BRIDES",
+    "url": "https://www.youtube.com/watch?v=UK7Dnpew9YU&ab_channel=HavasGroup",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2014-the-first-aids-free-generation-bank-of-america",
+    "year": 2014,
+    "brand": "BANK OF AMERICA",
+    "title": "THE FIRST AIDS FREE GENERATION",
+    "url": "https://www.youtube.com/watch?v=hwgquII0XyA&ab_channel=DeborahMalone",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2014-the-sleeping-supporter-citro-n",
+    "year": 2014,
+    "brand": "CITROËN",
+    "title": "THE SLEEPING SUPPORTER",
+    "url": "https://www.youtube.com/watch?v=rCoNYiffjEQ&ab_channel=HavasGroup",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2013-window-shopping-adidas",
+    "year": 2013,
+    "brand": "ADIDAS",
+    "title": "WINDOW SHOPPING",
+    "url": "https://www.youtube.com/watch?v=MYBURgFgP7w",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2013-dikembe-mutombo-s-4-1-2-weeks-to-save-the-world-old-spice",
+    "year": 2013,
+    "brand": "OLD SPICE",
+    "title": "DIKEMBE MUTOMBO’S 4 1/2 WEEKS TO SAVE THE WORLD",
+    "url": "https://www.youtube.com/watch?v=tbgU8oNdJ5Q&t=1s",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2013-the-power-of-cute-the-royal-borough-of-greenwich",
+    "year": 2013,
+    "brand": "THE ROYAL BOROUGH OF GREENWICH",
+    "title": "THE POWER OF CUTE",
+    "url": "https://www.youtube.com/watch?v=qsGCtQcUDZk",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2013-the-most-powerful-arm-ever-invented-save-our-sons",
+    "year": 2013,
+    "brand": "SAVE OUR SONS",
+    "title": "THE MOST POWERFUL ARM EVER INVENTED",
+    "url": "https://www.youtube.com/watch?v=afR-7F31Tco",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  },
+  {
+    "id": "2013-share-the-newspaper-with-children-the-tokyo-shimbun",
+    "year": 2013,
+    "brand": "THE TOKYO SHIMBUN",
+    "title": "SHARE THE NEWSPAPER WITH CHILDREN",
+    "url": "https://www.youtube.com/watch?v=2ouW5W_tMbg",
+    "status": 200,
+    "note": "youtube_unavailable_404"
+  },
+  {
+    "id": "2013-fedex-cup-fedex",
+    "year": 2013,
+    "brand": "FEDEX",
+    "title": "FEDEX CUP",
+    "url": "https://www.youtube.com/watch?v=QMKy-Ky18Rs",
+    "status": 200,
+    "note": "youtube_unavailable_403"
+  }
+]

@@ -4,6 +4,67 @@ function normalizeUrl(raw: string) {
   return (raw || "").replace(/&amp;/g, "&").trim();
 }
 
+export function isLoveTheWorkMoreUrl(raw: string) {
+  const url = normalizeUrl(raw);
+  if (!/^https?:\/\//i.test(url)) return false;
+  try {
+    return new URL(url).hostname.toLowerCase().includes("lovetheworkmore.com");
+  } catch {
+    return false;
+  }
+}
+
+function decodeThumioTarget(url: URL) {
+  if (!url.hostname.includes("image.thum.io")) return "";
+  const marker = "/noanimate/";
+  const idx = url.pathname.indexOf(marker);
+  if (idx < 0) return "";
+  const encoded = url.pathname.slice(idx + marker.length);
+  if (!encoded) return "";
+  try {
+    let out = encoded;
+    for (let i = 0; i < 6; i += 1) {
+      try {
+        const dec = decodeURIComponent(out);
+        if (dec === out) break;
+        out = dec;
+      } catch {
+        break;
+      }
+    }
+    return out;
+  } catch {
+    return encoded;
+  }
+}
+
+function isBlockedScreenshotTarget(rawTarget: string) {
+  if (!rawTarget) return false;
+  let target = rawTarget.trim();
+  // thum.io may receive encoded nested URLs more than once.
+  for (let i = 0; i < 6; i += 1) {
+    try {
+      const dec = decodeURIComponent(target);
+      if (dec === target) break;
+      target = dec;
+    } catch {
+      break;
+    }
+  }
+  try {
+    const u = new URL(target);
+    const host = u.hostname.toLowerCase();
+    return (
+      host.includes("docs.google.com") ||
+      host.includes("zhidao.baidu.com") ||
+      host === "bing.com" ||
+      host.endsWith(".bing.com")
+    );
+  } catch {
+    return /bing/i.test(target);
+  }
+}
+
 function decodeBingRedirect(url: string) {
   try {
     const u = new URL(url);
@@ -46,10 +107,43 @@ export function cleanCaseUrl(raw: string) {
   }
 }
 
+function getHostname(raw: string) {
+  try {
+    return new URL(raw).hostname.toLowerCase();
+  } catch {
+    return "";
+  }
+}
+
+function isYoutubeUrl(raw: string) {
+  const host = getHostname(raw);
+  return host === "youtu.be" || host.endsWith("youtube.com") || host.endsWith("youtube-nocookie.com");
+}
+
+function isIspotUrl(raw: string) {
+  const host = getHostname(raw);
+  return host === "ispot.tv" || host.endsWith(".ispot.tv");
+}
+
 export function getBestCampaignLink(campaign: Campaign) {
   const out = cleanCaseUrl(campaign.outboundUrl || "");
-  if (out) return out;
-  return cleanCaseUrl(campaign.sourceUrl || "");
+  const src = cleanCaseUrl(campaign.sourceUrl || "");
+  const candidates = [out, src].filter((u) => u && !isLoveTheWorkMoreUrl(u));
+  if (!candidates.length) return "";
+
+  // 1) Always prefer YouTube when present.
+  const youtube = candidates.find((u) => isYoutubeUrl(u));
+  if (youtube) return youtube;
+
+  // 2) Then prefer any non-iSpot case-study URL (e.g. Vimeo, D&AD, brand site).
+  const nonIspot = candidates.find((u) => !isIspotUrl(u));
+  if (nonIspot) return nonIspot;
+
+  // 3) Fall back to iSpot only if no better source exists.
+  const ispot = candidates.find((u) => isIspotUrl(u));
+  if (ispot) return ispot;
+
+  return "";
 }
 
 export function isRenderableThumbnailUrl(raw: string) {
@@ -59,6 +153,7 @@ export function isRenderableThumbnailUrl(raw: string) {
     const u = new URL(url);
     const host = u.hostname.toLowerCase();
     const path = u.pathname.toLowerCase();
+    if (host.includes("image.thum.io") && isBlockedScreenshotTarget(decodeThumioTarget(u))) return false;
     if (/\.(jpg|jpeg|png|webp|gif|avif|bmp|svg)$/.test(path)) return true;
     if (/ytimg\.com$/.test(host) && /\/(maxresdefault|hqdefault|mqdefault|default|sddefault)\.jpg$/.test(path)) {
       return true;
@@ -81,11 +176,7 @@ export function getPreferredThumbnailUrl(raw: string) {
   try {
     const u = new URL(url);
     const host = u.hostname.toLowerCase();
-    const path = u.pathname.toLowerCase();
-    // Upgrade low-res YouTube defaults to HQ when available.
-    if (/ytimg\.com$/.test(host) && /\/default\.jpg$/.test(path)) {
-      return url.replace(/\/default\.jpg$/i, "/hqdefault.jpg");
-    }
+    if (host.includes("image.thum.io") && isBlockedScreenshotTarget(decodeThumioTarget(u))) return "";
   } catch {
     return url;
   }
@@ -94,7 +185,10 @@ export function getPreferredThumbnailUrl(raw: string) {
 
 export function getNextThumbnailFallback(raw: string) {
   const url = normalizeUrl(raw);
-  if (url.includes("/maxresdefault.jpg")) return url.replace("/maxresdefault.jpg", "/hqdefault.jpg");
+  if (url.includes("/default.jpg")) return "";
+  // Step down progressively to reduce "No preview" when only lower variants exist.
+  if (url.includes("/maxresdefault.jpg")) return url.replace("/maxresdefault.jpg", "/sddefault.jpg");
+  if (url.includes("/sddefault.jpg")) return url.replace("/sddefault.jpg", "/hqdefault.jpg");
   if (url.includes("/hqdefault.jpg")) return url.replace("/hqdefault.jpg", "/mqdefault.jpg");
   if (url.includes("/mqdefault.jpg")) return url.replace("/mqdefault.jpg", "/default.jpg");
   return "";
