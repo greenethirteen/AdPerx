@@ -8,6 +8,7 @@ export const runtime = "nodejs";
 type IdeateReq = {
   brief: string;
   filters?: SearchFilters;
+  stream?: boolean;
 };
 
 function pickSources(results: Campaign[], n = 12) {
@@ -217,6 +218,7 @@ async function callOpenAIPlain(
 }
 function safeParseItems(raw: string, techniques: string[], validCitationIds: Set<string>): IdeationItem[] | null {
   try {
+    const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "");
     const tidy = (v: unknown, max: number) => String(v ?? "").replace(/\s+/g, " ").trim().slice(0, max);
     const start = raw.indexOf("{");
     const end = raw.lastIndexOf("}");
@@ -238,13 +240,20 @@ function safeParseItems(raw: string, techniques: string[], validCitationIds: Set
           : []
       }));
     if (!normalized.length) return null;
-    // Ensure full coverage order
-    const map = new Map(normalized.map((i) => [i.technique, i]));
+    // Ensure full coverage order and tolerate minor technique naming drift from the model.
+    const mapByExact = new Map(normalized.map((i) => [i.technique, i]));
+    const mapByNorm = new Map(normalized.map((i) => [norm(i.technique), i]));
     const fallbackCitations = Array.from(validCitationIds).slice(0, 2);
-    return techniques.map(
-      (t) =>
-        map.get(t) ?? { technique: t, line: "", insight: "", idea: "", execution: "", pros: [], citations: fallbackCitations }
-    );
+    return techniques.map((t) => {
+      const exact = mapByExact.get(t);
+      if (exact) return exact;
+      const fuzzy = mapByNorm.get(norm(t));
+      if (fuzzy) return { ...fuzzy, technique: t };
+      if (techniques.length === 1 && normalized.length >= 1) {
+        return { ...normalized[0], technique: t };
+      }
+      return { technique: t, line: "", insight: "", idea: "", execution: "", pros: [], citations: fallbackCitations };
+    });
   } catch {
     return null;
   }
@@ -264,6 +273,64 @@ export async function POST(req: Request) {
     const search = runSearch(filters, 60);
     const sources = pickSources(search.results, 6);
     const validCitationIds = new Set(sources.map((s) => s.id));
+    const stream = !!body.stream;
+
+    const generateChunk = async (chunk: string[]) => {
+      let raw = await callOpenAIWithTools(brief, chunk, sources);
+      if (!raw) {
+        raw = await callOpenAIPlain(brief, chunk, sources);
+      }
+      if (!raw) {
+        raw = await callOpenAIPlain(brief, chunk, sources, "gpt-4.1-mini");
+      }
+      if (!raw) throw new Error("Empty OpenAI response.");
+      const parsed = safeParseItems(raw, chunk, validCitationIds);
+      if (!parsed) throw new Error("Failed to parse OpenAI response.");
+      return parsed;
+    };
+
+    if (stream) {
+      const encoder = new TextEncoder();
+      const sse = (payload: unknown) => `data: ${JSON.stringify(payload)}\n\n`;
+      const responseStream = new ReadableStream<Uint8Array>({
+        start(controller) {
+          (async () => {
+            try {
+              controller.enqueue(encoder.encode(sse({ type: "start", brief, sources })));
+              for (let i = 0; i < ALL_PURPOSE_TECHNIQUES.length; i += 1) {
+                const technique = ALL_PURPOSE_TECHNIQUES[i];
+                const parsed = await generateChunk([technique]);
+                const item =
+                  parsed[0] ?? {
+                    technique,
+                    line: "",
+                    insight: "",
+                    idea: "",
+                    execution: "",
+                    pros: [],
+                    citations: Array.from(validCitationIds).slice(0, 2)
+                  };
+                controller.enqueue(encoder.encode(sse({ type: "item", item, index: i })));
+              }
+              controller.enqueue(encoder.encode(sse({ type: "done" })));
+            } catch (e: any) {
+              const msg = e?.message ? String(e.message) : "OpenAI request failed.";
+              controller.enqueue(encoder.encode(sse({ type: "error", error: msg })));
+            } finally {
+              controller.close();
+            }
+          })();
+        }
+      });
+
+      return new Response(responseStream, {
+        headers: {
+          "content-type": "text/event-stream; charset=utf-8",
+          "cache-control": "no-cache, no-transform",
+          "connection": "keep-alive"
+        }
+      });
+    }
 
     let items: IdeationItem[] | null = null;
     let failure: string | null = null;
@@ -276,17 +343,7 @@ export async function POST(req: Request) {
       }
       const all: IdeationItem[] = [];
       for (const chunk of chunks) {
-        let raw = await callOpenAIWithTools(brief, chunk, sources);
-        if (!raw) {
-          raw = await callOpenAIPlain(brief, chunk, sources);
-        }
-        if (!raw) {
-          // Final fallback to a stable model
-          raw = await callOpenAIPlain(brief, chunk, sources, "gpt-4.1-mini");
-        }
-        if (!raw) throw new Error("Empty OpenAI response.");
-        const parsed = safeParseItems(raw, chunk, validCitationIds);
-        if (!parsed) throw new Error("Failed to parse OpenAI response.");
+        const parsed = await generateChunk(chunk);
         all.push(...parsed);
       }
       items = all;

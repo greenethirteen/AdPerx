@@ -7,80 +7,144 @@ import { getBestCampaignLink, getNextThumbnailFallback, isRenderableThumbnailUrl
 
 const EMPTY: IdeationResponse = { brief: "", items: [], sources: [] };
 const DEMO_BRIEF = "Give me creative idea angles for a Harvey Nichols Christmas Sale Campaign.";
-const DEMO_ITEMS: IdeationResponse["items"] = [
-  {
-    technique: "Status Inversion",
-    line: "The most stylish person in the room is usually the best gift-giver.",
-    insight: "At Christmas, gifting signals taste, timing, and cultural awareness in one move.",
-    idea: "Position Harvey Nichols as the shortcut to gifts that feel instantly iconic.",
-    execution: "Film + social: polished scenes flip into high-energy reactions after one standout Harvey Nichols reveal.",
-    pros: ["Strong social meme potential", "Ownable tone for Harvey Nichols", "Built for film and vertical edits"],
-    citations: []
-  },
-  {
-    technique: "Consequence Theater",
-    line: "One brilliant gift can change the whole mood of the night.",
-    insight: "The best festive gifts create social momentum, not just a transaction.",
-    idea: "Dramatize the positive domino effect of gifting well through Harvey Nichols.",
-    execution: "Short films: one gift sparks better conversations, bolder style, and a more unforgettable celebration.",
-    pros: ["High drama = high attention", "Clear emotional tension", "Easy episodic format"],
-    citations: []
-  },
-  {
-    technique: "Reputation Insurance",
-    line: "Your gift is your reputation, wrapped.",
-    insight: "Holiday gifting is reputation management disguised as kindness.",
-    idea: "Make Harvey Nichols feel like social insurance for high-stakes relationships.",
-    execution: "OOH + paid social with playful risk scoring by recipient type, then premium fix recommendations.",
-    pros: ["Simple strategic frame", "Sharp copy system", "Easy to localize"],
-    citations: []
-  },
-  {
-    technique: "Passive-Aggressive Carol",
-    line: "A Christmas choir celebrates unexpectedly brilliant gifting choices in public.",
-    insight: "Festive theater amplifies emotion; praise becomes memorable when it feels performative.",
-    idea: "Turn gifting wins into public micro-moments people want to record and share.",
-    execution: "Pop-up choirs in key retail zones singing witty praise lines tied to featured Harvey Nichols picks.",
-    pros: ["Street-level spectacle", "Highly shareable", "Distinctive Harvey tone"],
-    citations: []
-  },
-  {
-    technique: "Guilt Ledger",
-    line: "Track your gifting evolution from safe choices to elite choices.",
-    insight: "People enjoy proof that their taste is getting sharper each season.",
-    idea: "Create a playful 'Gift Upgrade Index' powered by Harvey Nichols curation.",
-    execution: "Interactive microsite + CRM: input recipient profile, get score + curated high-impact shortlist.",
-    pros: ["Strong data capture", "High conversion intent", "Memorable utility"],
-    citations: []
-  },
-  {
-    technique: "Luxury Witness Protection",
-    line: "Late shoppers can still look like meticulous planners.",
-    insight: "People do not want to look rushed; they want to look intentional.",
-    idea: "Make Harvey Nichols the fast lane to high-taste gifting confidence.",
-    execution: "Film-led campaign: shoppers enter a 'rapid curation' booth and exit with perfectly matched gifts.",
-    pros: ["Comedic world-building", "Distinctive visual asset", "Clear sale role"],
-    citations: []
-  },
-  {
-    technique: "Social Courtroom",
-    line: "Put gift options on trial and crown the undisputed winner.",
-    insight: "People love participatory formats where taste gets debated with humor.",
-    idea: "Create a festive 'court of taste' where the audience helps pick the best gift.",
-    execution: "TikTok/YouTube series with comic judge; audience votes, winning Harvey Nichols pick becomes shoppable.",
-    pros: ["Built for episodic content", "Strong participation loop", "Commerce integrated"],
-    citations: []
-  },
-  {
-    technique: "Tabloid Future",
-    line: "Tomorrow's headline: 'Gift game changed overnight.'",
-    insight: "People want gifting moments that feel current, confident, and conversation-worthy.",
-    idea: "Project upbeat future headlines triggered by bold Harvey Nichols gift decisions.",
-    execution: "AI-style tabloid OOH and social headlines paired with direct links to the featured products.",
-    pros: ["Striking visual language", "Fast-turn creative system", "High memorability"],
-    citations: []
-  }
+const DEMO_LINES: Array<[string, string, string, string]> = [
+  [
+    "ES01 Glorify People",
+    "Crown Britain's most legendary gift-giver, one Christmas save at a time.",
+    "Christmas status gets assigned by who gives the gift everyone talks about first.",
+    "Build a social leaderboard of Gift Legends with weekly winners shoppable in-store and online."
+  ],
+  [
+    "ES02 Honour a Place",
+    "Turn every Harvey Nichols store into the city's official House of Christmas Taste.",
+    "People trust culturally authoritative places to validate what premium taste looks like.",
+    "Create city-specific gift edits and storefront takeovers that localize the sale by neighborhood identity."
+  ],
+  [
+    "ES03 Get Behind an Attitude",
+    "Start a festive movement: no more safe gifts, only statement gifts.",
+    "Gifting confidence starts with choosing a point of view, not just a product.",
+    "Launch a manifesto-led campaign with attitude archetypes and matching gift collections across paid social."
+  ],
+  [
+    "ES04 Elevate an Object",
+    "Make the gift box the trophy, so the wrapping itself signals elite taste.",
+    "The object carrying the gift can become shorthand for intention and quality.",
+    "Design a signature sale wrap system that appears in film, OOH, and unboxing creator content."
+  ],
+  [
+    "ES05 Celebrate a Journey",
+    "Follow one gift from first hunch to final gasp as the season's hero arc.",
+    "Great gifting feels rewarding because the chooser's journey is socially visible.",
+    "Run episodic content tracking curation from shortlist to reveal, with each step shoppable."
+  ],
+  [
+    "ES06 Cherish a Moment",
+    "Build the campaign around one priceless second: the face at first unwrap.",
+    "The emotional peak is the reveal moment, not the purchase moment.",
+    "Capture real reaction shots and compile them into short-form edits and in-store screen loops."
+  ],
+  [
+    "ES07 Empathise and Support",
+    "Launch a 'Gift Panic Clinic' for people who've left it dangerously late.",
+    "Last-minute shoppers want expert rescue without being judged for procrastination.",
+    "Offer live gift triage via chat, creator streams, and in-store rapid curation stations."
+  ],
+  [
+    "ES08 Dramatise the Problem",
+    "Show the social chaos caused by forgettable gifts in painfully relatable detail.",
+    "Bad gifts create awkward social aftershocks that linger beyond the exchange.",
+    "Produce comedic fallout films where each gifting fail is traced to a fixable decision."
+  ],
+  [
+    "ES09 Dramatise the Solution",
+    "Show one Harvey Nichols gift instantly changing the temperature of the whole room.",
+    "A single high-fit gift can reset mood, status, and group energy immediately.",
+    "Stage before/after reveal scenes across film and vertical edits linked to featured products."
+  ],
+  [
+    "ES10 Use an Analogy for the Problem",
+    "Frame bad gifting as bringing supermarket wine to a Michelin dinner.",
+    "Analogy helps people instantly understand taste errors without long explanation.",
+    "Build analogy-led OOH and paid social copy mapping weak choices to premium alternatives."
+  ],
+  [
+    "ES11 Use an Analogy for the Solution",
+    "Position Harvey Nichols as the Christmas equivalent of a world-class curator.",
+    "Curation feels more valuable when framed like expertise in culture institutions.",
+    "Present gift edits as curated exhibitions with chaptered films and gallery-style retail zones."
+  ],
+  [
+    "ES12 Humanise",
+    "Let gifts speak for themselves and plead their case to be chosen.",
+    "Anthropomorphism makes product differences memorable and emotionally legible at speed.",
+    "Create character-led gift auditions in Shorts and TikTok with shoppable verdict cards."
+  ],
+  [
+    "ES13 Compare and Contrast",
+    "Run a festive side-by-side: 'forgettable by midnight' vs 'talked about till New Year.'",
+    "Contrast clarifies quality by making consequences of each choice explicit.",
+    "Use split-screen comparisons across digital, CRM, and in-store displays to drive decisions."
+  ],
+  [
+    "ES14 Rename, Redefine, Reclassify",
+    "Reclassify Christmas shopping as reputation design, not errand-running.",
+    "Language reframes behavior; naming can elevate how seriously people shop.",
+    "Deploy a renamed gift taxonomy across CRM, PDP modules, and social creative templates."
+  ],
+  [
+    "ES15 Invite the Audience Backstage",
+    "Open the doors to the edit room where the season's best gifts are selected.",
+    "People value outcomes more when they see the selection logic behind them.",
+    "Publish behind-the-scenes curation diaries with buyers, stylists, and category experts."
+  ],
+  [
+    "ES16 Hire a Surprising Endorser",
+    "Put a brutally honest child on the judging panel for 'actually good gifts.'",
+    "Unexpected judges cut through polished brand messaging and feel more credible.",
+    "Create a recurring judging format where unlikely endorsers score gift picks on camera."
+  ],
+  [
+    "ES17 Transport Them to Other Worlds",
+    "Make each gift category a portal to a different festive fantasy world.",
+    "World-building helps shoppers browse by mood rather than purely by category.",
+    "Develop themed micro-worlds for key categories across interactive web, OOH, and windows."
+  ],
+  [
+    "ES18 Stand Up for the Little Guy",
+    "Champion the overlooked recipients: the plus-one, the host, the office unsung hero.",
+    "People appreciate brands that recognize socially invisible but meaningful relationships.",
+    "Launch an unsung-recipient gift finder and campaign stories spotlighting forgotten roles."
+  ],
+  [
+    "ES19 Invent a Mascot",
+    "Create 'The Gift Detective,' a character who spots weak presents on sight.",
+    "A mascot gives memory structure and continuity across many campaign placements.",
+    "Build episodic detective content diagnosing gift mistakes and prescribing premium fixes."
+  ],
+  [
+    "ES20 Debunk a Stereotype",
+    "Bust the myth that luxury gifting has to mean extravagant spend.",
+    "Many shoppers overestimate luxury cost and opt out before browsing.",
+    "Run myth-vs-fact creative with price-anchored edits and direct conversion routes."
+  ],
+  [
+    "ES21 Conduct an Experiment",
+    "Run a live experiment proving reaction quality rises with better-curated gifts.",
+    "Observed evidence persuades faster when personal taste claims feel subjective.",
+    "Execute controlled social experiments and publish measurable response deltas by gift strategy."
+  ]
 ];
+
+const DEMO_ITEMS: IdeationResponse["items"] = DEMO_LINES.map(([technique, line, insight, execution]) => ({
+  technique,
+  line,
+  insight,
+  idea: "",
+  execution,
+  pros: [],
+  citations: []
+}));
 
 export default function IdeatePanel({
   filters,
@@ -92,6 +156,7 @@ export default function IdeatePanel({
   const [brief, setBrief] = useState(DEMO_BRIEF);
   const [data, setData] = useState<IdeationResponse>(EMPTY);
   const [loading, setLoading] = useState(false);
+  const [progress, setProgress] = useState(0);
   const [error, setError] = useState<string | null>(null);
 
   const clamp = (s: string, n: number) => {
@@ -124,26 +189,83 @@ export default function IdeatePanel({
     const q = brief.trim();
     if (!q) return;
     setLoading(true);
-    setData(EMPTY);
+    setProgress(0);
+    setData({
+      brief: q,
+      items: ALL_PURPOSE_TECHNIQUES.map((t) => ({
+        technique: t,
+        line: "",
+        insight: "",
+        idea: "",
+        execution: "",
+        pros: [],
+        citations: []
+      })),
+      sources: []
+    });
     setError(null);
     try {
       const res = await fetch("/api/ideate", {
         method: "POST",
-        headers: { "content-type": "application/json" },
-        body: JSON.stringify({ brief: q, filters })
+        headers: {
+          "content-type": "application/json",
+          "accept": "text/event-stream"
+        },
+        body: JSON.stringify({ brief: q, filters, stream: true })
       });
-      let json: any = null;
-      try {
-        json = await res.json();
-      } catch {
-        json = null;
-      }
       if (!res.ok) {
+        let json: any = null;
+        try {
+          json = await res.json();
+        } catch {
+          json = null;
+        }
         const msg = json?.error ?? `Failed to generate ideas (HTTP ${res.status}).`;
         setError(msg);
         return;
       }
-      setData(json as IdeationResponse);
+      const reader = res.body?.getReader();
+      if (!reader) throw new Error("Streaming response unavailable.");
+      const decoder = new TextDecoder();
+      let buffer = "";
+      let done = false;
+
+      while (!done) {
+        const next = await reader.read();
+        done = next.done;
+        buffer += decoder.decode(next.value ?? new Uint8Array(), { stream: !done });
+        const events = buffer.split("\n\n");
+        buffer = events.pop() ?? "";
+        for (const evt of events) {
+          const dataLine = evt
+            .split("\n")
+            .find((line) => line.startsWith("data:"));
+          if (!dataLine) continue;
+          const payload = dataLine.slice(5).trim();
+          if (!payload) continue;
+          const parsed = JSON.parse(payload) as
+            | { type: "start"; brief: string; sources: IdeationResponse["sources"] }
+            | { type: "item"; item: IdeationResponse["items"][number]; index: number }
+            | { type: "done" }
+            | { type: "error"; error: string };
+
+          if (parsed.type === "start") {
+            setData((prev) => ({ ...prev, brief: parsed.brief, sources: parsed.sources ?? [] }));
+            continue;
+          }
+          if (parsed.type === "item") {
+            setProgress((n) => n + 1);
+            setData((prev) => ({
+              ...prev,
+              items: prev.items.map((it, i) => (i === parsed.index ? parsed.item : it))
+            }));
+            continue;
+          }
+          if (parsed.type === "error") {
+            setError(parsed.error || "Failed to generate ideas.");
+          }
+        }
+      }
     } finally {
       setLoading(false);
     }
@@ -200,7 +322,7 @@ export default function IdeatePanel({
                   disabled={loading}
                   className="flex-1 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 px-4 py-2 text-xs font-semibold text-white transition hover:brightness-95 disabled:opacity-60"
                 >
-                  {loading ? "BrainStormer™ is thinking…" : "Run BrainStormer™"}
+                  {loading ? `BrainStormer™ generating live… ${progress}/${ALL_PURPOSE_TECHNIQUES.length}` : "Run BrainStormer™"}
                 </button>
               </div>
             </div>
