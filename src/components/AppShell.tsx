@@ -87,6 +87,15 @@ export default function AppShell() {
     VINTAGE_YEARS.every((y) => (filters.years ?? []).includes(y)) &&
     (filters.years?.length ?? 0) === VINTAGE_YEARS.length;
   const showFiltersPanel = mode === "search";
+  const modeButtonClass = (active: boolean) =>
+    [
+      "rounded-xl px-3 py-2 text-sm shadow-soft transition duration-150 select-none",
+      "focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2",
+      "active:scale-[0.98] active:translate-y-px",
+      active
+        ? "bg-gradient-to-r from-cyan-500 to-blue-600 text-white shadow-md ring-1 ring-cyan-300/40"
+        : "bg-white/70 text-black/80 hover:-translate-y-0.5 hover:bg-white hover:shadow-md"
+    ].join(" ");
 
   useEffect(() => {
     setPage(1);
@@ -132,20 +141,23 @@ export default function AppShell() {
 
         <div className="flex items-center gap-2">
           <button
-            className={`rounded-xl px-3 py-2 text-sm shadow-soft transition ${mode === "search" ? "bg-white" : "bg-white/50 hover:bg-white"}`}
+            className={modeButtonClass(mode === "search")}
             onClick={() => setMode("search")}
+            aria-pressed={mode === "search"}
           >
             Search
           </button>
           <button
-            className={`rounded-xl px-3 py-2 text-sm shadow-soft transition ${mode === "ask" ? "bg-white" : "bg-white/50 hover:bg-white"}`}
+            className={modeButtonClass(mode === "ask")}
             onClick={() => setMode("ask")}
+            aria-pressed={mode === "ask"}
           >
             Ask (RAG)
           </button>
           <button
-            className={`rounded-xl px-3 py-2 text-sm shadow-soft transition ${mode === "ideate" ? "bg-white" : "bg-white/50 hover:bg-white"}`}
+            className={modeButtonClass(mode === "ideate")}
             onClick={() => setMode("ideate")}
+            aria-pressed={mode === "ideate"}
           >
             BrainStormer™
           </button>
