@@ -1,0 +1,1165 @@
+{
+  "timestamp": "2026-02-17T01:50:39.563Z",
+  "targets": 165,
+  "checked": 165,
+  "updated": 165,
+  "noSource": 0,
+  "noMatch": 0,
+  "details": [
+    {
+      "id": "2025-bachelor-tv-show",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=fDp5aDsp5QM",
+      "new": "https://www.youtube.com/watch?v=fDp5aDsp5QM",
+      "bestScore": 1.1
+    },
+    {
+      "id": "2023-gut-health-dutchie",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=hHYQ13fA1WI",
+      "new": "https://www.youtube.com/watch?v=hHYQ13fA1WI",
+      "bestScore": 1.1333333333333335
+    },
+    {
+      "id": "2023-machinegun-mouth-battleground-mobile-india",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=lGnNM1YPA4M",
+      "new": "https://www.youtube.com/watch?v=lGnNM1YPA4M",
+      "bestScore": 1.2000000000000002
+    },
+    {
+      "id": "2023-standuptojewishhate-foundation-to-combat-antisemitism",
+      "status": "updated",
+      "old": "https://youtu.be/5FcbYSinaJs",
+      "new": "https://youtu.be/5FcbYSinaJs",
+      "bestScore": 1.175
+    },
+    {
+      "id": "2022-chickenstock-kfc",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=1JpXzpjBJCE",
+      "new": "https://www.youtube.com/watch?v=1JpXzpjBJCE",
+      "bestScore": 1.1333333333333335
+    },
+    {
+      "id": "2022-dot-go-the-first-object-interaction-app-for-the-visually-impaired-dot",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=KeOX9Kyj-iI",
+      "new": "https://www.youtube.com/watch?v=KeOX9Kyj-iI",
+      "bestScore": 1.3
+    },
+    {
+      "id": "2022-dot-pad-the-first-smart-tactile-graphics-display-dot",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=DaxlpMj1sxU",
+      "new": "https://www.youtube.com/watch?v=DaxlpMj1sxU",
+      "bestScore": 1.2090909090909092
+    },
+    {
+      "id": "2022-kfcopypaste-kfc",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=Fqynadukmko",
+      "new": "https://www.youtube.com/watch?v=Fqynadukmko",
+      "bestScore": 1.1
+    },
+    {
+      "id": "2022-letters-for-a-law-fundaci-n-el-herbologo",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=VH6vOZbAQ8w&ab_channel=AcontecendoAqui",
+      "new": "https://www.youtube.com/watch?v=VH6vOZbAQ8w&amp;ab_channel=AcontecendoAqui",
+      "bestScore": 1.2750000000000001
+    },
+    {
+      "id": "2019-72posters-the-high-school-sumo-tournament",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=cmV5VmHM-JA",
+      "new": "https://www.youtube.com/watch?v=cmV5VmHM-JA",
+      "bestScore": 1.1888888888888889
+    },
+    {
+      "id": "2019-video-2-nordea",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=mOt5yzrjS6k&ab_channel=JacksonMah",
+      "new": "https://www.youtube.com/watch?v=mOt5yzrjS6k&amp;ab_channel=JacksonMah",
+      "bestScore": 1.2000000000000002
+    },
+    {
+      "id": "2018-one-poster-for-peace-inter-religious-council-in-bosnia-herzegovina",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=mUAs3YrSAbw&ab_channel=ArabianMarketer",
+      "new": "https://www.youtube.com/watch?v=mUAs3YrSAbw&amp;ab_channel=ArabianMarketer",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "2017-the-conscious-crossing-kiwirail",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=JCtoqC2b1ww&ab_channel=PioneeringSpiritAwards",
+      "new": "https://www.youtube.com/watch?v=JCtoqC2b1ww&amp;ab_channel=PioneeringSpiritAwards",
+      "bestScore": 1.2750000000000001
+    },
+    {
+      "id": "2015-giant-footprints-sabin-vaccine-institute",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=_e0CuH4dT58",
+      "new": "https://www.youtube.com/watch?v=_e0CuH4dT58",
+      "bestScore": 1.1888888888888889
+    },
+    {
+      "id": "2015-happytohelp-klm-royal-dutch-airlines",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=Q2z8JRrjCxU",
+      "new": "https://www.youtube.com/watch?v=Q2z8JRrjCxU",
+      "bestScore": 1.2000000000000002
+    },
+    {
+      "id": "2015-the-impossible-orchestra-bbc",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=XqLTe8h0-jo",
+      "new": "https://www.youtube.com/watch?v=XqLTe8h0-jo",
+      "bestScore": 1.1571428571428573
+    },
+    {
+      "id": "2014-bringdowntheking-game-of-thrones-season-4-launch",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=Ec1e-YFL6Gk&ab_channel=DigitalNZ",
+      "new": "https://www.youtube.com/watch?v=Ec1e-YFL6Gk&amp;ab_channel=DigitalNZ",
+      "bestScore": 1.2750000000000001
+    },
+    {
+      "id": "2014-protect-your-l1f3-life-park-protection-store",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=BePXj5CYVVM&ab_channel=M%26CSAATCHIMILANO",
+      "new": "https://www.youtube.com/watch?v=BePXj5CYVVM&amp;ab_channel=M%26CSAATCHIMILANO",
+      "bestScore": 1.3
+    },
+    {
+      "id": "2013-coinoffers-mcdonald-s",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=U8_DrG0RFaw",
+      "new": "https://www.youtube.com/watch?v=U8_DrG0RFaw",
+      "bestScore": 1.1
+    },
+    {
+      "id": "2013-tree-concert-friends-of-the-earth",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=t6fRL_RPdi4",
+      "new": "https://www.youtube.com/watch?v=t6fRL_RPdi4",
+      "bestScore": 1.1888888888888889
+    },
+    {
+      "id": "2013-volkswagen-driver-fatigue-technology-volkswagen",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=jOBVU0LTiz4",
+      "new": "https://www.youtube.com/watch?v=jOBVU0LTiz4",
+      "bestScore": 1.1571428571428573
+    },
+    {
+      "id": "2012-easy-way-test-easy-way-language-school-loducca-mpm-s",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=oP59xq4SbUk",
+      "new": "https://www.youtube.com/watch?v=oP59xq4SbUk",
+      "bestScore": 1.175
+    },
+    {
+      "id": "2012-koreans-big-mac-song-mcdonald-s",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=frDVMmMlHbA&ab_channel=DDBGroupKorea",
+      "new": "https://www.youtube.com/watch?v=frDVMmMlHbA&amp;ab_channel=DDBGroupKorea",
+      "bestScore": 1.3
+    },
+    {
+      "id": "2012-ok-go-chevrolet-sonic",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=MejbOFk7H6c&ab_channel=OKGo",
+      "new": "https://www.youtube.com/watch?v=MejbOFk7H6c&amp;ab_channel=OKGo",
+      "bestScore": 1.288888888888889
+    },
+    {
+      "id": "2012-returning-to-universal-truths-to-create-global-hits-axe-excite",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=m-kMCd4a4-U&ab_channel=TendAsesores",
+      "new": "https://www.youtube.com/watch?v=m-kMCd4a4-U&amp;ab_channel=TendAsesores",
+      "bestScore": 1.3090909090909093
+    },
+    {
+      "id": "2012-the-most-popular-song-banco-popular-de-puerto-rico-bank",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=_IrseXiKxfs&ab_channel=AdlipChannel",
+      "new": "https://www.youtube.com/watch?v=_IrseXiKxfs&amp;ab_channel=AdlipChannel",
+      "bestScore": 1.3166666666666667
+    },
+    {
+      "id": "2011-chip-resistant-dinnerware-corelle-dinnerware",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=PHSoG_rlAHk&ab_channel=JodyXiong",
+      "new": "https://www.youtube.com/watch?v=PHSoG_rlAHk&amp;ab_channel=JodyXiong",
+      "bestScore": 1.2571428571428573
+    },
+    {
+      "id": "2011-stop-the-slaughter-international-fund-for-animal-welfare",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=95svqA1OKAk&ab_channel=JWTAUNZ",
+      "new": "https://www.youtube.com/watch?v=95svqA1OKAk&amp;ab_channel=JWTAUNZ",
+      "bestScore": 1.3090909090909093
+    },
+    {
+      "id": "2011-we-are-tennis-bnp",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=jua313DFWMc&ab_channel=chakardchalayut",
+      "new": "https://www.youtube.com/watch?v=jua313DFWMc&amp;ab_channel=chakardchalayut",
+      "bestScore": 1.2000000000000002
+    },
+    {
+      "id": "2011-whoever-you-are-nettbuss",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=4fyX9cLCpK8&ab_channel=Los%26Co",
+      "new": "https://www.youtube.com/watch?v=4fyX9cLCpK8&amp;ab_channel=Los%26Co",
+      "bestScore": 1.2571428571428573
+    },
+    {
+      "id": "2010-bus-billboard-ing-bank",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=bthGClXUxwI",
+      "new": "https://www.youtube.com/watch?v=bthGClXUxwI",
+      "bestScore": 1.175
+    },
+    {
+      "id": "2010-t-mo-t-finissimas",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=ACXakxxV0Ys&ab_channel=SbenKaike",
+      "new": "https://www.youtube.com/watch?v=ACXakxxV0Ys&amp;ab_channel=SbenKaike",
+      "bestScore": 1.1500000000000001
+    },
+    {
+      "id": "2010-tabletrick-bayerische-motoren-werke-aktiengesellschaft",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=-cM9S2AzU28",
+      "new": "https://www.youtube.com/watch?v=-cM9S2AzU28",
+      "bestScore": 1.175
+    },
+    {
+      "id": "2010-umbrella-bags-the-lotus-light-charity-society",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=NK8Kcdnjcvk",
+      "new": "https://www.youtube.com/watch?v=NK8Kcdnjcvk",
+      "bestScore": 1.2090909090909092
+    },
+    {
+      "id": "2009-balloon-lagardere",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=Y91-qkCYzYU&ab_channel=WandaProductions",
+      "new": "https://www.youtube.com/watch?v=Y91-qkCYzYU&amp;ab_channel=WandaProductions",
+      "bestScore": 1.2000000000000002
+    },
+    {
+      "id": "2009-it-guy-norte-beer-saatchi-saatchi-buenos-aires-inner-child-playing-museum-of-childhood-amvbbdo-london-bird-mtv-la-c",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=kQcq3rpne78",
+      "new": "https://www.youtube.com/watch?v=4NSFuwLaK2c&amp;ab_channel=FranciscoArbaiza",
+      "bestScore": 1.1500000000000001
+    },
+    {
+      "id": "2009-lg-five-h-y-group",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=FUbgyx8J8OU&t=11s",
+      "new": "https://www.youtube.com/watch?v=FUbgyx8J8OU&amp;t=11s",
+      "bestScore": 1.2333333333333336
+    },
+    {
+      "id": "2009-orientals-gobierno-de-la-ciudad",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=XR3szIsqbFY&ab_channel=publilog",
+      "new": "https://www.youtube.com/watch?v=XR3szIsqbFY&amp;ab_channel=publilog",
+      "bestScore": 1.2571428571428573
+    },
+    {
+      "id": "2009-quick-kasikorn-bank",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=xy_nXxgpt1Y&ab_channel=submitthaiads",
+      "new": "https://www.youtube.com/watch?v=xy_nXxgpt1Y&amp;ab_channel=submitthaiads",
+      "bestScore": 1.2333333333333336
+    },
+    {
+      "id": "2009-the-coral-cemetery-the-green-party",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=gZ4k3jYipr4&ab_channel=shysor",
+      "new": "https://www.youtube.com/watch?v=gZ4k3jYipr4&amp;ab_channel=shysor",
+      "bestScore": 1.288888888888889
+    },
+    {
+      "id": "2009-the-v-frigor-ice-cream",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=x8etyVK0cVE&ab_channel=theliftmx",
+      "new": "https://www.youtube.com/watch?v=vvtFpSnCNfI&amp;ab_channel=lifeguardmigration",
+      "bestScore": 1.2750000000000001
+    },
+    {
+      "id": "2009-wifi-advertising-germanwings",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=1OovHJkTUug&ab_channel=JoMarieFarwick",
+      "new": "https://www.youtube.com/watch?v=1OovHJkTUug&amp;ab_channel=JoMarieFarwick",
+      "bestScore": 1.2750000000000001
+    },
+    {
+      "id": "2008-bonjovis-filmsuez",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=MMurfPMdDIo&ab_channel=ekkanya",
+      "new": "https://www.youtube.com/watch?v=MMurfPMdDIo&amp;ab_channel=ekkanya",
+      "bestScore": 1.2333333333333336
+    },
+    {
+      "id": "2008-brand-new-vw-golf-united",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=dHh_AGLrCB8",
+      "new": "https://www.youtube.com/watch?v=dHh_AGLrCB8",
+      "bestScore": 1.175
+    },
+    {
+      "id": "2008-we-ll-be-back-in-a-kit-kat-kit-kat",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=9-hk7nkF2Fs",
+      "new": "http://www.adeevee.com/2008/11/leica-v-lux-1-stakes-metal-sheet-ivy-iron-fence-bricks-blue-wall-media/",
+      "bestScore": 0.5857142857142857
+    },
+    {
+      "id": "2005-10000-meters-simavi",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1nvwSwNDW1GlEhZB8ngZS2bbW6tVmnuZX?usp=sharing",
+      "new": "https://drive.google.com/drive/folders/1nvwSwNDW1GlEhZB8ngZS2bbW6tVmnuZX?usp=sharing",
+      "bestScore": 0.8388888888888889
+    },
+    {
+      "id": "2005-beard-mouth-no-arms-thorn-ring-ylat",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1TrHsfsBlybFo2n4ahifWQQsDe4SZV-v4?usp=sharing",
+      "new": "https://drive.google.com/drive/folders/1TrHsfsBlybFo2n4ahifWQQsDe4SZV-v4?usp=sharing",
+      "bestScore": 0.8500000000000001
+    },
+    {
+      "id": "2005-cliffs-rainforest-desert-divers-club-med",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1TgTRauX2qQaoQ_24HZymp33hq2hMiun3?usp=sharing",
+      "new": "https://drive.google.com/drive/folders/1TgTRauX2qQaoQ_24HZymp33hq2hMiun3?usp=sharing",
+      "bestScore": 0.8388888888888889
+    },
+    {
+      "id": "2005-coffee-vacuum-cleaner-bus-stop-pfizer",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1X2muJgBQp2nNIfvOoYlXqK2DLPPEYzty?usp=sharing",
+      "new": "https://drive.google.com/drive/folders/1X2muJgBQp2nNIfvOoYlXqK2DLPPEYzty?usp=sharing",
+      "bestScore": 0.8388888888888889
+    },
+    {
+      "id": "2005-cut-off-wheels-saw-blades-drill-bits-intertool",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1k2sRjvvV2gkTf2pLnMcB6MK1I4z_OKK6?usp=sharing",
+      "new": "https://drive.google.com/drive/folders/1k2sRjvvV2gkTf2pLnMcB6MK1I4z_OKK6?usp=sharing",
+      "bestScore": 0.8590909090909091
+    },
+    {
+      "id": "2005-grip-pads-towels-axe",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=V7cLRgVhWTo",
+      "new": "https://drive.google.com/drive/folders/1CouckWcNgErrI7OmM-5wbo8JpP5fO091?usp=sharing",
+      "bestScore": 0.925
+    },
+    {
+      "id": "2005-no-axe",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=hLSkIM7DIxA&feature=emb_title",
+      "new": "https://adsspot.me/media/tv-commercials/axe-body-spray-jeremiah-63c226512b9a",
+      "bestScore": 1.1
+    },
+    {
+      "id": "2005-sam-che-skull-wickbold",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1-noDebYrfz5RohxVgTeSQtQLNChAjl1t?usp=sharing",
+      "new": "https://drive.google.com/drive/folders/1-noDebYrfz5RohxVgTeSQtQLNChAjl1t?usp=sharing",
+      "bestScore": 0.8388888888888889
+    },
+    {
+      "id": "2005-the-graduate-psycho-singing-in-the-rain-pizza-hut",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1XM6ZE5GLF8CexMJTeLscmm6lzmH8jAEh?usp=sharing",
+      "new": "https://drive.google.com/drive/folders/1XM6ZE5GLF8CexMJTeLscmm6lzmH8jAEh?usp=sharing",
+      "bestScore": 0.8500000000000001
+    },
+    {
+      "id": "2005-the-guitar-a-star-the-princess-talk-talk",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1TbN6oXoERvz6Lkv7syz0lEK2ENimny-Q?usp=sharing",
+      "new": "https://drive.google.com/drive/folders/1TbN6oXoERvz6Lkv7syz0lEK2ENimny-Q?usp=sharing",
+      "bestScore": 0.8388888888888889
+    },
+    {
+      "id": "2004-amber-becomes-a-cuff-link-ibm",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=50haA_4G-7w",
+      "new": "https://www.dandad.org/awards/professional/2004/graphic-design/13841/leopard-skin-jacket-seal-skin-shoes-croco-bag/",
+      "bestScore": 0.5222222222222223
+    },
+    {
+      "id": "2004-dance-apple",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=4CPab8U5zTU&ab_channel=RevolutionKing2",
+      "new": "https://www.youtube.com/watch?v=4CPab8U5zTU&amp;ab_channel=RevolutionKing2",
+      "bestScore": 1.2750000000000001
+    },
+    {
+      "id": "2004-invisible-it-man-ibm",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=50haA_4G-7w",
+      "new": "https://drive.google.com/drive/folders/1wnFr14t2Ww1t9WiIR0I2xcmgG2Ei7eYO?usp=drive_link",
+      "bestScore": 0.8833333333333334
+    },
+    {
+      "id": "2004-john-bought-a-new-car-hi-linda-let-s-talk",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1XCJBSiV79fkzkhZ8-HmmF8hyOrqAArEK?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1XCJBSiV79fkzkhZ8-HmmF8hyOrqAArEK?usp=drive_link",
+      "bestScore": 0.8590909090909091
+    },
+    {
+      "id": "2004-lady-with-pram-man-walking-hutchison",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1VTCfXuhi57RcRHM21QvkbUjAVYPtq5_K?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1VTCfXuhi57RcRHM21QvkbUjAVYPtq5_K?usp=drive_link",
+      "bestScore": 0.8590909090909091
+    },
+    {
+      "id": "2004-morph-graac",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1rDXrDh5Ke9rG10Bi0kwtJKcsybxNLQDL?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1rDXrDh5Ke9rG10Bi0kwtJKcsybxNLQDL?usp=drive_link",
+      "bestScore": 0.7833333333333334
+    },
+    {
+      "id": "2004-part-good-part-bad-axe",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=V7cLRgVhWTo",
+      "new": "https://drive.google.com/drive/folders/1yL9bbfl1a3hh4ByKYC_jsBPFYocogpGJ?usp=drive_link",
+      "bestScore": 0.925
+    },
+    {
+      "id": "2004-plug-in-the-video-game-fill-the-stapler-big-picture-mobile-phone-diesel",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1Bf32jxDKlJsQtHjOcJiBe_ErIeSqfI-e?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1Bf32jxDKlJsQtHjOcJiBe_ErIeSqfI-e?usp=drive_link",
+      "bestScore": 0.9500000000000001
+    },
+    {
+      "id": "2004-pole-dancing-samart-info-media",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=_mDpqUsmdeM&ab_channel=FunnyAdsBiz1",
+      "new": "https://www.youtube.com/watch?v=_mDpqUsmdeM&amp;ab_channel=FunnyAdsBiz1",
+      "bestScore": 1.2750000000000001
+    },
+    {
+      "id": "2004-try-k2r-k2r",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=WavPuwD9798",
+      "new": "https://www.youtube.com/watch?v=ibTxMvCZpFI&amp;ab_channel=GCCarvalho",
+      "bestScore": 0.9714285714285714
+    },
+    {
+      "id": "2004-waterboy-saeme",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=6X-0jGExxQA",
+      "new": "https://www.youtube.com/watch?v=6X-0jGExxQA",
+      "bestScore": 1.1
+    },
+    {
+      "id": "2003-abc-berliner-verlag",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=tlgQHKgejdA",
+      "new": "https://drive.google.com/file/d/1O53SsZE88SrYIHXVyAi3FVsaRRXQmZKf/view?usp=drive_link",
+      "bestScore": 0.9071428571428571
+    },
+    {
+      "id": "2003-bixenon-bmw",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=EZ96t28PsN8",
+      "new": "https://www.dandad.org/awards/professional/2003/tv-cinema-advertising/12637/bi-xenon/",
+      "bestScore": 0.9
+    },
+    {
+      "id": "2003-piixe-dust-ibm",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=3nbEeU2dRBg",
+      "new": "https://www.youtube.com/watch?v=3nbEeU2dRBg",
+      "bestScore": 1.1571428571428573
+    },
+    {
+      "id": "2003-poster-watch-fat-woman-sunset-stock-photos",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1LXcbZxvaMAvMvy57anH84sHdeoFrXYBO?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1LXcbZxvaMAvMvy57anH84sHdeoFrXYBO?usp=drive_link",
+      "bestScore": 0.8590909090909091
+    },
+    {
+      "id": "2003-trousers-skirt-coat-jeans-bocage-eram",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1zejjEBxwSGYS_oXfzMVOoi-l4nvq269S?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1zejjEBxwSGYS_oXfzMVOoi-l4nvq269S?usp=drive_link",
+      "bestScore": 0.8388888888888889
+    },
+    {
+      "id": "2002-amazing-offer-0-discount-price-guarantee-make-bargains-bang-olufsen",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1iZWTbHaAEK0qu9EllwrLO7vRiMebbKcH?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1iZWTbHaAEK0qu9EllwrLO7vRiMebbKcH?usp=drive_link",
+      "bestScore": 0.9500000000000001
+    },
+    {
+      "id": "2002-and-the-winners-are-pbh",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=EraMoRQVgiE",
+      "new": "https://drive.google.com/file/d/1XwvdfEesx6bvkSgowcnWzIqPqyBQggRQ/view?usp=drive_link",
+      "bestScore": 0.9388888888888889
+    },
+    {
+      "id": "2002-attractive-and-well-maintained-spacious-in-oslo-obos",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1OyxpyQm841pFXFWssx5PIuJjBlWtrZO6?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1OyxpyQm841pFXFWssx5PIuJjBlWtrZO6?usp=drive_link",
+      "bestScore": 0.8590909090909091
+    },
+    {
+      "id": "2002-bus-smith-snackfoods",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=GQEpwiZ2Wvc&ab_channel=TrafficBrandAgency",
+      "new": "https://www.youtube.com/watch?v=GQEpwiZ2Wvc&amp;ab_channel=TrafficBrandAgency",
+      "bestScore": 1.2571428571428573
+    },
+    {
+      "id": "2002-fingers-dhl",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=lHW_BD46tWs",
+      "new": "https://www.dandad.org/awards/professional/2002/direct-mail/12025/hitchhiker/",
+      "bestScore": 0.4666666666666666
+    },
+    {
+      "id": "2002-look-back-surprise-shower-tasco",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/11Db9cHrETNNsHdUu9wQx-aeL5h-G1avv?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/11Db9cHrETNNsHdUu9wQx-aeL5h-G1avv?usp=drive_link",
+      "bestScore": 0.8500000000000001
+    },
+    {
+      "id": "2002-old-lady-snail-turtle-diveo",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1MzeEcvENVrzh7MjV-rVIg_X1OB-9zADy?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1MzeEcvENVrzh7MjV-rVIg_X1OB-9zADy?usp=drive_link",
+      "bestScore": 0.8500000000000001
+    },
+    {
+      "id": "2002-perigrinate-quiescence-distend-coin-requital-houghton-mifflin",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/11GwMRs0UY2jdnwL9-wFSxZLE9dNG7hxz?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/11GwMRs0UY2jdnwL9-wFSxZLE9dNG7hxz?usp=drive_link",
+      "bestScore": 0.8500000000000001
+    },
+    {
+      "id": "2002-popcorn-tv-guide-dinner-casio-mini-tv",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1k7owkAw6jnxFGi9wAa9v6u9ZHfXCMzIi?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1k7owkAw6jnxFGi9wAa9v6u9ZHfXCMzIi?usp=drive_link",
+      "bestScore": 0.8388888888888889
+    },
+    {
+      "id": "2002-prison-bic",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=iuMnfcDOWto",
+      "new": "https://drive.google.com/drive/folders/1YzxTVuqejqagHpIrAMMXDoe_g1iy2KVq?usp=drive_link",
+      "bestScore": 0.9071428571428571
+    },
+    {
+      "id": "2002-screwed-up-ibm",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=50haA_4G-7w",
+      "new": "https://www.dandad.org/awards/professional/2002/direct-mail/12025/hitchhiker/",
+      "bestScore": 0.6333333333333333
+    },
+    {
+      "id": "2002-turf-espn",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=uvAArB-IQFg&ab_channel=ThisIsSportcenter",
+      "new": "https://www.youtube.com/watch?v=uvAArB-IQFg&amp;ab_channel=ThisIsSportcenter",
+      "bestScore": 1.2571428571428573
+    },
+    {
+      "id": "2002-ufo-condor",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=jtZGKYO7iyI",
+      "new": "https://www.dandad.org/awards/professional/2002/direct-mail/12025/hitchhiker/",
+      "bestScore": 0.7285714285714286
+    },
+    {
+      "id": "2001-ant-matchbox",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=CjB3eqBn4k8",
+      "new": "https://drive.google.com/file/d/1gwBR9bOL9J_LO2ORQ1etJdCk68-ICqQ4/view?usp=drive_link",
+      "bestScore": 0.8833333333333334
+    },
+    {
+      "id": "2001-china-india-turkey-russia-fox-international",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=oBNUuJXFWBQ&ab_channel=SauloFranco",
+      "new": "https://www.youtube.com/watch?v=oBNUuJXFWBQ&amp;ab_channel=SauloFranco",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "2001-desk-shoe-hair-sparletta-bubble-blu",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/136DPkeQJyceGDk8ab6WwxNTuP3Zr4Qff?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/136DPkeQJyceGDk8ab6WwxNTuP3Zr4Qff?usp=drive_link",
+      "bestScore": 0.9500000000000001
+    },
+    {
+      "id": "2001-every-little-boy-s-nightmare-the-dollar-went-up-havaianas",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1moukKz8r_LamfjljhXhiLHU9-AQA6ULP?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1moukKz8r_LamfjljhXhiLHU9-AQA6ULP?usp=drive_link",
+      "bestScore": 0.8666666666666667
+    },
+    {
+      "id": "2001-neighbourhood-cops-sbc-communications",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=u1fCgca9ZNk&ab_channel=AlexandreEstanislauSilva",
+      "new": "https://www.youtube.com/watch?v=u1fCgca9ZNk&amp;ab_channel=AlexandreEstanislauSilva",
+      "bestScore": 1.3
+    },
+    {
+      "id": "2001-prison-pedestrian-council",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=Md7h3giMwy0&ab_channel=LJR",
+      "new": "https://www.youtube.com/watch?v=Md7h3giMwy0&amp;ab_channel=LJR",
+      "bestScore": 1.2333333333333336
+    },
+    {
+      "id": "2001-snow-blind-vizir-washing-powder",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=eLXf8-DaiFY",
+      "new": "https://www.youtube.com/watch?v=eLXf8-DaiFY",
+      "bestScore": 1.1888888888888889
+    },
+    {
+      "id": "2001-the-driver-giraudy",
+      "status": "updated",
+      "old": "https://drive.google.com/drive/folders/1UxXP8kz9C4lMsBIp50fvHuqfIyB964EE?usp=drive_link",
+      "new": "https://drive.google.com/drive/folders/1UxXP8kz9C4lMsBIp50fvHuqfIyB964EE?usp=drive_link",
+      "bestScore": 0.8071428571428572
+    },
+    {
+      "id": "2001-u2-com-u2",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=t6x9LHKiSg0",
+      "new": "https://www.youtube.com/watch?v=qGJ6JCD80ys",
+      "bestScore": 0.8
+    },
+    {
+      "id": "2000-speeding-ticket-alta-vista",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=fuRs0VfN94Q&ab_channel=ArnaudFischer",
+      "new": "https://www.youtube.com/watch?v=fuRs0VfN94Q&amp;ab_channel=ArnaudFischer",
+      "bestScore": 1.2750000000000001
+    },
+    {
+      "id": "1999-strong-stuff-the-white-stuff-bread",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=2Hut8Pq5IDU&ab_channel=M%26CSaatchiAustralia",
+      "new": "https://www.youtube.com/watch?v=2Hut8Pq5IDU&amp;ab_channel=M%26CSaatchiAustralia",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1998-milkman-retired-conference-of-australian-milk",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?time_continue=43&v=4Gt9Yp-ZHuQ&feature=emb_title&ab_channel=adoudder",
+      "new": "https://www.youtube.com/watch?time_continue=43&amp;v=4Gt9Yp-ZHuQ&amp;feature=emb_title&amp;ab_channel=adoudder",
+      "bestScore": 1.3
+    },
+    {
+      "id": "1998-scaredy-cat-selleys-chemical",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=4Ce4hME6gDw&ab_channel=PabloEskybrah",
+      "new": "https://www.youtube.com/watch?v=4Ce4hME6gDw&amp;ab_channel=PabloEskybrah",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1998-dino-time-kraft",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=GqUGAXmklDQ&ab_channel=ChristyStewart-Smith",
+      "new": "https://www.youtube.com/watch?v=GqUGAXmklDQ&amp;ab_channel=ChristyStewart-Smith",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1998-the-last-laugh-agfa-cameras",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=Jlx7khP_VEM&ab_channel=RainerSchinzel",
+      "new": "https://www.youtube.com/watch?v=Jlx7khP_VEM&amp;ab_channel=RainerSchinzel",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1998-alien-hewlett-packard-photocopier",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=s5qsaEWh32Q&ab_channel=DavidThompson",
+      "new": "https://www.youtube.com/watch?v=s5qsaEWh32Q&amp;ab_channel=DavidThompson",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-traffic-light-motta-fruit-joy",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=0AIlyOT64js&list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&index=21&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=0AIlyOT64js&amp;list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&amp;index=21&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-confessions-imperial-car-rental",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=hH90VnlTFko&list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&index=51&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=hH90VnlTFko&amp;list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&amp;index=51&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-only-for-real-players-toto-select-lottery",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=Kuhos_qIrgA&list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&index=77&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=Kuhos_qIrgA&amp;list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&amp;index=77&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-chimps-hbo",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=LtwDaW22xCg&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=LtwDaW22xCg&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-daughter-s-hand-budweiser",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=f8oPz5rxszI&list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&index=9&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=f8oPz5rxszI&amp;list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&amp;index=9&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-fishing-washington-state-lottery",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=xKMURzY_RPo&list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&index=71&pp=iAQB&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=xKMURzY_RPo&amp;list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&amp;index=71&amp;pp=iAQB&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-football-budweiser",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=GA0DsnhBJWg&list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&index=7&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=GA0DsnhBJWg&amp;list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&amp;index=7&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-old-friends-budweiser",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=fwoy2c6D9sA&list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&index=11&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=fwoy2c6D9sA&amp;list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&amp;index=11&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-news-iii-frito-lay-co",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=GGm501vgmV0&ab_channel=platypuscomixII",
+      "new": "https://www.youtube.com/watch?v=GGm501vgmV0&amp;ab_channel=platypuscomixII",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-dance-bristol-myers-squibb",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=8jPUZR4fO6Y&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=8jPUZR4fO6Y&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-bald-man-viviscal-hair-tonic",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=bc22Cyu2Ru0&list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&index=43&pp=iAQB&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=bc22Cyu2Ru0&amp;list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&amp;index=43&amp;pp=iAQB&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-lady-of-the-house-fay-s-drugstore",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=efvDKTi3Zek&list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&index=80&pp=iAQB&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=efvDKTi3Zek&amp;list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&amp;index=80&amp;pp=iAQB&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-le-patron-france-telecom",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=PrGUS8w5aek&list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&index=89&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=PrGUS8w5aek&amp;list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&amp;index=89&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-kid-bivv",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=r9Lar7DcEVU&list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&index=90&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=r9Lar7DcEVU&amp;list=PL8qnTFh9BKW0pswWWA85BPZg0bzkTEEDm&amp;index=90&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1997-let-s-work-together-soros-foundation-kyrgyzstan",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=bpAAvG_kGBk&ab_channel=BrynEff",
+      "new": "https://www.youtube.com/watch?v=bpAAvG_kGBk&amp;ab_channel=BrynEff",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1996-fishing-harvest-sneaking-thief-nissin-food",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=4wNT1oXG4Zk&t=24s&ab_channel=hansomx",
+      "new": "https://www.youtube.com/watch?v=4wNT1oXG4Zk&amp;t=24s&amp;ab_channel=hansomx",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1996-jealousy-axe-deo-perfume",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=nx-r2XffnaU&ab_channel=LoaiElgarhi",
+      "new": "https://www.youtube.com/watch?v=nx-r2XffnaU&amp;ab_channel=LoaiElgarhi",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1995-gallego-bellsouth-chile",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=xRm-hgf3mLA&list=PL6956B4443105CDA9&index=58&pp=iAQB&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=xRm-hgf3mLA&amp;list=PL6956B4443105CDA9&amp;index=58&amp;pp=iAQB&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1995-hungry-5-father-tries-to-throw-a-rock-nissin-food",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=csS6lLMAI6o&list=PL6956B4443105CDA9&index=55&pp=iAQB&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=csS6lLMAI6o&amp;list=PL6956B4443105CDA9&amp;index=55&amp;pp=iAQB&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1995-mind-game-tag-heuer",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=hwqx4R7UfdU&ab_channel=Pubenstock%21",
+      "new": "https://www.youtube.com/watch?v=hwqx4R7UfdU&amp;ab_channel=Pubenstock%21",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1995-video-movies-orbis-fabbri",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=4DLMSUZCQBE&list=PL6956B4443105CDA9&index=37&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=4DLMSUZCQBE&amp;list=PL6956B4443105CDA9&amp;index=37&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1995-lies-channel-13",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=quXm-C8gScc&list=PL6956B4443105CDA9&index=9&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=quXm-C8gScc&amp;list=PL6956B4443105CDA9&amp;index=9&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1994-hungry-iii-uintatherium-nissin-food",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=vUJxex-FNrM&ab_channel=crasherjoe",
+      "new": "https://www.youtube.com/watch?v=vUJxex-FNrM&amp;ab_channel=crasherjoe",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1994-balance-bmw",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=4wkj1Rug-pg&ab_channel=vlakci",
+      "new": "https://www.youtube.com/watch?v=4wkj1Rug-pg&amp;ab_channel=vlakci",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1994-campfire-levi",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=zP8FqrTWmyQ&ab_channel=PaulLeviguy",
+      "new": "https://www.youtube.com/watch?v=zP8FqrTWmyQ&amp;ab_channel=PaulLeviguy",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1994-aaron-burr-california-fluid-milk-processor-board",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=OLSsswr6z9Y&ab_channel=leftventricle",
+      "new": "https://www.youtube.com/watch?v=OLSsswr6z9Y&amp;ab_channel=leftventricle",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1994-experiment-tapetes-e-carpetes",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=PgjZxDX8suc&list=PL94A746B1DE05A1C6&index=12&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=PgjZxDX8suc&amp;list=PL94A746B1DE05A1C6&amp;index=12&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1994-les-loups-gemey-paris",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=-SgzyvTPqWw&list=PL94A746B1DE05A1C6&index=53&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=-SgzyvTPqWw&amp;list=PL94A746B1DE05A1C6&amp;index=53&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1994-train-breathsavers-mints",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=_jniLpMR5dY&ab_channel=MrClassicAds1990s",
+      "new": "https://www.youtube.com/watch?v=_jniLpMR5dY&amp;ab_channel=MrClassicAds1990s",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1993-shower-the-lee-apparel-co",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=BWVH0QfRmwk&ab_channel=CynthiaKristufek",
+      "new": "https://www.youtube.com/watch?v=BWVH0QfRmwk&amp;ab_channel=CynthiaKristufek",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1993-seen-as-men-the-lee-apparel-co",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=B9GuwpxMeUk&ab_channel=AnalogMemories",
+      "new": "https://www.youtube.com/watch?v=B9GuwpxMeUk&amp;ab_channel=AnalogMemories",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1993-noxin-televerket-radio",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=zrfJCGF8WYE&list=PL1C1B3F65FBF4DA40&index=63&ab_channel=videosfromvincent",
+      "new": "https://www.youtube.com/watch?v=zrfJCGF8WYE&amp;list=PL1C1B3F65FBF4DA40&amp;index=63&amp;ab_channel=videosfromvincent",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1992-kit-capp-kit-kat",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=dOblnjX0Tx8&ab_channel=DJ3lectrical",
+      "new": "https://www.youtube.com/watch?v=dOblnjX0Tx8&amp;ab_channel=DJ3lectrical",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1991-tracey-p-late-transport-accident-commission",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=rGNeyX4EFTs&ab_channel=rocketraccoon19",
+      "new": "https://www.youtube.com/watch?v=rGNeyX4EFTs&amp;ab_channel=rocketraccoon19",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1991-quackers-kit-kat",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=44zEMCcPPrk&ab_channel=TonyWilliams",
+      "new": "https://www.youtube.com/watch?v=44zEMCcPPrk&amp;ab_channel=TonyWilliams",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1990-bus-stop-opticians-federation-eye-tests",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=t--szDIW860&ab_channel=BrynEff",
+      "new": "https://www.youtube.com/watch?v=t--szDIW860&amp;ab_channel=BrynEff",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1990-pandas-give-me-a-break-kit-kat",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=QeduBcf_hPM&ab_channel=lewislloydcreative",
+      "new": "https://www.youtube.com/watch?v=QeduBcf_hPM&amp;ab_channel=lewislloydcreative",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1989-scooter-tve",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=fTnX52w66AI&t=41s&ab_channel=ContrapuntoBBDO",
+      "new": "https://www.youtube.com/watch?v=fTnX52w66AI&amp;t=41s&amp;ab_channel=ContrapuntoBBDO",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1989-production-line-rowntree-mackintosh",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=t9ZQbvu4dFc&ab_channel=Cereal%26OtherAds",
+      "new": "https://www.youtube.com/watch?v=t9ZQbvu4dFc&amp;ab_channel=Cereal%26OtherAds",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1989-satellite-dommelsche-beer",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=3FDJaA5UOaU&ab_channel=OntspanTV",
+      "new": "https://www.youtube.com/watch?v=3FDJaA5UOaU&amp;ab_channel=OntspanTV",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1988-dealers-partnership-for-a-drug-free-america",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=f9ZcpERxnFM&list=PL08OrAWRwrDlQ_GicxkT6Ev-QKvniaNzP&index=26&ab_channel=rjm512",
+      "new": "https://www.youtube.com/watch?v=f9ZcpERxnFM&amp;list=PL08OrAWRwrDlQ_GicxkT6Ev-QKvniaNzP&amp;index=26&amp;ab_channel=rjm512",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1988-mom-7-eleven",
+      "status": "updated",
+      "old": "https://youtu.be/nPepN8fNpQA",
+      "new": "https://youtu.be/nPepN8fNpQA",
+      "bestScore": 1.3
+    },
+    {
+      "id": "1987-little-girl-kitten-barilla-pasta",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=YHn8Zg1XJ74&ab_channel=Barilla",
+      "new": "https://www.youtube.com/watch?v=YHn8Zg1XJ74&amp;ab_channel=Barilla",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1986-statue-bom-bril",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=U6ECxFrDhOE&ab_channel=ProdutoraAbafilmes",
+      "new": "https://www.youtube.com/watch?v=U6ECxFrDhOE&amp;ab_channel=ProdutoraAbafilmes",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1984-heartland-budlight",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=em7Xuj122Hc&ab_channel=TALVID",
+      "new": "https://www.youtube.com/watch?v=em7Xuj122Hc&amp;ab_channel=TALVID",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1984-think-different-apple",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=AL3TQtJDr0U&ab_channel=8bitRicky",
+      "new": "https://www.youtube.com/watch?v=AL3TQtJDr0U&amp;ab_channel=8bitRicky",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1982-a-menu-of-lights-matsushita-electric-industrial",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=1VPzjQJh7hw&ab_channel=kanneslionsbox",
+      "new": "https://www.youtube.com/watch?v=1VPzjQJh7hw&amp;ab_channel=kanneslionsbox",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1982-carwash-growy",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=r8wX4oCnAtM&ab_channel=MonsieurGarnier",
+      "new": "https://www.youtube.com/watch?v=r8wX4oCnAtM&amp;ab_channel=MonsieurGarnier",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1981-japanese-bath-citicorp-travelers-checks",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=tt0jhMx0HzY&ab_channel=loqker",
+      "new": "https://www.youtube.com/watch?v=tt0jhMx0HzY&amp;ab_channel=loqker",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1978-walkies-c-o-i",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=esDHa6HatLw&ab_channel=advertarchive",
+      "new": "https://www.youtube.com/watch?v=esDHa6HatLw&amp;ab_channel=advertarchive",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1978-rid-bom-bril-ind-e-com",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=SbqUasU4WsI&ab_channel=ProdutoraAbafilmes",
+      "new": "https://www.youtube.com/watch?v=SbqUasU4WsI&amp;ab_channel=ProdutoraAbafilmes",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1977-think-koninklijke-bedrijven-theodorus-niemeyer",
+      "status": "updated",
+      "old": "https://youtu.be/WNQJx3DQIiI",
+      "new": "https://youtu.be/WNQJx3DQIiI",
+      "bestScore": 1.3
+    },
+    {
+      "id": "1974-pingpong-ball-matsushita-electric-industrial-co",
+      "status": "updated",
+      "old": "https://youtu.be/yDe18zsAu2A",
+      "new": "https://youtu.be/yDe18zsAu2A",
+      "bestScore": 1.3
+    },
+    {
+      "id": "1973-from-tears-to-smile-8230-child-seagram-s-overseas-sales",
+      "status": "updated",
+      "old": "https://youtu.be/Ehburevy-bc",
+      "new": "https://youtu.be/Ehburevy-bc",
+      "bestScore": 1.3
+    },
+    {
+      "id": "1972-longshoreman-warner-lambert",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=aBdmRJ-zWWI&ab_channel=BionicDisco",
+      "new": "https://www.youtube.com/watch?v=aBdmRJ-zWWI&amp;ab_channel=BionicDisco",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1971-institutes-r-c-a-corporate",
+      "status": "updated",
+      "old": "https://youtu.be/REn8GsxSxSw",
+      "new": "https://youtu.be/REn8GsxSxSw",
+      "bestScore": 1.3
+    },
+    {
+      "id": "1971-les-handicapes-comite-national-francais-de-liaison-pour-la-readaptation-des-handicapes",
+      "status": "updated",
+      "old": "https://youtu.be/WVu4Xf6A3NA",
+      "new": "https://youtu.be/WVu4Xf6A3NA",
+      "bestScore": 1.3
+    },
+    {
+      "id": "1971-mama-magadini-s-meatballs-miles-laboratories",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=48TewJlc6BA&ab_channel=CaptainComedia",
+      "new": "https://www.youtube.com/watch?v=48TewJlc6BA&amp;ab_channel=CaptainComedia",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1971-muscles-svenska-mejeriernas-riksfoerening",
+      "status": "updated",
+      "old": "https://youtu.be/UOBb_aZD0OY",
+      "new": "https://youtu.be/UOBb_aZD0OY",
+      "bestScore": 1.3
+    },
+    {
+      "id": "1971-secretary-cadbury-schweppes-sellamaba-juana",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=SFgLLjTkA9A&ab_channel=RobertCass",
+      "new": "https://www.youtube.com/watch?v=SFgLLjTkA9A&amp;ab_channel=RobertCass",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1971-le-reve-simca-chrysler",
+      "status": "updated",
+      "old": "https://youtu.be/aFVOTrVqtD4",
+      "new": "https://youtu.be/aFVOTrVqtD4",
+      "bestScore": 1.3
+    },
+    {
+      "id": "1970-jennifer-eastmand-kodak",
+      "status": "updated",
+      "old": "https://www.youtube.com/watch?v=7tMPGtpA7-A&ab_channel=nishiot",
+      "new": "https://www.youtube.com/watch?v=7tMPGtpA7-A&amp;ab_channel=nishiot",
+      "bestScore": 1.4000000000000001
+    },
+    {
+      "id": "1970-pass-auf-im-strassenverkhr-stuttgarter-nachrichten",
+      "status": "updated",
+      "old": "https://youtu.be/_KsMGRxFkQE",
+      "new": "https://youtu.be/_KsMGRxFkQE",
+      "bestScore": 1.3
+    },
+    {
+      "id": "1969-inert-liquid-3m-co",
+      "status": "updated",
+      "old": "https://youtu.be/6ZKP49IKh6g",
+      "new": "https://youtu.be/6ZKP49IKh6g",
+      "bestScore": 1.3
+    },
+    {
+      "id": "1969-olympics-the-sunday-times-magazine",
+      "status": "updated",
+      "old": "https://youtu.be/McqdVv49ddU",
+      "new": "https://youtu.be/McqdVv49ddU",
+      "bestScore": 1.3
+    }
+  ]
+}

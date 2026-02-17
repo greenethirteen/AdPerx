@@ -13,12 +13,14 @@ const CONCURRENCY = Math.max(1, Number(process.env.CONCURRENCY || '8'));
 const MAX_ITEMS = Math.max(1, Number(process.env.MAX_ITEMS || '2000'));
 const START_INDEX = Math.max(0, Number(process.env.START_INDEX || '0'));
 const REQUEST_TIMEOUT_MS = Math.max(3000, Number(process.env.REQUEST_TIMEOUT_MS || '10000'));
-const MIN_VIDEO_SCORE = Number(process.env.MIN_VIDEO_SCORE || '0.30');
-const MIN_WEB_SCORE = Number(process.env.MIN_WEB_SCORE || '0.42');
+const MIN_VIDEO_SCORE = Number(process.env.MIN_VIDEO_SCORE || '0.45');
+const MIN_WEB_SCORE = Number(process.env.MIN_WEB_SCORE || '0.50');
+const MIN_YOUTUBE_META_SCORE = Number(process.env.MIN_YOUTUBE_META_SCORE || '0.26');
 const ALLOW_ANY_DOMAIN = process.env.ALLOW_ANY_DOMAIN === '1';
 
 const PREFERRED_HOSTS = (process.env.PREFERRED_HOSTS || [
   'youtube.com','youtu.be','vimeo.com','player.vimeo.com',
+  'adsspot.me',
   'dandad.org','liaawards.com','oneclub.org','adfest.com','spikes.asia','www2.spikes.asia',
   'clios.com','lbbonline.com','adsoftheworld.com','canneslions.com'
 ].join(','))
@@ -61,6 +63,12 @@ function requestUrl(url, { method = 'GET', headers = {}, maxRedirects = 5, maxBy
     let parsed;
     try { parsed = new URL(url); } catch { resolve({ status: 0, headers: {}, body: '', url }); return; }
     const lib = parsed.protocol === 'https:' ? https : http;
+    let settled = false;
+    const done = (value) => {
+      if (settled) return;
+      settled = true;
+      resolve(value);
+    };
     const req = lib.request({
       protocol: parsed.protocol,
       hostname: parsed.hostname,
@@ -78,24 +86,35 @@ function requestUrl(url, { method = 'GET', headers = {}, maxRedirects = 5, maxBy
       if (location && status >= 300 && status < 400 && maxRedirects > 0) {
         res.resume();
         const next = new URL(location, url).toString();
-        requestUrl(next, { method, headers, maxRedirects: maxRedirects - 1, maxBytes }).then(resolve);
+        requestUrl(next, { method, headers, maxRedirects: maxRedirects - 1, maxBytes }).then(done);
         return;
       }
       const chunks = [];
       let total = 0;
+      let destroyedForLimit = false;
       res.on('data', (c) => {
         chunks.push(c);
         total += c.length;
-        if (maxBytes && total > maxBytes) res.destroy();
+        if (maxBytes && total > maxBytes) {
+          destroyedForLimit = true;
+          res.destroy();
+        }
       });
       res.on('end', () => {
         const raw = Buffer.concat(chunks);
         const decoded = decodeBody(raw, res.headers['content-encoding']);
-        resolve({ status, headers: res.headers, body: decoded.toString('utf-8').slice(0, maxBytes), url });
+        done({ status, headers: res.headers, body: decoded.toString('utf-8').slice(0, maxBytes), url });
       });
+      res.on('close', () => {
+        if (!destroyedForLimit) return;
+        const raw = Buffer.concat(chunks);
+        const decoded = decodeBody(raw, res.headers['content-encoding']);
+        done({ status, headers: res.headers, body: decoded.toString('utf-8').slice(0, maxBytes), url });
+      });
+      res.on('error', () => done({ status: 0, headers: {}, body: '', url }));
     });
     req.setTimeout(REQUEST_TIMEOUT_MS, () => req.destroy());
-    req.on('error', () => resolve({ status: 0, headers: {}, body: '', url }));
+    req.on('error', () => done({ status: 0, headers: {}, body: '', url }));
     req.end();
   });
 }
@@ -132,6 +151,18 @@ async function youtubeAvailable(videoId) {
   return res.status >= 200 && res.status < 400;
 }
 
+async function youtubeMeta(videoId) {
+  const u = `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${videoId}&format=json`;
+  const res = await requestUrl(u, { method: 'GET', maxBytes: 30_000 });
+  if (!(res.status >= 200 && res.status < 400)) return { ok: false, title: '', author: '' };
+  try {
+    const j = JSON.parse(res.body || '{}');
+    return { ok: true, title: String(j.title || ''), author: String(j.author_name || '') };
+  } catch {
+    return { ok: true, title: '', author: '' };
+  }
+}
+
 function thumbnailFromUrl(url) {
   const yt = parseYouTubeId(url);
   if (yt) return `https://i.ytimg.com/vi/${yt}/hqdefault.jpg`;
@@ -153,6 +184,7 @@ function scoreMatch(row, title, url) {
 
   const h = hostOf(url);
   if (h === 'youtube.com' || h === 'youtu.be' || h === 'vimeo.com' || h === 'player.vimeo.com') score += 0.22;
+  if (h === 'adsspot.me') score += 0.16;
   if (PREFERRED_HOSTS.some((d) => h === d || h.endsWith(`.${d}`))) score += 0.12;
 
   const blob = `${(title || '').toLowerCase()} ${String(url).toLowerCase()}`;
@@ -160,6 +192,111 @@ function scoreMatch(row, title, url) {
   if (normalize(row.brand || '') && blob.includes(normalize(row.brand || ''))) score += 0.05;
 
   return score;
+}
+
+function inferExpectedFormat(row) {
+  const blob = [
+    row.awardCategory || '',
+    row.categoryBucket || '',
+    Array.isArray(row.formatHints) ? row.formatHints.join(' ') : '',
+    row.notes || '',
+    row.title || ''
+  ].join(' ').toLowerCase();
+
+  const hasVideo = /(film|video|tv|cinema|commercial|animation|short film)/.test(blob);
+  const hasPrint = /(print|press|outdoor|ooh|poster|billboard|static|idea board|sticker|packaging|radio|audio)/.test(blob);
+
+  if (hasPrint && !hasVideo) return 'print';
+  if (hasVideo && !hasPrint) return 'video';
+  if (hasPrint && hasVideo) return 'mixed';
+  return 'unknown';
+}
+
+function adsspotMediaType(url) {
+  try {
+    const p = new URL(url).pathname.toLowerCase();
+    const m = p.match(/\/media\/([^/]+)\//);
+    return m?.[1] || '';
+  } catch {
+    return '';
+  }
+}
+
+function stripHtml(html) {
+  return String(html || '')
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function decodeEntities(s) {
+  return String(s || '')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>');
+}
+
+function extractPageSignals(html) {
+  const out = { title: '', description: '', text: '' };
+  if (!html) return out;
+  const title = html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1] || '';
+  const m1 = html.match(/<meta[^>]+property=["']og:title["'][^>]+content=["']([^"']+)["']/i)?.[1] || '';
+  const d1 = html.match(/<meta[^>]+name=["']description["'][^>]+content=["']([^"']+)["']/i)?.[1] || '';
+  const d2 = html.match(/<meta[^>]+property=["']og:description["'][^>]+content=["']([^"']+)["']/i)?.[1] || '';
+  out.title = decodeEntities((m1 || title || '').trim());
+  out.description = decodeEntities((d1 || d2 || '').trim());
+  out.text = stripHtml(html).slice(0, 2500);
+  return out;
+}
+
+function overlapScore(row, text) {
+  const want = new Set([
+    ...tokens(row.title || ''),
+    ...tokens(row.brand || ''),
+    ...tokens(row.agency || ''),
+    ...tokens(String(row.year || ''))
+  ]);
+  const got = tokens(text || '');
+  let overlap = 0;
+  for (const t of want) if (got.has(t)) overlap += 1;
+  return overlap / Math.max(5, Math.min(16, want.size || 5));
+}
+
+function formatAdjustment(row, url) {
+  const expected = inferExpectedFormat(row);
+  const h = hostOf(url);
+  const isVideoHost = ['youtube.com', 'youtu.be', 'vimeo.com', 'player.vimeo.com'].includes(h);
+  const adType = h === 'adsspot.me' ? adsspotMediaType(url) : '';
+
+  let s = 0;
+  if (expected === 'print') {
+    if (isVideoHost) s -= 0.22;
+    if (h === 'adsspot.me') s += 0.20;
+    if (adType.includes('print') || adType.includes('outdoor') || adType.includes('ambient')) s += 0.16;
+    if (adType.includes('film') || adType.includes('video')) s -= 0.12;
+  } else if (expected === 'video') {
+    if (isVideoHost) s += 0.16;
+    if (h === 'adsspot.me' && (adType.includes('film') || adType.includes('video'))) s += 0.08;
+    if (h === 'adsspot.me' && adType.includes('print')) s -= 0.10;
+  }
+  return s;
+}
+
+function adsspotSlugMatchesRow(row, url) {
+  if (hostOf(url) !== 'adsspot.me') return true;
+  let pathText = '';
+  try { pathText = decodeURIComponent(new URL(url).pathname).replace(/[\/_-]+/g, ' ').toLowerCase(); } catch { return false; }
+  const stop = new Set(['the','and','for','with','from','campaign','ad','ads','commercial','print','film','tv']);
+  const keys = [
+    ...tokens(row.title || ''),
+    ...tokens(row.brand || '')
+  ].filter((t) => t.length >= 4 && !stop.has(t));
+  if (!keys.length) return true;
+  return keys.some((k) => pathText.includes(k));
 }
 
 function normalizeFoundUrl(raw) {
@@ -219,6 +356,14 @@ async function searchBing(query) {
     if (u) out.push({ url: u, title: t });
   }
   return out;
+}
+
+async function searchAdsspot(row) {
+  const q = `${row.title || ''} ${row.brand || ''} ${row.year || ''} site:adsspot.me`;
+  const [duck, bing] = await Promise.all([searchDuck(q), searchBing(q)]);
+  return [...duck, ...bing]
+    .map((x) => ({ ...x, source: 'adsspot' }))
+    .filter((x) => hostOf(x.url) === 'adsspot.me');
 }
 
 function isBadTarget(url) {
@@ -291,6 +436,26 @@ async function extractOgImage(url) {
   return '';
 }
 
+function extractExternalLinksFromHtml(html, baseUrl) {
+  const out = [];
+  if (!html) return out;
+  const baseHost = hostOf(baseUrl);
+  const rx = /<a[^>]+href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi;
+  let m;
+  while ((m = rx.exec(html)) && out.length < 120) {
+    const rawHref = decodeEntities(m[1] || '');
+    if (!rawHref || rawHref.startsWith('#') || rawHref.startsWith('mailto:')) continue;
+    let href = '';
+    try { href = new URL(rawHref, baseUrl).toString(); } catch { continue; }
+    const h = hostOf(href);
+    if (!h || h === baseHost) continue;
+    if (['youtube.com', 'youtu.be', 'vimeo.com', 'player.vimeo.com'].includes(h)) continue;
+    const title = decodeEntities((m[2] || '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim());
+    out.push({ url: href, title, source: 'source_page' });
+  }
+  return dedupe(out);
+}
+
 async function runPool(items, worker, n) {
   let i = 0;
   const runners = Array.from({ length: n }, async () => {
@@ -328,7 +493,7 @@ let noCandidates = 0;
 let lowScore = 0;
 let unavailable = 0;
 let validatedReject = 0;
-const bySource = { youtube: 0, web: 0 };
+const bySource = { youtube: 0, web: 0, adsspot: 0, source_page: 0 };
 const changed = [];
 
 await runPool(targets, async (q) => {
@@ -338,14 +503,30 @@ await runPool(targets, async (q) => {
   const baseQuery = `${row.title || ''} ${row.brand || ''} ${row.year || ''} ad case study`;
   let candidates = [];
 
+  if (row.sourceUrl) {
+    const src = await requestUrl(row.sourceUrl, { method: 'GET', maxBytes: 350_000 });
+    if (src.status >= 200 && src.status < 400) {
+      const rawLinks = extractExternalLinksFromHtml(src.body || '', row.sourceUrl);
+      const relevantLinks = rawLinks.filter((c) => {
+        let pathText = '';
+        try { pathText = decodeURIComponent(new URL(c.url).pathname).replace(/[\/_-]+/g, ' '); } catch {}
+        const blob = `${c.title || ''} ${pathText}`.trim();
+        const rel = overlapScore(row, blob);
+        return rel >= 0.28 && adsspotSlugMatchesRow(row, c.url);
+      });
+      candidates.push(...relevantLinks);
+    }
+  }
+
   searched += 1;
   const yt = await searchYoutube(baseQuery);
   if (yt.length) candidates.push(...yt.map((x) => ({ ...x, source: 'youtube' })));
 
   const awardQuery = buildAwardQuery(row);
-  const [duck, bing] = await Promise.all([searchDuck(awardQuery), searchBing(awardQuery)]);
+  const [duck, bing, adsspot] = await Promise.all([searchDuck(awardQuery), searchBing(awardQuery), searchAdsspot(row)]);
   candidates.push(...duck.map((x) => ({ ...x, source: 'web' })));
   candidates.push(...bing.map((x) => ({ ...x, source: 'web' })));
+  candidates.push(...adsspot);
 
   // Fallback broad web query if strict award query found little/nothing.
   if (candidates.length < 2) {
@@ -362,17 +543,38 @@ await runPool(targets, async (q) => {
     .map((c) => ({ ...c, score: scoreMatch(row, c.title, c.url) }))
     .sort((a, b) => b.score - a.score);
 
+  // Read candidate pages and re-rank by textual/format fit.
+  const reranked = [];
+  for (const c of scored.slice(0, 10)) {
+    let extra = formatAdjustment(row, c.url);
+    const h = hostOf(c.url);
+    if (!['youtube.com', 'youtu.be', 'vimeo.com', 'player.vimeo.com'].includes(h)) {
+      const page = await requestUrl(c.url, { method: 'GET', maxBytes: 220_000 });
+      if (page.status >= 200 && page.status < 400) {
+        const sig = extractPageSignals(page.body || '');
+        const textBlob = `${c.title || ''} ${sig.title} ${sig.description} ${sig.text}`;
+        extra += overlapScore(row, textBlob) * 0.55;
+      }
+    }
+    reranked.push({ ...c, score: c.score + extra });
+  }
+  reranked.push(...scored.slice(10));
+  reranked.sort((a, b) => b.score - a.score);
+
   let chosen = null;
-  for (const c of scored.slice(0, 8)) {
+  for (const c of reranked.slice(0, 8)) {
     const isVideo = ['youtube.com','youtu.be','vimeo.com','player.vimeo.com'].includes(hostOf(c.url));
     if (isVideo && c.score < MIN_VIDEO_SCORE) continue;
     if (!isVideo && c.score < MIN_WEB_SCORE) continue;
+    if (!adsspotSlugMatchesRow(row, c.url)) { validatedReject += 1; continue; }
 
     if (hostOf(c.url).includes('youtube')) {
       const id = parseYouTubeId(c.url);
       if (!id) continue;
-      const ok = await youtubeAvailable(id);
-      if (!ok) { unavailable += 1; continue; }
+      const ym = await youtubeMeta(id);
+      if (!ym.ok) { unavailable += 1; continue; }
+      const metaScore = overlapScore(row, `${ym.title} ${ym.author}`);
+      if (metaScore < MIN_YOUTUBE_META_SCORE) { validatedReject += 1; continue; }
     }
 
     const status = await fetchStatus(c.url);
@@ -413,6 +615,7 @@ const report = {
   validatedReject,
   minVideoScore: MIN_VIDEO_SCORE,
   minWebScore: MIN_WEB_SCORE,
+  minYoutubeMetaScore: MIN_YOUTUBE_META_SCORE,
   changed,
 };
 fs.writeFileSync(reportPath, JSON.stringify(report, null, 2));

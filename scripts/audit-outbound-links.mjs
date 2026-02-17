@@ -8,14 +8,6 @@ const outPath = path.join(root, "data", "link_audit.json");
 const CONCURRENCY = Number(process.env.CONCURRENCY || "20");
 const TIMEOUT_MS = Number(process.env.REQUEST_TIMEOUT_MS || "8000");
 
-const BAD_HOST_HINTS = new Set([
-  "lovetheworkmore.com",
-  "bing.com",
-  "zhidao.baidu.com",
-  "zhihu.com",
-  "quizlet.com"
-]);
-
 function normalizeHost(raw) {
   try {
     return new URL(raw).hostname.replace(/^www\./, "").toLowerCase();
@@ -56,23 +48,6 @@ function parseYouTubeId(url) {
   return "";
 }
 
-function likelyWrongTarget(url) {
-  try {
-    const u = new URL(url);
-    const host = u.hostname.replace(/^www\./, "").toLowerCase();
-    const p = `${u.pathname}${u.search}`.toLowerCase();
-
-    if (host === "lovetheworkmore.com") return "ltwm_listing";
-    if (host === "bing.com" && p.startsWith("/ck/a")) return "bing_redirect";
-    if (host === "clios.com" && p.includes("/winners-gallery/explore")) return "clios_winners_listing";
-    if (host === "drive.google.com" && p.includes("/drive/folders/")) return "gdrive_folder";
-    if (BAD_HOST_HINTS.has(host)) return "non_case_domain";
-  } catch {
-    return "invalid_url";
-  }
-  return "";
-}
-
 async function fetchWithTimeout(url, opts = {}) {
   const controller = new AbortController();
   const t = setTimeout(() => controller.abort(), TIMEOUT_MS);
@@ -98,8 +73,6 @@ async function auditUrl(url) {
   const normalized = normalizeUrl(url);
   if (!normalized) return { status: 0, finalUrl: "", class: "invalid_url", note: "parse_failed" };
 
-  const wrong = likelyWrongTarget(normalized);
-
   let status = 0;
   let finalUrl = normalized;
   let res = await fetchWithTimeout(normalized, { method: "HEAD" });
@@ -111,8 +84,8 @@ async function auditUrl(url) {
     finalUrl = res.url || normalized;
   }
 
-  if (!res) return { status: 0, finalUrl, class: "dead", note: wrong || "network_error" };
-  if (status >= 400) return { status, finalUrl, class: "dead", note: wrong || "http_error" };
+  if (!res) return { status: 0, finalUrl, class: "dead", note: "network_error" };
+  if (status >= 400) return { status, finalUrl, class: "dead", note: "http_error" };
 
   const ytId = parseYouTubeId(finalUrl);
   if (ytId) {
@@ -120,9 +93,21 @@ async function auditUrl(url) {
     if (!oembed || oembed.status >= 400) {
       return { status, finalUrl, class: "unavailable", note: `youtube_unavailable_${oembed?.status || 0}` };
     }
+    try {
+      const json = await oembed.json();
+      return {
+        status,
+        finalUrl,
+        class: "ok",
+        note: "",
+        ytTitle: String(json?.title || ""),
+        ytAuthor: String(json?.author_name || "")
+      };
+    } catch {
+      // Fall through and treat as ok if oembed returned success but body parse failed.
+    }
   }
 
-  if (wrong) return { status, finalUrl, class: "likely_incorrect", note: wrong };
   return { status, finalUrl, class: "ok", note: "" };
 }
 

@@ -1,0 +1,912 @@
+{
+  "generatedAt": "2026-02-16T07:40:21.263Z",
+  "queueCount": 181,
+  "processed": 181,
+  "changed": 150,
+  "ytFallback": 138,
+  "thumioFixed": 4,
+  "screenshotFallback": 8,
+  "missing": 0,
+  "updates": [
+    {
+      "id": "1981-the-train-part-1-the-norwegian-book-club",
+      "reason": "yt_fallback",
+      "from": "https://img.youtube.com/vi/ns_nHOQO5EA/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/ns_nHOQO5EA/mqdefault.jpg"
+    },
+    {
+      "id": "1996-homemade-volkswagen",
+      "reason": "yt_fallback",
+      "from": "https://img.youtube.com/vi/4Ss_Vmt-oJA/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/4Ss_Vmt-oJA/mqdefault.jpg"
+    },
+    {
+      "id": "1996-idols-swf-television",
+      "reason": "yt_fallback",
+      "from": "https://img.youtube.com/vi/877cHKgLRzA/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/877cHKgLRzA/mqdefault.jpg"
+    },
+    {
+      "id": "1996-gecko-bosch-wiper-blades",
+      "reason": "yt_fallback",
+      "from": "https://img.youtube.com/vi/Gu7KEFr-6Hc/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/Gu7KEFr-6Hc/mqdefault.jpg"
+    },
+    {
+      "id": "1997-doors-volkswagen",
+      "reason": "yt_fallback",
+      "from": "https://img.youtube.com/vi/u9ggeHMf4Yk/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/u9ggeHMf4Yk/mqdefault.jpg"
+    },
+    {
+      "id": "1997-internet-telenordia",
+      "reason": "yt_fallback",
+      "from": "https://img.youtube.com/vi/zFdwYDmiL4M/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/zFdwYDmiL4M/mqdefault.jpg"
+    },
+    {
+      "id": "1998-fly-miller-brewing-co",
+      "reason": "thumio_rebuilt",
+      "from": "https://image.thum.io/get/width/1200/noanimate/https%3A%2F%2Fwww.lovethework.com%2Fen%2Fclassic%2Ffly-810",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://www.lovethework.com/en/classic/fly-810"
+    },
+    {
+      "id": "1998-protection-volkswagen",
+      "reason": "yt_fallback",
+      "from": "https://img.youtube.com/vi/Xq3xMVZa2KI/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/Xq3xMVZa2KI/mqdefault.jpg"
+    },
+    {
+      "id": "1999-slackers-kellogg-s-corp",
+      "reason": "yt_fallback",
+      "from": "https://img.youtube.com/vi/NRHzFOWKb8o/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/NRHzFOWKb8o/mqdefault.jpg"
+    },
+    {
+      "id": "1999-marathon-man-nike",
+      "reason": "yt_fallback",
+      "from": "https://img.youtube.com/vi/XTkZe94uyhg/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/XTkZe94uyhg/mqdefault.jpg"
+    },
+    {
+      "id": "1999-the-child-in-the-crowd-france-telecom",
+      "reason": "yt_fallback",
+      "from": "https://img.youtube.com/vi/cbTAsUSpcQI/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/cbTAsUSpcQI/mqdefault.jpg"
+    },
+    {
+      "id": "2000-jukka-bros-xmas-story-mtv-networks",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/qp7LaVl6ons/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/qp7LaVl6ons/mqdefault.jpg"
+    },
+    {
+      "id": "2000-lyrebird-forestry-stewardship-commission",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/0uDk-EYGY3I/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/0uDk-EYGY3I/mqdefault.jpg"
+    },
+    {
+      "id": "2000-window-camel",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/sZoMxFiPAyA/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/sZoMxFiPAyA/mqdefault.jpg"
+    },
+    {
+      "id": "2001-venus-fly-trap-sbp-insecticide",
+      "reason": "thumio_rebuilt",
+      "from": "https://image.thum.io/get/width/1200/noanimate/https%3A%2F%2Fwww.sostav.ru%2Fcolumns%2Fgallery%2F2004%2Fgold1-2001%2F",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://www.sostav.ru/columns/gallery/2004/gold1-2001/"
+    },
+    {
+      "id": "2002-aids-help-vienna-aids-foundation",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/ukVCbNt9FpY/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/ukVCbNt9FpY/mqdefault.jpg"
+    },
+    {
+      "id": "2002-always-have-the-last-word-the-economist",
+      "reason": "screenshot_fallback",
+      "from": "https://sp-uploads.s3.amazonaws.com/uploads/services/8625872/20230731133124_64c7b7ac3ca68_case_study__coca__cola_s__share_a_coke__campaignpage0.jpg",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://d26eb5y2jukpbz.cloudfront.net/ebs/archive/2002/media/02216A_b.jpg"
+    },
+    {
+      "id": "2002-forever-estrella-damm-beer",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/b0KFxIi_jME/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/b0KFxIi_jME/mqdefault.jpg"
+    },
+    {
+      "id": "2002-metamorphosis-axe",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/20308297002/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/20308297002/mqdefault.jpg"
+    },
+    {
+      "id": "2003-flood-earthquake-medicos-sin-fronteras",
+      "reason": "screenshot_fallback",
+      "from": "https://sp-uploads.s3.amazonaws.com/uploads/services/8625872/20230731133124_64c7b7ac3ca68_case_study__coca__cola_s__share_a_coke__campaignpage0.jpg",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://lovetheworkmore.com/2003-2/"
+    },
+    {
+      "id": "2003-wimbledon-2002-ibm",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/ipAC-xBbVOc/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/ipAC-xBbVOc/mqdefault.jpg"
+    },
+    {
+      "id": "2004-flight-attendant-agf-financial-services",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/GLWNfkTv-to/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/GLWNfkTv-to/mqdefault.jpg"
+    },
+    {
+      "id": "2004-the-spy-ninja-ufj-tsubasa-securities",
+      "reason": "screenshot_fallback",
+      "from": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/UFJ_Tsubasa_Securities_Logo.svg/320px-UFJ_Tsubasa_Securities_Logo.svg.png",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://www.dandad.org/awards/professional/2004/tv-cinema-advertising-non-english-language/13393/the-spy-ninja/"
+    },
+    {
+      "id": "2005-bunso-unicef",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/yh6lz7zgGNY/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/yh6lz7zgGNY/mqdefault.jpg"
+    },
+    {
+      "id": "2005-verne-troyer-orange",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/UOzZs4krFKY/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/UOzZs4krFKY/mqdefault.jpg"
+    },
+    {
+      "id": "2008-rob-lowe-orange",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/5i2N0_UPRxM/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/5i2N0_UPRxM/mqdefault.jpg"
+    },
+    {
+      "id": "2009-earth-tree-crocodile-calf-shark-wwf",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/muvyAMXHN1Y/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/muvyAMXHN1Y/mqdefault.jpg"
+    },
+    {
+      "id": "2009-oasis-dig-out-your-soul-in-the-street-nyc-co-and-warner-brothers",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/lCA1-RJTuns/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/lCA1-RJTuns/mqdefault.jpg"
+    },
+    {
+      "id": "2009-zack-johnson-tampax",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/yrh-WUqkRRc/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/yrh-WUqkRRc/mqdefault.jpg"
+    },
+    {
+      "id": "2010-josh-s-band-t-mobile",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/jzRF10wwdvo/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/jzRF10wwdvo/mqdefault.jpg"
+    },
+    {
+      "id": "2010-polar-bear-plane-stupid",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/aMnzSvZP_kE/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/aMnzSvZP_kE/mqdefault.jpg"
+    },
+    {
+      "id": "2010-samsung-shakedown-samsung",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/778xWRF4vAc/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/778xWRF4vAc/mqdefault.jpg"
+    },
+    {
+      "id": "2010-the-man-who-walked-around-the-world-guinness",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/xvCzYbSanVo/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/xvCzYbSanVo/mqdefault.jpg"
+    },
+    {
+      "id": "2011-donated-songs-salvation-army",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/2mQNCN7tS98/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/2mQNCN7tS98/mqdefault.jpg"
+    },
+    {
+      "id": "2011-heartbreaker-3-kaizers-orchestra",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/_4fQwxYpzAE/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/_4fQwxYpzAE/mqdefault.jpg"
+    },
+    {
+      "id": "2011-models-sony-ericsson",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/p2AP3VMAkpA/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/p2AP3VMAkpA/mqdefault.jpg"
+    },
+    {
+      "id": "2011-rise-lebron-james-nike",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/ZQ6nKET2Yho/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/ZQ6nKET2Yho/mqdefault.jpg"
+    },
+    {
+      "id": "2011-shave-sutra-gillette",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/ahFoFSnHadk/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/ahFoFSnHadk/mqdefault.jpg"
+    },
+    {
+      "id": "2011-the-world-s-biggest-hug-conselho-nacional-do-sesi",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/crLJWXNUVAE/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/crLJWXNUVAE/mqdefault.jpg"
+    },
+    {
+      "id": "2011-what-a-person-can-miss-a-machine-will-find-the-polish-federation-of-cancer-survivors",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/sfDdAuitZjk/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/sfDdAuitZjk/mqdefault.jpg"
+    },
+    {
+      "id": "2012-dulcinea-maria-antonieta-stabilo-boss",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/RyxDXwlvQUQ/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/RyxDXwlvQUQ/mqdefault.jpg"
+    },
+    {
+      "id": "2012-live-explosions-pilsen",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/BrAWljg9yZs/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/BrAWljg9yZs/mqdefault.jpg"
+    },
+    {
+      "id": "2012-nissan-rumble-nissan",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/tkqLVdi1Wj4/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/tkqLVdi1Wj4/mqdefault.jpg"
+    },
+    {
+      "id": "2012-parking-ticket-t-mobile",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/c5-i5DqbmdI/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/c5-i5DqbmdI/mqdefault.jpg"
+    },
+    {
+      "id": "2012-street-tag-channel-4",
+      "reason": "thumio_rebuilt",
+      "from": "https://image.thum.io/get/width/1200/noanimate/https%3A%2F%2Fwww.sostav.ru%2Fcolumns%2Fcanneslions2009%2F2012%2Fshort_mobile%2F",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://www.sostav.ru/columns/canneslions2009/2012/short_mobile/"
+    },
+    {
+      "id": "2012-todays-youth-for-yesterdays-youth-kbc-bank",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/uczF1Q-MgWg/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/uczF1Q-MgWg/mqdefault.jpg"
+    },
+    {
+      "id": "2012-walk-of-shame-harvey-nichols",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/qKVbQrUxBY8/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/qKVbQrUxBY8/mqdefault.jpg"
+    },
+    {
+      "id": "2013-clowns-birdhouses-elephants-foot-locker",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/4dWwTQN4NaA/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/4dWwTQN4NaA/mqdefault.jpg"
+    },
+    {
+      "id": "2013-dikembe-mutombo-s-4-1-2-weeks-to-save-the-world-old-spice",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/tbgU8oNdJ5Q/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/tbgU8oNdJ5Q/mqdefault.jpg"
+    },
+    {
+      "id": "2013-farmer-s-lad-hovis-bakery",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/FF_1r65LrBk/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/FF_1r65LrBk/mqdefault.jpg"
+    },
+    {
+      "id": "2013-fedex-cup-fedex",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/QMKy-Ky18Rs/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/QMKy-Ky18Rs/mqdefault.jpg"
+    },
+    {
+      "id": "2013-nutcase-s-outdoor-fitting-room-nutcase-bike-helmets",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/CX2nvG_O6ic/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/CX2nvG_O6ic/mqdefault.jpg"
+    },
+    {
+      "id": "2013-share-the-newspaper-with-children-the-tokyo-shimbun",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/2ouW5W_tMbg/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/2ouW5W_tMbg/mqdefault.jpg"
+    },
+    {
+      "id": "2013-stripped-screw-lowe-s",
+      "reason": "screenshot_fallback",
+      "from": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lowe%27s_Companies_logo.svg/512px-Lowe%27s_Companies_logo.svg.png",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://www.dandad.org/awards/professional/2014/digital-marketing/23380/lowes-vine-fix-in-six-campaign/"
+    },
+    {
+      "id": "2013-the-future-of-the-fashion-show-topshop",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/5TAF9OfL99g/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/5TAF9OfL99g/mqdefault.jpg"
+    },
+    {
+      "id": "2013-the-most-powerful-arm-ever-invented-save-our-sons",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/afR-7F31Tco/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/afR-7F31Tco/mqdefault.jpg"
+    },
+    {
+      "id": "2013-the-power-of-cute-the-royal-borough-of-greenwich",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/qsGCtQcUDZk/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/qsGCtQcUDZk/mqdefault.jpg"
+    },
+    {
+      "id": "2013-weyland-s-2023-ted-talk-prometheus",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/dQpGwnN3dfc/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/dQpGwnN3dfc/mqdefault.jpg"
+    },
+    {
+      "id": "2013-window-shopping-adidas",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/MYBURgFgP7w/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/MYBURgFgP7w/mqdefault.jpg"
+    },
+    {
+      "id": "2014-all-is-right-foot-locker",
+      "reason": "screenshot_fallback",
+      "from": "https://jackiecheung.nl/wp-content/uploads/2022/11/footlocker-2022-hiking-campaign-main-image-video.jpg",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://www.dandad.org/awards/professional/2014/tv-cinema-advertising/23928/all-is-right/"
+    },
+    {
+      "id": "2014-amazing-street-hacks-watchdogs",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/gbswS7AcrnI/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/gbswS7AcrnI/mqdefault.jpg"
+    },
+    {
+      "id": "2014-bear-bunny-badabulle",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/YNnwHqDc9wY/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/YNnwHqDc9wY/mqdefault.jpg"
+    },
+    {
+      "id": "2014-boardwalk-old-spice",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/1BOfhSVUI38/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/1BOfhSVUI38/mqdefault.jpg"
+    },
+    {
+      "id": "2014-cat-lady-devondale-long-life-milk",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/AqrnQ1KdR20/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/AqrnQ1KdR20/mqdefault.jpg"
+    },
+    {
+      "id": "2014-daddy-citroen",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/cE-1DNrcls4/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/cE-1DNrcls4/mqdefault.jpg"
+    },
+    {
+      "id": "2014-no-child-brides-child-survival-india",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/UK7Dnpew9YU/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/UK7Dnpew9YU/mqdefault.jpg"
+    },
+    {
+      "id": "2014-the-big-leap-lacoste",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/BzB3KW4uBhw/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/BzB3KW4uBhw/mqdefault.jpg"
+    },
+    {
+      "id": "2014-the-sleeping-supporter-citro-n",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/rCoNYiffjEQ/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/rCoNYiffjEQ/mqdefault.jpg"
+    },
+    {
+      "id": "2015-nomoreevictions-stop-desahucios",
+      "reason": "screenshot_fallback",
+      "from": "https://s3-eu-west-1.amazonaws.com/cannes2015mirror/media/3780513.jpg",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://preview.happiness-brussels.com/2015/Cannes_2015/case/588835"
+    },
+    {
+      "id": "2015-rocco-siffredi-s-vow-of-chastity-reckitt-benckiser",
+      "reason": "screenshot_fallback",
+      "from": "https://s3-eu-west-1.amazonaws.com/cannes2015mirror/media/3762675.jpg",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://preview.happiness-brussels.com/2015/Cannes_2015/case/591795"
+    },
+    {
+      "id": "2015-viaoptadaily-novartis",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/1iU541hQz0c/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/1iU541hQz0c/mqdefault.jpg"
+    },
+    {
+      "id": "2016-allergy-impact-zyrtec",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/I-UkBkKB9eI/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/I-UkBkKB9eI/mqdefault.jpg"
+    },
+    {
+      "id": "2016-igugu-khanyi-c-surance",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/rVYd5rD6y3I/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/rVYd5rD6y3I/mqdefault.jpg"
+    },
+    {
+      "id": "2016-igugu-thembi-c-surance",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/ZiAvyugaadg/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/ZiAvyugaadg/mqdefault.jpg"
+    },
+    {
+      "id": "2016-last-nike",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/ptoi8BIdRRQ/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/ptoi8BIdRRQ/mqdefault.jpg"
+    },
+    {
+      "id": "2016-pepsi-empire-partnership-pepsi",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/GWrzIU_1QJ4/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/GWrzIU_1QJ4/mqdefault.jpg"
+    },
+    {
+      "id": "2016-the-barmer-gek-moshpital-barmer-gek",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/4CuBWvTO4GE/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/4CuBWvTO4GE/mqdefault.jpg"
+    },
+    {
+      "id": "2016-the-lucky-ones-parkinson-s-nsw",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/r2j7ERtdsS0/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/r2j7ERtdsS0/mqdefault.jpg"
+    },
+    {
+      "id": "2017-brad-is-single-norwegian",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/EKgclrmuJmM/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/EKgclrmuJmM/mqdefault.jpg"
+    },
+    {
+      "id": "2017-cinema-to-go-air-france",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/jBqI4n-uotc/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/jBqI4n-uotc/mqdefault.jpg"
+    },
+    {
+      "id": "2017-donotabandon-30-millions-d-amis",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/CLn5GhTdY2c/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/CLn5GhTdY2c/mqdefault.jpg"
+    },
+    {
+      "id": "2017-doors-of-thrones-tourism-ireland",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/5KN99jVU8BI/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/5KN99jVU8BI/mqdefault.jpg"
+    },
+    {
+      "id": "2017-drag-drop-go-cheapflights",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/UtrPktMzkg4/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/UtrPktMzkg4/mqdefault.jpg"
+    },
+    {
+      "id": "2017-funeral-for-kent-sweden-s-biggest-rock-band",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/4VET8zkQsGM/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/4VET8zkQsGM/mqdefault.jpg"
+    },
+    {
+      "id": "2017-giveher5-the-ammada-trust",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/T6PKddieRC0/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/T6PKddieRC0/mqdefault.jpg"
+    },
+    {
+      "id": "2017-mannschafts-whopper-burger-king",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/rzTVu-_Qohs/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/rzTVu-_Qohs/mqdefault.jpg"
+    },
+    {
+      "id": "2017-out-of-office-travelogue-qantas",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/L5nvqkGx9Ak/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/L5nvqkGx9Ak/mqdefault.jpg"
+    },
+    {
+      "id": "2017-qq-alert-hope-never-dies-qq",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/4ZwJCTNT_Ps/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/4ZwJCTNT_Ps/mqdefault.jpg"
+    },
+    {
+      "id": "2017-quest-to-legoland-legoland-florida-resort",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/hYhFTF_Y2nQ/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/hYhFTF_Y2nQ/mqdefault.jpg"
+    },
+    {
+      "id": "2017-trump-royal-jordanian-airlines",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/sYzLxHTV_tQ/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/sYzLxHTV_tQ/mqdefault.jpg"
+    },
+    {
+      "id": "2017-until-we-all-belong-airbnb",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/FHqcfyXcjjU/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/FHqcfyXcjjU/mqdefault.jpg"
+    },
+    {
+      "id": "2017-van-gogh-s-bedrooms-art-institute-of-chicago",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/UAdgxQjKX3k/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/UAdgxQjKX3k/mqdefault.jpg"
+    },
+    {
+      "id": "2017-virtual-reality-freddo-y-r",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/XgweOsP7xuY/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/XgweOsP7xuY/mqdefault.jpg"
+    },
+    {
+      "id": "2017-visit-britain-expedia",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/5pTYlCFjt54/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/5pTYlCFjt54/mqdefault.jpg"
+    },
+    {
+      "id": "2017-we-re-the-superhumans-channel-4",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/khJWNuFRsDY/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/khJWNuFRsDY/mqdefault.jpg"
+    },
+    {
+      "id": "2018-america-just-like-the-movies-norwegian-air",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/CXFMQss33CQ/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/CXFMQss33CQ/mqdefault.jpg"
+    },
+    {
+      "id": "2018-easyassistance-easy-taxi",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/xYnINEnuga8/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/xYnINEnuga8/mqdefault.jpg"
+    },
+    {
+      "id": "2018-forbidden-stories-freedom-voices-network",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/lhEiEIjvdOQ/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/lhEiEIjvdOQ/mqdefault.jpg"
+    },
+    {
+      "id": "2018-friendshit-kasikorn-bank",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/ie7ChpD-3Pk/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/ie7ChpD-3Pk/mqdefault.jpg"
+    },
+    {
+      "id": "2018-heath-immigration-jig-saw",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/g2mPGGQDzH0/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/g2mPGGQDzH0/mqdefault.jpg"
+    },
+    {
+      "id": "2018-qq-alert-reunion-after-years-tencent",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/4ZwJCTNT_Ps/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/4ZwJCTNT_Ps/mqdefault.jpg"
+    },
+    {
+      "id": "2018-the-canceller-reclame-aqui",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/bsrmvc440SI/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/bsrmvc440SI/mqdefault.jpg"
+    },
+    {
+      "id": "2018-the-equality-bill-ddl-co",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/AHQrD2TUMdg/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/AHQrD2TUMdg/mqdefault.jpg"
+    },
+    {
+      "id": "2018-the-first-ad-in-the-blockchain-tda",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/BvuxSGTD5-E/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/BvuxSGTD5-E/mqdefault.jpg"
+    },
+    {
+      "id": "2018-the-price-of-equality-scotiabank",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/aD7n0N_X62Y/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/aD7n0N_X62Y/mqdefault.jpg"
+    },
+    {
+      "id": "2018-the-talk-60-p-g",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/XPl3hZqFaLM/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/XPl3hZqFaLM/mqdefault.jpg"
+    },
+    {
+      "id": "2018-thunderbirds-halifax",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/cdhPVQhnMuI/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/cdhPVQhnMuI/mqdefault.jpg"
+    },
+    {
+      "id": "2019-air-time-sickkids",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/wRkajaYI5Jg/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/wRkajaYI5Jg/mqdefault.jpg"
+    },
+    {
+      "id": "2019-allan-gray-father-s-share-allan-gray",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/uTS5XNhZX7E/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/uTS5XNhZX7E/mqdefault.jpg"
+    },
+    {
+      "id": "2019-apple-at-work-the-underdogs-apple",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/bvM7LPfa_q8/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/bvM7LPfa_q8/mqdefault.jpg"
+    },
+    {
+      "id": "2019-behind-the-mac-make-something-wonderful-apple",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/Ny-MGNf301k/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/Ny-MGNf301k/mqdefault.jpg"
+    },
+    {
+      "id": "2019-blink-test-jimmy-nelson-foundation",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/YCT6HzTqEmo/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/YCT6HzTqEmo/mqdefault.jpg"
+    },
+    {
+      "id": "2019-distracted-goalkeeper-uber",
+      "reason": "thumio_rebuilt",
+      "from": "https://image.thum.io/get/width/1200/noanimate/https%3A%2F%2Fwww.dandad.org%2Fwork%2Fd-ad-awards-archive%2Fdistracted-goalkeeper",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://www.dandad.org/work/d-ad-awards-archive/distracted-goalkeeper"
+    },
+    {
+      "id": "2019-project-twenty-ouigo",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/OIbfHv-QXOM/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/OIbfHv-QXOM/mqdefault.jpg"
+    },
+    {
+      "id": "2019-what-happened-hecate-inc",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/SiOOsaOeL20/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/SiOOsaOeL20/mqdefault.jpg"
+    },
+    {
+      "id": "2022-a-chat-away-from-everything-itau",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/CoCLoSpdiJE/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/CoCLoSpdiJE/mqdefault.jpg"
+    },
+    {
+      "id": "2022-a-lockdown-love-story-heineken",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/WWdLToHBZUk/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/WWdLToHBZUk/mqdefault.jpg"
+    },
+    {
+      "id": "2022-an-ad-in-an-ad-in-an-ad-oatly",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/J6xsJk2-6nA/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/J6xsJk2-6nA/mqdefault.jpg"
+    },
+    {
+      "id": "2022-an-unlikely-friendship-prime-video",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/KMmjYIW_4tE/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/KMmjYIW_4tE/mqdefault.jpg"
+    },
+    {
+      "id": "2022-aquafresh-fortune-telling-glaxosmithkline-consumer-healthcare-japan-k-k",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/HhmQovm8qR0/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/HhmQovm8qR0/mqdefault.jpg"
+    },
+    {
+      "id": "2022-eat-a-swede-swedish-food-federation",
+      "reason": "screenshot_fallback",
+      "from": "https://sp-uploads.s3.amazonaws.com/uploads/services/8625872/20230731133124_64c7b7ac3ca68_case_study__coca__cola_s__share_a_coke__campaignpage0.jpg",
+      "to": "https://image.thum.io/get/width/1200/noanimate/https://mccann.se/project/eat-a-swede"
+    },
+    {
+      "id": "2022-future-2021-the-concept-eqg-mercedes-benz",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/if-4pPa7KGw/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/if-4pPa7KGw/mqdefault.jpg"
+    },
+    {
+      "id": "2022-gear-up-bank-of-montreal",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/BY4U9CzDq7E/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/BY4U9CzDq7E/mqdefault.jpg"
+    },
+    {
+      "id": "2022-have-a-word-mayor-of-london",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/ADBCtVDKIuY/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/ADBCtVDKIuY/mqdefault.jpg"
+    },
+    {
+      "id": "2022-lil-dicky-quartertime-show-gopuff",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/uSlGgw2uiZo/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/uSlGgw2uiZo/mqdefault.jpg"
+    },
+    {
+      "id": "2022-one-second-suit-h-m",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/z7Vpgx0bdxo/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/z7Vpgx0bdxo/mqdefault.jpg"
+    },
+    {
+      "id": "2022-plasticoff-whirlpool",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/h8nAxntnzGc/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/h8nAxntnzGc/mqdefault.jpg"
+    },
+    {
+      "id": "2022-play-has-no-limits-feat-kenshi-yonezu-sony",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/4yuEnY9ItqA/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/4yuEnY9ItqA/mqdefault.jpg"
+    },
+    {
+      "id": "2022-stayfree-project-free-period-johnson-johnson",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/oUK6ZGKfA6Q/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/oUK6ZGKfA6Q/mqdefault.jpg"
+    },
+    {
+      "id": "2022-superhero-mcdonald-s",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/ZNo00_83ajA/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/ZNo00_83ajA/mqdefault.jpg"
+    },
+    {
+      "id": "2022-the-prevention-grid-sce",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/cTSSntuolU0/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/cTSSntuolU0/mqdefault.jpg"
+    },
+    {
+      "id": "2022-the-truth-takes-a-journalist-the-new-york-times",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/uAsmh7yuR3U/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/uAsmh7yuR3U/mqdefault.jpg"
+    },
+    {
+      "id": "2022-tiktok-teachers-femesor",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/Pcf7EFVIH6A/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/Pcf7EFVIH6A/mqdefault.jpg"
+    },
+    {
+      "id": "2022-we-will-become-better-lgbtnet-org",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/hGRkKVPpcvU/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/hGRkKVPpcvU/mqdefault.jpg"
+    },
+    {
+      "id": "2023-missing-students-unicef-brazil",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/3G78e5XeP2E/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/3G78e5XeP2E/mqdefault.jpg"
+    },
+    {
+      "id": "2024-a-life-in-sound-sirius-xm",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/VrT0Vt5wVdw/hqdefault.jpg",
+      "to": "https://i.ytimg.com/vi/VrT0Vt5wVdw/mqdefault.jpg"
+    },
+    {
+      "id": "2025-60-years-of-film-chicago-international-film-festival",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/WTWJCVl9Zfg/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/WTWJCVl9Zfg/mqdefault.jpg"
+    },
+    {
+      "id": "2025-allevia-pollen-passport-opella-allegra",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/4bLureykJ3M/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/4bLureykJ3M/mqdefault.jpg"
+    },
+    {
+      "id": "2025-bark-air-launch-bark-air",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/BGtxy-d6MCY/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/BGtxy-d6MCY/mqdefault.jpg"
+    },
+    {
+      "id": "2025-certified-toasters-goodman-fielder-baking",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/4eqWiUhRISM/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/4eqWiUhRISM/mqdefault.jpg"
+    },
+    {
+      "id": "2025-creamotherapy-my-doctor-s-recipe",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/6Jxj2RfRscM/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/6Jxj2RfRscM/mqdefault.jpg"
+    },
+    {
+      "id": "2025-diss-mas-mga-entertainment",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/eGNI9Rlv65s/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/eGNI9Rlv65s/mqdefault.jpg"
+    },
+    {
+      "id": "2025-fight-for-thais-gut-dutchie",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/0XSpSB05-qk/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/0XSpSB05-qk/mqdefault.jpg"
+    },
+    {
+      "id": "2025-made-to-share-cadbury",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/4GIFbq2eeFg/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/4GIFbq2eeFg/mqdefault.jpg"
+    },
+    {
+      "id": "2025-megan-thee-amazon",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/V7Bx4TZS3YI/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/V7Bx4TZS3YI/mqdefault.jpg"
+    },
+    {
+      "id": "2025-not-for-first-dates-mcdonald-s-fp7",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/ruq6LYKVC3c/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/ruq6LYKVC3c/mqdefault.jpg"
+    },
+    {
+      "id": "2025-oreo-empire-oreo",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/Dye0BQxcxHo/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/Dye0BQxcxHo/mqdefault.jpg"
+    },
+    {
+      "id": "2025-the-26th-minute-dublin-samaritans",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/dHWh4DUEDKI/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/dHWh4DUEDKI/mqdefault.jpg"
+    },
+    {
+      "id": "2025-touchboards-discount-ita-unibanco",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/D4K_Qq7IqZY/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/D4K_Qq7IqZY/mqdefault.jpg"
+    },
+    {
+      "id": "2025-you-already-vote-so-vote-my-life-my-say",
+      "reason": "yt_fallback",
+      "from": "https://i.ytimg.com/vi/DG2g8G7Bs4w/maxresdefault.jpg",
+      "to": "https://i.ytimg.com/vi/DG2g8G7Bs4w/mqdefault.jpg"
+    }
+  ]
+}

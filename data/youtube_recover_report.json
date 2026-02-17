@@ -1,357 +1,1653 @@
 {
-  "generatedAt": "2026-02-12T13:15:43.586Z",
-  "unresolved": 667,
-  "targeted": 106,
-  "replaced": 43,
-  "searched": 106,
-  "skippedLowScore": 2,
-  "noCandidates": 58,
-  "unavailable": 1,
+  "generatedAt": "2026-02-16T04:45:20.488Z",
+  "unresolved": 1676,
+  "targeted": 1008,
+  "replaced": 205,
+  "searched": 1008,
+  "skippedLowScore": 55,
+  "noCandidates": 746,
+  "unavailable": 2,
   "minScore": 0.18,
   "changed": [
     {
-      "id": "2025-animal-alerts-petpace",
-      "title": "ANIMAL ALERTS",
-      "brand": "PETPACE",
-      "oldUrl": "https://youtu.be/kfnhUWM876k",
-      "newUrl": "https://www.youtube.com/watch?v=SABTmY5lCSk",
-      "score": 0.5
-    },
-    {
-      "id": "2024-animal-alerts-petpace",
-      "title": "ANIMAL ALERTS",
-      "brand": "PETPACE",
-      "oldUrl": "https://youtu.be/kfnhUWM876k",
-      "newUrl": "https://www.youtube.com/watch?v=SABTmY5lCSk",
-      "score": 0.5
-    },
-    {
-      "id": "2024-the-minefields-honey-project-ministry-of-foreign-affairs-kernel",
-      "title": "THE MINEFIELDS HONEY PROJECT",
-      "brand": "MINISTRY OF FOREIGN AFFAIRS KERNEL",
-      "oldUrl": "https://www.youtube.com/watch?v=iV-T2UJPzPU&embeds_referring_euri=https%3A%2F%2Fcreative-stories.com.ua%2F&source_ve_path=MjM4NTE&feature=emb_title",
-      "newUrl": "https://www.youtube.com/watch?v=ABV3K_N7a7k",
-      "score": 0.545
-    },
-    {
-      "id": "2024-sabina-braless-sabina",
-      "title": "SABINA BRALESS",
-      "brand": "SABINA",
-      "oldUrl": "https://www.youtube.com/watch?v=4kHvxvdUgv4",
-      "newUrl": "https://www.youtube.com/watch?v=7lpA7h_7fnY",
-      "score": 0.4
-    },
-    {
-      "id": "2023-the-greatest-apple",
-      "title": "THE GREATEST",
-      "brand": "APPLE",
-      "oldUrl": "https://www.youtube.com/watch?v=8sX9IEHWRJ8",
-      "newUrl": "https://www.youtube.com/watch?v=wVXAFlueS9Y",
-      "score": 0.429
-    },
-    {
-      "id": "2023-optink-junge-helden-e-v",
-      "title": "#OPTINK",
-      "brand": "JUNGE HELDEN E.V.",
-      "oldUrl": "https://www.youtube.com/watch?v=w-DRxhi0jrc",
-      "newUrl": "https://www.youtube.com/watch?v=mt7jJpp3qDI",
-      "score": 0.5
-    },
-    {
-      "id": "2023-relax-it-s-iphone-r-i-p-leon-apple",
-      "title": "RELAX, IT’S IPHONE: R.I.P. LEON",
-      "brand": "APPLE",
-      "oldUrl": "https://www.youtube.com/watch?v=t2n0ykn4AKw",
-      "newUrl": "https://www.youtube.com/watch?v=lW6fCFYcV_0",
-      "score": 0.833
-    },
-    {
-      "id": "2023-1000-slides-globant",
-      "title": "1000 SLIDES",
-      "brand": "GLOBANT",
-      "oldUrl": "https://www.youtube.com/watch?v=zuHq15s6HSc",
-      "newUrl": "https://www.youtube.com/watch?v=MZ7TanbCypw",
-      "score": 0.571
-    },
-    {
-      "id": "2023-home-of-thoughtful-gifting-john-lewis-partners",
-      "title": "HOME OF THOUGHTFUL GIFTING",
-      "brand": "JOHN LEWIS & PARTNERS",
-      "oldUrl": "https://youtu.be/LVBeU9kjNN0",
-      "newUrl": "https://www.youtube.com/watch?v=LVBeU9kjNN0",
-      "score": 0.5
-    },
-    {
-      "id": "2023-samsung-unfear-samsung-spain",
-      "title": "SAMSUNG UNFEAR",
-      "brand": "SAMSUNG SPAIN",
-      "oldUrl": "https://www.youtube.com/watch?v=IY8QiOcKeqM",
-      "newUrl": "https://www.youtube.com/watch?v=sRH2199rS9Q",
-      "score": 0.429
-    },
-    {
-      "id": "2023-relax-it-s-iphone-action-mode-apple",
-      "title": "RELAX, IT’S IPHONE: ACTION MODE",
-      "brand": "APPLE",
-      "oldUrl": "https://www.youtube.com/watch?v=tRPqGf8nc4g",
-      "newUrl": "https://www.youtube.com/watch?v=lW6fCFYcV_0",
-      "score": 0.571
-    },
-    {
-      "id": "2023-fursat-shot-on-iphone-14-pro-apple",
-      "title": "FURSAT / SHOT ON IPHONE 14 PRO",
-      "brand": "APPLE",
-      "oldUrl": "https://www.youtube.com/watch?v=f1VEks-QQ4Y",
-      "newUrl": "https://www.youtube.com/watch?v=HSFqrAGVE7Q",
-      "score": 0.417
-    },
-    {
-      "id": "2023-mcdrop-mcdonald-s",
-      "title": "MCDROP",
-      "brand": "MCDONALD’S",
-      "oldUrl": "https://youtu.be/xPwclbn-hSs",
-      "newUrl": "https://www.youtube.com/watch?v=NNuuDiUjxVY",
-      "score": 0.4
-    },
-    {
-      "id": "2023-message-from-the-other-front-the-salvation-army",
-      "title": "MESSAGE FROM THE OTHER FRONT",
-      "brand": "THE SALVATION ARMY",
-      "oldUrl": "https://youtu.be/3Yl6Sx9Dgm8",
-      "newUrl": "https://www.youtube.com/watch?v=3Yl6Sx9Dgm8",
-      "score": 0.7
-    },
-    {
-      "id": "2023-the-gentle-giant-ad-council-love-has-no-labels",
-      "title": "THE GENTLE GIANT",
-      "brand": "AD COUNCIL LOVE HAS NO LABELS",
-      "oldUrl": "https://www.youtube.com/watch?v=LQYzsZSwEk4",
-      "newUrl": "https://www.youtube.com/watch?v=iULqWuFXXho",
-      "score": 0.7
-    },
-    {
-      "id": "2023-the-singularity-bts-squarespace",
-      "title": "THE SINGULARITY: BTS",
-      "brand": "SQUARESPACE",
-      "oldUrl": "https://www.youtube.com/watch?v=XnLTBCSgGpQ",
-      "newUrl": "https://www.youtube.com/watch?v=lIf27sHt2QA",
-      "score": 0.571
-    },
-    {
-      "id": "2022-open-spaces-burberry",
-      "title": "OPEN SPACES",
-      "brand": "BURBERRY",
-      "oldUrl": "https://www.youtube.com/watch?v=iCbfq_-cd-g",
-      "newUrl": "https://www.youtube.com/watch?v=aTNEwLSMJo4",
-      "score": 0.5
-    },
-    {
-      "id": "2022-project-convey-cox-communications",
-      "title": "PROJECT CONVEY",
-      "brand": "COX COMMUNICATIONS",
-      "oldUrl": "https://www.youtube.com/watch?v=X_jGSLqGy-Y&t=3s&ab_channel=Cox",
-      "newUrl": "https://www.youtube.com/watch?v=MwSEV_tTPUE",
-      "score": 0.333
-    },
-    {
-      "id": "2023-through-my-eyes-waka-kotahi",
-      "title": "THROUGH MY EYES",
-      "brand": "WAKA KOTAHI",
-      "oldUrl": "https://www.youtube.com/watch?v=wwEhELyQe4c",
-      "newUrl": "https://www.youtube.com/watch?v=kA1wpK55Wzw",
+      "id": "2008-cockatoo-echidna-koala-olympus",
+      "title": "COCKATOO, ECHIDNA, KOALA",
+      "brand": "OLYMPUS",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/olympus-jwt-04-2008",
+      "newUrl": "https://www.youtube.com/watch?v=L6uJsdNM27E",
       "score": 0.286
     },
     {
-      "id": "2022-escape-from-the-office-apple",
-      "title": "ESCAPE FROM THE OFFICE",
-      "brand": "APPLE",
-      "oldUrl": "https://www.youtube.com/watch?v=GC5Gmkn92Bg",
-      "newUrl": "https://www.youtube.com/watch?v=uWScBthI3_0",
-      "score": 0.625
+      "id": "2002-rugby-stocking-guinness-udv",
+      "title": "RUGBY STOCKING",
+      "brand": "GUINNESS UDV",
+      "oldUrl": "https://www.behance.net/gallery/13843771/Guinness-Stockings",
+      "newUrl": "https://www.youtube.com/watch?v=RFUvKtHZuUE",
+      "score": 0.2
     },
     {
-      "id": "2022-shagun-ka-lifafa-ujjivan-small-finance-bank",
-      "title": "SHAGUN KA LIFAFA",
-      "brand": "UJJIVAN SMALL FINANCE BANK",
-      "oldUrl": "https://www.youtube.com/watch?v=I7utFGsDhGQ",
-      "newUrl": "https://www.youtube.com/watch?v=cbG9XR5_ENY",
-      "score": 0.6
-    },
-    {
-      "id": "2022-ford-very-gay-raptor-ford",
-      "title": "FORD VERY GAY RAPTOR",
-      "brand": "FORD",
-      "oldUrl": "https://www.youtube.com/watch?v=6bpTflJ6yUw",
-      "newUrl": "https://www.youtube.com/watch?v=n8zQMnBfOJM",
-      "score": 0.833
-    },
-    {
-      "id": "2022-the-nominate-me-selfie-political-shakti-the-times-of-india",
-      "title": "THE NOMINATE ME SELFIE",
-      "brand": "POLITICAL SHAKTI + THE TIMES OF INDIA",
-      "oldUrl": "https://www.youtube.com/watch?v=oC0WcNpfVWA",
-      "newUrl": "https://www.youtube.com/watch?v=vHtAzKY822M",
-      "score": 0.5
-    },
-    {
-      "id": "2022-when-harry-met-santa-posten-the-norwegian-postal-service",
-      "title": "WHEN HARRY MET SANTA",
-      "brand": "POSTEN: THE NORWEGIAN POSTAL SERVICE",
-      "oldUrl": "https://www.youtube.com/watch?v=nDLumk_rQQw",
-      "newUrl": "https://www.youtube.com/watch?v=pCNnX7ahix8",
-      "score": 0.667
-    },
-    {
-      "id": "2022-now-you-know-abbott",
-      "title": "NOW YOU KNOW",
-      "brand": "ABBOTT",
-      "oldUrl": "https://www.youtube.com/watch?v=80BVDFifPd0",
-      "newUrl": "https://www.youtube.com/watch?v=rUESqJYGcDk",
-      "score": 0.5
-    },
-    {
-      "id": "2022-chornobyl-vanishing-logo-state-agency-of-ukraine-on-exclusion-zone-management",
-      "title": "CHORNOBYL VANISHING LOGO",
-      "brand": "STATE AGENCY OF UKRAINE ON EXCLUSION ZONE MANAGEMENT",
-      "oldUrl": "https://www.youtube.com/watch?v=Mzce4MifgBQ",
-      "newUrl": "https://www.youtube.com/watch?v=xtqZWSwS9hI",
-      "score": 0.571
-    },
-    {
-      "id": "2022-the-tokyo-toilet-the-nippon-foundation",
-      "title": "THE TOKYO TOILET",
-      "brand": "THE NIPPON FOUNDATION",
-      "oldUrl": "https://www.youtube.com/watch?v=TjouGyWXVM0&t=83s",
-      "newUrl": "https://www.youtube.com/watch?v=RB9rX9IpLxI",
-      "score": 0.667
-    },
-    {
-      "id": "2022-skate-nation-ghana-facebook",
-      "title": "SKATE NATION GHANA",
-      "brand": "FACEBOOK",
-      "oldUrl": "https://www.youtube.com/watch?v=E_ysoCP1UcI",
-      "newUrl": "https://www.youtube.com/watch?v=h1AsO1pUkmE",
-      "score": 0.556
-    },
-    {
-      "id": "2022-the-inheritance-pass-yellowstone-forever",
-      "title": "THE INHERITANCE PASS",
-      "brand": "YELLOWSTONE FOREVER",
-      "oldUrl": "https://www.youtube.com/watch?v=sUkkikPi6ak",
-      "newUrl": "https://www.youtube.com/watch?v=kqo_W4EcQ1U",
-      "score": 0.625
-    },
-    {
-      "id": "2022-shot-on-iphone-13-pro-the-comeback-apple",
-      "title": "SHOT ON IPHONE 13 PRO: THE COMEBACK",
-      "brand": "APPLE",
-      "oldUrl": "https://www.youtube.com/watch?v=Me3PEs88pOU",
-      "newUrl": "https://www.youtube.com/watch?v=JjypVeu9s5s",
-      "score": 0.5
-    },
-    {
-      "id": "2022-guns-stats-change-the-ref",
-      "title": "GUNS STATS",
-      "brand": "CHANGE THE REF",
-      "oldUrl": "https://www.youtube.com/watch?v=ADlLu6Iynzs",
-      "newUrl": "https://www.youtube.com/watch?v=744oTmKUOlg",
-      "score": 0.714
-    },
-    {
-      "id": "2022-reqruitement-mcdonald-s",
-      "title": "REQRUITEMENT",
-      "brand": "MCDONALD’S",
-      "oldUrl": "https://www.youtube.com/watch?v=KZjBpC8HzDE",
-      "newUrl": "https://www.youtube.com/watch?v=MrWM4wTRAQw",
+      "id": "2008-55-days-to-pay-cape-union-mart",
+      "title": "55 DAYS TO PAY",
+      "brand": "CAPE UNION MART",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/cape-union-mart-king-james-07-2008",
+      "newUrl": "https://www.youtube.com/watch?v=hvH_Bk7GN7c",
       "score": 0.333
     },
     {
-      "id": "2022-fumble-apple",
-      "title": "FUMBLE",
-      "brand": "APPLE",
-      "oldUrl": "https://www.youtube.com/watch?v=xJh3WIPUcOk",
-      "newUrl": "https://www.youtube.com/watch?v=OaGTAeBJQUI",
-      "score": 0.75
+      "id": "2008-impossible-is-nothing-adidas",
+      "title": "IMPOSSIBLE IS NOTHING",
+      "brand": "ADIDAS",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/adidas-tbwa-12-2007",
+      "newUrl": "https://www.youtube.com/watch?v=JBnADQTd6o8",
+      "score": 0.667
     },
     {
-      "id": "2022-airpods-3rd-generation-apple",
-      "title": "AIRPODS: 3RD GENERATION",
-      "brand": "APPLE",
-      "oldUrl": "https://www.youtube.com/watch?v=-5y2YqrlOr4",
-      "newUrl": "https://www.youtube.com/watch?v=6QkTXiRJCJs",
-      "score": 0.5
+      "id": "2008-hospital-home-staircase-desert-penguin",
+      "title": "HOSPITAL, HOME, STAIRCASE, DESERT",
+      "brand": "PENGUIN",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/penguin-saatchi-saatchi-06-2008",
+      "newUrl": "https://www.youtube.com/watch?v=aCotBEVDxC4",
+      "score": 0.222
     },
     {
-      "id": "2022-coda-playlist-curated-by-deaf-people-apple",
-      "title": "CODA PLAYLIST CURATED BY DEAF PEOPLE",
-      "brand": "APPLE",
-      "oldUrl": "https://www.youtube.com/watch?v=8yc0mF8oMSM",
-      "newUrl": "https://www.youtube.com/watch?v=1o9JCT-q2l4",
-      "score": 0.545
+      "id": "2008-norbert-thomas-michael-braun",
+      "title": "NORBERT, THOMAS, MICHAEL",
+      "brand": "BRAUN",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/braun-bbdo-06-2008",
+      "newUrl": "https://www.youtube.com/watch?v=6lVT7-MojXM",
+      "score": 0.286
     },
     {
-      "id": "2022-doin-laps-apple",
-      "title": "DOIN’ LAPS",
-      "brand": "APPLE",
-      "oldUrl": "https://www.youtube.com/watch?v=pJIKPzZTJXM",
-      "newUrl": "https://www.youtube.com/watch?v=J-lCMTXzi6g",
-      "score": 0.8
+      "id": "2008-smoke-cooking-worship-ogawa",
+      "title": "SMOKE, COOKING, WORSHIP",
+      "brand": "OGAWA",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/ogawa-lowe-03-2008",
+      "newUrl": "https://www.youtube.com/watch?v=FRDPtszdQpY",
+      "score": 0.286
     },
     {
-      "id": "2022-start-up-45-years-of-apple-sounds-apple",
-      "title": "START UP: 45 YEARS OF APPLE SOUNDS",
-      "brand": "APPLE",
-      "oldUrl": "https://www.youtube.com/watch?v=OxJpZtp2ItE",
-      "newUrl": "https://www.youtube.com/watch?v=JuIrel4HCVo",
-      "score": 0.364
-    },
-    {
-      "id": "2014-the-first-aids-free-generation-bank-of-america",
-      "title": "THE FIRST AIDS FREE GENERATION",
-      "brand": "BANK OF AMERICA",
-      "oldUrl": "https://www.youtube.com/watch?v=hwgquII0XyA&ab_channel=DeborahMalone",
-      "newUrl": "https://www.youtube.com/watch?v=CiydLEDktL8",
-      "score": 0.3
-    },
-    {
-      "id": "2012-flavor-radio-dunkin-donuts",
-      "title": "FLAVOR RADIO",
-      "brand": "DUNKIN’ DONUTS",
-      "oldUrl": "https://www.youtube.com/watch?v=57xO-aMiHbs&ab_channel=DaeheeHan",
-      "newUrl": "https://www.youtube.com/watch?v=V2tP-FAn6u8",
+      "id": "2008-happiness-factory-coca-cola",
+      "title": "HAPPINESS FACTORY",
+      "brand": "COCA-COLA",
+      "oldUrl": "https://www.behance.net/gallery/1774240/Coca-Cola-Happiness-Factory",
+      "newUrl": "https://www.youtube.com/watch?v=JJwvjuEnHXw",
       "score": 0.625
     },
     {
-      "id": "2012-the-hinglish-project-ministry-of-tourism-govt-of-india",
-      "title": "THE HINGLISH PROJECT",
-      "brand": "MINISTRY OF TOURISM GOVT. OF INDIA",
-      "oldUrl": "https://www.youtube.com/watch?v=YPxK87KOMTQ",
-      "newUrl": "https://www.youtube.com/watch?v=S1w6c920DR8",
-      "score": 0.4
+      "id": "2008-stairs-bike-dog-los-inrockuptibles",
+      "title": "STAIRS, BIKE, DOG",
+      "brand": "LOS INROCKUPTIBLES",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/los-inrockuptibles-ddb-06-2008",
+      "newUrl": "https://www.youtube.com/watch?v=DUKjN65EI8U",
+      "score": 0.222
     },
     {
-      "id": "2011-welcome-home-t-mobile",
-      "title": "WELCOME HOME",
-      "brand": "T-MOBILE",
-      "oldUrl": "https://www.youtube.com/watch?v=NB3NPNM4xgo&ab_channel=lifesforsharing",
-      "newUrl": "https://www.youtube.com/watch?v=EU7pZO7cRDs",
-      "score": 0.5
+      "id": "2008-this-could-get-ugly-powerhorse",
+      "title": "THIS COULD GET UGLY",
+      "brand": "POWERHORSE",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/power-horse-saatchi-saatchi-05-2008",
+      "newUrl": "https://www.youtube.com/watch?v=RSUKZ_2VlVA",
+      "score": 0.25
     },
     {
-      "id": "2010-baby-elephant-zoo-antwerp",
-      "title": "BABY ELEPHANT",
-      "brand": "ZOO ANTWERP",
-      "oldUrl": "https://www.youtube.com/watch?v=F1uwexYeKAg",
-      "newUrl": "https://www.youtube.com/watch?v=h4d4IJ2RF7M",
+      "id": "2008-toon-bunny-toon-dog-unicef",
+      "title": "TOON BUNNY, TOON DOG",
+      "brand": "UNICEF",
+      "oldUrl": "https://clios.com/awards/winner/radio/toon-bunny-11271",
+      "newUrl": "https://www.youtube.com/watch?v=jLTqQyNovxc",
+      "score": 0.286
+    },
+    {
+      "id": "2008-we-take-it-serious-comedy-central",
+      "title": "WE TAKE IT SERIOUS",
+      "brand": "COMEDY CENTRAL",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/comedy-central-kempertrautmann-05-2007",
+      "newUrl": "https://www.youtube.com/watch?v=cA6gLHHEQc8",
+      "score": 0.286
+    },
+    {
+      "id": "2009-2-3-7-6-4-5-volkswagen",
+      "title": "2-3, 7-6, 4-5",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/volkswagen-ddb-07-2008",
+      "newUrl": "https://www.youtube.com/watch?v=MQnN-tFiwH0",
+      "score": 0.25
+    },
+    {
+      "id": "2009-accountant-ex-wife-children-mercedes-benz",
+      "title": "ACCOUNTANT, EX-WIFE, CHILDREN",
+      "brand": "MERCEDES BENZ",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/mercedes-bbdo-07-2009",
+      "newUrl": "https://www.youtube.com/watch?v=qqq2pri2Pbk",
+      "score": 0.375
+    },
+    {
+      "id": "2009-a-h-d-n-o-honda",
+      "title": "A, H, D, N, O",
+      "brand": "HONDA",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/honda-wieden-kennedy-06-2008",
+      "newUrl": "https://www.youtube.com/watch?v=zeM1MslxzDM",
+      "score": 0.2
+    },
+    {
+      "id": "2009-boxes-carpet-firewood-whiskas",
+      "title": "BOXES, CARPET, FIREWOOD",
+      "brand": "WHISKAS",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/whiskas-bbdo-05-2009",
+      "newUrl": "https://www.youtube.com/watch?v=KxhIqck3pQI",
+      "score": 0.25
+    },
+    {
+      "id": "2009-bench-steps-bus-stop-nike",
+      "title": "BENCH, STEPS, BUS STOP",
+      "brand": "NIKE",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/nike-ogilvy-05-2009",
+      "newUrl": "https://www.youtube.com/watch?v=_sTkIes3qKw",
+      "score": 0.25
+    },
+    {
+      "id": "2009-classroom-bus-stop-living-room-carl-zeiss",
+      "title": "CLASSROOM, BUS-STOP, LIVING ROOM",
+      "brand": "CARL ZEISS",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/zeiss-bbdo-07-2009",
+      "newUrl": "https://www.youtube.com/watch?v=NnFYiishiYs",
+      "score": 0.2
+    },
+    {
+      "id": "2009-chicken-fish-pig-oral-b",
+      "title": "CHICKEN, FISH, PIG",
+      "brand": "ORAL-B",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/oralb-publicis-07-2009",
+      "newUrl": "https://www.youtube.com/watch?v=pxG_CI-35rY",
+      "score": 0.333
+    },
+    {
+      "id": "2009-chair-sofa-table-dank",
+      "title": "CHAIR, SOFA, TABLE",
+      "brand": "DANK",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/dank-ddb-06-2009",
+      "newUrl": "https://www.youtube.com/watch?v=hX4AenXPj_o",
       "score": 0.429
     },
     {
-      "id": "2001-positive-spanish-red-cross",
-      "title": "POSITIVE",
-      "brand": "SPANISH RED CROSS",
-      "oldUrl": "https://www.youtube.com/watch?v=dqggsLXhs_4",
-      "newUrl": "https://www.youtube.com/watch?v=aV9PaQ5PUvQ",
+      "id": "2009-couple-cops-france-24",
+      "title": "COUPLE, COPS",
+      "brand": "FRANCE 24",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/france-24-marcel-06-2009",
+      "newUrl": "https://www.youtube.com/watch?v=-quoP69Y0VQ",
+      "score": 0.333
+    },
+    {
+      "id": "2009-fender-bender-fire-extinguishers-birds-dogs-rockets-cats-harvey-nichols",
+      "title": "FENDER BENDER, FIRE EXTINGUISHERS, BIRDS, DOGS, ROCKETS, CATS",
+      "brand": "HARVEY NICHOLS",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/harvey-nichols-yr-05-2009",
+      "newUrl": "https://www.youtube.com/watch?v=wS48IYA8nBE",
+      "score": 0.25
+    },
+    {
+      "id": "2009-hockey-player-gangster-roller-blader-sol-beer",
+      "title": "HOCKEY PLAYER, GANGSTER, ROLLER BLADER",
+      "brand": "SOL BEER",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/sol-saatchi-saatchi-06-2009",
+      "newUrl": "https://www.youtube.com/watch?v=GOAORiVcAJU",
+      "score": 0.3
+    },
+    {
+      "id": "2009-maps-new-york-maps-sydney-maps-london-sony",
+      "title": "MAPS NEW YORK, MAPS SYDNEY, MAPS LONDON",
+      "brand": "SONY",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/sony-saatchi-saatchi-08-2008",
+      "newUrl": "https://www.youtube.com/watch?v=8ktp9mHccd8",
       "score": 0.5
+    },
+    {
+      "id": "2009-shirt-bathrobe-trousers-tide",
+      "title": "SHIRT, BATHROBE, TROUSERS",
+      "brand": "TIDE",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/tide-saatchi-saatchi-07-2009",
+      "newUrl": "https://www.youtube.com/watch?v=JxnPESk-iU4",
+      "score": 0.286
+    },
+    {
+      "id": "2009-slip-thong-boxer-prostate-cancer-foundation",
+      "title": "SLIP, THONG, BOXER",
+      "brand": "PROSTATE CANCER FOUNDATION",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/prostate-cancer-foundation-jung-von-matt-07-2009",
+      "newUrl": "https://www.youtube.com/watch?v=Jk42j7GLV5k",
+      "score": 0.25
+    },
+    {
+      "id": "2010-a-campaign-designed-to-drop-sales-international-organisation-for-migration",
+      "title": "A CAMPAIGN DESIGNED TO DROP SALES",
+      "brand": "INTERNATIONAL ORGANISATION FOR MIGRATION",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/international-organisation-for-migration-tbwa-06-2010",
+      "newUrl": "https://www.youtube.com/watch?v=hUmRLrxv77s",
+      "score": 0.273
+    },
+    {
+      "id": "2010-grandma-s-turkey-dinner-pumpkin-pie-orchad-fruit-peekaboo-organic-baby-food",
+      "title": "GRANDMA’S TURKEY DINNER, PUMPKIN PIE, ORCHAD FRUIT PEEKABOO",
+      "brand": "ORGANIC BABY FOOD",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/organic-town-leo-burnett-06-2010",
+      "newUrl": "https://www.youtube.com/watch?v=yQlVZ1hEhrA",
+      "score": 0.357
+    },
+    {
+      "id": "2010-life-s-hard-when-you-re-a-fat-dog-masterdog-light",
+      "title": "LIFE’S HARD WHEN YOU’RE A FAT DOG",
+      "brand": "MASTERDOG LIGHT",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/master-dog-yr-05-2010",
+      "newUrl": "https://www.youtube.com/watch?v=95XQ7dMQ2zM",
+      "score": 0.2
+    },
+    {
+      "id": "2010-if-you-don-t-pick-it-up-they-will-endangered-wildlife-trust",
+      "title": "IF YOU DON’T PICK IT UP THEY WILL.",
+      "brand": "ENDANGERED WILDLIFE TRUST",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/endangered-wildlife-trust-tbwa-05-2010",
+      "newUrl": "https://www.youtube.com/watch?v=x9elD_dU3bk",
+      "score": 0.273
+    },
+    {
+      "id": "2010-making-french-easy-bistro-baguettes",
+      "title": "MAKING FRENCH EASY",
+      "brand": "BISTRO BAGUETTES",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/dr-oetker-bbdo-07-2010",
+      "newUrl": "https://www.youtube.com/watch?v=GSfcG5lrO94",
+      "score": 0.375
+    },
+    {
+      "id": "2010-nikeid-generator-nike",
+      "title": "NIKEID. GENERATOR",
+      "brand": "NIKE",
+      "oldUrl": "https://clios.com/awards/winner/innovative-media/nikeid-generator-nikefukuoka-opening-greeting-10162",
+      "newUrl": "https://www.youtube.com/watch?v=q5Il4IhjFF0",
+      "score": 0.286
+    },
+    {
+      "id": "2010-original-parts-mitsubishi",
+      "title": "ORIGINAL PARTS",
+      "brand": "MITSUBISHI",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/mitsubishi-bbdo-06-2010",
+      "newUrl": "https://www.youtube.com/watch?v=M8bJdNso9m8",
+      "score": 0.333
+    },
+    {
+      "id": "2010-pay-a-visit-back-to-your-past-istanbul-toy-museum",
+      "title": "PAY A VISIT BACK TO YOUR PAST",
+      "brand": "ISTANBUL TOY MUSEUM",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/istanbul-toy-museum-leo-burnett-06-2010",
+      "newUrl": "https://www.youtube.com/watch?v=uGY-p9mUp-0",
+      "score": 0.273
+    },
+    {
+      "id": "2010-operation-red-cross",
+      "title": "OPERATION",
+      "brand": "RED CROSS",
+      "oldUrl": "https://clios.com/awards/winner/radio/operation-10203",
+      "newUrl": "https://www.youtube.com/watch?v=-QwDJtWOYjA",
+      "score": 0.286
+    },
+    {
+      "id": "2010-with-smile-capture-fuji-film",
+      "title": "WITH SMILE CAPTURE",
+      "brand": "FUJI FILM",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/fuji-jwt-05-2011",
+      "newUrl": "https://www.youtube.com/watch?v=-WPrfG8qd1Q",
+      "score": 0.25
+    },
+    {
+      "id": "2011-2010-s-fairest-annual-report-lemonaid-beverages",
+      "title": "2010’S FAIREST ANNUAL REPORT",
+      "brand": "LEMONAID BEVERAGES",
+      "oldUrl": "https://clios.com/awards/winner/design/2010-s-fairest-annual-report-9029",
+      "newUrl": "https://www.youtube.com/watch?v=tSaUjmYavyw",
+      "score": 0.182
+    },
+    {
+      "id": "2011-dinosaur-war-terrorist-jamute",
+      "title": "DINOSAUR, WAR, TERRORIST",
+      "brand": "JAMUTE",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/jamute-z-04-2011",
+      "newUrl": "https://www.youtube.com/watch?v=qysNNxl3FbQ",
+      "score": 0.25
+    },
+    {
+      "id": "2011-dwarf-depression-loving-hands-ministries-india",
+      "title": "DWARF DEPRESSION",
+      "brand": "LOVING HANDS MINISTRIES INDIA",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/reach-india-mudra-07-2011",
+      "newUrl": "https://www.youtube.com/watch?v=4p_bJ0lxbwM",
+      "score": 0.444
+    },
+    {
+      "id": "2011-office-lab-home-it-works",
+      "title": "OFFICE, LAB, HOME",
+      "brand": "IT WORKS",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/it-works-spicyh-03-2011",
+      "newUrl": "https://www.youtube.com/watch?v=e_Z9d5SYJCM",
+      "score": 0.286
+    },
+    {
+      "id": "2011-new-york-taxi-london-bus-berlitz-language-center",
+      "title": "NEW YORK TAXI, LONDON BUS",
+      "brand": "BERLITZ LANGUAGE CENTER",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/berlitz-fp7-02-2011",
+      "newUrl": "https://www.youtube.com/watch?v=vckrpRLkoB8",
+      "score": 0.25
+    },
+    {
+      "id": "2011-riverine-rabbit-norther-white-rhino-dugong-wattled-crane-wild-dog-endanger-wildlife-trust",
+      "title": "RIVERINE RABBIT, NORTHER WHITE RHINO, DUGONG, WATTLED CRANE, WILD DOG",
+      "brand": "ENDANGER WILDLIFE TRUST",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/endangered-wildlife-trust-tbwa-07-2011",
+      "newUrl": "https://www.youtube.com/watch?v=dW30POb1R0E",
+      "score": 0.214
+    },
+    {
+      "id": "2011-school-bus-driver-office-worker-diamond-coffee",
+      "title": "SCHOOL BUS DRIVER, OFFICE WORKER",
+      "brand": "DIAMOND COFFEE",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/diamond-coffee-leo-burnett-07-2011",
+      "newUrl": "https://www.youtube.com/watch?v=JY_h6vkI1Jc",
+      "score": 0.25
+    },
+    {
+      "id": "2011-sea-level-nuclear-terrorism-white-collar-hippies",
+      "title": "SEA LEVEL, NUCLEAR, TERRORISM",
+      "brand": "WHITE COLLAR HIPPIES",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/white-collar-hippies-bbdo-07-2011",
+      "newUrl": "https://www.youtube.com/watch?v=K0wEoxdPvOc",
+      "score": 0.3
+    },
+    {
+      "id": "2011-wolfgang-greta-wiebke-mercedes-benz",
+      "title": "WOLFGANG, GRETA, WIEBKE",
+      "brand": "MERCEDES-BENZ",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/mercedes-jung-von-matt-06-2011",
+      "newUrl": "https://www.youtube.com/watch?v=f0WT5Vtphf4",
+      "score": 0.2
+    },
+    {
+      "id": "2012-audi-fan-messenger-audi-motorsport",
+      "title": "AUDI FAN MESSENGER",
+      "brand": "AUDI MOTORSPORT",
+      "oldUrl": "https://clios.com/awards/winner/out-of-home/audi-fan-messenger-7082",
+      "newUrl": "https://www.youtube.com/watch?v=--FQlsJDVGk",
+      "score": 0.25
+    },
+    {
+      "id": "2012-blurred-eyes-birthday-l-officiel-iii-beauty-salon-publicis-s",
+      "title": "BLURRED EYES BIRTHDAY",
+      "brand": "L’OFFICIEL III BEAUTY SALON (PUBLICIS S",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/lofficiel-iii-publicis-05-2012",
+      "newUrl": "https://www.youtube.com/watch?v=t7sh2jYw_9U",
+      "score": 0.222
+    },
+    {
+      "id": "2012-commander-santher-nappies-talent-s",
+      "title": "COMMANDER",
+      "brand": "SANTHER NAPPIES (TALENT S",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/santher-talent-06-2012",
+      "newUrl": "https://www.youtube.com/watch?v=ex6khda9Pz4",
+      "score": 0.2
+    },
+    {
+      "id": "2012-make-your-english-clear-ff-english-school-dim-canzian-s",
+      "title": "MAKE YOUR ENGLISH CLEAR",
+      "brand": "FF ENGLISH SCHOOL (DIM & CANZIAN S",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/ff-english-school-dimcanzian-05-2012",
+      "newUrl": "https://www.youtube.com/watch?v=VfEnAUDUBz0",
+      "score": 0.25
+    },
+    {
+      "id": "2012-restaurant-tailor-maid-agency-sex-trafficking-awareness",
+      "title": "RESTAURANT, TAILOR, MAID AGENCY",
+      "brand": "SEX TRAFFICKING AWARENESS",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/traffick-lights-bbdo-09-2011",
+      "newUrl": "https://www.youtube.com/watch?v=TTNoWuK-EbA",
+      "score": 0.2
+    },
+    {
+      "id": "2012-sad-pug-sad-whippet-sad-ihaza-apso-perdigao-boneless-turkey",
+      "title": "SAD PUG, SAD WHIPPET, SAD IHAZA APSO",
+      "brand": "PERDIGAO BONELESS TURKEY",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/perdigao-yr-06-2012",
+      "newUrl": "https://www.youtube.com/watch?v=93Nl6NtiY0w",
+      "score": 0.182
+    },
+    {
+      "id": "2012-the-world-has-less-time-left-white-collar-hippies",
+      "title": "THE WORLD HAS LESS TIME LEFT",
+      "brand": "WHITE COLLAR HIPPIES",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/white-collar-hippies-bbdo-05-2013",
+      "newUrl": "https://www.youtube.com/watch?v=MEoYxQgYT2w",
+      "score": 0.25
+    },
+    {
+      "id": "2012-tourist-football-anniversary-ensure",
+      "title": "TOURIST, FOOTBALL, ANNIVERSARY",
+      "brand": "ENSURE",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/ensure-jwt-12-2015",
+      "newUrl": "https://www.youtube.com/watch?v=XqvPJoNh0VQ",
+      "score": 0.375
+    },
+    {
+      "id": "2012-sister-producer-facebook-fleurop-interflora",
+      "title": "SISTER, PRODUCER, FACEBOOK",
+      "brand": "FLEUROP INTERFLORA",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/fleurop-ogilvy-07-2012",
+      "newUrl": "https://www.youtube.com/watch?v=Uv6Jrh6_DCo",
+      "score": 0.222
+    },
+    {
+      "id": "2012-spots-the-danger-before-you-do-mercedes",
+      "title": "SPOTS THE DANGER BEFORE YOU DO",
+      "brand": "MERCEDES",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/mercedes-bbdo-06-2012",
+      "newUrl": "https://www.youtube.com/watch?v=5dQe3LkpymY",
+      "score": 0.222
+    },
+    {
+      "id": "2013-ankle-strap-oxford-ballerina-pera-boya",
+      "title": "ANKLE STRAP,OXFORD,BALLERINA",
+      "brand": "PERA BOYA",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/pera-boya-tbwa-07-2013",
+      "newUrl": "https://www.youtube.com/watch?v=bDwqcBNO1lw",
+      "score": 0.222
+    },
+    {
+      "id": "2013-bathtub-aftermath-boxer-converse",
+      "title": "BATHTUB, AFTERMATH, BOXER",
+      "brand": "CONVERSE",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/converse-anomaly-03-2013",
+      "newUrl": "https://www.youtube.com/watch?v=jqWKxuXdHao",
+      "score": 0.25
+    },
+    {
+      "id": "2013-audi-to-wear-audi",
+      "title": "AUDI TO WEAR",
+      "brand": "AUDI",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/audi-bbdo-07-2013",
+      "newUrl": "https://www.youtube.com/watch?v=g7_slK24lXU",
+      "score": 0.333
+    },
+    {
+      "id": "2013-disaster-relief-crisis-relief-singapore",
+      "title": "DISASTER RELIEF",
+      "brand": "CRISIS RELIEF SINGAPORE",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/crisis-relief-publicis-06-2013",
+      "newUrl": "https://www.youtube.com/watch?v=vhg2qwOstHI",
+      "score": 0.333
+    },
+    {
+      "id": "2013-robot-dog-doll-duracell",
+      "title": "ROBOT, DOG, DOLL",
+      "brand": "DURACELL",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/duracell-grey-07-2013",
+      "newUrl": "https://www.youtube.com/watch?v=mgurRKML_-M",
+      "score": 0.286
+    },
+    {
+      "id": "2013-push-ups-with-claps-skateboard-shove-it-back-flip-gatorade",
+      "title": "PUSH UPS WITH CLAPS, SKATEBOARD SHOVE IT, BACK FLIP",
+      "brand": "GATORADE",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/gatorade-taproot-07-2013",
+      "newUrl": "https://www.youtube.com/watch?v=c053YlCMTtE",
+      "score": 0.231
+    },
+    {
+      "id": "2013-skipping-rope-hopscotch-mcdonald-s-milkshakes",
+      "title": "SKIPPING ROPE, HOPSCOTCH",
+      "brand": "MCDONALD’S MILKSHAKES",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/mcdonalds-ddb-07-2012_0",
+      "newUrl": "https://www.youtube.com/watch?v=Y79znouutDo",
+      "score": 0.25
+    },
+    {
+      "id": "2013-swapped-at-birth-bust-you-out-uniball",
+      "title": "SWAPPED AT BIRTH,BUST YOU OUT",
+      "brand": "UNIBALL",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/uniball-tbwa-06-2013",
+      "newUrl": "https://www.youtube.com/watch?v=v_LrLizKM7k",
+      "score": 0.273
+    },
+    {
+      "id": "2013-tornado-parachute-earthquake-maltesers",
+      "title": "TORNADO, PARACHUTE, EARTHQUAKE",
+      "brand": "MALTESERS",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/maltesers-bbdo-07-2013",
+      "newUrl": "https://www.youtube.com/watch?v=cSfXsjLBQhA",
+      "score": 0.25
+    },
+    {
+      "id": "2014-first-to-greatness-playstation",
+      "title": "FIRST TO GREATNESS",
+      "brand": "PLAYSTATION",
+      "oldUrl": "https://clios.com/awards/winner/digital-social/first-to-greatness-3206",
+      "newUrl": "https://www.youtube.com/watch?v=BHat6eeLqFM",
+      "score": 0.286
+    },
+    {
+      "id": "2014-decodicons-langenscheidt",
+      "title": "DECODICONS",
+      "brand": "LANGENSCHEIDT",
+      "oldUrl": "https://clios.com/awards/winner/design/decodicons-3263",
+      "newUrl": "https://www.youtube.com/watch?v=9MEqwW4yGwo",
+      "score": 0.2
+    },
+    {
+      "id": "2014-fridge-shelves-volkswagen",
+      "title": "FRIDGE, SHELVES",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/volkswagen-ddb-05-2014_0",
+      "newUrl": "https://www.youtube.com/watch?v=keT7YLetbHU",
+      "score": 0.286
+    },
+    {
+      "id": "2014-mysterious-clay-red-ancient-stone-valspar",
+      "title": "MYSTERIOUS, CLAY RED, ANCIENT STONE",
+      "brand": "VALSPAR",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/valspar-fcb-06-2014",
+      "newUrl": "https://www.youtube.com/watch?v=rFJvMID1m0Q",
+      "score": 0.222
+    },
+    {
+      "id": "2014-plastic-bag-kids-grandma-dudes-sm-eco-bag",
+      "title": "PLASTIC BAG: KIDS, GRANDMA, DUDES",
+      "brand": "SM ECO BAG",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/sm-eco-bag-lowe-06-2014",
+      "newUrl": "https://www.youtube.com/watch?v=KIHLknRGgbE",
+      "score": 0.2
+    },
+    {
+      "id": "2014-sailor-nurse-kiss-napalm-girl-road-leica",
+      "title": "SAILOR/NURSE/KISS/NAPALM/GIRL/ROAD",
+      "brand": "LEICA",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/leica-geometry-global-06-2014",
+      "newUrl": "https://www.youtube.com/watch?v=ne5pkYqqHns",
+      "score": 0.182
+    },
+    {
+      "id": "2014-wall-leagues-tiananmen-afal",
+      "title": "WALL, LEAGUES, TIANANMEN",
+      "brand": "AFAL",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/afal-mccann-06-2014",
+      "newUrl": "https://www.youtube.com/watch?v=MRdALeVsAIM",
+      "score": 0.286
+    },
+    {
+      "id": "2014-video-game-veterans-ong",
+      "title": "VIDEO GAME VETERANS",
+      "brand": "ONG",
+      "oldUrl": "https://clios.com/awards/winner/branded-entertainment/ivaw-iraq-veterans-against-the-war/video-game-veterans-1220",
+      "newUrl": "https://www.youtube.com/watch?v=SZDUNj2qDxA",
+      "score": 0.25
+    },
+    {
+      "id": "2015-adventures-of-poco-eco-iamyank",
+      "title": "ADVENTURES OF POCO ECO",
+      "brand": "IAMYANK",
+      "oldUrl": "https://clios.com/awards/winner/digital-technique/iamyank/adventures-of-poco-eco-lost-sounds-911",
+      "newUrl": "https://www.youtube.com/watch?v=x5TY9THDq5Y",
+      "score": 0.571
+    },
+    {
+      "id": "2015-audi-led-scoreboard-audi",
+      "title": "AUDI LED SCOREBOARD",
+      "brand": "AUDI",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/audi/audi-led-scoreboard-317",
+      "newUrl": "https://www.youtube.com/watch?v=9HRTpgfQZA4",
+      "score": 0.333
+    },
+    {
+      "id": "2015-barely-legal-pawn-audi-of-america",
+      "title": "BARELY LEGAL PAWN",
+      "brand": "AUDI OF AMERICA",
+      "oldUrl": "https://clios.com/awards/winner/branded-entertainment/barely-legal-pawn-493",
+      "newUrl": "https://www.youtube.com/watch?v=ovqM72em1dA",
+      "score": 0.3
+    },
+    {
+      "id": "2015-backmeapp-p-g",
+      "title": "BACKMEAPP",
+      "brand": "P&G",
+      "oldUrl": "https://clios.com/awards/winner/direct/procter-gamble/backmeapp-974",
+      "newUrl": "https://www.youtube.com/watch?v=1d2xc4op-Eo",
+      "score": 0.2
+    },
+    {
+      "id": "2015-better-tomorrows-campaign-the-hospital-for-sick-children",
+      "title": "BETTER TOMORROWS CAMPAIGN",
+      "brand": "THE HOSPITAL FOR SICK CHILDREN",
+      "oldUrl": "https://clios.com/awards/winner/integrated-campaign/the-hospital-for-sick-children/better-tomorrows-campaign-62",
+      "newUrl": "https://www.youtube.com/watch?v=I0Cu-zdzORE",
+      "score": 0.455
+    },
+    {
+      "id": "2015-corridor-targeting-germanwings",
+      "title": "CORRIDOR TARGETING",
+      "brand": "GERMANWINGS",
+      "oldUrl": "https://clios.com/awards/winner/digital/germanwings/corridor-targeting-763",
+      "newUrl": "https://www.youtube.com/watch?v=36lg28M3Hb0",
+      "score": 0.333
+    },
+    {
+      "id": "2015-choose-beautiful-dove",
+      "title": "CHOOSE BEAUTIFUL",
+      "brand": "DOVE",
+      "oldUrl": "https://clios.com/fashion-beauty/winner/beauty-public-relations/dove/choose-beautiful-13658",
+      "newUrl": "https://www.youtube.com/watch?v=UjJALzZ24H0",
+      "score": 0.333
+    },
+    {
+      "id": "2015-every-man-remembered-royal-british-legion",
+      "title": "EVERY MAN REMEMBERED",
+      "brand": "ROYAL BRITISH LEGION",
+      "oldUrl": "https://clios.com/awards/winner/integrated-campaign/royal-british-legion/every-man-remembered-674",
+      "newUrl": "https://www.youtube.com/watch?v=ucPnA4OQ1g4",
+      "score": 0.667
+    },
+    {
+      "id": "2015-free-your-skin-schick",
+      "title": "FREE YOUR SKIN",
+      "brand": "SCHICK",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/schick-yr-06-2014",
+      "newUrl": "https://www.youtube.com/watch?v=dYx6iehzyPA",
+      "score": 0.667
+    },
+    {
+      "id": "2015-handle-on-hygiene-unilever",
+      "title": "HANDLE ON HYGIENE",
+      "brand": "UNILEVER",
+      "oldUrl": "https://clios.com/health/winner/design/unilever/handle-on-hygiene-1384",
+      "newUrl": "https://www.youtube.com/watch?v=wxXg2-RC05g",
+      "score": 0.429
+    },
+    {
+      "id": "2015-hello-play-bnp-paribas",
+      "title": "HELLO PLAY!",
+      "brand": "BNP PARIBAS",
+      "oldUrl": "https://clios.com/music/winner/digital-social/hello-bank-/hello-play--192",
+      "newUrl": "https://www.youtube.com/watch?v=O8mdrhSTejE",
+      "score": 0.375
+    },
+    {
+      "id": "2015-give-mom-back-her-name-un-women",
+      "title": "GIVE MOM BACK HER NAME",
+      "brand": "UN WOMEN",
+      "oldUrl": "https://clios.com/awards/winner/social-media/un-women/give-mom-back-her-name-1082",
+      "newUrl": "https://www.youtube.com/watch?v=Imb6tAMAUvk",
+      "score": 0.7
+    },
+    {
+      "id": "2015-foreign-exchange-made-easier-isbank",
+      "title": "FOREIGN EXCHANGE MADE EASIER",
+      "brand": "ISBANK",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/isbank-tribal-10-2014",
+      "newUrl": "https://www.youtube.com/watch?v=DCALOJ6TGiw",
+      "score": 0.222
+    },
+    {
+      "id": "2015-holograms-for-freedom-no-somos-delito-we-are-not-crime",
+      "title": "HOLOGRAMS FOR FREEDOM",
+      "brand": "NO SOMOS DELITO (WE ARE NOT CRIME)",
+      "oldUrl": "https://clios.com/awards/winner/innovation/no-somos-delito-we-are-not-crime/holograms-for-freedom-12906",
+      "newUrl": "https://www.youtube.com/watch?v=0jwmi6CguY0",
+      "score": 0.273
+    },
+    {
+      "id": "2015-get-me-a-sponsor-chelsea-football-club",
+      "title": "GET ME A SPONSOR",
+      "brand": "CHELSEA FOOTBALL CLUB",
+      "oldUrl": "https://clios.com/awards/winner/direct/chelsea-football-club/get-me-a-sponsor-1122",
+      "newUrl": "https://www.youtube.com/watch?v=QneYUBMP25Q",
+      "score": 0.375
+    },
+    {
+      "id": "2015-lifesaver-syringes-life-saver",
+      "title": "LIFESAVER SYRINGES",
+      "brand": "LIFE SAVER",
+      "oldUrl": "https://clios.com/health/winner/integrated-campaign/lifesaver-syringes/integrated-film-1413",
+      "newUrl": "https://www.youtube.com/watch?v=uGQ7dF4HL3s",
+      "score": 0.25
+    },
+    {
+      "id": "2015-mas-que-un-auto-toyota",
+      "title": "MAS QUE UN AUTO",
+      "brand": "TOYOTA",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/toyota/mas-que-un-auto-1261",
+      "newUrl": "https://www.youtube.com/watch?v=aRaiDW2g76Y",
+      "score": 0.714
+    },
+    {
+      "id": "2015-made-in-ny-gatorade",
+      "title": "MADE IN NY",
+      "brand": "GATORADE",
+      "oldUrl": "https://clios.com/sports/winner/film/gatorade/made-in-ny-2263",
+      "newUrl": "https://www.youtube.com/watch?v=vmwoW2kQlck",
+      "score": 0.25
+    },
+    {
+      "id": "2015-movie-kiss-cornetto",
+      "title": "MOVIE KISS",
+      "brand": "CORNETTO",
+      "oldUrl": "https://www.behance.net/gallery/26765691/Cornetto-Movie-Kiss-Digital-Activation",
+      "newUrl": "https://www.youtube.com/watch?v=vcyEZLlTzR8",
+      "score": 0.5
+    },
+    {
+      "id": "2015-pepsi-max-unbelievable-pepsico",
+      "title": "PEPSI MAX UNBELIEVABLE",
+      "brand": "PEPSICO",
+      "oldUrl": "https://www.lbbonline.com/news/pepsi-max-amv-bbdo-create-an-unbelievable-bus-stop",
+      "newUrl": "https://www.youtube.com/watch?v=GB_qT6rAPyY",
+      "score": 0.429
+    },
+    {
+      "id": "2015-priceless-pets-purina",
+      "title": "PRICELESS PETS",
+      "brand": "PURINA",
+      "oldUrl": "https://clios.com/health/winner/engagement-experiential/purina-quatro-patinhas-ngo/priceless-pets-1321",
+      "newUrl": "https://www.youtube.com/watch?v=0n4pmZJJUr0",
+      "score": 0.286
+    },
+    {
+      "id": "2015-reduce-speed-dial-volkswagen",
+      "title": "REDUCE SPEED DIAL",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://clios.com/awards/winner/innovative/volkswagen/reduce-speed-dial-428",
+      "newUrl": "https://www.youtube.com/watch?v=_gqN2n4VRzY",
+      "score": 0.5
+    },
+    {
+      "id": "2015-sas-escalator-scandinavian-airlines",
+      "title": "SAS ESCALATOR",
+      "brand": "SCANDINAVIAN AIRLINES",
+      "oldUrl": "https://clios.com/awards/winner/engagement-experiential/scandinavian-airlines-sas/sas-escalator-1265",
+      "newUrl": "https://www.youtube.com/watch?v=Upk6-EEXuJg",
+      "score": 0.429
+    },
+    {
+      "id": "2015-social-blood-app-red-cross",
+      "title": "SOCIAL BLOOD APP",
+      "brand": "RED CROSS",
+      "oldUrl": "https://clios.com/health/winner/digital-mobile/cruz-roja-ecuador/social-blood-14504",
+      "newUrl": "https://www.youtube.com/watch?v=PzkXBJZUabM",
+      "score": 0.5
+    },
+    {
+      "id": "2015-teddies-innocence-in-danger",
+      "title": "TEDDIES",
+      "brand": "INNOCENCE IN DANGER",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/innocence-in-danger-rosapark-04-2015",
+      "newUrl": "https://www.youtube.com/watch?v=3-mSwmxKbi8",
+      "score": 0.333
+    },
+    {
+      "id": "2015-some-stains-are-not-meant-to-disappear-green-works",
+      "title": "SOME STAINS ARE NOT MEANT TO DISAPPEAR",
+      "brand": "GREEN WORKS",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/green-works-alma-04-2015",
+      "newUrl": "https://www.youtube.com/watch?v=TS2x5cxh6sM",
+      "score": 0.182
+    },
+    {
+      "id": "2015-the-gentleman-s-wager-johnnie-walker",
+      "title": "THE GENTLEMAN’S WAGER",
+      "brand": "JOHNNIE WALKER",
+      "oldUrl": "https://clios.com/awards/winner/film-technique/johnnie-walker/the-gentleman-s-wager-206",
+      "newUrl": "https://www.youtube.com/watch?v=sm4e0idS8UA",
+      "score": 0.556
+    },
+    {
+      "id": "2015-the-last-shot-jordan-brand",
+      "title": "THE LAST SHOT",
+      "brand": "JORDAN BRAND",
+      "oldUrl": "https://clios.com/sports/winner/events-experiential/jordan-brand/the-last-shot-12418",
+      "newUrl": "https://www.youtube.com/watch?v=wdyCXG8SBxE",
+      "score": 0.556
+    },
+    {
+      "id": "2015-the-people-s-film-volkswagen",
+      "title": "THE PEOPLE’S FILM",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://clios.com/awards/winner/film-technique/volkswagen/the-people-s-film-514",
+      "newUrl": "https://www.youtube.com/watch?v=2sDmROr1Xjk",
+      "score": 0.375
+    },
+    {
+      "id": "2015-the-world-s-first-billbed-moltyfoam",
+      "title": "THE WORLD’S FIRST BILLBED",
+      "brand": "MOLTYFOAM",
+      "oldUrl": "https://clios.com/awards/winner/out-of-home/moltyfoam/the-world-s-first-billbed-972",
+      "newUrl": "https://www.youtube.com/watch?v=wDGJrb6z5N4",
+      "score": 0.625
+    },
+    {
+      "id": "2015-wow-no-cow-oatly",
+      "title": "WOW! NO COW!",
+      "brand": "OATLY",
+      "oldUrl": "https://clios.com/awards/winner/design/oatly/wow-no-cow--501",
+      "newUrl": "https://www.youtube.com/watch?v=_HQU0MB0D5A",
+      "score": 0.429
+    },
+    {
+      "id": "2015-win-from-within-ben-jackson-gatorade",
+      "title": "WIN FROM WITHIN: BEN JACKSON",
+      "brand": "GATORADE",
+      "oldUrl": "https://clios.com/sports/winner/digital-social/gatorade/win-from-within-ben-jackson-2363",
+      "newUrl": "https://www.youtube.com/watch?v=hKxg_-fFPoA",
+      "score": 0.9
+    },
+    {
+      "id": "2016-38-years-later-triple-s-advantage",
+      "title": "38 YEARS LATER",
+      "brand": "TRIPLE S ADVANTAGE",
+      "oldUrl": "https://clios.com/health/winner/integrated-campaign/triple-s/38-years-later-14540",
+      "newUrl": "https://www.youtube.com/watch?v=NaUIWOhKGF4",
+      "score": 0.25
+    },
+    {
+      "id": "2016-act-of-love-sagami-original",
+      "title": "ACT OF LOVE",
+      "brand": "SAGAMI ORIGINAL",
+      "oldUrl": "https://clios.com/awards/winner/film/act-of-love-12900",
+      "newUrl": "https://www.youtube.com/watch?v=fKOeY8BRf2A",
+      "score": 0.429
+    },
+    {
+      "id": "2016-antidiary-samsung-mobile",
+      "title": "ANTIDIARY",
+      "brand": "SAMSUNG MOBILE",
+      "oldUrl": "https://clios.com/music/winner/digital-mobile/samsung/antidiary-13823",
+      "newUrl": "https://www.youtube.com/watch?v=jYth9aU5Ihg",
+      "score": 0.286
+    },
+    {
+      "id": "2016-auctioneer-tobacco-downs-anti-tobacco",
+      "title": "AUCTIONEER, TOBACCO DOWNS",
+      "brand": "ANTI TOBACCO",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/tobacco-free-florida-alma-03-2016",
+      "newUrl": "https://www.youtube.com/watch?v=K8wyqIKYqxc",
+      "score": 0.25
+    },
+    {
+      "id": "2016-bigger-than-us-jbl-headphones",
+      "title": "BIGGER THAN US",
+      "brand": "JBL HEADPHONES",
+      "oldUrl": "https://clios.com/music/winner/use-of-music/harman-international-jbl/bigger-than-us-12699",
+      "newUrl": "https://www.youtube.com/watch?v=Ry8Kuc3TkWw",
+      "score": 0.2
+    },
+    {
+      "id": "2016-germany-netherlands-visa-infinite",
+      "title": "GERMANY/NETHERLANDS",
+      "brand": "VISA INFINITE",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/visa-bbdo-06-2016",
+      "newUrl": "https://www.youtube.com/watch?v=Lpb3ItzfXsY",
+      "score": 0.25
+    },
+    {
+      "id": "2016-excedrin-the-migraine-experience-excedrin-migraine",
+      "title": "EXCEDRIN THE MIGRAINE EXPERIENCE",
+      "brand": "EXCEDRIN MIGRAINE",
+      "oldUrl": "https://clios.com/health/winner/film/excedrin/excedrin-the-migraine-experience-14538",
+      "newUrl": "https://www.youtube.com/watch?v=xdPsYdVCwUM",
+      "score": 0.5
+    },
+    {
+      "id": "2016-give-extra-get-extra-extra-gum",
+      "title": "GIVE EXTRA, GET EXTRA",
+      "brand": "EXTRA GUM",
+      "oldUrl": "https://clios.com/awards/winner/integrated-campaign/wrigley-a-subsidiary-of-mars-incorporated/give-extra-get-extra-12887",
+      "newUrl": "https://www.youtube.com/watch?v=Q2KOy8FgO54",
+      "score": 0.5
+    },
+    {
+      "id": "2016-help-kenya-not-kanye-fundraising-for-kenyan-charities",
+      "title": "HELP KENYA, NOT KANYE",
+      "brand": "FUNDRAISING FOR KENYAN CHARITIES",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/crowdrise/help-kenya-not-kanye-23858",
+      "newUrl": "https://www.youtube.com/watch?v=95MjZ7yOA1w",
+      "score": 0.583
+    },
+    {
+      "id": "2016-firefly-man-ocedel",
+      "title": "FIREFLY MAN",
+      "brand": "OCEDEL",
+      "oldUrl": "https://clios.com/awards/winner/film/ocedel/firefly-man-13141",
+      "newUrl": "https://www.youtube.com/watch?v=J-KLnJ_hv7s",
+      "score": 0.667
+    },
+    {
+      "id": "2016-history-of-sound-apple-music",
+      "title": "HISTORY OF SOUND",
+      "brand": "APPLE MUSIC",
+      "oldUrl": "https://clios.com/awards/winner/film-technique/apple/history-of-sound-13295",
+      "newUrl": "https://www.youtube.com/watch?v=uVyEm9N7iag",
+      "score": 0.364
+    },
+    {
+      "id": "2016-how-do-you-see-me-coordown",
+      "title": "HOW DO YOU SEE ME",
+      "brand": "COORDOWN",
+      "oldUrl": "https://clios.com/health/winner/film/coordown/how-do-you-see-me-14623",
+      "newUrl": "https://www.youtube.com/watch?v=7GBJasDn_vk",
+      "score": 0.5
+    },
+    {
+      "id": "2016-how-is-your-body-performing-bupa",
+      "title": "HOW IS YOUR BODY PERFORMING",
+      "brand": "BUPA",
+      "oldUrl": "https://clios.com/health/winner/digital-mobile/bupa/how-is-your-body-performing--14560",
+      "newUrl": "https://www.youtube.com/watch?v=ZTzPd52lSUQ",
+      "score": 0.625
+    },
+    {
+      "id": "2016-lightsaber-escape-a-chrome-experiment-google-chrome",
+      "title": "LIGHTSABER ESCAPE: A CHROME EXPERIMENT",
+      "brand": "GOOGLE CHROME",
+      "oldUrl": "https://clios.com/entertainment/winner/theatrical-digital-mobile/google/lightsaber-escape-a-chrome-experiment-14216",
+      "newUrl": "https://www.youtube.com/watch?v=RlLdbYAGU3s",
+      "score": 0.556
+    },
+    {
+      "id": "2016-life-is-electric-panasonic",
+      "title": "LIFE IS ELECTRIC",
+      "brand": "PANASONIC",
+      "oldUrl": "https://clios.com/awards/winner/brand-design/panasonic/life-is-electric-12851",
+      "newUrl": "https://www.youtube.com/watch?v=kbkS5TcR4Kc",
+      "score": 0.667
+    },
+    {
+      "id": "2016-mein-kampf-against-racism-gesicht-zeigen",
+      "title": "MEIN KAMPF AGAINST RACISM",
+      "brand": "GESICHT ZEIGEN!",
+      "oldUrl": "https://clios.com/awards/winner/branded-content/gesicht-zeigen-an-association-encouraging-people-t/mein-kampf-against-racism-12781",
+      "newUrl": "https://www.youtube.com/watch?v=_wKnySLstXg",
+      "score": 0.444
+    },
+    {
+      "id": "2016-marriage-market-takeover-sk-ii",
+      "title": "MARRIAGE MARKET TAKEOVER",
+      "brand": "SK II",
+      "oldUrl": "https://clios.com/fashion-beauty/winner/beauty-events-experiential/sk-ii/marriage-market-takeover-20386",
+      "newUrl": "https://www.youtube.com/watch?v=ZLo8hcHD0YA",
+      "score": 0.571
+    },
+    {
+      "id": "2016-mt-ex-yokohama-mt-expo-2015-mt-ex-3331-masking-tape",
+      "title": "MT EX YOKOHAMA, MT EXPO 2015, MT EX 3331",
+      "brand": "MASKING TAPE",
+      "oldUrl": "https://clios.com/awards/winner/brand-design/mt/mt-expo-2015-12788",
+      "newUrl": "https://www.youtube.com/watch?v=hleBG1brD9s",
+      "score": 0.222
+    },
+    {
+      "id": "2016-slam-poetry-daniel-xolair",
+      "title": "SLAM POETRY DANIEL",
+      "brand": "XOLAIR",
+      "oldUrl": "https://clios.com/health/winner/film-technique/xolair/slam-poetry-daniel-14486",
+      "newUrl": "https://www.youtube.com/watch?v=DEJ4Ydf_YQo",
+      "score": 0.4
+    },
+    {
+      "id": "2016-save-me-the-ski-pass-that-save-lives-otztal-tourismus",
+      "title": "SAVE ME-THE SKI PASS THAT SAVE LIVES",
+      "brand": "OTZTAL TOURISMUS",
+      "oldUrl": "https://clios.com/awards/winner/out-of-home/%C3%96tztal-tourismus/save-me-the-ski-pass-that-saves-lives-13261",
+      "newUrl": "https://www.youtube.com/watch?v=W6qxbBYel8U",
+      "score": 0.727
+    },
+    {
+      "id": "2016-sms-last-words-global-road-safety",
+      "title": "SMS LAST WORDS",
+      "brand": "GLOBAL ROAD SAFETY",
+      "oldUrl": "https://clios.com/awards/winner/direct/global-road-safety-partenership/sms-last-words-13188",
+      "newUrl": "https://www.youtube.com/watch?v=ee2uyCYHwAY",
+      "score": 0.4
+    },
+    {
+      "id": "2016-strikethrough-adidas",
+      "title": "STRIKETHROUGH",
+      "brand": "ADIDAS",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/adidas-johannes-leonardo-07-2015",
+      "newUrl": "https://www.youtube.com/watch?v=SD9TaeEiKSQ",
+      "score": 0.286
+    },
+    {
+      "id": "2016-the-last-mask-natalia-ponce-de-leon-foundation",
+      "title": "THE LAST MASK",
+      "brand": "NATALIA PONCE DE LEON FOUNDATION",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/natalia-ponce-de-leon-foundation/the-last-mask-12922",
+      "newUrl": "https://www.youtube.com/watch?v=0OemhDkgBBo",
+      "score": 0.7
+    },
+    {
+      "id": "2016-under-armour-rule-yourself-under-armour",
+      "title": "UNDER ARMOUR RULE YOURSELF",
+      "brand": "UNDER ARMOUR",
+      "oldUrl": "https://www.behance.net/gallery/29644327/Under-Armour-Rule-Yourself",
+      "newUrl": "https://www.youtube.com/watch?v=mDQDTPWNcQ0",
+      "score": 0.5
+    },
+    {
+      "id": "2017-25m2-syria-ikea",
+      "title": "25M2 SYRIA",
+      "brand": "IKEA",
+      "oldUrl": "https://clios.com/awards/winner/events-experiential/norwegian-red-cross-and-ikea/25m2-syria-28336",
+      "newUrl": "https://www.youtube.com/watch?v=mgZmh2yF2Ro",
+      "score": 0.5
+    },
+    {
+      "id": "2017-ali-cola-the-cola-in-skin-colors-ali-getr-nke-ug",
+      "title": "ALI COLA. THE COLA IN SKIN COLORS",
+      "brand": "ALI GETRÄNKE UG",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/ali-cola/ali-cola-the-cola-in-skin-colors--21512",
+      "newUrl": "https://www.youtube.com/watch?v=KmoJlXHrymA",
+      "score": 0.556
+    },
+    {
+      "id": "2017-alice-s-wedding-volvo",
+      "title": "ALICE’S WEDDING",
+      "brand": "VOLVO",
+      "oldUrl": "https://clios.com/music/winner/use-of-music/volvo/alice-s-wedding-18662",
+      "newUrl": "https://www.youtube.com/watch?v=opdsOaqcXmo",
+      "score": 0.5
+    },
+    {
+      "id": "2017-breakthegame-under-armour",
+      "title": "#BREAKTHEGAME",
+      "brand": "UNDER ARMOUR",
+      "oldUrl": "https://clios.com/sports/winner/social-media/under-armour/breakthegame-15190",
+      "newUrl": "https://www.youtube.com/watch?v=YjYhgD9xAas",
+      "score": 0.571
+    },
+    {
+      "id": "2017-cologne-hamburg-berlin-volkswagen",
+      "title": "COLOGNE, HAMBURG, BERLIN",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://clios.com/awards/winner/audio/volkswagen/berlin-19862",
+      "newUrl": "https://www.youtube.com/watch?v=LK4PuybTyCc",
+      "score": 0.429
+    },
+    {
+      "id": "2017-drake-s-views-october-s-very-own",
+      "title": "DRAKE’S VIEWS",
+      "brand": "OCTOBER’S VERY OWN",
+      "oldUrl": "https://clios.com/music/winner/social-media/ovo-sound/drake-s-views-27816",
+      "newUrl": "https://www.youtube.com/watch?v=ioP-ZHBQn-4",
+      "score": 0.5
+    },
+    {
+      "id": "2017-equality-signs-nike-colombia-j-walter-thompson",
+      "title": "EQUALITY SIGNS",
+      "brand": "NIKE COLOMBIA (J. WALTER THOMPSON",
+      "oldUrl": "https://clios.com/awards/winner/out-of-home/nike-colombia/equality-signs-28944",
+      "newUrl": "https://www.youtube.com/watch?v=9mj205BxVQM",
+      "score": 0.714
+    },
+    {
+      "id": "2017-laughing-horses-volkswagen",
+      "title": "LAUGHING HORSES",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://clios.com/awards/winner/film/volkswagen-ag/laughing-horses-19815",
+      "newUrl": "https://www.youtube.com/watch?v=n5EgSaWFFkA",
+      "score": 0.429
+    },
+    {
+      "id": "2017-justino-loterias-y-apuestas-del-estado",
+      "title": "JUSTINO",
+      "brand": "LOTERIAS Y APUESTAS DEL ESTADO",
+      "oldUrl": "https://clios.com/awards/winner/film-technique/loterias-y-apuestas-del-estado/justino-13553",
+      "newUrl": "https://www.youtube.com/watch?v=D8iHQE4UPRs",
+      "score": 0.667
+    },
+    {
+      "id": "2017-kitchen-canal",
+      "title": "KITCHEN",
+      "brand": "CANAL+",
+      "oldUrl": "https://clios.com/awards/winner/film/canal/kitchen-18570",
+      "newUrl": "https://www.youtube.com/watch?v=DN3l_FgBnsA",
+      "score": 0.2
+    },
+    {
+      "id": "2017-made-possible-by-melbourne-university-of-melbourne",
+      "title": "MADE POSSIBLE BY MELBOURNE",
+      "brand": "UNIVERSITY OF MELBOURNE",
+      "oldUrl": "https://clios.com/awards/winner/integrated-campaign/university-of-melbourne/made-possible-by-melbourne-29492",
+      "newUrl": "https://www.youtube.com/watch?v=3Hesj40LawA",
+      "score": 0.5
+    },
+    {
+      "id": "2017-last-laugh-iapc",
+      "title": "LAST LAUGH",
+      "brand": "IAPC",
+      "oldUrl": "https://clios.com/health/winner/integrated-campaign-pharmaceutical/indian-association-of-palliative-care-iapc/last-laugh-29930",
+      "newUrl": "https://www.youtube.com/watch?v=eN96iaNOp4o",
+      "score": 0.429
+    },
+    {
+      "id": "2017-make-a-masterpiece-adobe",
+      "title": "MAKE A MASTERPIECE",
+      "brand": "ADOBE",
+      "oldUrl": "https://clios.com/awards/winner/direct/adobe/make-a-masterpiece-21917",
+      "newUrl": "https://www.youtube.com/watch?v=l1RZ4wuDhM4",
+      "score": 0.333
+    },
+    {
+      "id": "2017-max-motor-dreams-ford-spain",
+      "title": "MAX MOTOR DREAMS",
+      "brand": "FORD SPAIN",
+      "oldUrl": "https://clios.com/awards/winner/product-design/ford-spain/max-motor-dreams-20771",
+      "newUrl": "https://www.youtube.com/watch?v=8WZmVAeR2C0",
+      "score": 0.5
+    },
+    {
+      "id": "2017-ode-to-lesvos-johnnie-walker",
+      "title": "ODE TO LESVOS",
+      "brand": "JOHNNIE WALKER",
+      "oldUrl": "https://clios.com/awards/winner/branded-content/johnnie-walker/ode-to-lesvos-27254",
+      "newUrl": "https://www.youtube.com/watch?v=ASK6G8QPv7I",
+      "score": 0.571
+    },
+    {
+      "id": "2017-pax-it-ikea",
+      "title": "PAX IT",
+      "brand": "IKEA",
+      "oldUrl": "https://clios.com/awards/winner/direct/ikea/pax-it-19520",
+      "newUrl": "https://www.youtube.com/watch?v=Zkze8om_3Z4",
+      "score": 0.333
+    },
+    {
+      "id": "2017-resistance-radio-amazon",
+      "title": "RESISTANCE RADIO",
+      "brand": "AMAZON",
+      "oldUrl": "https://clios.com/entertainment/winner/television-streaming-innovation/amazon/the-man-in-the-high-castle-resistance-radio-22110",
+      "newUrl": "https://www.youtube.com/watch?v=w14RU0IQgPo",
+      "score": 0.375
+    },
+    {
+      "id": "2017-sounds-of-trauma-david-lynch-foundation",
+      "title": "SOUNDS OF TRAUMA",
+      "brand": "DAVID LYNCH FOUNDATION",
+      "oldUrl": "https://clios.com/health/winner/film-technique-health-wellness/david-lynch-foundation/sounds-of-trauma-31159",
+      "newUrl": "https://www.youtube.com/watch?v=bgpRw92d1MA",
+      "score": 0.625
+    },
+    {
+      "id": "2017-the-debate-headache-gsk-consumer-healthcare",
+      "title": "THE DEBATE HEADACHE",
+      "brand": "GSK CONSUMER HEALTHCARE",
+      "oldUrl": "https://clios.com/health/winner/social-media-health-wellness/gsk-consumer-healthcare-excedrin/the-debate-headache-31054",
+      "newUrl": "https://www.youtube.com/watch?v=wZw1kA8njoE",
+      "score": 0.273
+    },
+    {
+      "id": "2017-the-life-saving-scarecrow-varuna-pumps",
+      "title": "THE LIFE SAVING SCARECROW",
+      "brand": "VARUNA PUMPS",
+      "oldUrl": "https://clios.com/awards/winner/out-of-home/varuna-pumps/life-saving-scarecrow-47708",
+      "newUrl": "https://www.youtube.com/watch?v=_WnCnaJVXg4",
+      "score": 0.75
+    },
+    {
+      "id": "2017-tv-doctors-of-america-cigna",
+      "title": "TV DOCTORS OF AMERICA",
+      "brand": "CIGNA",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/cigna/tv-doctors-of-america-26272",
+      "newUrl": "https://www.youtube.com/watch?v=WyoJjA1mt-Q",
+      "score": 0.429
+    },
+    {
+      "id": "2018-barbers-apple",
+      "title": "BARBERS",
+      "brand": "APPLE",
+      "oldUrl": "https://clios.com/awards/winner/film-technique-direction/apple-inc-/barbers-41915",
+      "newUrl": "https://www.youtube.com/watch?v=86hE8OGoW7A",
+      "score": 0.333
+    },
+    {
+      "id": "2018-behind-the-numbers-ovk",
+      "title": "BEHIND THE NUMBERS",
+      "brand": "OVK",
+      "oldUrl": "https://clios.com/awards/winner/audio/ovk-pevr-parents-of-road-victims/behind-the-numbers-50108",
+      "newUrl": "https://www.youtube.com/watch?v=UYNf60CzpU4",
+      "score": 0.429
+    },
+    {
+      "id": "2018-bet-on-a-murder-france-3",
+      "title": "BET ON A MURDER",
+      "brand": "FRANCE 3",
+      "oldUrl": "https://clios.com/awards/winner/partnerships-collaborations/france-t%C3%A9l%C3%A9visions-france3/la-for%C3%8At-bet-on-a-murderer-47004",
+      "newUrl": "https://www.youtube.com/watch?v=F7NshaJuviw",
+      "score": 0.286
+    },
+    {
+      "id": "2018-adobe-make-the-cut-adobe",
+      "title": "ADOBE MAKE THE CUT",
+      "brand": "ADOBE",
+      "oldUrl": "https://clios.com/awards/winner/branded-entertainment/adobe/make-the-cut-46835",
+      "newUrl": "https://www.youtube.com/watch?v=Xi-X5XVX7OY",
+      "score": 0.5
+    },
+    {
+      "id": "2018-creativity-gets-you-noticed-adidas",
+      "title": "CREATIVITY GETS YOU NOTICED",
+      "brand": "ADIDAS",
+      "oldUrl": "https://clios.com/sports/winner/film/adidas/creativity-gets-you-noticed-35463",
+      "newUrl": "https://www.youtube.com/watch?v=IJez73JNTiI",
+      "score": 0.625
+    },
+    {
+      "id": "2018-disgusting-stories-bahay-tuluyan",
+      "title": "DISGUSTING STORIES",
+      "brand": "BAHAY TULUYAN",
+      "oldUrl": "https://clios.com/awards/winner/film/bahay-tuluyan-philippines-shelter-house/disgusting-stories-40984",
+      "newUrl": "https://www.youtube.com/watch?v=DSbhmO9cpkk",
+      "score": 0.625
+    },
+    {
+      "id": "2018-emergency-collectibles-kobe-shimbun",
+      "title": "EMERGENCY COLLECTIBLES",
+      "brand": "KOBE SHIMBUN",
+      "oldUrl": "https://clios.com/awards/winner/direct/kobe-shimbun/emergency-collectibles-35305",
+      "newUrl": "https://www.youtube.com/watch?v=sNid1-WtpJQ",
+      "score": 0.429
+    },
+    {
+      "id": "2018-faroe-islands-translate-visit-faroe-islands-atlantic-airways",
+      "title": "FAROE ISLANDS TRANSLATE",
+      "brand": "VISIT FAROE ISLANDS & ATLANTIC AIRWAYS",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/visit-faroe-islands-atlantic-airways/faroe-islands-translate-47665",
+      "newUrl": "https://www.youtube.com/watch?v=sEMM4In4psE",
+      "score": 0.444
+    },
+    {
+      "id": "2018-hello-in-elephant-david-sheldrick-wildlife-trust",
+      "title": "HELLO IN ELEPHANT",
+      "brand": "DAVID SHELDRICK WILDLIFE TRUST",
+      "oldUrl": "https://clios.com/awards/winner/audio-technique/david-sheldrick-wildlife-trust/hello-in-elephant-51679",
+      "newUrl": "https://www.youtube.com/watch?v=ZRpKq2PsOAU",
+      "score": 0.5
+    },
+    {
+      "id": "2018-go-with-the-flaw-diesel",
+      "title": "GO WITH THE FLAW",
+      "brand": "DIESEL",
+      "oldUrl": "https://clios.com/awards/winner/film-technique-editing/diesel/go-with-the-flaw-52356",
+      "newUrl": "https://www.youtube.com/watch?v=aYxG1ASrYKo",
+      "score": 0.571
+    },
+    {
+      "id": "2018-intel-drone-light-show-at-the-olympics-intel",
+      "title": "INTEL DRONE LIGHT SHOW AT THE OLYMPICS",
+      "brand": "INTEL",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/intel/intel-drone-light-show-at-the-olympics-47327",
+      "newUrl": "https://www.youtube.com/watch?v=4M3xbEJEwWI",
+      "score": 0.667
+    },
+    {
+      "id": "2018-ikea-pee-ad-ikea",
+      "title": "IKEA PEE AD",
+      "brand": "IKEA",
+      "oldUrl": "https://clios.com/awards/winner/direct/ikea/ikea-pee-ad-39820",
+      "newUrl": "https://www.youtube.com/watch?v=ub8AoQ6CLi8",
+      "score": 0.333
+    },
+    {
+      "id": "2018-lost-panda-tile",
+      "title": "LOST PANDA",
+      "brand": "TILE",
+      "oldUrl": "https://clios.com/awards/winner/film-technique-animation/tile/lost-panda-38824",
+      "newUrl": "https://www.youtube.com/watch?v=7_mR0WXNhsA",
+      "score": 0.429
+    },
+    {
+      "id": "2018-noon-assembly-kwality",
+      "title": "NOON ASSEMBLY",
+      "brand": "KWALITY",
+      "oldUrl": "https://clios.com/health/winner/partnerships-collaborations-health-wellness/kwality-ltd-/noon-assembly-56204",
+      "newUrl": "https://www.youtube.com/watch?v=yqXjLck9USo",
+      "score": 0.625
+    },
+    {
+      "id": "2018-most-eligible-bachelor-oi-pejeta-conservancy",
+      "title": "MOST ELIGIBLE BACHELOR",
+      "brand": "OI PEJETA CONSERVANCY",
+      "oldUrl": "https://clios.com/awards/winner/direct/ol-pejeta-conservancy/the-most-eligible-bachelor-28291",
+      "newUrl": "https://www.youtube.com/watch?v=2oaxQ9ddDmU",
+      "score": 0.625
+    },
+    {
+      "id": "2018-nissan-s-follow-the-ball-nissan",
+      "title": "NISSAN’S FOLLOW THE BALL",
+      "brand": "NISSAN",
+      "oldUrl": "https://clios.com/sports/winner/out-of-home/nissan-brasil/nissan-s-follow-the-ball-58046",
+      "newUrl": "https://www.youtube.com/watch?v=TtHVO42Qmn8",
+      "score": 0.4
+    },
+    {
+      "id": "2018-real-time-taxi-display-united-airlines",
+      "title": "REAL-TIME TAXI DISPLAY",
+      "brand": "UNITED AIRLINES",
+      "oldUrl": "https://clios.com/awards/winner/out-of-home/united-airlines/united-airlines-ewr-real-time-data-taxi-top-campai-46587",
+      "newUrl": "https://www.youtube.com/watch?v=558e-zOqWQI",
+      "score": 0.5
+    },
+    {
+      "id": "2018-spotted-key-biscayne",
+      "title": "SPOTTED",
+      "brand": "KEY BISCAYNE",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/key-biscayne-lalcec/spotted-50186",
+      "newUrl": "https://www.youtube.com/watch?v=lZOJRZ0KfhQ",
+      "score": 0.375
+    },
+    {
+      "id": "2018-snaptivity-snaptivity",
+      "title": "SNAPTIVITY",
+      "brand": "SNAPTIVITY",
+      "oldUrl": "https://clios.com/sports/winner/innovation/snaptivity/snaptivity-34753",
+      "newUrl": "https://www.youtube.com/watch?v=VTzSSGJmqqo",
+      "score": 0.5
+    },
+    {
+      "id": "2018-talk-social-to-me-wendy-s",
+      "title": "TALK SOCIAL TO ME",
+      "brand": "WENDY’S",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/wendy-s/talk-social-to-me-48588",
+      "newUrl": "https://www.youtube.com/watch?v=9e3677HvX1w",
+      "score": 0.286
+    },
+    {
+      "id": "2018-teasing-john-malkovich-cbs",
+      "title": "TEASING JOHN MALKOVICH",
+      "brand": "CBS",
+      "oldUrl": "https://clios.com/sports/winner/public-relations/cbs-sports/teasing-john-malkovich-36125",
+      "newUrl": "https://www.youtube.com/watch?v=jWDOi9e9Qlk",
+      "score": 0.375
+    },
+    {
+      "id": "2018-the-old-and-new-collide-shakespeare-s-globe",
+      "title": "THE OLD AND NEW COLLIDE",
+      "brand": "SHAKESPEARE’S GLOBE",
+      "oldUrl": "https://clios.com/awards/winner/brand-design/shakespeare-s-globe/the-old-and-new-collide-reinventing-the-shakespear-47824",
+      "newUrl": "https://www.youtube.com/watch?v=-Qgxl-Ytr-o",
+      "score": 0.5
+    },
+    {
+      "id": "2018-the-ticket-shoe-bvg-x-adidas",
+      "title": "THE TICKET-SHOE",
+      "brand": "BVG X ADIDAS",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/berliner-verkehrsbetriebe-bvg/bvg-x-adidas-the-ticket-shoe-37426",
+      "newUrl": "https://www.youtube.com/watch?v=Wvlt4yWbMM8",
+      "score": 0.5
+    },
+    {
+      "id": "2018-the-supporting-act-bbc",
+      "title": "THE SUPPORTING ACT",
+      "brand": "BBC",
+      "oldUrl": "https://clios.com/awards/winner/film/bbc-one/the-supporting-act-40541",
+      "newUrl": "https://www.youtube.com/watch?v=8PstSiTCk74",
+      "score": 0.5
+    },
+    {
+      "id": "2018-the-worst-soap-opera-unicef",
+      "title": "THE WORST SOAP OPERA",
+      "brand": "UNICEF",
+      "oldUrl": "https://clios.com/awards/winner/branded-entertainment/unicef/the-worst-soap-opera-41279",
+      "newUrl": "https://www.youtube.com/watch?v=VE0efW93qGw",
+      "score": 0.556
+    },
+    {
+      "id": "2018-uniform-against-malnutrition-kellogg-s",
+      "title": "UNIFORM AGAINST MALNUTRITION",
+      "brand": "KELLOGG’S",
+      "oldUrl": "https://clios.com/awards/winner/product-design/kellogg-s/uniforms-against-malnutrition-49984",
+      "newUrl": "https://www.youtube.com/watch?v=_JaWLC6BNgY",
+      "score": 0.333
+    },
+    {
+      "id": "2019-block-wish-hok-elanto",
+      "title": "BLOCK WISH",
+      "brand": "HOK-ELANTO",
+      "oldUrl": "https://clios.com/awards/winner/digital-mobile-social-media-technique/alepa/block-wish-49298",
+      "newUrl": "https://www.youtube.com/watch?v=Iyt15mAq3tQ",
+      "score": 0.2
+    },
+    {
+      "id": "2019-delivering-hope-us-postal-service",
+      "title": "DELIVERING HOPE",
+      "brand": "US POSTAL SERVICE",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/united-states-postal-service/delivering-hope-71742",
+      "newUrl": "https://www.youtube.com/watch?v=YLyU1WCQQ8A",
+      "score": 0.375
+    },
+    {
+      "id": "2019-codnation-activision",
+      "title": "#CODNATION",
+      "brand": "ACTIVISION",
+      "oldUrl": "https://clios.com/awards/winner/direct/call-of-duty/codnation-62322",
+      "newUrl": "https://www.youtube.com/watch?v=DMPi_xe8fTM",
+      "score": 0.333
+    },
+    {
+      "id": "2019-craft-a-western-whopper-burger-king",
+      "title": "CRAFT A WESTERN WHOPPER",
+      "brand": "BURGER KING",
+      "oldUrl": "https://clios.com/awards/winner/digital-mobile/burger-king/craft-a-western-whopper-71730",
+      "newUrl": "https://www.youtube.com/watch?v=SyjVMnUkC8Q",
+      "score": 0.375
+    },
+    {
+      "id": "2019-ha-u-te-couture-diesel",
+      "title": "HA(U)TE COUTURE",
+      "brand": "DIESEL",
+      "oldUrl": "https://clios.com/awards/winner/social-media/diesel/hate-couture-73137",
+      "newUrl": "https://www.youtube.com/watch?v=RPwtqrkgW5c",
+      "score": 0.6
+    },
+    {
+      "id": "2019-in-the-long-run-mercedes-benz",
+      "title": "IN THE LONG RUN",
+      "brand": "MERCEDES BENZ",
+      "oldUrl": "https://clios.com/awards/winner/film-technique-music-licensed/mercedes-benz/in-the-long-run-60254",
+      "newUrl": "https://www.youtube.com/watch?v=510fpD5YeW8",
+      "score": 0.625
+    },
+    {
+      "id": "2019-jersey-assurance-american-express",
+      "title": "JERSEY ASSURANCE",
+      "brand": "AMERICAN EXPRESS",
+      "oldUrl": "https://clios.com/sports/winner/innovation/american-express/american-express-jersey-assurance-58327",
+      "newUrl": "https://www.youtube.com/watch?v=vmsRLlQOOQ0",
+      "score": 0.5
+    },
+    {
+      "id": "2019-one-mindful-mind-neurogen-brain-and-spine-institute",
+      "title": "ONE MINDFUL MIND",
+      "brand": "NEUROGEN BRAIN AND SPINE INSTITUTE",
+      "oldUrl": "https://clios.com/health/winner/design-health-wellness/neurogen-brain-and-spine-institute/one-mindful-mind-74264",
+      "newUrl": "https://www.youtube.com/watch?v=c7hn9N8ehlc",
+      "score": 0.636
+    },
+    {
+      "id": "2019-peak-games-peak-games",
+      "title": "PEAK GAMES",
+      "brand": "PEAK GAMES",
+      "oldUrl": "https://clios.com/awards/winner/film-technique-direction/peak-games/arms-72709",
+      "newUrl": "https://www.youtube.com/watch?v=wQ0u4uWviXc",
+      "score": 0.333
+    },
+    {
+      "id": "2019-road-tales-volkswagen",
+      "title": "ROAD TALES",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://clios.com/awards/winner/digital-mobile/volkswagen/road-tales-74075",
+      "newUrl": "https://www.youtube.com/watch?v=a3XhKxf99-c",
+      "score": 0.667
+    },
+    {
+      "id": "2019-scary-clown-night-burger-king",
+      "title": "SCARY CLOWN NIGHT",
+      "brand": "BURGER KING",
+      "oldUrl": "https://clios.com/awards/winner/out-of-home/burger-king/scary-clown-night-37841",
+      "newUrl": "https://www.youtube.com/watch?v=Yx_99e5weSI",
+      "score": 0.75
+    },
+    {
+      "id": "2019-sister-hearts-square",
+      "title": "SISTER HEARTS",
+      "brand": "SQUARE",
+      "oldUrl": "https://clios.com/awards/winner/film-technique-direction/square/sister-hearts-38164",
+      "newUrl": "https://www.youtube.com/watch?v=-F8O8Ah8qA0",
+      "score": 0.333
+    },
+    {
+      "id": "2019-smartread-bayer",
+      "title": "SMARTREAD",
+      "brand": "BAYER",
+      "oldUrl": "https://clios.com/health/winner/design-pharmaceutical/bayer-ophthalmology/smartread-78161",
+      "newUrl": "https://www.youtube.com/watch?v=mEwbRbK-Sas",
+      "score": 0.2
+    },
+    {
+      "id": "2019-sans-forgetica-rmit-university",
+      "title": "SANS FORGETICA",
+      "brand": "RMIT UNIVERSITY",
+      "oldUrl": "https://clios.com/awards/winner/digital-mobile-social-media-technique/rmit-university/sans-forgetica-59797",
+      "newUrl": "https://www.youtube.com/watch?v=CEXzSehu5HM",
+      "score": 0.5
+    },
+    {
+      "id": "2019-supersickmonday-mucinex",
+      "title": "#SUPERSICKMONDAY",
+      "brand": "MUCINEX",
+      "oldUrl": "https://clios.com/health/winner/integrated-campaign-health-wellness/mucinex/supersickmonday-55618",
+      "newUrl": "https://www.youtube.com/watch?v=pk2n4o3OBeQ",
+      "score": 0.333
+    },
+    {
+      "id": "2019-the-land-of-free-press-helsingin-sanomat",
+      "title": "THE LAND OF FREE PRESS",
+      "brand": "HELSINGIN SANOMAT",
+      "oldUrl": "https://clios.com/awards/winner/out-of-home/helsingin-sanomat/the-land-of-free-press-welcome-68248",
+      "newUrl": "https://www.youtube.com/watch?v=cTfon2qTM_Y",
+      "score": 0.444
+    },
+    {
+      "id": "2019-the-not-big-macs-burger-king",
+      "title": "THE NOT BIG MACS",
+      "brand": "BURGER KING",
+      "oldUrl": "https://clios.com/awards/winner/out-of-home/burger-king/the-not-big-macs-72039",
+      "newUrl": "https://www.youtube.com/watch?v=ndXGN5El6D4",
+      "score": 0.667
+    },
+    {
+      "id": "2019-the-lift-bianco",
+      "title": "THE LIFT",
+      "brand": "BIANCO",
+      "oldUrl": "https://clios.com/awards/winner/film-technique-copywriting/bianco/the-lift-64105",
+      "newUrl": "https://www.youtube.com/watch?v=GCac_bRSqzg",
+      "score": 0.429
+    },
+    {
+      "id": "2019-the-open-door-project-the-millennium-school",
+      "title": "THE OPEN DOOR PROJECT",
+      "brand": "THE MILLENNIUM SCHOOL",
+      "oldUrl": "https://clios.com/awards/winner/partnerships-collaborations/the-millennium-school/the-open-door-project-67720",
+      "newUrl": "https://www.youtube.com/watch?v=L5BtpB2sp7Q",
+      "score": 0.556
+    },
+    {
+      "id": "2019-the-whopper-detour-burger-king",
+      "title": "THE WHOPPER DETOUR",
+      "brand": "BURGER KING",
+      "oldUrl": "https://clios.com/awards/winner/digital-mobile/burger-king/the-whopper-detour-72671",
+      "newUrl": "https://www.youtube.com/watch?v=t3c-e49Tn50",
+      "score": 0.667
+    },
+    {
+      "id": "2019-the-time-we-have-left-pernod-ricard",
+      "title": "THE TIME WE HAVE LEFT",
+      "brand": "PERNOD RICARD",
+      "oldUrl": "https://clios.com/awards/winner/branded-content/ruavieja/the-time-we-have-left-63684",
+      "newUrl": "https://www.youtube.com/watch?v=sBIVUNVIypM",
+      "score": 0.6
+    },
+    {
+      "id": "2019-u-u-viiv-healthcare",
+      "title": "U=U=",
+      "brand": "VIIV HEALTHCARE",
+      "oldUrl": "https://clios.com/health/winner/film-pharmaceutical/viiv-healthcare/u-u--78908",
+      "newUrl": "https://www.youtube.com/watch?v=mphJgXgZJ7o",
+      "score": 0.333
+    },
+    {
+      "id": "2019-victory-fridge-ab-inbev",
+      "title": "VICTORY FRIDGE",
+      "brand": "AB INBEV",
+      "oldUrl": "https://clios.com/sports/winner/experiential-events/abinbev-bud-light/victory-fridge-57653",
+      "newUrl": "https://www.youtube.com/watch?v=Xh6yeGRy-4A",
+      "score": 0.75
+    },
+    {
+      "id": "2019-vicks-one-in-a-million-touchofcare-p-g",
+      "title": "VICKS-ONE IN A MILLION #TOUCHOFCARE",
+      "brand": "P&G",
+      "oldUrl": "https://clios.com/awards/winner/branded-content/p-g-vicks-india/one-in-a-million-59275",
+      "newUrl": "https://www.youtube.com/watch?v=8VKlWQgSYyA",
+      "score": 0.5
+    },
+    {
+      "id": "2022-blacked-out-history-ontario-black-history-society",
+      "title": "BLACKED OUT HISTORY",
+      "brand": "ONTARIO BLACK HISTORY SOCIETY",
+      "oldUrl": "https://clios.com/awards/winner/direct/ontario-black-history-society/blackedouthistory-106925",
+      "newUrl": "https://www.youtube.com/watch?v=euRnIJn3IQw",
+      "score": 0.6
+    },
+    {
+      "id": "2022-dignity-to-flow-johnson-johnson",
+      "title": "DIGNITY TO FLOW",
+      "brand": "JOHNSON & JOHNSON",
+      "oldUrl": "https://clios.com/health/winner/audio-health-wellness/johnson-johnson/dignity-to-flow-119249",
+      "newUrl": "https://www.youtube.com/watch?v=O4XYwfQzrrw",
+      "score": 0.25
+    },
+    {
+      "id": "2022-oreo-thins-protection-program-oreo",
+      "title": "OREO THINS PROTECTION PROGRAM",
+      "brand": "OREO",
+      "oldUrl": "https://clios.com/awards/winner/partnerships-collaborations/oreo/thins-protection-program-114068",
+      "newUrl": "https://www.youtube.com/watch?v=LfY65Mgj59s",
+      "score": 0.5
+    },
+    {
+      "id": "2022-the-unwearable-collection-boehringer-ingelheim",
+      "title": "THE UNWEARABLE COLLECTION",
+      "brand": "BOEHRINGER INGELHEIM",
+      "oldUrl": "https://clios.com/health/winner/design-craft-pharmaceutical/boehringer-ingelheim-unbranded-initiative/the-unwearable-collection-119682",
+      "newUrl": "https://www.youtube.com/watch?v=_nuSVlFg7xo",
+      "score": 0.333
+    },
+    {
+      "id": "2022-the-uniform-that-never-existed-centauro",
+      "title": "THE UNIFORM THAT NEVER EXISTED",
+      "brand": "CENTAURO",
+      "oldUrl": "https://clios.com/sports/winner/design/centauro-sports/the-uniform-that-never-existed-102008",
+      "newUrl": "https://www.youtube.com/watch?v=FFJKcCL9c8M",
+      "score": 0.636
+    },
+    {
+      "id": "2024-the-big-shake-up-aktion-deutschland-hilft",
+      "title": "THE BIG SHAKE UP",
+      "brand": "AKTION DEUTSCHLAND HILFT",
+      "oldUrl": "https://lbbonline.com/work/108427",
+      "newUrl": "https://www.youtube.com/watch?v=V2eS0OpTDl4",
+      "score": 0.222
     }
   ]
 }

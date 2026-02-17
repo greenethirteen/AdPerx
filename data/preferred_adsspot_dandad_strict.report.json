@@ -1,0 +1,143 @@
+{
+  "generatedAt": "2026-02-17T00:58:42.530Z",
+  "targets": 996,
+  "checked": 996,
+  "updated": 12,
+  "noSource": 0,
+  "noHtml": 0,
+  "noPreferred": 979,
+  "changes": [
+    {
+      "id": "2023-is-that-heinz-heinz",
+      "title": "IS THAT HEINZ?",
+      "oldUrl": "https://www.wundermanthompson.com/work/is-that-heinz",
+      "newUrl": "https://www.dandad.org/awards/professional/2023/237531/heinz-fraud-ketchup/",
+      "host": "dandad.org",
+      "score": 8,
+      "tOv": 0.5,
+      "fullTitleHit": false,
+      "secondary": true
+    },
+    {
+      "id": "2018-telenet-play-sports-preroll-football-match-play-sports",
+      "title": "TELENET PLAY SPORTS PREROLL FOOTBALL MATCH",
+      "oldUrl": "https://www.tbwa.be/cases/47/play-sports-preroll-football-match",
+      "newUrl": "https://adsspot.me/media/tv-commercials/telenet-case-study-cbdaa87b30a6",
+      "host": "adsspot.me",
+      "score": 7,
+      "tOv": 0.5,
+      "fullTitleHit": false,
+      "secondary": true
+    },
+    {
+      "id": "2016-igugu-khanyi-c-surance",
+      "title": "IGUGU KHANYI",
+      "oldUrl": "https://www.youtube.com/watch?v=rVYd5rD6y3I&ab_channel=CellCSouthAfrica",
+      "newUrl": "https://adsspot.me/media/radio/c-surance-igugu-senzo-mp4-6d1e484f0262",
+      "host": "adsspot.me",
+      "score": 7,
+      "tOv": 0.5,
+      "fullTitleHit": false,
+      "secondary": true
+    },
+    {
+      "id": "2016-igugu-thembi-c-surance",
+      "title": "IGUGU THEMBI",
+      "oldUrl": "https://www.youtube.com/watch?v=ZiAvyugaadg&ab_channel=CellCSouthAfrica",
+      "newUrl": "https://adsspot.me/media/radio/c-surance-igugu-senzo-mp4-6d1e484f0262",
+      "host": "adsspot.me",
+      "score": 7,
+      "tOv": 0.5,
+      "fullTitleHit": false,
+      "secondary": true
+    },
+    {
+      "id": "2015-the-cancer-sutra-stupid-cancer",
+      "title": "THE CANCER SUTRA",
+      "oldUrl": "http://jephedrine.com/cancer-sutra",
+      "newUrl": "https://www.dandad.org/awards/professional/2015/integrated-innovative-media/24252/i-touch-myself-project/",
+      "host": "dandad.org",
+      "score": 8,
+      "tOv": 0.5,
+      "fullTitleHit": false,
+      "secondary": true
+    },
+    {
+      "id": "2014-no-child-brides-child-survival-india",
+      "title": "NO CHILD BRIDES",
+      "oldUrl": "https://www.youtube.com/watch?v=UK7Dnpew9YU&ab_channel=HavasGroup",
+      "newUrl": "https://www.dandad.org/awards/professional/2014/integrated-earned-media/23063/very-good-manners/",
+      "host": "dandad.org",
+      "score": 8,
+      "tOv": 0.5,
+      "fullTitleHit": false,
+      "secondary": true
+    },
+    {
+      "id": "2013-absolut-unique-absolut-vodka",
+      "title": "ABSOLUT UNIQUE",
+      "oldUrl": "https://www.absolut.com/gulf/absolutcollaborations/absolut-unique/",
+      "newUrl": "https://adsspot.me/media/tv-commercials/absolut-craft-absolut-craft-bartenders-collection-852bab777088",
+      "host": "adsspot.me",
+      "score": 7,
+      "tOv": 0.5,
+      "fullTitleHit": false,
+      "secondary": true
+    },
+    {
+      "id": "2013-our-food-your-question-mcdonald-s",
+      "title": "OUR FOOD. YOUR QUESTION.",
+      "oldUrl": "https://work.ddb.ca/en/mcdonalds-our-food-your-questions/",
+      "newUrl": "https://adsspot.me/media/tv-commercials/mcdonalds-our-food-your-questions-behind-the-scenes-466150f5fe44",
+      "host": "adsspot.me",
+      "score": 18,
+      "tOv": 1,
+      "fullTitleHit": true,
+      "secondary": true
+    },
+    {
+      "id": "2013-sos-by-sms-obra-do-berco",
+      "title": "SOS BY SMS",
+      "oldUrl": "https://www.youtube.com/watch?v=q1e-wpZ85CQ",
+      "newUrl": "https://adsspot.me/media/tv-commercials/obra-do-berco-%E2%80%93-pro-bono-daycare-for-children-sos-by-sms-f3c23c98cfe0",
+      "host": "adsspot.me",
+      "score": 8,
+      "tOv": 0,
+      "fullTitleHit": true,
+      "secondary": true
+    },
+    {
+      "id": "2012-nissan-rumble-nissan",
+      "title": "NISSAN RUMBLE",
+      "oldUrl": "https://www.youtube.com/watch?v=tkqLVdi1Wj4&ab_channel=TBWAHelsinki",
+      "newUrl": "https://adsspot.me/media/case-study/nissan-gt-academy-usa-season-2-54a6eeb7cc66",
+      "host": "adsspot.me",
+      "score": 7,
+      "tOv": 0.5,
+      "fullTitleHit": false,
+      "secondary": true
+    },
+    {
+      "id": "1994-hungry-iii-uintatherium-nissin-food",
+      "title": "HUNGRY? III UINTATHERIUM",
+      "oldUrl": "https://www.youtube.com/watch?v=vUJxex-FNrM&ab_channel=crasherjoe",
+      "newUrl": "https://adsspot.me/media/tv-commercials/cup-noodles-father-saw-stars-again-706fab35d06c",
+      "host": "adsspot.me",
+      "score": 7,
+      "tOv": 0.5,
+      "fullTitleHit": false,
+      "secondary": true
+    },
+    {
+      "id": "1981-the-train-part-1-the-norwegian-book-club",
+      "title": "THE TRAIN",
+      "oldUrl": "https://www.youtube.com/watch?v=ns_nHOQO5EA&ab_channel=JoachimA%2FV",
+      "newUrl": "https://adsspot.me/media/tv-commercials/weightwatchers-train-9e64e33b2140",
+      "host": "adsspot.me",
+      "score": 10,
+      "tOv": 1,
+      "fullTitleHit": false,
+      "secondary": false
+    }
+  ]
+}

@@ -1,18 +1,1012 @@
 {
-  "generatedAt": "2026-02-12T12:51:25.979Z",
-  "unresolved": 706,
-  "targets": 106,
-  "replaced": 0,
+  "generatedAt": "2026-02-17T00:42:59.456Z",
+  "unresolved": 1064,
+  "targets": 1064,
+  "replaced": 110,
   "bySource": {
     "youtube": 0,
-    "web": 0
+    "web": 2,
+    "adsspot": 0,
+    "source_page": 108
   },
-  "searched": 106,
-  "noCandidates": 106,
-  "lowScore": 0,
+  "searched": 1064,
+  "noCandidates": 575,
+  "lowScore": 379,
   "unavailable": 0,
-  "validatedReject": 0,
-  "minVideoScore": 0.28,
-  "minWebScore": 0.36,
-  "changed": []
+  "validatedReject": 54,
+  "minVideoScore": 0.68,
+  "minWebScore": 0.72,
+  "minYoutubeMetaScore": 0.3,
+  "changed": [
+    {
+      "id": "2025-read-better-waterstones",
+      "title": "READ BETTER",
+      "brand": "WATERSTONES",
+      "oldUrl": "https://www.robhall.work/portfolio/readbetter",
+      "newUrl": "https://vimeo.com/1104424991",
+      "source": "web",
+      "score": 1.011
+    },
+    {
+      "id": "2025-bar-dating-powered-by-hei-heineken",
+      "title": "BAR DATING: POWERED BY HEI!",
+      "brand": "HEINEKEN",
+      "oldUrl": "https://www.corinapatraucean.com/heineken-bar-dating",
+      "newUrl": "https://vimeo.com/1094167063",
+      "source": "web",
+      "score": 0.946
+    },
+    {
+      "id": "2025-the-co-worker-ikea",
+      "title": "THE CO-WORKER",
+      "brand": "IKEA",
+      "oldUrl": "https://www.ivanmontebello.com/coworker",
+      "newUrl": "https://www.dandad.org/awards/professional/2025/241087/believe-in-chicken-all-hail-gravy/",
+      "source": "source_page",
+      "score": 0.87
+    },
+    {
+      "id": "2024-oreo-menu-oreo",
+      "title": "OREO MENU",
+      "brand": "OREO",
+      "oldUrl": "https://www.vml.com/work/oreo-menu",
+      "newUrl": "https://www.dandad.org/awards/professional/2024/238409/gonna-need-more-tide/",
+      "source": "source_page",
+      "score": 0.87
+    },
+    {
+      "id": "2023-ecycleland-intel",
+      "title": "ECYCLELAND",
+      "brand": "INTEL",
+      "oldUrl": "https://www.vmlyr.com/en-us/united-states/work/ecycleland",
+      "newUrl": "https://www.dandad.org/awards/professional/2023/237747/buscape-back-to-the-city-of-god/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2023-inflation-cookbook-skip-the-dishes",
+      "title": "INFLATION COOKBOOK",
+      "brand": "SKIP THE DISHES",
+      "oldUrl": "https://www.dentsucreative.com/cases/inflation-cookbook",
+      "newUrl": "https://www.dandad.org/awards/professional/2023/237165/the-forgotten-team/",
+      "source": "source_page",
+      "score": 0.809
+    },
+    {
+      "id": "2023-baby-scan-marmite",
+      "title": "BABY SCAN",
+      "brand": "MARMITE",
+      "oldUrl": "https://adamandeveddb.com/work/born-lover",
+      "newUrl": "https://www.dandad.org/awards/professional/2023/237073/the-last-photo/",
+      "source": "source_page",
+      "score": 0.913
+    },
+    {
+      "id": "2023-nothing-fills-a-hole-like-pot-noodle-pot-noodle",
+      "title": "NOTHING FILLS A HOLE LIKE POT NOODLE",
+      "brand": "POT NOODLE",
+      "oldUrl": "https://www.adamandeveddb.com/work/nothing-fills-a-hole-like-pot-noodle",
+      "newUrl": "https://www.dandad.org/awards/professional/2023/237073/the-last-photo/",
+      "source": "source_page",
+      "score": 0.745
+    },
+    {
+      "id": "2023-re-store-kfc",
+      "title": "RE:STORE",
+      "brand": "KFC",
+      "oldUrl": "https://www.bestadsontv.com/ad/147167/KFC-KFC-ReStore",
+      "newUrl": "https://www.dandad.org/awards/professional/2023/237165/the-forgotten-team/",
+      "source": "source_page",
+      "score": 0.87
+    },
+    {
+      "id": "2023-neo-icarus-abebe-bikila",
+      "title": "NEO ICARUS",
+      "brand": "ABEBE BIKILA",
+      "oldUrl": "https://jordy.work/ICARUS",
+      "newUrl": "https://www.dandad.org/awards/professional/2023/237426/nike-50th-serena-vs-serena/",
+      "source": "source_page",
+      "score": 0.745
+    },
+    {
+      "id": "2023-the-everything-book-vedantu",
+      "title": "THE EVERYTHING BOOK",
+      "brand": "VEDANTU",
+      "oldUrl": "https://www.dentsucreative.com/cases/the-everything-book",
+      "newUrl": "https://www.dandad.org/awards/professional/2023/237165/the-forgotten-team/",
+      "source": "source_page",
+      "score": 0.82
+    },
+    {
+      "id": "2023-the-taiwanese-world-of-warcraft-world-of-warcraft",
+      "title": "THE TAIWANESE WORLD OF WARCRAFT",
+      "brand": "WORLD OF WARCRAFT",
+      "oldUrl": "https://www.dentsu.com/sg/en/our-work/case-study-dentsu-creative-taiwan-the-taiwanese-world-of-warcraft",
+      "newUrl": "https://www.dandad.org/awards/professional/2023/237165/the-forgotten-team/",
+      "source": "source_page",
+      "score": 0.809
+    },
+    {
+      "id": "2023-tip-for-heinz-the-kraft-heinz-company",
+      "title": "TIP FOR HEINZ",
+      "brand": "THE KRAFT HEINZ COMPANY",
+      "oldUrl": "https://www.contagious.com/news-and-views/campaign-of-the-week-heinz-engineers-grassroots-campaign-to-win-favour-with-restaurants",
+      "newUrl": "https://www.dandad.org/awards/professional/2023/237403/interface-interruption/",
+      "source": "source_page",
+      "score": 0.999
+    },
+    {
+      "id": "2022-how-to-explain-burger-king",
+      "title": "HOW TO EXPLAIN?",
+      "brand": "BURGER KING",
+      "oldUrl": "https://www.luanasilva.me/beats-zodiac-1-3",
+      "newUrl": "https://www.dandad.org/awards/professional/2022/235425/the-impossible-combo/",
+      "source": "source_page",
+      "score": 1.258
+    },
+    {
+      "id": "2022-stuck-in-the-80s-guaran-antarctica",
+      "title": "STUCK IN THE 80S",
+      "brand": "GUARANÁ ANTARCTICA",
+      "oldUrl": "https://www.youtube.com/watch?v=QkHf4ezQZTU&ab_channel=FelipeAutran",
+      "newUrl": "https://www.dandad.org/awards/professional/2022/236427/the-refugee-jatoba/",
+      "source": "source_page",
+      "score": 0.748
+    },
+    {
+      "id": "2022-stevenage-challenge-burger-king",
+      "title": "STEVENAGE CHALLENGE",
+      "brand": "BURGER KING",
+      "oldUrl": "https://vimeo.com/429907652",
+      "newUrl": "https://www.dandad.org/awards/professional/2022/235425/the-impossible-combo/",
+      "source": "source_page",
+      "score": 0.963
+    },
+    {
+      "id": "2022-the-real-problem-athos",
+      "title": "THE REAL PROBLEM",
+      "brand": "ATHOS",
+      "oldUrl": "http://leonardobarbosa.work/athos-the-real-problem",
+      "newUrl": "https://www.dandad.org/awards/professional/2022/236427/the-refugee-jatoba/",
+      "source": "source_page",
+      "score": 0.82
+    },
+    {
+      "id": "2022-the-prevention-grid-sce",
+      "title": "THE PREVENTION GRID",
+      "brand": "SCE",
+      "oldUrl": "https://youtu.be/cTSSntuolU0",
+      "newUrl": "https://www.dandad.org/awards/professional/2022/235449/912-the-untold-story-of-reconnecting-new-york/",
+      "source": "source_page",
+      "score": 0.809
+    },
+    {
+      "id": "2022-thighstop-wingstop",
+      "title": "THIGHSTOP",
+      "brand": "WINGSTOP",
+      "oldUrl": "https://www.contagious.com/news-and-views/cannes-lions-creative-commerce-winners-2022",
+      "newUrl": "https://www.dandad.org/awards/professional/2022/236089/invaluable-food/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2019-a-world-without-borders-aeromexico",
+      "title": "A WORLD WITHOUT BORDERS",
+      "brand": "AEROMEXICO",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/aeromexico/a-world-without-borders-72768",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/creativity-for-good/230108/the-uncensored-playlist/",
+      "source": "source_page",
+      "score": 0.77
+    },
+    {
+      "id": "2019-glade-change-is-in-the-air-sc-johnson",
+      "title": "GLADE, CHANGE IS IN THE AIR.",
+      "brand": "SC JOHNSON",
+      "oldUrl": "https://www.lbbonline.com/work/38288",
+      "newUrl": "https://www.dandad.org/awards/professional/2020/231821/scent-by-glade/",
+      "source": "source_page",
+      "score": 0.77
+    },
+    {
+      "id": "2019-changing-the-game-microsoft",
+      "title": "CHANGING THE GAME",
+      "brand": "MICROSOFT",
+      "oldUrl": "https://www.mccannworldgroup.com/work/we-all-win",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/media/230539/football-decoded/",
+      "source": "source_page",
+      "score": 0.883
+    },
+    {
+      "id": "2019-just-do-it-hq-at-the-church-nike",
+      "title": "JUST DO IT HQ AT THE CHURCH",
+      "brand": "NIKE",
+      "oldUrl": "https://activationideas.com/blog/the-church",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/film-advertising/230835/the-truth-is-worth-it/",
+      "source": "source_page",
+      "score": 0.82
+    },
+    {
+      "id": "2019-pinch-netflix",
+      "title": "PINCH",
+      "brand": "NETFLIX",
+      "oldUrl": "https://www.lbbonline.com/news/this-innovative-new-product-tackles-excessive-salt-consumption-in-argentina",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/direct/231573/the-all-in-promo/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2019-turn-to-us-refuge",
+      "title": "TURN TO US",
+      "brand": "REFUGE",
+      "oldUrl": "https://zanecreative.co.uk/turn-to-us",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/media/230539/football-decoded/",
+      "source": "source_page",
+      "score": 0.9
+    },
+    {
+      "id": "2019-the-oldies-canal",
+      "title": "THE OLDIES",
+      "brand": "CANAL",
+      "oldUrl": "https://clios.com/awards/winner/film/canal-/spitfire-62493",
+      "newUrl": "https://www.dandad.org/awards/professional/2020/231833/refurbished-tweets/",
+      "source": "source_page",
+      "score": 0.728
+    },
+    {
+      "id": "2019-you-seeing-this-espn-x-nba",
+      "title": "YOU SEEING THIS?",
+      "brand": "ESPN X NBA",
+      "oldUrl": "https://www.rga.com/work/case-studies/you-seeing-this",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/media/230774/its-a-thursday-night-tide-ad/",
+      "source": "source_page",
+      "score": 0.764
+    },
+    {
+      "id": "2018-astronaut-reality-helmet-national-geographic",
+      "title": "ASTRONAUT REALITY HELMET",
+      "brand": "NATIONAL GEOGRAPHIC",
+      "oldUrl": "https://www.mccannny.com/work/the-astronaut-reality-helmet",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/direct/231561/the-rape-tax/",
+      "source": "source_page",
+      "score": 0.759
+    },
+    {
+      "id": "2018-80-days-of-argos-argos",
+      "title": "80 DAYS OF ARGOS",
+      "brand": "ARGOS",
+      "oldUrl": "https://theandpartnership.com/projects/80-days-of-argos/",
+      "newUrl": "https://www.dandad.org/awards/professional/2018/direct/26830/xbox-design-lab-originals-the-fanchise-model/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2018-battle-in-the-bone-xofigo",
+      "title": "BATTLE IN THE BONE",
+      "brand": "XOFIGO",
+      "oldUrl": "https://clios.com/health/winner/print-technique-pharmaceutical/xofigo-radium-ra-223-dichloride/battle-in-the-bone-55983",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/direct/231561/the-rape-tax/",
+      "source": "source_page",
+      "score": 0.981
+    },
+    {
+      "id": "2018-c21-national-down-syndrome-society",
+      "title": "C21",
+      "brand": "NATIONAL DOWN SYNDROME SOCIETY",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/national-down-syndrome-society/c21-49701",
+      "newUrl": "https://www.dandad.org/awards/professional/2018/media/27055/its-a-tide-ad-campaign/",
+      "source": "source_page",
+      "score": 0.748
+    },
+    {
+      "id": "2018-chompers-p-g",
+      "title": "CHOMPERS",
+      "brand": "P&G",
+      "oldUrl": "https://clios.com/awards/winner/audio/p-g-crest-kids/chompers-42206",
+      "newUrl": "https://www.dandad.org/awards/professional/2018/media/27055/its-a-tide-ad-campaign/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2018-contortionists-l-pm",
+      "title": "CONTORTIONISTS",
+      "brand": "L&PM",
+      "oldUrl": "https://fabiohas.com/projects/contortionists",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/pr/230368/this-coke-is-a-fanta/",
+      "source": "source_page",
+      "score": 0.74
+    },
+    {
+      "id": "2018-gene-project-90-unilever",
+      "title": "GENE PROJECT 90″",
+      "brand": "UNILEVER",
+      "oldUrl": "https://activationideas.com/blog/gene-project",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/creativity-for-good/230146/project-84/",
+      "source": "source_page",
+      "score": 1.006
+    },
+    {
+      "id": "2018-prom-king-burger-king",
+      "title": "PROM KING",
+      "brand": "BURGER KING",
+      "oldUrl": "https://vimeopro.com/mullenlowegroup/cannes-lions-2018-winners/video/276851053",
+      "newUrl": "https://www.dandad.org/awards/professional/2018/integrated/27213/google-home-of-the-whopper/",
+      "source": "source_page",
+      "score": 0.828
+    },
+    {
+      "id": "2018-saved-by-monster-monster",
+      "title": "SAVED BY MONSTER",
+      "brand": "MONSTER",
+      "oldUrl": "https://clios.com/awards/winner/film-technique-direction/monster-com/saved-by-monster-44145",
+      "newUrl": "https://www.dandad.org/awards/professional/2018/branded-content-entertainment/26707/grammys-play-the-city/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2018-the-first-ad-in-the-blockchain-tda",
+      "title": "THE FIRST AD IN THE BLOCKCHAIN",
+      "brand": "TDA",
+      "oldUrl": "https://www.youtube.com/watch?v=BvuxSGTD5-E&ab_channel=Havas",
+      "newUrl": "https://www.dandad.org/awards/professional/2018/pr/26599/christies-the-last-da-vinci/",
+      "source": "source_page",
+      "score": 0.889
+    },
+    {
+      "id": "2018-the-room-ikea",
+      "title": "THE ROOM",
+      "brand": "IKEA",
+      "oldUrl": "https://clios.com/awards/winner/public-relations/ikea-italy/the-room-47125",
+      "newUrl": "https://www.dandad.org/awards/professional/2018/direct/26811/exclusive-the-rainbow-case-study/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2018-thunderbirds-halifax",
+      "title": "THUNDERBIRDS",
+      "brand": "HALIFAX",
+      "oldUrl": "https://www.youtube.com/watch?v=cdhPVQhnMuI",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/creativity-for-good/230146/project-84/",
+      "source": "source_page",
+      "score": 0.895
+    },
+    {
+      "id": "2018-the-talk-60-p-g",
+      "title": "THE TALK :60",
+      "brand": "P&G",
+      "oldUrl": "https://www.youtube.com/watch?v=XPl3hZqFaLM",
+      "newUrl": "https://www.dandad.org/awards/professional/2018/digital-marketing/26789/live-looper/",
+      "source": "source_page",
+      "score": 1.128
+    },
+    {
+      "id": "2018-unnoticed-lg",
+      "title": "UNNOTICED",
+      "brand": "LG",
+      "oldUrl": "https://www.rafaoliveira.work/lg-unnoticed",
+      "newUrl": "https://www.dandad.org/awards/professional/2019/pr/230368/this-coke-is-a-fanta/",
+      "source": "source_page",
+      "score": 0.74
+    },
+    {
+      "id": "2018-twitter-fingers-wendy-s",
+      "title": "TWITTER FINGERS",
+      "brand": "WENDY’S",
+      "oldUrl": "https://clios.com/awards/winner/social-media/wendy-s/twitter-beef-23223",
+      "newUrl": "https://clios.com/awards/winner/47960",
+      "source": "source_page",
+      "score": 0.863
+    },
+    {
+      "id": "2017-100-things-gun-by-gun",
+      "title": "100 THINGS",
+      "brand": "GUN BY GUN",
+      "oldUrl": "https://workingnotworking.com/projects/147178-gunxgun-100-things",
+      "newUrl": "https://www.dandad.org/awards/professional/2017/press-advertising/26245/documents/",
+      "source": "source_page",
+      "score": 1.184
+    },
+    {
+      "id": "2017-mannschafts-whopper-burger-king",
+      "title": "MANNSCHAFTS-WHOPPER",
+      "brand": "BURGER KING",
+      "oldUrl": "https://www.youtube.com/watch?v=rzTVu-_Qohs&ab_channel=48k%E2%80%93Studiof%C3%BCrmusikalischeKommunikation",
+      "newUrl": "https://www.dandad.org/awards/professional/2017/press-advertising/26259/burning-stores-campaign/",
+      "source": "source_page",
+      "score": 0.745
+    },
+    {
+      "id": "2017-mccafe-mcdonalds",
+      "title": "MCCAFE",
+      "brand": "MCDONALDS",
+      "oldUrl": "http://brunobomediano.co/#/mccafe/",
+      "newUrl": "https://www.dandad.org/awards/professional/2017/integrated-collaborative/26005/the-nations-bike/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2017-instant-dj-bacardi",
+      "title": "INSTANT DJ",
+      "brand": "BACARDI",
+      "oldUrl": "https://bbdo.com/work/58b07d52f1e61d3751e41789",
+      "newUrl": "https://www.dandad.org/awards/professional/2017/direct/26368/evan/",
+      "source": "source_page",
+      "score": 1.037
+    },
+    {
+      "id": "2017-one-breath-j-j",
+      "title": "ONE BREATH",
+      "brand": "J & J",
+      "oldUrl": "https://clios.com/health/winner/film-health-wellness/j-j-nicorette/one-breath-29502",
+      "newUrl": "https://www.dandad.org/awards/professional/2017/creativity-for-good/25756/blood/",
+      "source": "source_page",
+      "score": 1.01
+    },
+    {
+      "id": "2017-official-gorillaz-app-gorillaz",
+      "title": "OFFICIAL GORILLAZ APP",
+      "brand": "GORILLAZ",
+      "oldUrl": "https://www.b-reel.com/work/gorillaz-humanz-app",
+      "newUrl": "https://www.dandad.org/awards/professional/2017/direct/26368/evan/",
+      "source": "source_page",
+      "score": 0.77
+    },
+    {
+      "id": "2017-sauna-urinals-volkswagen",
+      "title": "SAUNA, URINALS",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://www.lucianogriessi.com/volkswagen",
+      "newUrl": "https://www.dandad.org/awards/professional/2018/press-advertising/27119/the-worst-photos/",
+      "source": "source_page",
+      "score": 0.784
+    },
+    {
+      "id": "2017-the-corruption-converter-estad-o-newspaper",
+      "title": "THE CORRUPTION CONVERTER",
+      "brand": "ESTADÃO NEWSPAPER",
+      "oldUrl": "http://victorodo.com/the-corruption-converter",
+      "newUrl": "https://www.dandad.org/awards/professional/2018/direct/26820/the-colour-of-corruption/",
+      "source": "source_page",
+      "score": 0.809
+    },
+    {
+      "id": "2017-the-corner-powerade",
+      "title": "THE CORNER",
+      "brand": "POWERADE",
+      "oldUrl": "http://archive.themill.com/portfolio/3100/the-corner",
+      "newUrl": "https://clios.com/sports/winner/16762",
+      "source": "source_page",
+      "score": 0.863
+    },
+    {
+      "id": "2017-the-receipt-walmart",
+      "title": "THE RECEIPT",
+      "brand": "WALMART",
+      "oldUrl": "https://javiercampopiano.squarespace.com/#/walmart-the-receipt/",
+      "newUrl": "https://www.dandad.org/awards/professional/2017/pr/25818/the-refugee-nation/",
+      "source": "source_page",
+      "score": 0.913
+    },
+    {
+      "id": "2017-we-re-the-superhumans-channel-4",
+      "title": "WE’RE THE SUPERHUMANS",
+      "brand": "CHANNEL 4",
+      "oldUrl": "https://www.youtube.com/watch?v=khJWNuFRsDY&ab_channel=BestMediaInfo",
+      "newUrl": "https://clios.com/awards/winner/23642",
+      "source": "source_page",
+      "score": 0.728
+    },
+    {
+      "id": "2016-brewed-with-love-bergedorfer-bier",
+      "title": "BREWED WITH LOVE",
+      "brand": "BERGEDORFER BIER",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/bergedorfer-jung-von-matt-06-2016",
+      "newUrl": "https://clios.com/awards/winner/12997",
+      "source": "source_page",
+      "score": 0.85
+    },
+    {
+      "id": "2016-adaptoys-adaptoys",
+      "title": "ADAPTOYS",
+      "brand": "ADAPTOYS",
+      "oldUrl": "https://www.axiosnyc.com/adaptoys",
+      "newUrl": "https://www.dandad.org/awards/professional/2016/integrated-innovative-media/25022/house-of-cards-fu-2016/",
+      "source": "source_page",
+      "score": 1.1
+    },
+    {
+      "id": "2016-mentors-mentos",
+      "title": "MENTORS",
+      "brand": "MENTOS",
+      "oldUrl": "https://dougandmikael.com/Mentos",
+      "newUrl": "https://www.dandad.org/awards/professional/2016/integrated-innovative-media/25022/house-of-cards-fu-2016/",
+      "source": "source_page",
+      "score": 0.79
+    },
+    {
+      "id": "2016-sizzl-oscar-mayer-bacon",
+      "title": "SIZZL",
+      "brand": "OSCAR MAYER BACON",
+      "oldUrl": "http://www.shloimynotik.com/oscar-mayer-bacon",
+      "newUrl": "https://www.dandad.org/awards/professional/2016/integrated-innovative-media/25022/house-of-cards-fu-2016/",
+      "source": "source_page",
+      "score": 0.751
+    },
+    {
+      "id": "2016-x-ray-casts-anchor-milk",
+      "title": "X-RAY CASTS",
+      "brand": "ANCHOR MILK",
+      "oldUrl": "https://www.colensobbdo.co.nz/portfolio/anchor-x-ray-cast/",
+      "newUrl": "https://www.dandad.org/awards/professional/2016/environmental-sustainability/232209/brewtroleum/",
+      "source": "source_page",
+      "score": 0.82
+    },
+    {
+      "id": "2015-dogs-don-t-judge-pedigree",
+      "title": "DOGS DON’T JUDGE",
+      "brand": "PEDIGREE",
+      "oldUrl": "https://www.colensobbdo.co.nz/portfolio/dogs-dont-judge/",
+      "newUrl": "https://clios.com/awards/winner/1070",
+      "source": "source_page",
+      "score": 0.77
+    },
+    {
+      "id": "2015-cartoon-helpline-graacc",
+      "title": "CARTOON HELPLINE",
+      "brand": "GRAACC",
+      "oldUrl": "https://brunomontoro.squarespace.com/cartoon-helpline",
+      "newUrl": "https://www.dandad.org/awards/professional/2015/direct/24654/tattoo-skin-cancer-check/",
+      "source": "source_page",
+      "score": 0.913
+    },
+    {
+      "id": "2015-found-mars",
+      "title": "FOUND",
+      "brand": "MARS",
+      "oldUrl": "https://www.colensobbdo.co.nz/portfolio/pedigree-found/",
+      "newUrl": "https://clios.com/awards/winner/1070",
+      "source": "source_page",
+      "score": 0.987
+    },
+    {
+      "id": "2015-ibm-bitcoin-rain-ibm",
+      "title": "IBM BITCOIN RAIN",
+      "brand": "IBM",
+      "oldUrl": "https://activationideas.com/blog/bitcoin-rain",
+      "newUrl": "https://www.dandad.org/awards/professional/2015/direct/24654/tattoo-skin-cancer-check/",
+      "source": "source_page",
+      "score": 0.913
+    },
+    {
+      "id": "2015-radio-finger-grupo-petr-polis",
+      "title": "RADIO FINGER",
+      "brand": "GRUPO PETRÓPOLIS",
+      "oldUrl": "https://www.bestadsontv.com/ad/72706/Itaipava-Radio-Finger",
+      "newUrl": "https://clios.com/awards/winner/1171",
+      "source": "source_page",
+      "score": 0.863
+    },
+    {
+      "id": "2015-the-guy-with-no-timing-am-pm",
+      "title": "THE GUY WITH NO TIMING",
+      "brand": "AM PM",
+      "oldUrl": "https://rodrigotortima.com/Homem-Sem-Timing",
+      "newUrl": "https://www.dandad.org/awards/professional/2015/film-advertising-crafts/24812/everyone-is-gay/",
+      "source": "source_page",
+      "score": 0.833
+    },
+    {
+      "id": "2015-samsung-holiday-dreams-samsung",
+      "title": "SAMSUNG HOLIDAY DREAMS",
+      "brand": "SAMSUNG",
+      "oldUrl": "https://www.rga.com/work/case-studies/holiday-dreams",
+      "newUrl": "https://www.dandad.org/awards/professional/2015/white-pencil-creativity-for-good/24210/this-is-wholesome/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2015-ticket-books-l-pm",
+      "title": "TICKET BOOKS",
+      "brand": "L&PM",
+      "oldUrl": "https://creativepool.com/agenciaafrica/projects/ticket-books-for-lpm",
+      "newUrl": "https://www.dandad.org/awards/professional/2015/direct/24673/soundlab-box/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2014-bid-for-greatness-sony-playstation",
+      "title": "BID FOR GREATNESS",
+      "brand": "SONY PLAYSTATION",
+      "oldUrl": "http://www.masunu.com/work-playstation-bidforgreatness.html",
+      "newUrl": "https://www.dandad.org/awards/professional/2014/integrated-earned-media/23037/the-launch-of-greatness-awaits/",
+      "source": "source_page",
+      "score": 1.214
+    },
+    {
+      "id": "2014-google-outside-google",
+      "title": "GOOGLE OUTSIDE",
+      "brand": "GOOGLE",
+      "oldUrl": "https://www.rga.com/work/case-studies/google-outside",
+      "newUrl": "https://www.dandad.org/awards/professional/2014/digital-marketing/23428/magic-of-flying/",
+      "source": "source_page",
+      "score": 0.81
+    },
+    {
+      "id": "2014-leave-the-world-behind-volvo-xc60",
+      "title": "LEAVE THE WORLD BEHIND",
+      "brand": "VOLVO XC60",
+      "oldUrl": "https://forsman.co/work/volvo/leave-the-world-behind",
+      "newUrl": "https://www.dandad.org/awards/professional/2014/digital-marketing/23386/the-epic-split/",
+      "source": "source_page",
+      "score": 1
+    },
+    {
+      "id": "2014-s-drive-samsung",
+      "title": "S-DRIVE",
+      "brand": "SAMSUNG",
+      "oldUrl": "https://brunonakano.com/projects/s-drive",
+      "newUrl": "https://clios.com/awards/winner/3937",
+      "source": "source_page",
+      "score": 1.037
+    },
+    {
+      "id": "2014-the-greatest-story-unicef",
+      "title": "THE GREATEST STORY",
+      "brand": "UNICEF",
+      "oldUrl": "https://forsman.co/work/unicef/the-good-guys-christmas",
+      "newUrl": "https://www.dandad.org/awards/professional/2014/digital-marketing/23386/the-epic-split/",
+      "source": "source_page",
+      "score": 1.014
+    },
+    {
+      "id": "2014-unlock-lessons-app",
+      "title": "UNLOCK LESSONS",
+      "brand": "APP",
+      "oldUrl": "https://www.youtube.com/watch?v=rUh3ueqUbHI",
+      "newUrl": "https://www.dandad.org/awards/professional/2015/direct/24627/protection/",
+      "source": "source_page",
+      "score": 0.728
+    },
+    {
+      "id": "2014-the-last-of-us-playstation-4",
+      "title": "THE LAST OF US",
+      "brand": "PLAYSTATION 4",
+      "oldUrl": "https://www.180amsterdam.com/case/the-last-of-us",
+      "newUrl": "https://www.dandad.org/awards/professional/2014/integrated-earned-media/23037/the-launch-of-greatness-awaits/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2013-cloud-diageo",
+      "title": "CLOUD",
+      "brand": "DIAGEO",
+      "oldUrl": "http://archive.themill.com/portfolio/776/cloud?q=CLOUD",
+      "newUrl": "https://www.dandad.org/awards/professional/2013/film-advertising-crafts/20045/meet-the-superhumans/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2013-98-human-peta",
+      "title": "98% HUMAN",
+      "brand": "PETA",
+      "oldUrl": "http://archive.themill.com/portfolio/1393/98%25-human",
+      "newUrl": "https://www.dandad.org/awards/professional/2013/integrated-earned-media/19773/susan-glenn/",
+      "source": "source_page",
+      "score": 0.77
+    },
+    {
+      "id": "2013-disclaimer-american-garden-coconut-juice",
+      "title": "DISCLAIMER",
+      "brand": "AMERICAN GARDEN COCONUT JUICE",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/american-garden-yr-07-2013",
+      "newUrl": "https://www.dandad.org/awards/professional/2013/crafts-for-advertising/20096/pelicans/",
+      "source": "source_page",
+      "score": 0.748
+    },
+    {
+      "id": "2013-flavorprint-mccormick",
+      "title": "FLAVORPRINT",
+      "brand": "MCCORMICK",
+      "oldUrl": "https://www.rga.com/work/case-studies/flavorprint",
+      "newUrl": "https://www.dandad.org/awards/professional/2013/integrated-earned-media/19773/susan-glenn/",
+      "source": "source_page",
+      "score": 0.9
+    },
+    {
+      "id": "2013-fedex-cup-fedex",
+      "title": "FEDEX CUP",
+      "brand": "FEDEX",
+      "oldUrl": "https://www.youtube.com/watch?v=QMKy-Ky18Rs",
+      "newUrl": "https://www.dandad.org/awards/professional/2013/integrated-earned-media/19773/susan-glenn/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2013-made-with-ibm-ibm",
+      "title": "MADE WITH IBM",
+      "brand": "IBM",
+      "oldUrl": "https://youfoundlauren.com/#/madewithibm/",
+      "newUrl": "https://www.dandad.org/awards/professional/2014/art-direction/23266/ibm-smarter-outdoor/",
+      "source": "source_page",
+      "score": 0.849
+    },
+    {
+      "id": "2013-why-pay-more-knacki",
+      "title": "WHY PAY MORE?",
+      "brand": "KNACKI",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/knacki-ogilvy-06-2013",
+      "newUrl": "https://www.dandad.org/awards/professional/2014/art-direction/23266/ibm-smarter-outdoor/",
+      "source": "source_page",
+      "score": 0.72
+    },
+    {
+      "id": "2012-best-job-p-g",
+      "title": "BEST JOB",
+      "brand": "P&G",
+      "oldUrl": "http://archive.themill.com/portfolio/1374/best-job",
+      "newUrl": "https://www.dandad.org/awards/professional/2012/tv-cinema-advertising/19314/open-your-world/",
+      "source": "source_page",
+      "score": 0.778
+    },
+    {
+      "id": "2011-rise-lebron-james-nike",
+      "title": "RISE LEBRON JAMES",
+      "brand": "NIKE",
+      "oldUrl": "https://www.youtube.com/watch?v=ZQ6nKET2Yho&ab_channel=ChipMaude",
+      "newUrl": "https://www.dandad.org/awards/professional/2011/digital-advertising/18332/write-the-future/",
+      "source": "source_page",
+      "score": 0.87
+    },
+    {
+      "id": "2011-stop-the-water-while-using-me-t-d-g-vertriebs",
+      "title": "STOP THE WATER WHILE USING ME!",
+      "brand": "T.D.G. VERTRIEBS",
+      "oldUrl": "https://www.kolle-rebbe.de/en/work/stop-the-water-while-using-me",
+      "newUrl": "https://www.adsoftheworld.com/media/direct/tdg_vertriebs_cheese_pencil",
+      "source": "source_page",
+      "score": 0.805
+    },
+    {
+      "id": "2011-when-i-grow-up-faktum-forsman-bodenfors-stockholm-hands-the-national-centre-for-domestic-violence-jwt-london-2010-s",
+      "title": "WHEN I GROW UP",
+      "brand": "FAKTUM (FORSMAN & BODENFORS STOCKHOLM) HANDS – THE NATIONAL CENTRE FOR DOMESTIC VIOLENCE (JWT LONDON)2010’S FAIREST ANNUAL REPORT – LEMONAID BEVERAGES",
+      "oldUrl": "https://forsman.co/work/faktum/calendar-2011-when-i-grow-up",
+      "newUrl": "https://www.dandad.org/awards/professional/2011/digital-advertising/18335/save-as-wwf/",
+      "source": "source_page",
+      "score": 0.731
+    },
+    {
+      "id": "2011-the-sampler-converse",
+      "title": "THE SAMPLER",
+      "brand": "CONVERSE",
+      "oldUrl": "https://vimeo.com/182254372",
+      "newUrl": "https://www.dandad.org/awards/professional/2011/integrated-earned-media/18522/pay-with-a-tweet/",
+      "source": "source_page",
+      "score": 0.87
+    },
+    {
+      "id": "2010-flyvertising-eichborn",
+      "title": "FLYVERTISING",
+      "brand": "EICHBORN",
+      "oldUrl": "https://www.bureaubeck.com/eichborn",
+      "newUrl": "https://www.dandad.org/awards/professional/2010/digital-advertising/18251/sounds-of-hamburg/",
+      "source": "source_page",
+      "score": 1.134
+    },
+    {
+      "id": "2010-the-blob-breast-cancer-association",
+      "title": "THE BLOB",
+      "brand": "BREAST CANCER ASSOCIATION",
+      "oldUrl": "https://www.bestadsontv.com/ad/25016/The-New-Zealand-Breast-Cancer-Foundation-The-Blob",
+      "newUrl": "https://www.dandad.org/awards/professional/2011/direct/18371/yellow-chocolate/",
+      "source": "source_page",
+      "score": 0.759
+    },
+    {
+      "id": "2010-the-man-who-walked-around-the-world-guinness",
+      "title": "THE MAN WHO WALKED AROUND THE WORLD",
+      "brand": "GUINNESS",
+      "oldUrl": "https://www.youtube.com/watch?v=xvCzYbSanVo",
+      "newUrl": "https://www.dandad.org/awards/professional/2010/tv-cinema-crafts/17813/turn-around/",
+      "source": "source_page",
+      "score": 0.8
+    },
+    {
+      "id": "2010-the-regulars-foster-s",
+      "title": "THE REGULARS",
+      "brand": "FOSTER’S",
+      "oldUrl": "https://www.bestadsontv.com/ad/22872/VB-The-Regulars",
+      "newUrl": "https://www.dandad.org/awards/professional/2010/direct/17885/4320-lasyd/",
+      "source": "source_page",
+      "score": 0.87
+    },
+    {
+      "id": "2009-oasis-dig-out-your-soul-in-the-street-nyc-co-and-warner-brothers",
+      "title": "OASIS DIG OUT YOUR SOUL IN THE STREET",
+      "brand": "NYC & CO. AND WARNER BROTHERS",
+      "oldUrl": "https://www.youtube.com/watch?v=lCA1-RJTuns&ab_channel=GREATADS%26LESSGREATADS%28BUTSTILLOK%29",
+      "newUrl": "https://www.dandad.org/awards/professional/2009/ambient/17138/oasis-dig-out-your-soul-in-the-streets/",
+      "source": "source_page",
+      "score": 1.577
+    },
+    {
+      "id": "2009-penguins-walrus-panda-fiat-group-marcel-paris-cross-x-lines-t-circles-oo-epa-bbdo-s-o-paulo-hotel-626-doritos",
+      "title": "PENGUINS, WALRUS, PANDA",
+      "brand": "FIAT GROUP (MARCEL PARIS)CROSS (X), LINES (T), CIRCLES (OO) – EPA (BBDO SÃO PAULO)HOTEL 626 – DORITOS",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/fiat-marcel-06-2009",
+      "newUrl": "https://www.dandad.org/awards/professional/2009/online-advertising/17652/wario-land-shake-it/",
+      "source": "source_page",
+      "score": 0.733
+    },
+    {
+      "id": "2009-shark-calf-and-crocodile-wwf",
+      "title": "SHARK, CALF AND CROCODILE",
+      "brand": "WWF",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/wwf-jwt-06-2009",
+      "newUrl": "https://www.adsoftheworld.com/creative/neo_kian_heng",
+      "source": "source_page",
+      "score": 1.401
+    },
+    {
+      "id": "2009-vase-robot-trumpet-fedex",
+      "title": "VASE, ROBOT, TRUMPET",
+      "brand": "FEDEX",
+      "oldUrl": "http://www.benjaminyung.com/fedex-express",
+      "newUrl": "https://www.adsoftheworld.com/campaigns/routine-sucks-snow",
+      "source": "source_page",
+      "score": 0.77
+    },
+    {
+      "id": "2009-woman-man-bayer",
+      "title": "WOMAN, MAN",
+      "brand": "BAYER",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/bayer-bbdo-07-2009",
+      "newUrl": "https://www.dandad.org/awards/professional/2009/illustration/17541/bear-mafia-magician-paparazzi-prison/",
+      "source": "source_page",
+      "score": 0.741
+    },
+    {
+      "id": "2008-ashtray-to-vase-cancer-research",
+      "title": "ASHTRAY TO VASE",
+      "brand": "CANCER RESEARCH",
+      "oldUrl": "https://creativepool.com/ogilvy/projects/cancer-research-ashtray-to-vase-for-cancer-research",
+      "newUrl": "https://www.dandad.org/awards/professional/2008/tv-cinema-advertising/16343/give-a-few-bob/",
+      "source": "source_page",
+      "score": 0.963
+    },
+    {
+      "id": "2008-conference-call-assistant-into-golf-fedex",
+      "title": "CONFERENCE CALL, ASSISTANT, INTO GOLF",
+      "brand": "FEDEX",
+      "oldUrl": "https://www.adamkanzer.com/FedEx",
+      "newUrl": "https://www.dandad.org/awards/professional/2008/ambient/16479/bbc-cables-gunsprotestfood-drop/",
+      "source": "source_page",
+      "score": 0.745
+    },
+    {
+      "id": "2008-for-every-kind-of-load-volkswagen",
+      "title": "FOR EVERY KIND OF LOAD",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://www.adsoftheworld.com/campaign/volkswagen-bbdo-06-2008",
+      "newUrl": "https://www.adsoftheworld.com/media/print/volkswagen_tracking",
+      "source": "source_page",
+      "score": 0.981
+    },
+    {
+      "id": "2005-welcome-sony",
+      "title": "WELCOME",
+      "brand": "SONY",
+      "oldUrl": "https://assets.lovethework.com/loc1/archive/2005/press/high/01129.jpg?Key-Pair-Id=K3KXIJDC8V1Z48&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2MDU0NDY5M319LCJSZXNvdXJjZSI6Imh0dHBzOi8vYXNzZXRzLmxvdmV0aGV3b3JrLmNvbS9sb2MxL2FyY2hpdmUvMjAwNS9wcmVzcy9oaWdoLzAxMTI5LmpwZyJ9XX0&Signature=sFQDw0FVoUHmOd7Z92KVppouKsyQLOcmmghJqy7xh6ylAjluB94RfUk8ynGuUxyUty6saDB1fYITUhxibtyDbnM%2BFKDrsQe992Tqkvkw2xvZHsEQBaAJ8YNDVjVTKbRY1Np7lCP%2BpXkZAIDYlDcMWTIeuNOYo%2FQ19gy1m4wfgeILOgr7MZaHXZpTO19219KsRRan6X7WFUaxgecA0voKD9AwbdfeWhuSs2AG7P2bZTkgpdc7mi3RP%2F1uuTyl%2FEAVpiVRJhqlwno8oZmCpQDYecBmJ7Lgf9kZHgoKwje%2BTO7gVBa8C%2F54efC1V%2BAOCsRt8ygnKeziJm26F6Hr8bXusQ",
+      "newUrl": "https://www.dandad.org/awards/professional/2005/tv-cinema-advertising/14109/traders/",
+      "source": "source_page",
+      "score": 0.95
+    },
+    {
+      "id": "2003-nike-goddess-nike",
+      "title": "NIKE GODDESS",
+      "brand": "NIKE",
+      "oldUrl": "https://d26eb5y2jukpbz.cloudfront.net/ebs/archive/2004/media/04038N_a.jpg",
+      "newUrl": "https://www.dandad.org/awards/professional/2003/interactive-digital-media/12867/nike-lab/",
+      "source": "source_page",
+      "score": 1.26
+    },
+    {
+      "id": "2002-baby-honda",
+      "title": "BABY",
+      "brand": "HONDA",
+      "oldUrl": "https://d26eb5y2jukpbz.cloudfront.net/ebs/archive/2002/media/02185A.jpg",
+      "newUrl": "https://www.dandad.org/awards/professional/2004/non-english-language-press-advertising/13680/knee-hips-spine/",
+      "source": "source_page",
+      "score": 0.728
+    },
+    {
+      "id": "1999-slackers-kellogg-s-corp",
+      "title": "SLACKERS",
+      "brand": "KELLOGG’S CORP",
+      "oldUrl": "https://www.youtube.com/watch?v=NRHzFOWKb8o&ab_channel=BillyThomasPearson",
+      "newUrl": "https://www.dandad.org/awards/professional/1999/tv-cinema-advertising/10393/cannon-band-forehead/",
+      "source": "source_page",
+      "score": 0.751
+    },
+    {
+      "id": "1999-marathon-man-nike",
+      "title": "MARATHON MAN",
+      "brand": "NIKE",
+      "oldUrl": "https://www.youtube.com/watch?v=XTkZe94uyhg&ab_channel=JunknasiumLostMediaArchive",
+      "newUrl": "https://adsspot.me/media/tv-commercials/nike-shoes-and-apparel-mountain-man-5842a503c35e",
+      "source": "source_page",
+      "score": 1.237
+    },
+    {
+      "id": "1998-bowling-fox-network",
+      "title": "BOWLING",
+      "brand": "FOX NETWORK",
+      "oldUrl": "https://www.luerzersarchive.com/en/magazine/commercial-detail/22324.html",
+      "newUrl": "https://www.dandad.org/awards/professional/1999/tv-cinema-advertising/10393/cannon-band-forehead/",
+      "source": "source_page",
+      "score": 0.895
+    },
+    {
+      "id": "1998-protection-volkswagen",
+      "title": "PROTECTION",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://www.youtube.com/watch?v=Xq3xMVZa2KI&ab_channel=EleanorKahn",
+      "newUrl": "https://adsspot.me/media/tv-commercials/volkswagen-polo-bus-sandwich-e269a8237f3d",
+      "source": "source_page",
+      "score": 0.997
+    },
+    {
+      "id": "1998-cabbie-nike",
+      "title": "CABBIE",
+      "brand": "NIKE",
+      "oldUrl": "https://www.youtube.com/watch?v=ySjUgBSA80g&ab_channel=TotalityProductions",
+      "newUrl": "https://www.dandad.org/awards/professional/1994/tv-cinema-advertising/20423/nike-vs-opera-don-quincy/",
+      "source": "source_page",
+      "score": 1.203
+    },
+    {
+      "id": "1997-doors-volkswagen",
+      "title": "DOORS",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://www.youtube.com/watch?v=u9ggeHMf4Yk&ab_channel=rocketraccoon20",
+      "newUrl": "https://adsspot.me/media/tv-commercials/volkswagen-golf-chair-d7421899246d",
+      "source": "source_page",
+      "score": 0.951
+    },
+    {
+      "id": "1996-homemade-volkswagen",
+      "title": "HOMEMADE",
+      "brand": "VOLKSWAGEN",
+      "oldUrl": "https://www.youtube.com/watch?v=4Ss_Vmt-oJA&ab_channel=rocketraccoon20",
+      "newUrl": "https://adsspot.me/media/tv-commercials/volkswagen-polo-bus-sandwich-e269a8237f3d",
+      "source": "source_page",
+      "score": 0.83
+    },
+    {
+      "id": "1993-valentines-day-galerias",
+      "title": "VALENTINES DAY",
+      "brand": "GALERIAS",
+      "oldUrl": "https://www.luerzersarchive.com/en/magazine/commercial-detail/23739.html",
+      "newUrl": "https://adsspot.me/media/tv-commercials/galerias-department-stores-abandoned-men-f0c79249aa36",
+      "source": "source_page",
+      "score": 1.047
+    },
+    {
+      "id": "1992-school-galerias",
+      "title": "SCHOOL",
+      "brand": "GALERIAS",
+      "oldUrl": "https://www.luerzersarchive.com/en/magazine/commercial-detail/23738.html",
+      "newUrl": "https://adsspot.me/media/tv-commercials/galerias-department-store-fiesta-3e38ff2b7f19",
+      "source": "source_page",
+      "score": 1.18
+    },
+    {
+      "id": "1989-mom-s-gte",
+      "title": "MOM'S",
+      "brand": "GTE",
+      "oldUrl": "https://youtu.be/SZCCjJAqu3M",
+      "newUrl": "https://www.dandad.org/awards/professional/1999/tv-cinema-advertising/10448/open-road/",
+      "source": "source_page",
+      "score": 0.74
+    }
+  ]
 }

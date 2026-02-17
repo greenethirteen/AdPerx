@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-02-16T08:35:23.385Z",
+  "targets": 126,
+  "searched": 370,
+  "replaced": 4,
+  "noCandidates": 122,
+  "lowScore": 0,
+  "unavailable": 0,
+  "minScore": 0.18,
+  "changed": [
+    {
+      "id": "super-bowl-2024-ispot-6weo",
+      "title": "The TurboTax Super Bowl File",
+      "brand": "TurboTax",
+      "year": 2024,
+      "oldVideoId": "8f2Qk0mxYUE",
+      "newVideoId": "WOk4BDiXdhA",
+      "matchScore": 0.767,
+      "matchedTitle": "TurboTax (ft. Quinta Brunson) &quot;Sweepstakes&quot; Super Bowl LVIII (58) 2024 ...",
+      "matchedDescription": ""
+    },
+    {
+      "id": "super-bowl-2024-ispot-6yrg",
+      "title": "Teaser: The Power Within [T1]",
+      "brand": "Kia",
+      "year": 2024,
+      "oldVideoId": "CauAm-sCPBE",
+      "newVideoId": "4UtsGBBcuf4",
+      "matchScore": 0.433,
+      "matchedTitle": "Kia Super Bowl Commercial 2024 EV9 Perfect 10 Ad Review",
+      "matchedDescription": ""
+    },
+    {
+      "id": "2024-a-life-in-sound-sirius-xm",
+      "title": "A LIFE IN SOUND",
+      "brand": "SIRIUS XM",
+      "year": 2024,
+      "oldVideoId": "VrT0Vt5wVdw",
+      "newVideoId": "G9CN-8vIITg",
+      "matchScore": 0.6,
+      "matchedTitle": "Fantasy Life Radio on Sirius XM&#x27;s Best Moments of 2024!",
+      "matchedDescription": ""
+    },
+    {
+      "id": "2025-not-for-first-dates-mcdonald-s-fp7",
+      "title": "NOT FOR FIRST DATES",
+      "brand": "MCDONALD’S FP7",
+      "year": 2025,
+      "oldVideoId": "ruq6LYKVC3c",
+      "newVideoId": "nT5lSeNdVQA",
+      "matchScore": 0.262,
+      "matchedTitle": "McDonald&#x27;s Commercial 2025 - (USA) - YouTube",
+      "matchedDescription": ""
+    }
+  ]
+}
