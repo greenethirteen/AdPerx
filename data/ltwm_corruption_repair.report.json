@@ -1,0 +1,723 @@
+{
+  "generatedAt": "2026-02-17T05:28:40.760Z",
+  "targeted": 42,
+  "fixed": 42,
+  "unresolved": 0,
+  "fixedRows": [
+    {
+      "id": "2023-portuguese-re-constitution-penguin-books",
+      "bestScore": 4.6,
+      "before": {
+        "title": "PORTUGUESE (RE)CONSTITUTION",
+        "brand": "PENGUIN BOOKS",
+        "agency": "FCB LISBON",
+        "outboundUrl": "https://www.youtube.com/watch?v=V8KIjpTOlwI"
+      },
+      "after": {
+        "title": "PORTUGUESE (RE)CONSTITUTION",
+        "brand": "PENGUIN BOOKS",
+        "agency": "FCB LISBON",
+        "outboundUrl": "https://www.youtube.com/watch?v=V8KIjpTOlwI"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2023-2/"
+    },
+    {
+      "id": "2023-the-movies-that-made-from-us-five-star",
+      "bestScore": 5.65,
+      "before": {
+        "title": "THE MOVIES THAT MADE (FROM) US",
+        "brand": "FIVE STAR",
+        "agency": "BBDO BANGKOK",
+        "outboundUrl": "https://www.youtube.com/watch?v=pGmthP_oyo8"
+      },
+      "after": {
+        "title": "THE MOVIES THAT MADE (FROM) US",
+        "brand": "FIVE STAR",
+        "agency": "BBDO BANGKOK",
+        "outboundUrl": "https://www.youtube.com/watch?v=pGmthP_oyo8"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2023-2/"
+    },
+    {
+      "id": "2022-portuguese-re-constitution-penguin-books",
+      "bestScore": 4.6,
+      "before": {
+        "title": "PORTUGUESE (RE)CONSTITUTION",
+        "brand": "PENGUIN BOOKS",
+        "agency": "FCB LISBON",
+        "outboundUrl": "https://www.youtube.com/watch?v=V8KIjpTOlwI"
+      },
+      "after": {
+        "title": "PORTUGUESE (RE)CONSTITUTION",
+        "brand": "PENGUIN BOOKS",
+        "agency": "FCB LISBON",
+        "outboundUrl": "https://www.youtube.com/watch?v=V8KIjpTOlwI"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2022-2/"
+    },
+    {
+      "id": "2019-a-little-company-apple-aspiration-perspiration-advertising-council-dentsu-tokyo-akuma-no-kimura-nissin-food-dentsu-",
+      "bestScore": 9.649999999999999,
+      "before": {
+        "title": "A LITTLE COMPANY (APPLE)ASPIRATION & PERSPIRATION",
+        "brand": "ADVERTISING COUNCIL (DENTSU TOKYO)AKUMA NO KIMURA – NISSIN FOOD (DENTSU TOKYO)A HATER’S SONG BY – COCA COLA (SANTO BUENOS AIRES)ADIDAS Z.N.E – ADIDAS (TBWA\\SHANGHAI)ABSOLUT LOVE BOTTLE – ​​ABSOLUT VODKA",
+        "agency": "360I NEW YORK",
+        "outboundUrl": "https://www.youtube.com/watch?v=AXx_xu6_VYY"
+      },
+      "after": {
+        "title": "A LITTLE COMPANY (APPLE)ASPIRATION & PERSPIRATION",
+        "brand": "ADVERTISING COUNCIL (DENTSU TOKYO)AKUMA NO KIMURA – NISSIN FOOD (DENTSU TOKYO)A HATER’S SONG BY – COCA COLA (SANTO BUENOS AIRES)ADIDAS Z.N.E – ADIDAS (TBWA\\SHANGHAI)ABSOLUT LOVE BOTTLE – ​​ABSOLUT VODKA",
+        "agency": "360I NEW YORK",
+        "outboundUrl": "https://www.youtube.com/watch?v=AXx_xu6_VYY"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2019-2/"
+    },
+    {
+      "id": "2019-der-tagesspiegel-queerformat-scholz-friends-berlin",
+      "bestScore": 5.7,
+      "before": {
+        "title": "DER TAGESSPIEGEL #QUEERFORMAT",
+        "brand": "(SCHOLZ & FRIENDS BERLIN)COME OUT AND PLAY – PADDY POWER",
+        "agency": "OFFICER & GENTLEMAN MADRID",
+        "outboundUrl": "https://www.youtube.com/watch?v=LwZ7-MFqYmg"
+      },
+      "after": {
+        "title": "DER TAGESSPIEGEL #QUEERFORMAT",
+        "brand": "(SCHOLZ & FRIENDS BERLIN)COME OUT AND PLAY – PADDY POWER",
+        "agency": "OFFICER & GENTLEMAN MADRID",
+        "outboundUrl": "https://www.youtube.com/watch?v=LwZ7-MFqYmg"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2019-2/"
+    },
+    {
+      "id": "2019-dunkin-jones-knowles-ritchie-new-york-diversish-the-valuable-500",
+      "bestScore": 5.4,
+      "before": {
+        "title": "DUNKIN (JONES KNOWLES RITCHIE NEW YORK)DIVERSISH",
+        "brand": "THE VALUABLE 500",
+        "agency": "AMVBBDO LONDON",
+        "outboundUrl": "https://www.youtube.com/watch?v=DusNVfJGDtg"
+      },
+      "after": {
+        "title": "DUNKIN (JONES KNOWLES RITCHIE NEW YORK)DIVERSISH",
+        "brand": "THE VALUABLE 500",
+        "agency": "AMVBBDO LONDON",
+        "outboundUrl": "https://www.youtube.com/watch?v=DusNVfJGDtg"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2019-2/"
+    },
+    {
+      "id": "2019-ha-u-te-couture-diesel",
+      "bestScore": 2.8000000000000003,
+      "before": {
+        "title": "HA(U)TE COUTURE",
+        "brand": "DIESEL",
+        "agency": "PUBLICIS MILAN",
+        "outboundUrl": "https://www.youtube.com/watch?v=RPwtqrkgW5c"
+      },
+      "after": {
+        "title": "HA(U)TE COUTURE",
+        "brand": "DIESEL",
+        "agency": "PUBLICIS MILAN",
+        "outboundUrl": "https://www.youtube.com/watch?v=RPwtqrkgW5c"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2019-2/"
+    },
+    {
+      "id": "2019-life-lolli-kmsz-bone-marrow-donation-center",
+      "bestScore": 4.1499999999999995,
+      "before": {
+        "title": "LIFE LOLLI",
+        "brand": "KMSZ (BONE MARROW DONATION CENTER)",
+        "agency": "BBDO DUSSELDORF",
+        "outboundUrl": "https://www.youtube.com/watch?v=F83pVDgPMhc"
+      },
+      "after": {
+        "title": "LIFE LOLLI",
+        "brand": "KMSZ (BONE MARROW DONATION CENTER)",
+        "agency": "BBDO DUSSELDORF",
+        "outboundUrl": "https://www.youtube.com/watch?v=F83pVDgPMhc"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2019-2/"
+    },
+    {
+      "id": "2019-sickkids-vs-crews-cossette-toronto",
+      "bestScore": 4.6000000000000005,
+      "before": {
+        "title": "SICKKIDS VS: CREWS",
+        "brand": "(COSSETTE TORONTO)SHARK BAIT – UBER EATS",
+        "agency": "SPECIAL GROUP AUCKLAND",
+        "outboundUrl": "https://www.youtube.com/watch?v=bAVnygzEK0w"
+      },
+      "after": {
+        "title": "SICKKIDS VS: CREWS",
+        "brand": "(COSSETTE TORONTO)SHARK BAIT – UBER EATS",
+        "agency": "SPECIAL GROUP AUCKLAND",
+        "outboundUrl": "https://www.youtube.com/watch?v=bAVnygzEK0w"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2019-2/"
+    },
+    {
+      "id": "2019-this-is-a-tree-pacific-paint-boysen-philippines-inc",
+      "bestScore": 5.550000000000001,
+      "before": {
+        "title": "THIS IS A TREE",
+        "brand": "PACIFIC PAINT (BOYSEN) PHILIPPINES INC.",
+        "agency": "TBWA MAKATI CITY",
+        "outboundUrl": "https://tbwa.com/work/this-is-a-tree-tbwa-smp-boysen"
+      },
+      "after": {
+        "title": "THIS IS A TREE",
+        "brand": "PACIFIC PAINT (BOYSEN) PHILIPPINES INC.",
+        "agency": "TBWA MAKATI CITY",
+        "outboundUrl": "https://tbwa.com/work/this-is-a-tree-tbwa-smp-boysen"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2019-2/"
+    },
+    {
+      "id": "2018-alexander-wang-x-adidas-originals-johannes-leonardo-new-york",
+      "bestScore": 6.3500000000000005,
+      "before": {
+        "title": "ALEXANDER WANG X ADIDAS ORIGINALS",
+        "brand": "(JOHANNES LEONARDO NEW YORK)AMERICA. JUST LIKE THE MOVIES. – NORWEGIAN AIR",
+        "agency": "TRY OSLO",
+        "outboundUrl": "https://www.youtube.com/watch?v=MeOmACZbu3o"
+      },
+      "after": {
+        "title": "ALEXANDER WANG X ADIDAS ORIGINALS",
+        "brand": "(JOHANNES LEONARDO NEW YORK)AMERICA. JUST LIKE THE MOVIES. – NORWEGIAN AIR",
+        "agency": "TRY OSLO",
+        "outboundUrl": "https://www.youtube.com/watch?v=MeOmACZbu3o"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2018-2/"
+    },
+    {
+      "id": "2018-blink-to-speak-tbwa-mumbai-evert-45-kpn-n-5-amsterdam-the-talk-p-g-bbdo-new-york-the-donald-j-trump-presidential-tw",
+      "bestScore": 7.05,
+      "before": {
+        "title": "BLINK TO SPEAK",
+        "brand": "(TBWA MUMBAI) EVERT_45 – KPN (N=5 AMSTERDAM) THE TALK – P&G (BBDO NEW YORK)THE DONALD J.TRUMP PRESIDENTIAL TWITTER LIBRARY",
+        "agency": "COMEDY CENTRAL NEW YORK",
+        "outboundUrl": "https://www.youtube.com/watch?v=2crDzLZwWNo"
+      },
+      "after": {
+        "title": "BLINK TO SPEAK",
+        "brand": "(TBWA MUMBAI) EVERT_45 – KPN (N=5 AMSTERDAM) THE TALK – P&G (BBDO NEW YORK)THE DONALD J.TRUMP PRESIDENTIAL TWITTER LIBRARY",
+        "agency": "COMEDY CENTRAL NEW YORK",
+        "outboundUrl": "https://www.youtube.com/watch?v=2crDzLZwWNo"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2018-2/"
+    },
+    {
+      "id": "2018-radio-make-a-different-friend-castle-lager-ogilvy-johannesburg-1",
+      "bestScore": 5.4,
+      "before": {
+        "title": "RADIO: MAKE A DIFFERENT FRIEND",
+        "brand": "CASTLE LAGER (OGILVY JOHANNESBURG) 1",
+        "agency": "",
+        "outboundUrl": "https://www.behance.net/gallery/71263897/Castle-Lager-A-Different-Friend-Radio-%29Smart-Watch%29"
+      },
+      "after": {
+        "title": "RADIO: MAKE A DIFFERENT FRIEND",
+        "brand": "CASTLE LAGER (OGILVY JOHANNESBURG) 1",
+        "agency": "",
+        "outboundUrl": "https://www.behance.net/gallery/71263897/Castle-Lager-A-Different-Friend-Radio-%29Smart-Watch%29"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2018-2/"
+    },
+    {
+      "id": "2018-radio-make-a-different-friend-castle-lager-ogilvy-johannesburg-1-2-3",
+      "bestScore": 4.2,
+      "before": {
+        "title": "RADIO: MAKE A DIFFERENT FRIEND",
+        "brand": "CASTLE LAGER (OGILVY JOHANNESBURG) 1 2 3",
+        "agency": "",
+        "outboundUrl": "https://www.youtube.com/watch?v=PReemjisndk"
+      },
+      "after": {
+        "title": "RADIO: MAKE A DIFFERENT FRIEND",
+        "brand": "CASTLE LAGER (OGILVY JOHANNESBURG) 1 2 3",
+        "agency": "",
+        "outboundUrl": "https://www.youtube.com/watch?v=PReemjisndk"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2018-2/"
+    },
+    {
+      "id": "2018-the-health-purse-sehat-ka-batua-mahindra-rise",
+      "bestScore": 5.65,
+      "before": {
+        "title": "THE HEALTH PURSE (SEHAT KA BATUA)",
+        "brand": "MAHINDRA RISE",
+        "agency": "GREY MUMBAI",
+        "outboundUrl": "https://www.behance.net/gallery/67003641/MAHINDRA-RISE-THE-HEALTH-PURSE-(SEHAT-KA-BATUA)"
+      },
+      "after": {
+        "title": "THE HEALTH PURSE (SEHAT KA BATUA)",
+        "brand": "MAHINDRA RISE",
+        "agency": "GREY MUMBAI",
+        "outboundUrl": "https://www.behance.net/gallery/67003641/MAHINDRA-RISE-THE-HEALTH-PURSE-(SEHAT-KA-BATUA)"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2018-2/"
+    },
+    {
+      "id": "2018-the-secret-monde-nissin-thailand-co-ltd",
+      "bestScore": 3.9,
+      "before": {
+        "title": "THE SECRET",
+        "brand": "MONDE NISSIN (THAILAND) CO.,LTD.",
+        "agency": "OGILVY BANGKOK",
+        "outboundUrl": "https://www.youtube.com/watch?v=dfiliLzCSO0"
+      },
+      "after": {
+        "title": "THE SECRET",
+        "brand": "MONDE NISSIN (THAILAND) CO.,LTD.",
+        "agency": "OGILVY BANGKOK",
+        "outboundUrl": "https://www.youtube.com/watch?v=dfiliLzCSO0"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2018-2/"
+    },
+    {
+      "id": "2017-marriott-international-s-real-time-command-center-mec-global-new-york",
+      "bestScore": 6.05,
+      "before": {
+        "title": "MARRIOTT INTERNATIONAL’S REAL-TIME COMMAND CENTER",
+        "brand": "(MEC GLOBAL NEW YORK)UNLIMITED STADIUM – NIKE",
+        "agency": "BBH SINGAPORE",
+        "outboundUrl": "https://www.youtube.com/watch?v=ojHmXfIEjME"
+      },
+      "after": {
+        "title": "MARRIOTT INTERNATIONAL’S REAL-TIME COMMAND CENTER",
+        "brand": "(MEC GLOBAL NEW YORK)UNLIMITED STADIUM – NIKE",
+        "agency": "BBH SINGAPORE",
+        "outboundUrl": "https://www.youtube.com/watch?v=ojHmXfIEjME"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2017-2/"
+    },
+    {
+      "id": "2017-speed-o-track-arteris",
+      "bestScore": 3.2500000000000004,
+      "before": {
+        "title": "SPEED",
+        "brand": "O – TRACK – ARTERIS",
+        "agency": "DENTSU SÃO PAULO",
+        "outboundUrl": ""
+      },
+      "after": {
+        "title": "SPEED",
+        "brand": "O – TRACK – ARTERIS",
+        "agency": "DENTSU SÃO PAULO",
+        "outboundUrl": "https://www.adforum.com/creative-work/ad/player/34549236/speed-o-track/speed-o-track"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2017-2/"
+    },
+    {
+      "id": "2017-the-one-moment-morton-salt-ogilvy-chicago-lo-behold-netscout",
+      "bestScore": 5.65,
+      "before": {
+        "title": "THE ONE MOMENT- MORTON SALT (OGILVY CHICAGO)LO & BEHOLD",
+        "brand": "NETSCOUT",
+        "agency": "PEREIRA & O’DELL NEW YORK",
+        "outboundUrl": "https://www.youtube.com/watch?v=Lh_vPA88Kno"
+      },
+      "after": {
+        "title": "THE ONE MOMENT- MORTON SALT (OGILVY CHICAGO)LO & BEHOLD",
+        "brand": "NETSCOUT",
+        "agency": "PEREIRA & O’DELL NEW YORK",
+        "outboundUrl": "https://www.youtube.com/watch?v=Lh_vPA88Kno"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2017-2/"
+    },
+    {
+      "id": "2016-last-words-palliative-care-end-of-life-care",
+      "bestScore": 3.9,
+      "before": {
+        "title": "LAST WORDS",
+        "brand": "PALLIATIVE CARE (END OF LIFE CARE)",
+        "agency": "MEDULLA COMMUNICATIONS",
+        "outboundUrl": "https://www.youtube.com/watch?v=nokDDalo_gM"
+      },
+      "after": {
+        "title": "LAST WORDS",
+        "brand": "PALLIATIVE CARE (END OF LIFE CARE)",
+        "agency": "MEDULLA COMMUNICATIONS",
+        "outboundUrl": "https://www.youtube.com/watch?v=nokDDalo_gM"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2016-2/"
+    },
+    {
+      "id": "2016-shockwave-onde-de-choc-road-safety",
+      "bestScore": 3.95,
+      "before": {
+        "title": "SHOCKWAVE (ONDE DE CHOC)",
+        "brand": "ROAD SAFETY",
+        "agency": "QUAD PRODUCTIONS PARIS",
+        "outboundUrl": "https://www.youtube.com/watch?v=HS_VhLIC5lA"
+      },
+      "after": {
+        "title": "SHOCKWAVE (ONDE DE CHOC)",
+        "brand": "ROAD SAFETY",
+        "agency": "QUAD PRODUCTIONS PARIS",
+        "outboundUrl": "https://www.youtube.com/watch?v=HS_VhLIC5lA"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2016-2/"
+    },
+    {
+      "id": "2016-slums-housing-colonies-for-worms-zentel",
+      "bestScore": 5.6000000000000005,
+      "before": {
+        "title": "SLUMS (HOUSING COLONIES) FOR WORMS",
+        "brand": "ZENTEL",
+        "agency": "MEDULLA COMMUNICATIONS MUMBAI",
+        "outboundUrl": "https://clios.com/health/winner/out-of-home/zentel/slums-housing-colonies-for-worms-14642"
+      },
+      "after": {
+        "title": "SLUMS (HOUSING COLONIES) FOR WORMS",
+        "brand": "ZENTEL",
+        "agency": "MEDULLA COMMUNICATIONS MUMBAI",
+        "outboundUrl": "https://clios.com/health/winner/out-of-home/zentel/slums-housing-colonies-for-worms-14642"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2016-2/"
+    },
+    {
+      "id": "2015-2014-taco-bell-breakfast-launch-ronald-mcdonald-launch-taco-bell",
+      "bestScore": 5.3500000000000005,
+      "before": {
+        "title": "2014 TACO BELL BREAKFAST LAUNCH (RONALD MCDONALD LAUNCH)",
+        "brand": "TACO BELL",
+        "agency": "DEUTSCH LOS ANGELES",
+        "outboundUrl": "https://www.youtube.com/watch?v=aqBWnjloU0I"
+      },
+      "after": {
+        "title": "2014 TACO BELL BREAKFAST LAUNCH (RONALD MCDONALD LAUNCH)",
+        "brand": "TACO BELL",
+        "agency": "DEUTSCH LOS ANGELES",
+        "outboundUrl": "https://www.youtube.com/watch?v=aqBWnjloU0I"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2015-2/"
+    },
+    {
+      "id": "2015-funtastic-hand-cirec-foundation-rehabilitation-and-prosthesis-center",
+      "bestScore": 5.6000000000000005,
+      "before": {
+        "title": "FUNTASTIC HAND",
+        "brand": "CIREC FOUNDATION (REHABILITATION AND PROSTHESIS CENTER)",
+        "agency": "PUBLICIS BOGOTÁ",
+        "outboundUrl": "https://www.google.com/search?client=safari&rls=en&q=FUNTASTIC+HAND+-+CIREC+FOUNDATION+(REHABILITATION+AND+PROSTHESIS+CENTER)+(PUBLICIS+COLOMBIA+Bogot%C3%A1)&ie=UTF-8&oe=UTF-8"
+      },
+      "after": {
+        "title": "FUNTASTIC HAND",
+        "brand": "CIREC FOUNDATION (REHABILITATION AND PROSTHESIS CENTER)",
+        "agency": "PUBLICIS BOGOTÁ",
+        "outboundUrl": "https://www.google.com/search?client=safari&rls=en&q=FUNTASTIC+HAND+-+CIREC+FOUNDATION+(REHABILITATION+AND+PROSTHESIS+CENTER)+(PUBLICIS+COLOMBIA+Bogot%C3%A1)&ie=UTF-8&oe=UTF-8"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2015-2/"
+    },
+    {
+      "id": "2015-holograms-for-freedom-no-somos-delito-we-are-not-crime",
+      "bestScore": 4.5,
+      "before": {
+        "title": "HOLOGRAMS FOR FREEDOM",
+        "brand": "NO SOMOS DELITO (WE ARE NOT CRIME)",
+        "agency": "DDB MADRID",
+        "outboundUrl": "https://www.youtube.com/watch?v=0jwmi6CguY0"
+      },
+      "after": {
+        "title": "HOLOGRAMS FOR FREEDOM",
+        "brand": "NO SOMOS DELITO (WE ARE NOT CRIME)",
+        "agency": "DDB MADRID",
+        "outboundUrl": "https://www.youtube.com/watch?v=0jwmi6CguY0"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2015-2/"
+    },
+    {
+      "id": "2015-hungry-ghost-ok-go-album-ok-go",
+      "bestScore": 4.45,
+      "before": {
+        "title": "HUNGRY GHOST (OK GO ALBUM)",
+        "brand": "OK GO",
+        "agency": "MORI TOKYO",
+        "outboundUrl": "https://www2.spikes.asia/winners/2015/film/entry.cfm?entryid=1709&award=2"
+      },
+      "after": {
+        "title": "HUNGRY GHOST (OK GO ALBUM)",
+        "brand": "OK GO",
+        "agency": "MORI TOKYO",
+        "outboundUrl": "https://www2.spikes.asia/winners/2015/film/entry.cfm?entryid=1709&award=2"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2015-2/"
+    },
+    {
+      "id": "2015-lebanon4sale-sakker-el-dekkene-stop-the-shop",
+      "bestScore": 5.2,
+      "before": {
+        "title": "LEBANON4SALE",
+        "brand": "SAKKER EL DEKKENE (STOP THE SHOP)",
+        "agency": "LEO BURNETT BEIRUT",
+        "outboundUrl": "https://vimeo.com/132182857"
+      },
+      "after": {
+        "title": "LEBANON4SALE",
+        "brand": "SAKKER EL DEKKENE (STOP THE SHOP)",
+        "agency": "LEO BURNETT BEIRUT",
+        "outboundUrl": "https://vimeo.com/132182857"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2015-2/"
+    },
+    {
+      "id": "2015-lichtgrenze-the-city-of-berlin-kulturprojekte-berlin",
+      "bestScore": 4.75,
+      "before": {
+        "title": "LICHTGRENZE",
+        "brand": "THE CITY OF BERLIN (KULTURPROJEKTE BERLIN)",
+        "agency": "WHITEVOID BERLIN",
+        "outboundUrl": "https://www.whitevoid.com/lichtgrenze/"
+      },
+      "after": {
+        "title": "LICHTGRENZE",
+        "brand": "THE CITY OF BERLIN (KULTURPROJEKTE BERLIN)",
+        "agency": "WHITEVOID BERLIN",
+        "outboundUrl": "https://www.whitevoid.com/lichtgrenze/"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2015-2/"
+    },
+    {
+      "id": "2015-revenge-of-the-it-nerds-dell",
+      "bestScore": 5.3,
+      "before": {
+        "title": "REVENGE OF THE (IT) NERDS",
+        "brand": "DELL",
+        "agency": "MEDIACOM AGENTUR FÜR MEDIENBERATUNG DÜSSELDORF",
+        "outboundUrl": "https://www.youtube.com/watch?v=3DxuKAiRufg"
+      },
+      "after": {
+        "title": "REVENGE OF THE (IT) NERDS",
+        "brand": "DELL",
+        "agency": "MEDIACOM AGENTUR FÜR MEDIENBERATUNG DÜSSELDORF",
+        "outboundUrl": "https://www.youtube.com/watch?v=3DxuKAiRufg"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2015-2/"
+    },
+    {
+      "id": "2015-ttyl-talk-to-you-later-chevrolet",
+      "bestScore": 4.05,
+      "before": {
+        "title": "TTYL (TALK TO YOU LATER)",
+        "brand": "CHEVROLET",
+        "agency": "MARURI GREY GUAYAQUIL",
+        "outboundUrl": "https://www.youtube.com/watch?v=qOPRxAYRkb0"
+      },
+      "after": {
+        "title": "TTYL (TALK TO YOU LATER)",
+        "brand": "CHEVROLET",
+        "agency": "MARURI GREY GUAYAQUIL",
+        "outboundUrl": "https://www.youtube.com/watch?v=qOPRxAYRkb0"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2015-2/"
+    },
+    {
+      "id": "2014-to-clefttosmile-operation-smile-india",
+      "bestScore": 4.5,
+      "before": {
+        "title": ":{TO:) #CLEFTTOSMILE",
+        "brand": "OPERATION SMILE INDIA",
+        "agency": "OGILVY MUMBAI",
+        "outboundUrl": "https://www.youtube.com/watch?v=ZpOr4Qg3LBE&ab_channel=CleftToSmile"
+      },
+      "after": {
+        "title": ":{TO:) #CLEFTTOSMILE",
+        "brand": "OPERATION SMILE INDIA",
+        "agency": "OGILVY MUMBAI",
+        "outboundUrl": "https://www.youtube.com/watch?v=ZpOr4Qg3LBE&ab_channel=CleftToSmile"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2014-2/"
+    },
+    {
+      "id": "2013-absolut-craft-bartender-s-collection-absolut",
+      "bestScore": 4.25,
+      "before": {
+        "title": "ABSOLUT CRAFT (BARTENDER’S COLLECTION)",
+        "brand": "ABSOLUT",
+        "agency": "THE BRAND UNION STOCKHOLM",
+        "outboundUrl": "https://www.youtube.com/watch?v=x95YVJgyHgA"
+      },
+      "after": {
+        "title": "ABSOLUT CRAFT (BARTENDER’S COLLECTION)",
+        "brand": "ABSOLUT",
+        "agency": "THE BRAND UNION STOCKHOLM",
+        "outboundUrl": "https://www.youtube.com/watch?v=x95YVJgyHgA"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2013-2/"
+    },
+    {
+      "id": "2013-paper-cuts-life-bear-giraffe-snub-nosed-monkey-greenpeace",
+      "bestScore": 5.250000000000001,
+      "before": {
+        "title": "PAPER CUTS LIFE (BEAR, GIRAFFE, SNUB NOSED MONKEY)",
+        "brand": "GREENPEACE",
+        "agency": "SAATCHI & SAATCHI SHANGHAI",
+        "outboundUrl": "https://www.youtube.com/watch?v=MFr6TSq1v5E"
+      },
+      "after": {
+        "title": "PAPER CUTS LIFE (BEAR, GIRAFFE, SNUB NOSED MONKEY)",
+        "brand": "GREENPEACE",
+        "agency": "SAATCHI & SAATCHI SHANGHAI",
+        "outboundUrl": "https://www.youtube.com/watch?v=MFr6TSq1v5E"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2013-2/"
+    },
+    {
+      "id": "2013-the-biggest-air-filter-pacific-paint-boysen-philippines",
+      "bestScore": 4.8,
+      "before": {
+        "title": "THE BIGGEST AIR FILTER",
+        "brand": "PACIFIC PAINT (BOYSEN) PHILIPPINES",
+        "agency": "TBWA MAKATI CITY",
+        "outboundUrl": "https://www.youtube.com/watch?v=c0wSJNDfj2o"
+      },
+      "after": {
+        "title": "THE BIGGEST AIR FILTER",
+        "brand": "PACIFIC PAINT (BOYSEN) PHILIPPINES",
+        "agency": "TBWA MAKATI CITY",
+        "outboundUrl": "https://www.youtube.com/watch?v=c0wSJNDfj2o"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2013-2/"
+    },
+    {
+      "id": "2012-a-personal-apology-just-for-you-o-b-tampons",
+      "bestScore": 5.6000000000000005,
+      "before": {
+        "title": "A PERSONAL APOLOGY (JUST FOR YOU)",
+        "brand": "O.B. TAMPONS",
+        "agency": "LOWE ROCHE TORONTO",
+        "outboundUrl": "https://www.youtube.com/watch?v=cNsUZGvLnMY&ab_channel=MullenLoweGroup"
+      },
+      "after": {
+        "title": "A PERSONAL APOLOGY (JUST FOR YOU)",
+        "brand": "O.B. TAMPONS",
+        "agency": "LOWE ROCHE TORONTO",
+        "outboundUrl": "https://www.youtube.com/watch?v=cNsUZGvLnMY&ab_channel=MullenLoweGroup"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2012-2/"
+    },
+    {
+      "id": "2012-chevy-sonic-launch-campaign-goodby-silverstein-partners-san-francisco",
+      "bestScore": 5.8,
+      "before": {
+        "title": "CHEVY SONIC LAUNCH CAMPAIGN",
+        "brand": "(GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO)COCOON – GENERAL MILLS",
+        "agency": "SAATCHI & SAATCHI NEW YORK",
+        "outboundUrl": "https://www.youtube.com/watch?v=Fgr-R5MNLko"
+      },
+      "after": {
+        "title": "CHEVY SONIC LAUNCH CAMPAIGN",
+        "brand": "(GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO)COCOON – GENERAL MILLS",
+        "agency": "SAATCHI & SAATCHI NEW YORK",
+        "outboundUrl": "https://www.youtube.com/watch?v=Fgr-R5MNLko"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2012-2/"
+    },
+    {
+      "id": "2012-halitosis-chicken-licken-network-bbdo-johannesburg-bacteria-chicken-licken",
+      "bestScore": 4.250000000000001,
+      "before": {
+        "title": "HALITOSIS",
+        "brand": "CHICKEN LICKEN (NETWORK BBDO JOHANNESBURG) BACTERIA – CHICKEN LICKEN",
+        "agency": "NETWORK BBDO JOHANNESBURG",
+        "outboundUrl": "https://www.youtube.com/watch?v=tebn7FeT3jY"
+      },
+      "after": {
+        "title": "HALITOSIS",
+        "brand": "CHICKEN LICKEN (NETWORK BBDO JOHANNESBURG) BACTERIA – CHICKEN LICKEN",
+        "agency": "NETWORK BBDO JOHANNESBURG",
+        "outboundUrl": "https://www.youtube.com/watch?v=tebn7FeT3jY"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2012-2/"
+    },
+    {
+      "id": "2012-motorola-urban-art-motorola-human-b-side-sa-buenos-aries",
+      "bestScore": 5.3,
+      "before": {
+        "title": "MOTOROLA URBAN ART",
+        "brand": "MOTOROLA (HUMAN (B SIDE SA) BUENOS ARIES)",
+        "agency": "",
+        "outboundUrl": "https://vimeo.com/45529883"
+      },
+      "after": {
+        "title": "MOTOROLA URBAN ART",
+        "brand": "MOTOROLA (HUMAN (B SIDE SA) BUENOS ARIES)",
+        "agency": "",
+        "outboundUrl": "https://vimeo.com/45529883"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2012-2/"
+    },
+    {
+      "id": "2011-get-the-big-pictures-cine-las-americas-latinworks-austin-beetle-deep-ocean-explorer-spaceship-lego-leo-burnett-mosc",
+      "bestScore": 16.349999999999998,
+      "before": {
+        "title": "GET THE BIG PICTURES- CINE LAS AMERICAS (LATINWORKS AUSTIN)BEETLE, DEEP OCEAN EXPLORER, SPACESHIP",
+        "brand": "LEGO (LEO BURNETT MOSCOW)BALLOONS – MTV BRAZIL (LODUCCA SÃO PAULO)MANUEL, ALBERTINA, CARLOS – AMNESTY INTERNATIONAL PORTUGAL (FUEL LISBON)COME BACK FERRORAMA – ESTRELLA TOYS (DM9DDB SÃO PAULO)BURMA – HUMAN RIGHTS WATCH (JWT NEW YORK)SHOELACES – OTRIVIN (SAATCHI & SAATCHI GENEVA)CLASSROM CRAFT – OTRIVIN",
+        "agency": "SAATCHI & SAATCHI GENEVA",
+        "outboundUrl": "https://www.youtube.com/watch?v=9KYwULfO8XY"
+      },
+      "after": {
+        "title": "GET THE BIG PICTURES- CINE LAS AMERICAS (LATINWORKS AUSTIN)BEETLE, DEEP OCEAN EXPLORER, SPACESHIP",
+        "brand": "LEGO (LEO BURNETT MOSCOW)BALLOONS – MTV BRAZIL (LODUCCA SÃO PAULO)MANUEL, ALBERTINA, CARLOS – AMNESTY INTERNATIONAL PORTUGAL (FUEL LISBON)COME BACK FERRORAMA – ESTRELLA TOYS (DM9DDB SÃO PAULO)BURMA – HUMAN RIGHTS WATCH (JWT NEW YORK)SHOELACES – OTRIVIN (SAATCHI & SAATCHI GENEVA)CLASSROM CRAFT – OTRIVIN",
+        "agency": "SAATCHI & SAATCHI GENEVA",
+        "outboundUrl": "https://www.youtube.com/watch?v=9KYwULfO8XY"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2011-2/"
+    },
+    {
+      "id": "2009-cross-x-lines-t-circles-oo-epa",
+      "bestScore": 3.7,
+      "before": {
+        "title": "CROSS (X), LINES (T), CIRCLES (OO)",
+        "brand": "EPA",
+        "agency": "BBDO SÃO PAULO",
+        "outboundUrl": "https://www.youtube.com/watch?v=CSW09blAyMk"
+      },
+      "after": {
+        "title": "CROSS (X), LINES (T), CIRCLES (OO)",
+        "brand": "EPA",
+        "agency": "BBDO SÃO PAULO",
+        "outboundUrl": "https://www.youtube.com/watch?v=CSW09blAyMk"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2009-2/"
+    },
+    {
+      "id": "2008-manju-no-shizuku-the-dew-of-longevity-tropical-plant-resources-research-institute-inc",
+      "bestScore": 5.45,
+      "before": {
+        "title": "MANJU NO SHIZUKU (THE DEW OF LONGEVITY)",
+        "brand": "TROPICAL PLANT RESOURCES RESEARCH INSTITUTE, INC.",
+        "agency": "DENTSU TOKYO",
+        "outboundUrl": "https://adsspot.me/media/prints/manju-no-shizuku-the-dew-of-longevity-manju-no-shizuku-the-dew-of-longevity-a8f32d5f568d"
+      },
+      "after": {
+        "title": "MANJU NO SHIZUKU (THE DEW OF LONGEVITY)",
+        "brand": "TROPICAL PLANT RESOURCES RESEARCH INSTITUTE, INC.",
+        "agency": "DENTSU TOKYO",
+        "outboundUrl": "https://adsspot.me/media/prints/manju-no-shizuku-the-dew-of-longevity-manju-no-shizuku-the-dew-of-longevity-a8f32d5f568d"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2008-2/"
+    },
+    {
+      "id": "2003-welcome-to-the-urban-jungle-animal-planet",
+      "bestScore": 4.1,
+      "before": {
+        "title": "WELCOME TO THE (URBAN) JUNGLE!",
+        "brand": "ANIMAL PLANET",
+        "agency": "OMD COPENHAGEN",
+        "outboundUrl": "https://www.youtube.com/watch?v=cRXhKFhF9X4"
+      },
+      "after": {
+        "title": "WELCOME TO THE (URBAN) JUNGLE!",
+        "brand": "ANIMAL PLANET",
+        "agency": "OMD COPENHAGEN",
+        "outboundUrl": "https://www.youtube.com/watch?v=cRXhKFhF9X4"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2003-2/"
+    }
+  ],
+  "unresolvedRows": []
+}

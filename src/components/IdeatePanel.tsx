@@ -292,11 +292,12 @@ export default function IdeatePanel({
       <div className="relative">
         <div className="mt-2 grid gap-4 md:grid-cols-5">
           <div className="space-y-3 md:col-span-2">
-            <div className="rounded-2xl border border-black/10 bg-gradient-to-r from-black via-slate-900 to-zinc-900 p-4 text-white shadow-soft">
+            <div className="rounded-2xl border border-black/10 bg-gradient-to-r from-emerald-700 via-green-700 to-lime-700 p-4 text-white shadow-soft">
               <p className="text-xs uppercase tracking-[0.22em] text-white/70">Creative Engine</p>
               <h2 className="mt-1 text-2xl font-semibold tracking-tight">BrainStormer™</h2>
               <p className="mt-1 text-sm text-white/80">
-                Turn a rough brief into idea territories, execution routes, and source-backed references.
+                Stuck in a brainstorm with nothing smart to say? Is your CD grilling you? Are you about to be fired?
+                Generate ideas that actually work with BrainStormer™. Not ChatGPT slop.
               </p>
               <div className="mt-3 inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-3 py-1 text-xs text-white/85">
                 <span className="h-2 w-2 animate-pulse rounded-full bg-emerald-300" />

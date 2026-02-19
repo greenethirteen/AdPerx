@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-02-17T05:31:30.385Z",
+  "targeted": 37,
+  "changed": 1,
+  "skipped": 29,
+  "changedRows": [
+    {
+      "id": "2018-radio-make-a-different-friend-castle-lager-ogilvy-johannesburg-1-2-3",
+      "before": {
+        "title": "RADIO: MAKE A DIFFERENT FRIEND",
+        "brand": "CASTLE LAGER (OGILVY JOHANNESBURG) 1 2 3",
+        "agency": "",
+        "outboundUrl": "https://www.youtube.com/watch?v=PReemjisndk"
+      },
+      "after": {
+        "title": "RADIO: MAKE A DIFFERENT FRIEND",
+        "brand": "CASTLE LAGER (OGILVY JOHANNESBURG) 1",
+        "agency": "",
+        "outboundUrl": "https://www.youtube.com/watch?v=PReemjisndk"
+      },
+      "sourceUrl": "https://lovetheworkmore.com/2018-2/"
+    }
+  ],
+  "skippedRows": [
+    {
+      "id": "2023-portuguese-re-constitution-penguin-books",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2023-the-movies-that-made-from-us-five-star",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2022-portuguese-re-constitution-penguin-books",
+      "reason": "no_exact_title_match",
+      "count": 0
+    },
+    {
+      "id": "2019-der-tagesspiegel-queerformat-scholz-friends-berlin",
+      "reason": "no_exact_title_match",
+      "count": 0
+    },
+    {
+      "id": "2019-ha-u-te-couture-diesel",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2019-life-lolli-kmsz-bone-marrow-donation-center",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2019-sickkids-vs-crews-cossette-toronto",
+      "reason": "no_exact_title_match",
+      "count": 0
+    },
+    {
+      "id": "2018-alexander-wang-x-adidas-originals-johannes-leonardo-new-york",
+      "reason": "no_exact_title_match",
+      "count": 0
+    },
+    {
+      "id": "2018-blink-to-speak-tbwa-mumbai-evert-45-kpn-n-5-amsterdam-the-talk-p-g-bbdo-new-york-the-donald-j-trump-presidential-tw",
+      "reason": "no_exact_title_match",
+      "count": 0
+    },
+    {
+      "id": "2018-the-health-purse-sehat-ka-batua-mahindra-rise",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2016-last-words-palliative-care-end-of-life-care",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2016-shockwave-onde-de-choc-road-safety",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2016-slums-housing-colonies-for-worms-zentel",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2015-2014-taco-bell-breakfast-launch-ronald-mcdonald-launch-taco-bell",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2015-funtastic-hand-cirec-foundation-rehabilitation-and-prosthesis-center",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2015-holograms-for-freedom-no-somos-delito-we-are-not-crime",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2015-hungry-ghost-ok-go-album-ok-go",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2015-lebanon4sale-sakker-el-dekkene-stop-the-shop",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2015-lichtgrenze-the-city-of-berlin-kulturprojekte-berlin",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2015-revenge-of-the-it-nerds-dell",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2015-ttyl-talk-to-you-later-chevrolet",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2014-to-clefttosmile-operation-smile-india",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2013-absolut-craft-bartender-s-collection-absolut",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2013-paper-cuts-life-bear-giraffe-snub-nosed-monkey-greenpeace",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2012-a-personal-apology-just-for-you-o-b-tampons",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2012-chevy-sonic-launch-campaign-goodby-silverstein-partners-san-francisco",
+      "reason": "no_exact_title_match",
+      "count": 0
+    },
+    {
+      "id": "2009-cross-x-lines-t-circles-oo-epa",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2008-manju-no-shizuku-the-dew-of-longevity-tropical-plant-resources-research-institute-inc",
+      "reason": "already_clean"
+    },
+    {
+      "id": "2003-welcome-to-the-urban-jungle-animal-planet",
+      "reason": "already_clean"
+    }
+  ]
+}

@@ -1,0 +1,1297 @@
+{
+  "generatedAt": "2026-02-17T05:23:47.453Z",
+  "total": 13533,
+  "suspicious": 166,
+  "safeToRemove": 124,
+  "needsManual": 42,
+  "safe": [
+    {
+      "id": "2025-learn-korean-or-else-duolingo-netflix-los-angeles-get-comfortable-andres",
+      "year": 2025,
+      "title": "LEARN KOREAN OR ELSE",
+      "brand": "DUOLINGO (NETFLIX LOS ANGELES) GET COMFORTABLE – ANDRES",
+      "agency": "FCB LONDON",
+      "replaceWith": "2025-learn-korean-or-else-duolingo"
+    },
+    {
+      "id": "2019-choose-red-cross-sra-rushmore-madrid-bud-light-cereal-ab-inbev",
+      "year": 2019,
+      "title": "CHOOSE",
+      "brand": "RED CROSS (SRA RUSHMORE MADRID)BUD LIGHT CEREAL – AB INBEV",
+      "agency": "ONLY IF MEXICO",
+      "replaceWith": "2019-choose-red-cross"
+    },
+    {
+      "id": "2019-classics-made-modern-chicago-public-library-fcb-chicago-car-2-bike-veloretti",
+      "year": 2019,
+      "title": "CLASSICS MADE MODERN",
+      "brand": "CHICAGO PUBLIC LIBRARY (FCB CHICAGO)CAR-2-BIKE – VELORETTI",
+      "agency": "VELORETTI AMSTERDAM",
+      "replaceWith": "2019-classics-made-modern-chicago-public-library"
+    },
+    {
+      "id": "2019-drink-with-this-poster-ambev-bbdo-s-o-paulo-dracula-penguin-random-house-north-asia",
+      "year": 2019,
+      "title": "DRINK WITH THIS POSTER",
+      "brand": "AMBEV (BBDO SÃO PAULO)DRACULA – PENGUIN RANDOM HOUSE NORTH ASIA",
+      "agency": "CHEIL HONG KONG",
+      "replaceWith": "2019-drink-with-this-poster-ambev-bbdo"
+    },
+    {
+      "id": "2019-glade-change-is-in-the-air-sc-johnson-phd-chicago-gillette-treo-gillette",
+      "year": 2019,
+      "title": "GLADE, CHANGE IS IN THE AIR.",
+      "brand": "SC JOHNSON (PHD CHICAGO)GILLETTE TREO – GILLETTE",
+      "agency": "GREY LONDON",
+      "replaceWith": "2019-glade-change-is-in-the-air-sc-johnson"
+    },
+    {
+      "id": "2019-hailstorm-in-istanbul-ikea-tbwa-turkey-guns-change-the-ref",
+      "year": 2019,
+      "title": "HAILSTORM IN ISTANBUL",
+      "brand": "IKEA (TBWA TURKEY)GUNS – CHANGE THE REF",
+      "agency": "ALMA MIAMI",
+      "replaceWith": "2019-hailstorm-in-istanbul-ikea"
+    },
+    {
+      "id": "2019-harmless-guns-dagoma-tbwa-france-th-expensify",
+      "year": 2019,
+      "title": "HARMLESS GUNS",
+      "brand": "DAGOMA (TBWA\\FRANCE)TH!$ – EXPENSIFY",
+      "agency": "JOHNXHANNES USA",
+      "replaceWith": "2019-harmless-guns-dagoma"
+    },
+    {
+      "id": "2019-history-blocks-unesco-africa-s-o-paulo-hey-google-ask-nike-nike",
+      "year": 2019,
+      "title": "HISTORY BLOCKS",
+      "brand": "UNESCO (AFRICA SÃO PAULO)HEY GOOGLE, ASK NIKE – NIKE",
+      "agency": "R/GA NEW YORK",
+      "replaceWith": "2019-history-blocks-unesco"
+    },
+    {
+      "id": "2019-in-the-long-run-mercedes-benz-iconoclast-berlin-i-m-drinking-it-for-you-db-breweries",
+      "year": 2019,
+      "title": "IN THE LONG RUN",
+      "brand": "MERCEDES BENZ (ICONOCLAST BERLIN)I’M DRINKING IT FOR YOU – DB BREWERIES",
+      "agency": "BBDO AUCKLAND",
+      "replaceWith": "2019-in-the-long-run-mercedes-benz"
+    },
+    {
+      "id": "2019-lofi-beats-suicide-vice-uk-mccann-london-live-moves-bacardi",
+      "year": 2019,
+      "title": "LOFI BEATS SUICIDE",
+      "brand": "VICE UK (MCCANN LONDON) LIVE MOVES – BACARDI",
+      "agency": "BBDO NEW YORK",
+      "replaceWith": "2019-lofi-beats-suicide-vice-uk"
+    },
+    {
+      "id": "2019-made-for-fun-leica-boston-arnold-boston-losev-change-the-end-losev",
+      "year": 2019,
+      "title": "MADE FOR FUN",
+      "brand": "LEICA BOSTON (ARNOLD BOSTON)LOSEV-CHANGE THE END – LOSEV",
+      "agency": "RAFINERI ISTANBUL",
+      "replaceWith": "2019-made-for-fun-leica-boston"
+    },
+    {
+      "id": "2019-marriage-unblocked-bjorn-borg-ddb-stockholm-magnum-by-magnum-unilever",
+      "year": 2019,
+      "title": "MARRIAGE UNBLOCKED",
+      "brand": "BJORN BORG (DDB STOCKHOLM)MAGNUM BY MAGNUM – UNILEVER",
+      "agency": "MULLENLOWE MADRID",
+      "replaceWith": "2019-marriage-unblocked-bjorn-borg"
+    },
+    {
+      "id": "2019-mind-the-gap-bvg-serviceplan-munich-miles-for-the-people-reclame-aqui",
+      "year": 2019,
+      "title": "MIND THE GAP",
+      "brand": "BVG (SERVICEPLAN MUNICH)MILES FOR THE PEOPLE – RECLAME AQUI",
+      "agency": "GREY SÃO PAULO",
+      "replaceWith": "2019-mind-the-gap-bvg"
+    },
+    {
+      "id": "2019-netflix-presidential-broadcast-netflix-circus-buenos-aires-pinch-netflix",
+      "year": 2019,
+      "title": "NETFLIX PRESIDENTIAL BROADCAST",
+      "brand": "NETFLIX (CIRCUS BUENOS AIRES)PINCH – NETFLIX",
+      "agency": "PONCE BUENOS AIRES",
+      "replaceWith": "2019-netflix-presidential-broadcast-netflix"
+    },
+    {
+      "id": "2019-new-stereotypes-available-shutterstock-mccann-buenos-aires-new-australia-land-meat-livestock-australia",
+      "year": 2019,
+      "title": "NEW STEREOTYPES AVAILABLE",
+      "brand": "SHUTTERSTOCK (MCCANN BUENOS AIRES)NEW AUSTRALIA-LAND – MEAT & LIVESTOCK AUSTRALIA",
+      "agency": "THE MONKEYS SYDNEY",
+      "replaceWith": "2019-new-stereotypes-available-shutterstock"
+    },
+    {
+      "id": "2019-one-mindful-mind-neurogen-brain-and-spine-institute-tbwa-mumbai-not-that-crazy-hermes-pardini",
+      "year": 2019,
+      "title": "ONE MINDFUL MIND",
+      "brand": "NEUROGEN BRAIN AND SPINE INSTITUTE (TBWA MUMBAI) NOT THAT CRAZY – HERMES PARDINI",
+      "agency": "OGILVY SÃO PAULO",
+      "replaceWith": "2019-one-mindful-mind-neurogen-brain-and-spine-institute"
+    },
+    {
+      "id": "2019-philly-philly-statue-ab-inbev-wieden-kennedy-new-york-peak-games-peak-games",
+      "year": 2019,
+      "title": "PHILLY PHILLY STATUE",
+      "brand": "AB INBEV (WIEDEN+KENNEDY NEW YORK)PEAK GAMES – PEAK GAMES",
+      "agency": "MJZ Los Angeles",
+      "replaceWith": "2019-philly-philly-statue-ab-inbev"
+    },
+    {
+      "id": "2019-postable-fukushima-local-paper-fukushima-minpo-co-dentsu-tokyo-polo-unfail-volkswagen",
+      "year": 2019,
+      "title": "POSTABLE FUKUSHIMA LOCAL PAPER",
+      "brand": "FUKUSHIMA-MINPO CO (DENTSU TOKYO) POLO UNFAIL – VOLKSWAGEN",
+      "agency": "DDB AUSTRALIA",
+      "replaceWith": "2019-postable-fukushima-local-paper-fukushima-minpo-co"
+    },
+    {
+      "id": "2019-railroad-ties-ancestry-weber-shandwick-new-york-project-free-period-johnson-johnson",
+      "year": 2019,
+      "title": "RAILROAD TIES",
+      "brand": "ANCESTRY (WEBER SHANDWICK NEW YORK)PROJECT FREE PERIOD – JOHNSON & JOHNSON",
+      "agency": "DDB MUMBAI",
+      "replaceWith": "2019-railroad-ties-ancestry"
+    },
+    {
+      "id": "2019-sounds-of-future-ocean-national-geographic-s-o-paulo-sound-free-concert-japan-philharmonic-orchestra",
+      "year": 2019,
+      "title": "SOUNDS OF FUTURE OCEAN",
+      "brand": "(NATIONAL GEOGRAPHIC SÃO PAULO)SOUND-FREE CONCERT – JAPAN PHILHARMONIC ORCHESTRA",
+      "agency": "TBWA TOKYO",
+      "replaceWith": "2019-sounds-of-future-ocean-national-geographic"
+    },
+    {
+      "id": "2019-sport-the-unexpected-reebok-venables-bell-partners-san-fransisco-spoiler-telemundo",
+      "year": 2019,
+      "title": "SPORT THE UNEXPECTED",
+      "brand": "REEBOK (VENABLES BELL & PARTNERS SAN FRANSISCO)SPOILER – TELEMUNDO",
+      "agency": "GREY BUENOS AIRES",
+      "replaceWith": "2019-sport-the-unexpected-reebok"
+    },
+    {
+      "id": "2019-the-gaydr-peter-tatchell-foundation-mccann-london-flower-of-life-hermes-pardini",
+      "year": 2019,
+      "title": "THE GAYDR",
+      "brand": "PETER TATCHELL FOUNDATION (MCCANN LONDON)FLOWER OF LIFE – HERMES PARDINI",
+      "agency": "OGILVY SÃO PAULO",
+      "replaceWith": "2019-the-gaydr-peter-tatchell-foundation"
+    },
+    {
+      "id": "2018-the-belt-24-7-prisma-s-group-helsinki-art-of-cutouts-olfa",
+      "year": 2018,
+      "title": "THE BELT 24/7",
+      "brand": "PRISMA (S-GROUP HELSINKI)ART OF CUTOUTS – OLFA",
+      "agency": "DENTSU TOKYO",
+      "replaceWith": "2018-the-belt-24-7-prisma"
+    },
+    {
+      "id": "2017-a-world-with-no-heroes-ubisoft-ddb-paris-aami-smartplates-suncorp",
+      "year": 2017,
+      "title": "A WORLD WITH NO HEROES",
+      "brand": "UBISOFT (DDB PARIS)AAMI SMARTPLATES – SUNCORP",
+      "agency": "OGILVY AUSTRALIA",
+      "replaceWith": "2017-a-world-with-no-heroes-ubisoft"
+    },
+    {
+      "id": "2017-aefi-war-aefi-spanish-florist-association-y-r-madrid-you-can-switch-it-off-they-can-t-amnesty",
+      "year": 2017,
+      "title": "AEFI WAR",
+      "brand": "AEFI SPANISH FLORIST ASSOCIATION (Y&R MADRID)YOU CAN SWITCH IT OFF. THEY CAN’T – AMNESTY",
+      "agency": "OGILVY FRANKFURT",
+      "replaceWith": "2017-aefi-war-aefi-spanish-florist-association"
+    },
+    {
+      "id": "2017-camelpower-nissan-tbwa-dubai-apartment-stores-delamaison",
+      "year": 2017,
+      "title": "CAMELPOWER",
+      "brand": "NISSAN (TBWA DUBAI) APARTMENT STORES – DELAMAISON",
+      "agency": "NURUN PARIS",
+      "replaceWith": "2017-camelpower-nissan"
+    },
+    {
+      "id": "2017-cheese-burger-random-corp-s-a-grey-buenos-aires-barbecue-ribs-random-corp-s-a",
+      "year": 2017,
+      "title": "CHEESE BURGER",
+      "brand": "RANDOM CORP S.A (GREY BUENOS AIRES)BARBECUE RIBS – RANDOM CORP S.A",
+      "agency": "GREY BUENOS AIRES",
+      "replaceWith": "2017-cheese-burger-random-corp-s-a"
+    },
+    {
+      "id": "2017-craig-inglis-radiocentre-lucky-generals-london-war-gay-gin-lane-tate-britian",
+      "year": 2017,
+      "title": "CRAIG INGLIS",
+      "brand": "RADIOCENTRE (LUCKY GENERALS LONDON)WAR/GAY/GIN LANE – TATE BRITIAN",
+      "agency": "GREY LONDON",
+      "replaceWith": "2017-craig-inglis-radiocentre"
+    },
+    {
+      "id": "2017-dim-dads-nestle-philippines-mccann-taguig-city-flight-mall-office-bloom-s-pharmacy",
+      "year": 2017,
+      "title": "DIM DADS",
+      "brand": "NESTLE PHILIPPINES (MCCANN TAGUIG CITY)FLIGHT, MALL, OFFICE – BLOOM’S PHARMACY",
+      "agency": "FCB CAPE TOWN",
+      "replaceWith": "2017-dim-dads-nestle-philippines"
+    },
+    {
+      "id": "2017-draw-and-release-samsung-electronics-dentsu-tokyo-made-the-johnsonville-way-johnsonville-sausages",
+      "year": 2017,
+      "title": "DRAW AND RELEASE",
+      "brand": "SAMSUNG ELECTRONICS (DENTSU TOKYO)MADE THE JOHNSONVILLE WAY – JOHNSONVILLE SAUSAGES",
+      "agency": "DROGA5 NEW YORK",
+      "replaceWith": "2017-draw-and-release-samsung-electronics"
+    },
+    {
+      "id": "2017-equality-signs-nike-colombia-j-walter-thompson-bogot-ultimate-giving-pleasure-bmw-russia",
+      "year": 2017,
+      "title": "EQUALITY SIGNS",
+      "brand": "NIKE COLOMBIA (J. WALTER THOMPSON BOGOTÁ)ULTIMATE GIVING PLEASURE – BMW RUSSIA",
+      "agency": "FCB MOSCOW",
+      "replaceWith": "2017-equality-signs-nike-colombia-j-walter-thompson"
+    },
+    {
+      "id": "2017-feed-the-good-pedigree-almapbbdo-s-o-paulo-app-icon-mcdonald-s",
+      "year": 2017,
+      "title": "FEED THE GOOD",
+      "brand": "PEDIGREE (ALMAPBBDO SÃO PAULO)APP-ICON – MCDONALD’S",
+      "agency": "TBWA\\ZURICH",
+      "replaceWith": "2017-feed-the-good-pedigree"
+    },
+    {
+      "id": "2017-food-pioneers-hellman-s-ogilvy-london-time-to-get-out-there-volkswagen-suv-ddb-berlin-don-t-scroll-and-drive-mapfre",
+      "year": 2017,
+      "title": "FOOD PIONEERS",
+      "brand": "HELLMAN’S (OGILVY LONDON)TIME TO GET OUT THERE – VOLKSWAGEN-SUV (DDB BERLIN)DON’T SCROLL AND DRIVE – MAPFRE",
+      "agency": "TALENT MARCEL SÃO PAULO",
+      "replaceWith": "2017-food-pioneers-hellman-s"
+    },
+    {
+      "id": "2017-give-a-beep-h-vding-edelman-stockholm-talking-numbers-fundaci-n-huesped",
+      "year": 2017,
+      "title": "GIVE A BEEP",
+      "brand": "HÖVDING (EDELMAN STOCKHOLM)TALKING NUMBERS – FUNDACIÓN HUESPED",
+      "agency": "WUNDERMAN BUENOS AIRES",
+      "replaceWith": "2017-give-a-beep-h-vding"
+    },
+    {
+      "id": "2017-google-mountain-view-google-tilt-brush-team-in-house-doors-of-thrones-tourism-ireland",
+      "year": 2017,
+      "title": "GOOGLE MOUNTAIN VIEW",
+      "brand": "GOOGLE TILT BRUSH (TEAM IN HOUSE)DOORS OF THRONES – TOURISM IRELAND",
+      "agency": "PUBLICIS LONDON",
+      "replaceWith": "2017-google-mountain-view-google-tilt-brush"
+    },
+    {
+      "id": "2017-highway-sommiercenter-mercado-mccann-buenos-aires-mccafe-mcdonalds",
+      "year": 2017,
+      "title": "HIGHWAY",
+      "brand": "SOMMIERCENTER (MERCADO MCCANN BUENOS AIRES)MCCAFE – MCDONALDS",
+      "agency": "LEO BURNETT DUBAI",
+      "replaceWith": "2017-highway-sommiercenter"
+    },
+    {
+      "id": "2017-mom-or-girlfriend-ais-cloud-y-r-bangkok-son-or-father-ais-cloud",
+      "year": 2017,
+      "title": "MOM OR GIRLFRIEND",
+      "brand": "AIS CLOUD + (Y&R BANGKOK) SON OR FATHER – AIS CLOUD +",
+      "agency": "Y&R BANGKOK",
+      "replaceWith": "2017-mom-or-girlfriend-ais-cloud"
+    },
+    {
+      "id": "2017-ode-to-lesvos-johnnie-walker-anomaly-amsterdam-grow-up-mercedes-benz-antoni-berlin-touch-of-care-vicks",
+      "year": 2017,
+      "title": "ODE TO LESVOS",
+      "brand": "JOHNNIE WALKER (ANOMALY AMSTERDAM) GROW UP – MERCEDES-BENZ (ANTONI BERLIN) TOUCH OF CARE – VICKS",
+      "agency": "PUBLICIS SINGAPORE",
+      "replaceWith": "2017-ode-to-lesvos-diaegeo"
+    },
+    {
+      "id": "2017-ok-go-upside-down-inside-out-s7-airlines-tutkovbudkov-volgograd-handle-with-care-gillette",
+      "year": 2017,
+      "title": "OK GO — UPSIDE DOWN & INSIDE OUT",
+      "brand": "S7 AIRLINES (TUTKOVBUDKOV VOLGOGRAD)HANDLE WITH CARE – GILLETTE",
+      "agency": "GREY NEW YORK",
+      "replaceWith": "2017-ok-go-upside-down-inside-out-s7-airlines"
+    },
+    {
+      "id": "2017-paris-britney-harry-duracell-grey-johannesburg-fully-booked-lives-mccann-worldgroup-manila-gps-magic-noodles-bbq-ma",
+      "year": 2017,
+      "title": "PARIS, BRITNEY, HARRY",
+      "brand": "DURACELL (GREY JOHANNESBURG)FULLY BOOKED ‘LIVES’ (MCCANN WORLDGROUP MANILA)GPS, MAGIC NOODLES, BBQ – MARISKAL ROCK RADIO",
+      "agency": "Y&R MADRID",
+      "replaceWith": "2017-paris-britney-harry-duracell"
+    },
+    {
+      "id": "2017-pride-for-everyone-google-team-in-house-live-from-a-different-world-vodafone",
+      "year": 2017,
+      "title": "PRIDE FOR EVERYONE",
+      "brand": "GOOGLE (TEAM IN HOUSE) LIVE. FROM A DIFFERENT WORLD – VODAFONE",
+      "agency": "MCCANN ROMANIA BUCHAREST",
+      "replaceWith": "2017-pride-for-everyone-google"
+    },
+    {
+      "id": "2017-read-to-me-change-one-life-charitable-foundation-y-r-moscow-xuxa-and-the-missing-child-netflix",
+      "year": 2017,
+      "title": "READ TO ME",
+      "brand": "“CHANGE ONE LIFE” CHARITABLE FOUNDATION (Y&R MOSCOW)XUXA AND THE MISSING CHILD – NETFLIX",
+      "agency": "SOKO SÃO PAULO",
+      "replaceWith": "2017-read-to-me-change-one-life-charitable-foundation"
+    },
+    {
+      "id": "2017-real-fonteria-colenso-bbdo-auckland-make-love-not-walls-diesel",
+      "year": 2017,
+      "title": "REAL",
+      "brand": "FONTERIA (COLENSO BBDO AUCKLAND)MAKE LOVE NOT WALLS – DIESEL",
+      "agency": "ANOMALY AMSTERDAM",
+      "replaceWith": "2017-real-fonteria"
+    },
+    {
+      "id": "2017-spring-waitrose-adam-eveddb-london-clean-tiles-ajax",
+      "year": 2017,
+      "title": "SPRING",
+      "brand": "WAITROSE (ADAM&EVEDDB LONDON)CLEAN TILES – AJAX",
+      "agency": "ANR BBDO STOCKHOLM",
+      "replaceWith": "2017-spring-waitrose"
+    },
+    {
+      "id": "2017-the-sons-of-all-bombs-perfil-mercado-mccann-buenos-aires-frog-snake-bat-bird-johannesburg-zoo",
+      "year": 2017,
+      "title": "THE SONS OF ALL BOMBS",
+      "brand": "PERFIL (MERCADO MCCANN BUENOS AIRES)FROG, SNAKE, BAT, BIRD – JOHANNESBURG ZOO",
+      "agency": "Y&R CAPE TOWN",
+      "replaceWith": "2017-the-sons-of-all-bombs-perfil"
+    },
+    {
+      "id": "2017-the-tailor-made-store-chadstone-shopping-centre-bwm-dentsu-melbourne-tequila-gin-vodka-santa-casa-de-miseric-rdia-d",
+      "year": 2017,
+      "title": "THE TAILOR MADE STORE",
+      "brand": "CHADSTONE SHOPPING CENTRE (BWM DENTSU MELBOURNE)TEQUILA, GIN, VODKA – SANTA CASA DE MISERICÓRDIA DE SÃO PAULO (Y&R SÃO PAULO)MELANOMA MONSTERS – MOLLIE’S FUND",
+      "agency": "FCB AREA 23 NEW YORK",
+      "replaceWith": "2017-the-tailor-made-store-chadstone-shopping-centre"
+    },
+    {
+      "id": "2017-the-virtual-crash-billboard-road-safety-authority-serviceplan-paris-you-know-the-queen-now-meet-elizabeth-netflix",
+      "year": 2017,
+      "title": "THE VIRTUAL CRASH BILLBOARD",
+      "brand": "ROAD SAFETY AUTHORITY (SERVICEPLAN PARIS)YOU KNOW THE QUEEN. NOW MEET ELIZABETH. – NETFLIX",
+      "agency": "HAVAS SINGAPORE",
+      "replaceWith": "2017-the-virtual-crash-billboard-road-safety-authority"
+    },
+    {
+      "id": "2017-undress522-abaad-resource-center-for-gender-equality-leo-burnett-beirut-a-love-story-chipotle-mexican-grill",
+      "year": 2017,
+      "title": "#UNDRESS522",
+      "brand": "ABAAD RESOURCE CENTER FOR GENDER EQUALITY (LEO BURNETT BEIRUT)A LOVE STORY – CHIPOTLE MEXICAN GRILL",
+      "agency": "CREATIVE ARTISTS AGENCY LOS ANGELES",
+      "replaceWith": "2017-undress522-abaad-resource-center-for-gender-equality"
+    },
+    {
+      "id": "2016-jabu-darryl-cansa-fcb-cape-town-jointheherd-wildlife-conservation",
+      "year": 2016,
+      "title": "JABU, DARRYL",
+      "brand": "CANSA (FCB CAPE TOWN)JOINTHEHERD – WILDLIFE CONSERVATION",
+      "agency": "GREY LONDON",
+      "replaceWith": "2016-jabu-darryl-cansa"
+    },
+    {
+      "id": "2016-minus-18-you-re-accepted-lgbt-youth-support-gpy-r-melbourne-sleepover-equation-peaceful-sleep-room-spray",
+      "year": 2016,
+      "title": "MINUS 18 YOU’RE ACCEPTED",
+      "brand": "LGBT YOUTH SUPPORT (GPY&R MELBOURNE)SLEEPOVER EQUATION – PEACEFUL SLEEP ROOM SPRAY",
+      "agency": "TBWA\\HUNT\\LASCARIS JOHANNESBURG",
+      "replaceWith": "2016-minus-18-you-re-accepted-lgbt-youth-support"
+    },
+    {
+      "id": "2016-no-borders-airbnb-starcom-mediavest-group-chicago-open-road-project-toyota-i-road",
+      "year": 2016,
+      "title": "NO BORDERS",
+      "brand": "AIRBNB (STARCOM MEDIAVEST GROUP CHICAGO)OPEN ROAD PROJECT – TOYOTA I ROAD",
+      "agency": "DENTSU TOKYO",
+      "replaceWith": "2016-no-borders-airbnb"
+    },
+    {
+      "id": "2016-the-river-rakuten-kobo-cossette-toronto-femme-apooloza-give-him-everything-the-toronto-speakers-academy",
+      "year": 2016,
+      "title": "THE RIVER",
+      "brand": "RAKUTEN KOBO (COSSETTE TORONTO)FEMME-APOOLOZA, GIVE HIM EVERYTHING – THE TORONTO SPEAKERS ACADEMY",
+      "agency": "JWT TORONTO",
+      "replaceWith": "2016-the-river-rakuten-kobo"
+    },
+    {
+      "id": "2014-freedom-candles-amnesty-international-ogilvy-london-central-park-conservancy-receptacles-central-park",
+      "year": 2014,
+      "title": "FREEDOM CANDLES",
+      "brand": "AMNESTY INTERNATIONAL (OGILVY LONDON)CENTRAL PARK CONSERVANCY RECEPTACLES – CENTRAL PARK",
+      "agency": "LANDOR ASSOCIATES NEW YORK",
+      "replaceWith": "2014-freedom-candles-amnesty-international"
+    },
+    {
+      "id": "2014-made-from-cool-making-the-cut-jack-jones-co-copenhagen-make-every-yard-count-nike-jwt-mumbai-mannequins-pro-infirmi",
+      "year": 2014,
+      "title": "MADE FROM COOL: MAKING THE CUT",
+      "brand": "JACK & JONES (&CO. COPENHAGEN)MAKE EVERY YARD COUNT – NIKE (JWT MUMBAI)MANNEQUINS – PRO INFIRMIS",
+      "agency": "JUNG VON MATT/LIMMAT AG ZURICH",
+      "replaceWith": "2014-made-from-cool-making-the-cut-jack-jones"
+    },
+    {
+      "id": "2014-possibilities-nike-wieden-kennedy-portland-animal-strike-paw-justice",
+      "year": 2014,
+      "title": "POSSIBILITIES",
+      "brand": "NIKE (WIEDEN+KENNEDY PORTLAND)ANIMAL STRIKE – PAW JUSTICE",
+      "agency": "DDB AUCKLAND",
+      "replaceWith": "2014-possibilities-nike"
+    },
+    {
+      "id": "2013-demand-equal-pay-ywca-ddb-auckland-usa-flag-uk-flag-accem",
+      "year": 2013,
+      "title": "DEMAND EQUAL PAY",
+      "brand": "YWCA (DDB AUCKLAND)USA FLAG, UK FLAG – ACCEM",
+      "agency": "DRAFTFCB MADRID",
+      "replaceWith": "2013-demand-equal-pay-ywca"
+    },
+    {
+      "id": "2013-launch-of-the-new-volvo-fh-volvo-trucks-forsman-bodenfors-gothenburg-launch-site-on-ebay-volvo-trucks",
+      "year": 2013,
+      "title": "LAUNCH OF THE NEW VOLVO FH",
+      "brand": "VOLVO TRUCKS (FORSMAN & BODENFORS GOTHENBURG) LAUNCH SITE ON EBAY – VOLVO TRUCKS",
+      "agency": "FORSMAN & BODENFORS GOTHENBURG",
+      "replaceWith": "2013-launch-of-the-new-volvo-fh-volvo-trucks"
+    },
+    {
+      "id": "2013-personal-extinction-prevention-book-land-rover-y-r-dubai-more-time-to-think-volkswagen",
+      "year": 2013,
+      "title": "PERSONAL EXTINCTION PREVENTION BOOK",
+      "brand": "LAND ROVER (Y&R DUBAI)MORE TIME TO THINK – VOLKSWAGEN",
+      "agency": "BBDO SÃO PAULO",
+      "replaceWith": "2013-personal-extinction-prevention-book-land-rover"
+    },
+    {
+      "id": "2012-back-to-the-start-chipotle-creative-artists-agency-los-angeles-cultivate-campaign-chipotle",
+      "year": 2012,
+      "title": "BACK TO THE START",
+      "brand": "CHIPOTLE (CREATIVE ARTISTS AGENCY LOS ANGELES)CULTIVATE CAMPAIGN – CHIPOTLE",
+      "agency": "CREATIVE ARTISTS AGENCY LOS ANGELES",
+      "replaceWith": "2012-back-to-the-start-chipotle"
+    },
+    {
+      "id": "2012-bully-choir-parent-advice-helpline-duval-guillaume-antwerp-the-swedish-truck-drivers-popsy",
+      "year": 2012,
+      "title": "BULLY CHOIR",
+      "brand": "PARENT ADVICE HELPLINE (DUVAL GUILLAUME ANTWERP) THE SWEDISH TRUCK DRIVERS – POPSY",
+      "agency": "DIST CREATIVE OSLO",
+      "replaceWith": "2012-bully-choir-parent-advice-helpline"
+    },
+    {
+      "id": "2012-bus-the-london-metropolitan-police-amvbbdo-london-tube-the-london-metropolitan-police",
+      "year": 2012,
+      "title": "BUS",
+      "brand": "THE LONDON METROPOLITAN POLICE (AMVBBDO LONDON) TUBE – THE LONDON METROPOLITAN POLICE",
+      "agency": "AMVBBDO LONDON",
+      "replaceWith": "2012-bus-the-london-metropolitan-police"
+    },
+    {
+      "id": "2012-cinco-dos-equis-beer-euro-rscg-usa-good-side-dos-equis-beer",
+      "year": 2012,
+      "title": "CINCO",
+      "brand": "DOS EQUIS BEER (EURO RSCG USA)GOOD SIDE – DOS EQUIS BEER",
+      "agency": "EURO RSCG USA",
+      "replaceWith": "2012-cinco-dos-equis-beer"
+    },
+    {
+      "id": "2012-colony-doom-super-multi-insecticide-tbwa-hunt-lascaris-johannesburg-secret-doom-super-multi-insecticide",
+      "year": 2012,
+      "title": "COLONY",
+      "brand": "DOOM SUPER MULTI INSECTICIDE (TBWA\\HUNT\\LASCARIS JOHANNESBURG)SECRET – DOOM SUPER MULTI INSECTICIDE",
+      "agency": "TBWA\\HUNT\\LASCARIS JOHANNESBURG",
+      "replaceWith": "2012-colony-doom-super-multi-insecticide"
+    },
+    {
+      "id": "2012-company-outing-leica-the-bravo-group-new-york-grand-canyon-leica-the-bravo-group-new-york-picture-day-leica",
+      "year": 2012,
+      "title": "COMPANY OUTING",
+      "brand": "LEICA (THE BRAVO GROUP NEW YORK) GRAND CANYON – LEICA (THE BRAVO GROUP NEW YORK) PICTURE DAY – LEICA",
+      "agency": "THE BRAVO GROUP NEW YORK",
+      "replaceWith": "2012-company-outing-leica"
+    },
+    {
+      "id": "2012-cross-country-vw-tiguan-ddb-sydney-daily-fun-math-kumon",
+      "year": 2012,
+      "title": "CROSS COUNTRY",
+      "brand": "VW TIGUAN (DDB SYDNEY) DAILY FUN MATH – KUMON",
+      "agency": "GREY JAKARTA",
+      "replaceWith": "2012-cross-country-vw-tiguan"
+    },
+    {
+      "id": "2012-live-young-we-re-all-baby-inside-evian-mpgmc-new-york-dice-outdoor-campaign-dice-com",
+      "year": 2012,
+      "title": "LIVE YOUNG WE’RE ALL BABY INSIDE",
+      "brand": "EVIAN (MPGMC NEW YORK)DICE OUTDOOR CAMPAIGN – DICE.COM",
+      "agency": "BARKLEY KANSAS CITY",
+      "replaceWith": "2012-live-young-we-re-all-baby-inside-evian"
+    },
+    {
+      "id": "2012-locker-room-planet-fitness-mullen-boston-abs-planet-fitness",
+      "year": 2012,
+      "title": "LOCKER ROOM",
+      "brand": "PLANET FITNESS (MULLEN BOSTON) ABS – PLANET FITNESS",
+      "agency": "MULLEN BOSTON",
+      "replaceWith": "2012-locker-room-planet-fitness"
+    },
+    {
+      "id": "2012-love-the-game-jordan-brand-wieden-kennedy-new-york-lynx-angel-ambush-lynx",
+      "year": 2012,
+      "title": "LOVE THE GAME",
+      "brand": "JORDAN BRAND (WIEDEN+KENNEDY NEW YORK)LYNX ANGEL AMBUSH – LYNX",
+      "agency": "MINDSHARE LONDON",
+      "replaceWith": "2012-love-the-game-jordan-brand"
+    },
+    {
+      "id": "2012-miriam-greenpeace-ogilvy-mather-johannesburg-daughter-greenpeace",
+      "year": 2012,
+      "title": "MIRIAM",
+      "brand": "GREENPEACE (OGILVY&MATHER JOHANNESBURG) DAUGHTER – GREENPEACE",
+      "agency": "OGILVY&MATHER JOHANNESBURG",
+      "replaceWith": "2012-miriam-greenpeace"
+    },
+    {
+      "id": "2012-obsessed-with-sound-philips-tribal-ddb-amsterdam-ok-go-chevrolet-sonic-goodby-silverstein-and-partners-san-fransisc",
+      "year": 2012,
+      "title": "OBSESSED WITH SOUND",
+      "brand": "PHILIPS (TRIBAL DDB AMSTERDAM) OK GO – CHEVROLET SONIC (GOODBY SILVERSTEIN AND PARTNERS SAN FRANSISCO) OPEN BOOK PROJECT – THE REACH FOUNDATION AWARENESS CAMPAIGN",
+      "agency": "DDB GROUP MELBOURNE",
+      "replaceWith": "2012-obsessed-with-sound-philips"
+    },
+    {
+      "id": "2012-the-nightjar-5-gum-amvbbdo-london-always-open-denny-s",
+      "year": 2012,
+      "title": "THE NIGHTJAR",
+      "brand": "5 GUM (AMVBBDO LONDON)ALWAYS OPEN – DENNY’S",
+      "agency": "GOTHAM NEW YORK/DUMBDUMB",
+      "replaceWith": "2012-the-nightjar-5-gum"
+    },
+    {
+      "id": "2012-vw-logo-campaign-bluemotion-technologies-ddb-london-forgot-your-password-alzheimer-s-association-us",
+      "year": 2012,
+      "title": "VW LOGO CAMPAIGN",
+      "brand": "BLUEMOTION TECHNOLOGIES (DDB LONDON) FORGOT YOUR PASSWORD? – ALZHEIMER’S ASSOCIATION US",
+      "agency": "GRUPO GALLEGOS CALIFORNIA",
+      "replaceWith": "2012-vw-logo-campaign-bluemotion-technologies"
+    },
+    {
+      "id": "2012-yamen-bfm-mccann-kuala-lumpur-freda-bfm",
+      "year": 2012,
+      "title": "YAMEN",
+      "brand": "BFM (MCCANN KUALA LUMPUR)FREDA – BFM",
+      "agency": "MCCANN KUALA LUMPUR",
+      "replaceWith": "2012-yamen-bfm"
+    },
+    {
+      "id": "2011-animals-people-corbis-leo-burnett-lisbon-commuter-office-worker-runner-ms-waikato",
+      "year": 2011,
+      "title": "ANIMALS, PEOPLE",
+      "brand": "CORBIS (LEO BURNETT LISBON)COMMUTER, OFFICE WORKER, RUNNER – MS WAIKATO",
+      "agency": "COLENSO BBDO AUCKLAND",
+      "replaceWith": "2011-animals-people-corbis"
+    },
+    {
+      "id": "2011-baby-carrots-eat-em-like-junk-food-bolthouse-farms-cp-b-boulder-disappearing-discounts-lass",
+      "year": 2011,
+      "title": "BABY CARROTS: EAT’EM LIKE JUNK FOOD",
+      "brand": "BOLTHOUSE FARMS (CP+B BOULDER)DISAPPEARING DISCOUNTS – LASS",
+      "agency": "MUDRA COMMUNICATIONS MUMBAI",
+      "replaceWith": "2011-baby-carrots-eat-em-like-junk-food-bolthouse-farms"
+    },
+    {
+      "id": "2011-book-fresheners-100-000-books-voskhod-ekaterinburg-track-tape-hot-wheels",
+      "year": 2011,
+      "title": "BOOK FRESHENERS",
+      "brand": "100 000 BOOKS (VOSKHOD EKATERINBURG) TRACK TAPE – HOT WHEELS",
+      "agency": "OGILVY MEXICO",
+      "replaceWith": "2011-book-fresheners-100-000-books"
+    },
+    {
+      "id": "2011-borrow-skittles-tbwa-new-york-the-promise-keeper-reebok",
+      "year": 2011,
+      "title": "BORROW",
+      "brand": "SKITTLES (TBWA NEW YORK) THE PROMISE KEEPER – REEBOK",
+      "agency": "FORSMAN & BODENFORS GOTHENBURG",
+      "replaceWith": "2011-borrow-skittles"
+    },
+    {
+      "id": "2011-brad-galderma-network-bbdo-johannesburg-hiking-modern-music-school",
+      "year": 2011,
+      "title": "BRAD",
+      "brand": "GALDERMA (NETWORK BBDO JOHANNESBURG)HIKING – MODERN MUSIC SCHOOL",
+      "agency": "GRABARZ & PARTNER HAMBURG",
+      "replaceWith": "2011-brad-galderma-network-bbdo"
+    },
+    {
+      "id": "2011-camp-university-airport-odis-ogilvy-chile-conversations-halls-xs-jwt-buenos-aires-hero-fran-hero-marce-hero-sara-ki",
+      "year": 2011,
+      "title": "CAMP, UNIVERSITY, AIRPORT",
+      "brand": "ODIS (OGILVY CHILE)CONVERSATIONS – HALLS XS (JWT BUENOS AIRES)HERO-FRAN, HERO-MARCE, HERO-SARA – KITADOL",
+      "agency": "Y&R SANTIAGO",
+      "replaceWith": "2011-camp-university-airport-odis"
+    },
+    {
+      "id": "2011-car-free-day-greenpeace-leo-burnett-hong-kong-metallic-ink-underclothes",
+      "year": 2011,
+      "title": "CAR FREE DAY",
+      "brand": "GREENPEACE (LEO BURNETT HONG KONG)METALLIC INK UNDERCLOTHES –",
+      "agency": "4TH AMENDMENT WEAR BOULDER",
+      "replaceWith": "2011-car-free-day-greenpeace"
+    },
+    {
+      "id": "2011-darth-vader-tomtom-pool-amsterdam-kurt-madonna-eminem-daft-monkey-week-leo-burnett-madrid-save-the-beach-hotel-coro",
+      "year": 2011,
+      "title": "DARTH VADER",
+      "brand": "TOMTOM (POOL AMSTERDAM) KURT, MADONNA, EMINEM, DAFT – MONKEY WEEK (LEO BURNETT MADRID) SAVE THE BEACH HOTEL – CORONA BEER",
+      "agency": "JWT MADRID",
+      "replaceWith": "2011-darth-vader-tomtom"
+    },
+    {
+      "id": "2011-dog-duck-man-mini-monday-bangkok-don-t-tell-ashton-berghs-school-of-communication-rugbiers-woodcutters-mexican-wres",
+      "year": 2011,
+      "title": "DOG, DUCK, MAN",
+      "brand": "MINI (MONDAY BANGKOK)DON’T TELL ASHTON – (BERGHS SCHOOL OF COMMUNICATION)RUGBIERS, WOODCUTTERS, MEXICAN WRESTLERS – FORD",
+      "agency": "JWT BUENOS AIRES",
+      "replaceWith": "2011-dog-duck-man-mini"
+    },
+    {
+      "id": "2011-f-k-tree-the-national-hiv-council-starcom-stockholm-profile-the-governor-border-action-network-y-r-new-york-fake-it",
+      "year": 2011,
+      "title": "F**K TREE",
+      "brand": "THE NATIONAL HIV COUNCIL (STARCOM STOCKHOLM)PROFILE THE GOVERNOR – BORDER ACTION NETWORK (Y&R NEW YORK)FAKE IT ALL – BRAND PROTECTION GROUP ANTI-COUNTERFEIT AWARENESS",
+      "agency": "LEO BURNETT BEIRUT",
+      "replaceWith": "2011-f-k-tree-the-national-hiv-council"
+    },
+    {
+      "id": "2011-focus-group-snickers-bbdo-new-york-yatch-hbo-go",
+      "year": 2011,
+      "title": "FOCUS GROUP",
+      "brand": "SNICKERS (BBDO NEW YORK)YATCH – HBO GO",
+      "agency": "BBDO NEW YORK",
+      "replaceWith": "2011-focus-group-snickers"
+    },
+    {
+      "id": "2011-gateway-stockholm-mini-jung-von-matt-stockholm-uniqlo-lucky-line-uniqlo",
+      "year": 2011,
+      "title": "GATEWAY STOCKHOLM",
+      "brand": "MINI (JUNG VON MATT STOCKHOLM)UNIQLO LUCKY LINE – UNIQLO",
+      "agency": "DENTSU TOKYO",
+      "replaceWith": "2011-gateway-stockholm-mini"
+    },
+    {
+      "id": "2011-komodo-fiji-matterhorn-old-spice-wieden-kennedy-portland-school-bus-leaving-home-gymnastics-mars",
+      "year": 2011,
+      "title": "KOMODO, FIJI, MATTERHORN",
+      "brand": "OLD SPICE (WIEDEN+KENNEDY PORTLAND)SCHOOL BUS, LEAVING HOME, GYMNASTICS – MARS",
+      "agency": "BBDO BOULOGNE-BILLANCOURT",
+      "replaceWith": "2011-komodo-fiji-matterhorn-old-spice"
+    },
+    {
+      "id": "2011-parallel-lines-philips-onevoice-london-ready-to-work-levi-strauss",
+      "year": 2011,
+      "title": "PARALLEL LINES",
+      "brand": "PHILIPS (ONEVOICE LONDON)READY TO WORK – LEVI STRAUSS",
+      "agency": "WIEDEN+KENNEDY PORTLAND",
+      "replaceWith": "2011-parallel-lines-philips"
+    },
+    {
+      "id": "2011-pathological-liar-land-rover-y-r-new-york-yahoo-bus-stop-derby-yahoo-goodby-silverstein-partners-san-francisco-tree",
+      "year": 2011,
+      "title": "PATHOLOGICAL LIAR",
+      "brand": "LAND ROVER (Y&R NEW YORK)YAHOO! BUS STOP DERBY – YAHOO (GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO)TREE RINGS – ACRES",
+      "agency": "DDB SINGAPORE",
+      "replaceWith": "2011-pathological-liar-land-rover"
+    },
+    {
+      "id": "2011-refrigerator-cat-knives-dia-supermarket-z-comunicacao-s-o-paulo-woman-bald-bear-santa-casa-da-misericordia",
+      "year": 2011,
+      "title": "REFRIGERATOR, CAT, KNIVES",
+      "brand": "DIA SUPERMARKET (Z+ COMUNICACAO SÃO PAULO) WOMAN, BALD, BEAR – SANTA CASA DA MISERICORDIA",
+      "agency": "Y&R SÃO PAULO",
+      "replaceWith": "2011-refrigerator-cat-knives-dia-supermarket"
+    },
+    {
+      "id": "2011-replay-season-2-3-gatorade-tbwa-chiat-day-los-angeles-would-you-rather-snickers",
+      "year": 2011,
+      "title": "REPLAY SEASON 2 & 3",
+      "brand": "GATORADE (TBWA\\CHIAT\\DAY LOS ANGELES) WOULD YOU RATHER – SNICKERS",
+      "agency": "BBDO CAPE TOWN",
+      "replaceWith": "2011-replay-season-2-3-gatorade"
+    },
+    {
+      "id": "2011-save-as-wwf-wwf-jung-von-matt-hamburg-sneakerpedia-foot-locker-publicis-sapient-london-above-everything-else-silest",
+      "year": 2011,
+      "title": "SAVE AS WWF",
+      "brand": "WWF (JUNG VON MATT HAMBURG)SNEAKERPEDIA – FOOT LOCKER (PUBLICIS SAPIENT LONDON)ABOVE EVERYTHING ELSE – SILESTONE BY COSENTINO",
+      "agency": "KITCHEN WORTOPS SPAIN",
+      "replaceWith": "2011-save-as-wwf-wwf"
+    },
+    {
+      "id": "2011-shine-a-light-on-opportunity-durand-academy-political-lobbying-media-relations-stories-from-the-street-melbourne-wr",
+      "year": 2011,
+      "title": "SHINE A LIGHT ON OPPORTUNITY",
+      "brand": "DURAND ACADEMY (POLITICAL LOBBYING & MEDIA RELATIONS)STORIES FROM THE STREET – MELBOURNE WRITERS FESTIVAL (JWT MELBOURNE)GOOGLE VOICE SEARCH MOBILE APP – GOOGLE",
+      "agency": "BBH LONDON",
+      "replaceWith": "2011-shine-a-light-on-opportunity-durand-academy"
+    },
+    {
+      "id": "2011-stop-the-water-while-using-me-t-d-g-vertriebs-kolle-rebbe-hamburg-m-m-s-find-red-m-m",
+      "year": 2011,
+      "title": "STOP THE WATER WHILE USING ME!",
+      "brand": "T.D.G. VERTRIEBS (KOLLE REBBE HAMBURG)M&M’S FIND RED – M&M",
+      "agency": "PROXIMITY TORONTO",
+      "replaceWith": "2011-stop-the-water-while-using-me-t-d-g-vertriebs"
+    },
+    {
+      "id": "2011-the-dot-cons-microsoft-cp-b-boulder-green-grey-blue-yellow-renfe-sra-rushmore-madrid-graffiti-can-oil-rig-yardley",
+      "year": 2011,
+      "title": "THE DOT-CONS",
+      "brand": "MICROSOFT (CP+B BOULDER)GREEN, GREY, BLUE, YELLOW – RENFE (SRA. RUSHMORE MADRID)GRAFFITI, CAN, OIL RIG – YARDLEY",
+      "agency": "BESTER BURKE SLINGERS JOHANNESBURG",
+      "replaceWith": "2011-the-dot-cons-microsoft"
+    },
+    {
+      "id": "2011-the-film-room-nike-r-ga-new-york-celebrations-warburtons-y-r-london-toast-men-nicolas-feuillatte",
+      "year": 2011,
+      "title": "THE FILM ROOM",
+      "brand": "NIKE (R/GA NEW YORK)CELEBRATIONS – ​​WARBURTONS (Y&R LONDON)TOAST MEN – NICOLAS FEUILLATTE",
+      "agency": "DENTSU TOKYO",
+      "replaceWith": "2011-the-film-room-nike"
+    },
+    {
+      "id": "2011-the-making-of-your-mom-hates-dead-space-2-electronic-arts-fcb-san-francisco-fashion-laundry-ariel",
+      "year": 2011,
+      "title": "THE MAKING OF YOUR MOM HATES DEAD SPACE 2",
+      "brand": "ELECTRONIC ARTS (FCB SAN FRANCISCO)FASHION LAUNDRY – ARIEL",
+      "agency": "SMALLFISHCO TAGUIG",
+      "replaceWith": "2011-the-making-of-your-mom-hates-dead-space-2-electronic-arts"
+    },
+    {
+      "id": "2011-this-is-sport-center-espn-wieden-kennedy-new-york-repay-for-good-unicef-serviceplan-munchen-we-deliver-your-downloa",
+      "year": 2011,
+      "title": "THIS IS SPORT CENTER",
+      "brand": "ESPN (WIEDEN+KENNEDY NEW YORK) REPAY FOR GOOD – UNICEF (SERVICEPLAN MUNCHEN)WE DELIVER YOUR DOWNLOAD – CINE 24 HORAS",
+      "agency": "ISOBAR SÃO PAULO",
+      "replaceWith": "2011-this-is-sport-center-espn"
+    },
+    {
+      "id": "2011-touch-the-rainbow-cat-skittles-bbdo-canada-art-project-google",
+      "year": 2011,
+      "title": "TOUCH THE RAINBOW CAT",
+      "brand": "SKITTLES (BBDO CANADA)ART PROJECT – GOOGLE",
+      "agency": "GOOGLE IN HOUSE",
+      "replaceWith": "2011-touch-the-rainbow-cat-skittles"
+    },
+    {
+      "id": "2011-underdog-hbo-go-bbdo-new-york-boss-i-love-you-son-you-re-adorable-it-s-not-you-volkswagen",
+      "year": 2011,
+      "title": "UNDERDOG",
+      "brand": "HBO GO (BBDO NEW YORK)BOSS, I LOVE YOU, SON, YOU’RE ADORABLE, IT’S NOT YOU – VOLKSWAGEN",
+      "agency": "ALMAPBBDO SÃO PAULO",
+      "replaceWith": "2011-underdog-hbo-go"
+    },
+    {
+      "id": "2011-when-i-grow-up-faktum-forsman-bodenfors-stockholm-hands-the-national-centre-for-domestic-violence-jwt-london-2010-s",
+      "year": 2011,
+      "title": "WHEN I GROW UP",
+      "brand": "FAKTUM (FORSMAN & BODENFORS STOCKHOLM) HANDS – THE NATIONAL CENTRE FOR DOMESTIC VIOLENCE (JWT LONDON)2010’S FAIREST ANNUAL REPORT – LEMONAID BEVERAGES",
+      "agency": "JUNG VON MATT HAMBURG",
+      "replaceWith": "2011-when-i-grow-up-faktum"
+    },
+    {
+      "id": "2011-with-10-yeras-of-life-toshiba-dentsu-tokyo",
+      "year": 2011,
+      "title": "WITH 10 YERAS OF LIFE",
+      "brand": "TOSHIBA (DENTSU TOKYO)",
+      "agency": "BEHIND THE PRINT",
+      "replaceWith": "2011-with-10-yeras-of-life-toshiba"
+    },
+    {
+      "id": "2010-seer-wimbledon-ibm-ogilvyone-london-greenbacks-for-greenback-h-r-block",
+      "year": 2010,
+      "title": "SEER WIMBLEDON",
+      "brand": "IBM (OGILVYONE LONDON)GREENBACKS FOR GREENBACK – H&R BLOCK",
+      "agency": "FALLON MINNEAPOLIS",
+      "replaceWith": "2010-seer-wimbledon-ibm"
+    },
+    {
+      "id": "2009-best-job-in-the-world-tourism-queensland-sapientnitro-brisbane-no-money-but-love-yubari-resort-beacon-communication",
+      "year": 2009,
+      "title": "BEST JOB IN THE WORLD",
+      "brand": "TOURISM QUEENSLAND (SAPIENTNITRO BRISBANE)NO MONEY BUT LOVE – YUBARI RESORT (BEACON COMMUNICATIONS TOKYO)TRILLION DOLLAR POSTERS – THEZIMBABWEAN",
+      "agency": "TBWA\\JOHANNESBURG",
+      "replaceWith": "2009-best-job-in-the-world-tourism-queensland"
+    },
+    {
+      "id": "2009-break-the-cycle-barnardo-s-bbh-london-gucci-flora-p-g-filmmaster-milan-bank-transfer-job-ad-draft-worldwide",
+      "year": 2009,
+      "title": "BREAK THE CYCLE",
+      "brand": "BARNARDO’S (BBH LONDON)GUCCI FLORA – P&G (FILMMASTER MILAN)BANK TRANSFER JOB-AD – DRAFT WORLDWIDE",
+      "agency": "FCB VIENNA",
+      "replaceWith": "2009-break-the-cycle-barnardo-s"
+    },
+    {
+      "id": "2009-collapse-burger-king-cp-b-boulder-this-is-not-a-jersey-adidas-tbwa-auckland-slip-thong-boxer-prostate-cancer-founda",
+      "year": 2009,
+      "title": "COLLAPSE",
+      "brand": "BURGER KING (CP+B BOULDER)THIS IS NOT A JERSEY – ADIDAS (TBWA\\AUCKLAND)SLIP, THONG, BOXER – PROSTATE CANCER FOUNDATION",
+      "agency": "JUNG VON MATT/LIMMAT ZURICH",
+      "replaceWith": "2009-collapse-burger-king"
+    },
+    {
+      "id": "2009-editorial-apple-tbwa-media-arts-lab-los-angeles-pizza-box-apple",
+      "year": 2009,
+      "title": "EDITORIAL",
+      "brand": "APPLE (TBWA\\MEDIA ARTS LAB LOS ANGELES)PIZZA BOX – APPLE",
+      "agency": "TBWA\\MEDIA ARTS LAB LOS ANGELES",
+      "replaceWith": "2009-editorial-apple"
+    },
+    {
+      "id": "2009-from-the-country-of-passion-nichirei-foods-drill-tokyo-vase-robot-trumpet-fedex",
+      "year": 2009,
+      "title": "FROM THE COUNTRY OF PASSION",
+      "brand": "NICHIREI FOODS (DRILL TOKYO)VASE, ROBOT, TRUMPET – FEDEX",
+      "agency": "DDB SÃO PAULO",
+      "replaceWith": "2009-from-the-country-of-passion-nichirei-foods"
+    },
+    {
+      "id": "2009-game-of-death-nokia-n96-bruce-lee-limited-edition-jwt-beijing-changed-opening-credits-episodes-studio-brussels",
+      "year": 2009,
+      "title": "GAME OF DEATH",
+      "brand": "NOKIA N96 BRUCE LEE LIMITED EDITION (JWT BEIJING)CHANGED OPENING CREDITS & EPISODES – STUDIO BRUSSELS",
+      "agency": "MORTIERBRIGADE BRUSSELS",
+      "replaceWith": "2009-game-of-death-nokia-n96-bruce-lee-limited-edition"
+    },
+    {
+      "id": "2009-haunting-girl-rodney-district-council-bbdo-auckland-ball-point-felt-tip-fountain-pen-amnesty-international-saatchi-",
+      "year": 2009,
+      "title": "HAUNTING GIRL",
+      "brand": "RODNEY DISTRICT COUNCIL (BBDO AUCKLAND)BALL POINT, FELT TIP, FOUNTAIN PEN – AMNESTY INTERNATIONAL (SAATCHI & SAATCHI MALAYSIA)MR. GOLF TOURNAMENT QUIET SIGN HOLDER – BUD LIGHT",
+      "agency": "DDB CHICAGO",
+      "replaceWith": "2009-haunting-girl-rodney-district-council"
+    },
+    {
+      "id": "2009-honda-live-ad-honda-starcom-mediavest-london-listen-korea-heart-federation-creativia-seoul-weave-zigzag-loop-garmin",
+      "year": 2009,
+      "title": "HONDA LIVE AD",
+      "brand": "HONDA (STARCOM MEDIAVEST LONDON)LISTEN – KOREA HEART FEDERATION (CREATIVIA SEOUL)WEAVE/ZIGZAG/LOOP – GARMIN GPS",
+      "agency": "OGILVY SHANGHAI",
+      "replaceWith": "2009-honda-live-ad-honda"
+    },
+    {
+      "id": "2009-oasis-dig-out-your-soul-nyc-co-and-warner-brothers-bbh-new-york-village-where-nothing-ever-happens-conect-shackleto",
+      "year": 2009,
+      "title": "OASIS DIG OUT YOUR SOUL",
+      "brand": "NYC & CO. AND WARNER BROTHERS (BBH NEW YORK)VILLAGE WHERE NOTHING EVER HAPPENS – CONECT (SHACKLETON MADRID)WORLD’S FIRST EPHEMERAL MUSEUM – DIAGEO",
+      "agency": "LEO BURNETT LISBON",
+      "replaceWith": "2009-oasis-dig-out-your-soul-nyc-co-and-warner-brothers"
+    },
+    {
+      "id": "2009-pool-gain-detergent-leo-burnett-toronto-crumple-gain-detergent-leo-burnett-toronto-morning-gain-detergent",
+      "year": 2009,
+      "title": "POOL",
+      "brand": "GAIN DETERGENT (LEO BURNETT TORONTO)CRUMPLE – GAIN DETERGENT (LEO BURNETT TORONTO)MORNING – GAIN DETERGENT",
+      "agency": "LEO BURNETT TORONTO",
+      "replaceWith": "2009-pool-gain-detergent"
+    },
+    {
+      "id": "2009-submarine-guitar-elephant-mattel-jwt-santiago-gas-station-atm-sanyo-serviceplan-hamburg-store-the-store-that-sells-",
+      "year": 2009,
+      "title": "SUBMARINE, GUITAR, ELEPHANT",
+      "brand": "MATTEL (JWT SANTIAGO)GAS STATION / ATM – SANYO (SERVICEPLAN HAMBURG)STORE+, THE STORE THAT SELLS HOPE – RED CROSS",
+      "agency": "LEO BURNETT LISBON",
+      "replaceWith": "2009-submarine-guitar-elephant-mattel"
+    },
+    {
+      "id": "2009-tennis-nightclub-beach-nestle-ogilvy-paris-doctor-norte-beer",
+      "year": 2009,
+      "title": "TENNIS, NIGHTCLUB, BEACH",
+      "brand": "NESTLE (OGILVY PARIS)DOCTOR – NORTE BEER",
+      "agency": "SAATCHI & SAATCHI BUENOS AIRES",
+      "replaceWith": "2009-tennis-nightclub-beach-nestle"
+    },
+    {
+      "id": "2009-the-house-of-imagination-hornbach-baumarkt-heimat-berlin-savings-of-a-lifetime-cupid-condoms",
+      "year": 2009,
+      "title": "THE HOUSE OF IMAGINATION",
+      "brand": "HORNBACH BAUMARKT (HEIMAT BERLIN)SAVINGS OF A LIFETIME – CUPID CONDOMS",
+      "agency": "PUBLICIS MUMBAI",
+      "replaceWith": "2009-the-house-of-imagination-hornbach-baumarkt"
+    },
+    {
+      "id": "2009-the-now-network-sprint-goodby-silverstein-partners-san-francisco-diver-tourist-cave-man-perfetti-van-melle",
+      "year": 2009,
+      "title": "THE NOW NETWORK",
+      "brand": "SPRINT (GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO)DIVER, TOURIST, CAVE-MAN – PERFETTI VAN MELLE",
+      "agency": "OGILVY MUMBAI",
+      "replaceWith": "2009-the-now-network-sprint"
+    },
+    {
+      "id": "2009-the-world-s-first-in-ear-commercial-neuroth-hearing-aid-jung-von-matt-vienna-dance-t-mobile",
+      "year": 2009,
+      "title": "THE WORLD´S FIRST IN-EAR COMMERCIAL",
+      "brand": "NEUROTH HEARING AID (JUNG VON MATT VIENNA)DANCE – T MOBILE",
+      "agency": "MEDIACOM LONDON",
+      "replaceWith": "2009-the-world-s-first-in-ear-commercial-neuroth-hearing-aid"
+    },
+    {
+      "id": "2009-yellow-treehouse-yellow-pages-proximity-auckland-scooter-canadian-film-centre",
+      "year": 2009,
+      "title": "YELLOW TREEHOUSE",
+      "brand": "YELLOW PAGES (PROXIMITY AUCKLAND)SCOOTER – CANADIAN FILM CENTRE",
+      "agency": "DOUG&PARTNERS TORONTO",
+      "replaceWith": "2009-yellow-treehouse-yellow-pages"
+    },
+    {
+      "id": "2008-boost-mini-isobar-london-loop-mini-isobar-london-plinth-mini",
+      "year": 2008,
+      "title": "BOOST",
+      "brand": "MINI (ISOBAR LONDON) LOOP – MINI (ISOBAR LONDON) PLINTH – MINI",
+      "agency": "ISOBAR LONDON",
+      "replaceWith": "2008-boost-mini"
+    },
+    {
+      "id": "2008-rabbit-comcast-goodby-silverstein-partners-san-francisco-hema-rube-goldberg-viral-hema",
+      "year": 2008,
+      "title": "RABBIT",
+      "brand": "COMCAST (GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO)HEMA RUBE GOLDBERG VIRAL – HEMA",
+      "agency": "CCCP AMSTERDAM",
+      "replaceWith": "2008-rabbit-comcast"
+    },
+    {
+      "id": "2008-tomsellecks-filmsuez-la-comunidad-buenos-aires-bonjovis-filmsuez",
+      "year": 2008,
+      "title": "TOMSELLECKS",
+      "brand": "FILMSUEZ (LA COMUNIDAD BUENOS AIRES)BONJOVIS – FILMSUEZ",
+      "agency": "LA COMUNIDAD BUENOS AIRES",
+      "replaceWith": "2008-tomsellecks-filmsuez"
+    },
+    {
+      "id": "2005-it-s-gonna-get-dirty-scruffs-jwt-manchester-hardcore-scruffs",
+      "year": 2005,
+      "title": "IT’S GONNA GET DIRTY",
+      "brand": "SCRUFFS (JWT MANCHESTER)HARDCORE – SCRUFFS",
+      "agency": "JWT MANCHESTER",
+      "replaceWith": "2005-it-s-gonna-get-dirty-scruffs"
+    },
+    {
+      "id": "2005-paper-cut-microsoft-mrm-mccann-london-bad-pen-microsoft",
+      "year": 2005,
+      "title": "PAPER CUT",
+      "brand": "MICROSOFT (MRM // MCCANN LONDON)BAD PEN – MICROSOFT",
+      "agency": "MRM // MCCANN LONDON",
+      "replaceWith": "2005-paper-cut-microsoft"
+    },
+    {
+      "id": "2000-testicular-cancer-ad-1-alta-vista-wieden-kennedy-portland-testicular-cancer-ad2-alta-vista",
+      "year": 2000,
+      "title": "TESTICULAR CANCER AD 1",
+      "brand": "ALTA VISTA (WIEDEN+KENNEDY PORTLAND) TESTICULAR CANCER AD2 – ALTA VISTA",
+      "agency": "WIEDEN+KENNEDY PORTLAND",
+      "replaceWith": "2000-testicular-cancer-ad-1-alta-vista"
+    }
+  ],
+  "manual": [
+    {
+      "id": "2023-portuguese-re-constitution-penguin-books",
+      "year": 2023,
+      "title": "PORTUGUESE (RE)CONSTITUTION",
+      "brand": "PENGUIN BOOKS",
+      "agency": "FCB LISBON"
+    },
+    {
+      "id": "2023-the-movies-that-made-from-us-five-star",
+      "year": 2023,
+      "title": "THE MOVIES THAT MADE (FROM) US",
+      "brand": "FIVE STAR",
+      "agency": "BBDO BANGKOK"
+    },
+    {
+      "id": "2022-portuguese-re-constitution-penguin-books",
+      "year": 2022,
+      "title": "PORTUGUESE (RE)CONSTITUTION",
+      "brand": "PENGUIN BOOKS",
+      "agency": "FCB LISBON"
+    },
+    {
+      "id": "2019-a-little-company-apple-aspiration-perspiration-advertising-council-dentsu-tokyo-akuma-no-kimura-nissin-food-dentsu-",
+      "year": 2019,
+      "title": "A LITTLE COMPANY (APPLE)ASPIRATION & PERSPIRATION",
+      "brand": "ADVERTISING COUNCIL (DENTSU TOKYO)AKUMA NO KIMURA – NISSIN FOOD (DENTSU TOKYO)A HATER’S SONG BY – COCA COLA (SANTO BUENOS AIRES)ADIDAS Z.N.E – ADIDAS (TBWA\\SHANGHAI)ABSOLUT LOVE BOTTLE – ​​ABSOLUT VODKA",
+      "agency": "360I NEW YORK"
+    },
+    {
+      "id": "2019-der-tagesspiegel-queerformat-scholz-friends-berlin",
+      "year": 2019,
+      "title": "DER TAGESSPIEGEL #QUEERFORMAT",
+      "brand": "(SCHOLZ & FRIENDS BERLIN)COME OUT AND PLAY – PADDY POWER",
+      "agency": "OFFICER & GENTLEMAN MADRID"
+    },
+    {
+      "id": "2019-dunkin-jones-knowles-ritchie-new-york-diversish-the-valuable-500",
+      "year": 2019,
+      "title": "DUNKIN (JONES KNOWLES RITCHIE NEW YORK)DIVERSISH",
+      "brand": "THE VALUABLE 500",
+      "agency": "AMVBBDO LONDON"
+    },
+    {
+      "id": "2019-ha-u-te-couture-diesel",
+      "year": 2019,
+      "title": "HA(U)TE COUTURE",
+      "brand": "DIESEL",
+      "agency": "PUBLICIS MILAN"
+    },
+    {
+      "id": "2019-life-lolli-kmsz-bone-marrow-donation-center",
+      "year": 2019,
+      "title": "LIFE LOLLI",
+      "brand": "KMSZ (BONE MARROW DONATION CENTER)",
+      "agency": "BBDO DUSSELDORF"
+    },
+    {
+      "id": "2019-sickkids-vs-crews-cossette-toronto",
+      "year": 2019,
+      "title": "SICKKIDS VS: CREWS",
+      "brand": "(COSSETTE TORONTO)SHARK BAIT – UBER EATS",
+      "agency": "SPECIAL GROUP AUCKLAND"
+    },
+    {
+      "id": "2019-this-is-a-tree-pacific-paint-boysen-philippines-inc",
+      "year": 2019,
+      "title": "THIS IS A TREE",
+      "brand": "PACIFIC PAINT (BOYSEN) PHILIPPINES INC.",
+      "agency": "TBWA MAKATI CITY"
+    },
+    {
+      "id": "2018-alexander-wang-x-adidas-originals-johannes-leonardo-new-york",
+      "year": 2018,
+      "title": "ALEXANDER WANG X ADIDAS ORIGINALS",
+      "brand": "(JOHANNES LEONARDO NEW YORK)AMERICA. JUST LIKE THE MOVIES. – NORWEGIAN AIR",
+      "agency": "TRY OSLO"
+    },
+    {
+      "id": "2018-blink-to-speak-tbwa-mumbai-evert-45-kpn-n-5-amsterdam-the-talk-p-g-bbdo-new-york-the-donald-j-trump-presidential-tw",
+      "year": 2018,
+      "title": "BLINK TO SPEAK",
+      "brand": "(TBWA MUMBAI) EVERT_45 – KPN (N=5 AMSTERDAM) THE TALK – P&G (BBDO NEW YORK)THE DONALD J.TRUMP PRESIDENTIAL TWITTER LIBRARY",
+      "agency": "COMEDY CENTRAL NEW YORK"
+    },
+    {
+      "id": "2018-radio-make-a-different-friend-castle-lager-ogilvy-johannesburg-1",
+      "year": 2018,
+      "title": "RADIO: MAKE A DIFFERENT FRIEND",
+      "brand": "CASTLE LAGER (OGILVY JOHANNESBURG) 1",
+      "agency": ""
+    },
+    {
+      "id": "2018-radio-make-a-different-friend-castle-lager-ogilvy-johannesburg-1-2-3",
+      "year": 2018,
+      "title": "RADIO: MAKE A DIFFERENT FRIEND",
+      "brand": "CASTLE LAGER (OGILVY JOHANNESBURG) 1 2 3",
+      "agency": ""
+    },
+    {
+      "id": "2018-the-health-purse-sehat-ka-batua-mahindra-rise",
+      "year": 2018,
+      "title": "THE HEALTH PURSE (SEHAT KA BATUA)",
+      "brand": "MAHINDRA RISE",
+      "agency": "GREY MUMBAI"
+    },
+    {
+      "id": "2018-the-secret-monde-nissin-thailand-co-ltd",
+      "year": 2018,
+      "title": "THE SECRET",
+      "brand": "MONDE NISSIN (THAILAND) CO.,LTD.",
+      "agency": "OGILVY BANGKOK"
+    },
+    {
+      "id": "2017-marriott-international-s-real-time-command-center-mec-global-new-york",
+      "year": 2017,
+      "title": "MARRIOTT INTERNATIONAL’S REAL-TIME COMMAND CENTER",
+      "brand": "(MEC GLOBAL NEW YORK)UNLIMITED STADIUM – NIKE",
+      "agency": "BBH SINGAPORE"
+    },
+    {
+      "id": "2017-speed-o-track-arteris",
+      "year": 2017,
+      "title": "SPEED",
+      "brand": "O – TRACK – ARTERIS",
+      "agency": "DENTSU SÃO PAULO"
+    },
+    {
+      "id": "2017-the-one-moment-morton-salt-ogilvy-chicago-lo-behold-netscout",
+      "year": 2017,
+      "title": "THE ONE MOMENT- MORTON SALT (OGILVY CHICAGO)LO & BEHOLD",
+      "brand": "NETSCOUT",
+      "agency": "PEREIRA & O’DELL NEW YORK"
+    },
+    {
+      "id": "2016-last-words-palliative-care-end-of-life-care",
+      "year": 2016,
+      "title": "LAST WORDS",
+      "brand": "PALLIATIVE CARE (END OF LIFE CARE)",
+      "agency": "MEDULLA COMMUNICATIONS"
+    },
+    {
+      "id": "2016-shockwave-onde-de-choc-road-safety",
+      "year": 2016,
+      "title": "SHOCKWAVE (ONDE DE CHOC)",
+      "brand": "ROAD SAFETY",
+      "agency": "QUAD PRODUCTIONS PARIS"
+    },
+    {
+      "id": "2016-slums-housing-colonies-for-worms-zentel",
+      "year": 2016,
+      "title": "SLUMS (HOUSING COLONIES) FOR WORMS",
+      "brand": "ZENTEL",
+      "agency": "MEDULLA COMMUNICATIONS MUMBAI"
+    },
+    {
+      "id": "2015-2014-taco-bell-breakfast-launch-ronald-mcdonald-launch-taco-bell",
+      "year": 2015,
+      "title": "2014 TACO BELL BREAKFAST LAUNCH (RONALD MCDONALD LAUNCH)",
+      "brand": "TACO BELL",
+      "agency": "DEUTSCH LOS ANGELES"
+    },
+    {
+      "id": "2015-funtastic-hand-cirec-foundation-rehabilitation-and-prosthesis-center",
+      "year": 2015,
+      "title": "FUNTASTIC HAND",
+      "brand": "CIREC FOUNDATION (REHABILITATION AND PROSTHESIS CENTER)",
+      "agency": "PUBLICIS BOGOTÁ"
+    },
+    {
+      "id": "2015-holograms-for-freedom-no-somos-delito-we-are-not-crime",
+      "year": 2015,
+      "title": "HOLOGRAMS FOR FREEDOM",
+      "brand": "NO SOMOS DELITO (WE ARE NOT CRIME)",
+      "agency": "DDB MADRID"
+    },
+    {
+      "id": "2015-hungry-ghost-ok-go-album-ok-go",
+      "year": 2015,
+      "title": "HUNGRY GHOST (OK GO ALBUM)",
+      "brand": "OK GO",
+      "agency": "MORI TOKYO"
+    },
+    {
+      "id": "2015-lebanon4sale-sakker-el-dekkene-stop-the-shop",
+      "year": 2015,
+      "title": "LEBANON4SALE",
+      "brand": "SAKKER EL DEKKENE (STOP THE SHOP)",
+      "agency": "LEO BURNETT BEIRUT"
+    },
+    {
+      "id": "2015-lichtgrenze-the-city-of-berlin-kulturprojekte-berlin",
+      "year": 2015,
+      "title": "LICHTGRENZE",
+      "brand": "THE CITY OF BERLIN (KULTURPROJEKTE BERLIN)",
+      "agency": "WHITEVOID BERLIN"
+    },
+    {
+      "id": "2015-revenge-of-the-it-nerds-dell",
+      "year": 2015,
+      "title": "REVENGE OF THE (IT) NERDS",
+      "brand": "DELL",
+      "agency": "MEDIACOM AGENTUR FÜR MEDIENBERATUNG DÜSSELDORF"
+    },
+    {
+      "id": "2015-ttyl-talk-to-you-later-chevrolet",
+      "year": 2015,
+      "title": "TTYL (TALK TO YOU LATER)",
+      "brand": "CHEVROLET",
+      "agency": "MARURI GREY GUAYAQUIL"
+    },
+    {
+      "id": "2014-to-clefttosmile-operation-smile-india",
+      "year": 2014,
+      "title": ":{TO:) #CLEFTTOSMILE",
+      "brand": "OPERATION SMILE INDIA",
+      "agency": "OGILVY MUMBAI"
+    },
+    {
+      "id": "2013-absolut-craft-bartender-s-collection-absolut",
+      "year": 2013,
+      "title": "ABSOLUT CRAFT (BARTENDER’S COLLECTION)",
+      "brand": "ABSOLUT",
+      "agency": "THE BRAND UNION STOCKHOLM"
+    },
+    {
+      "id": "2013-paper-cuts-life-bear-giraffe-snub-nosed-monkey-greenpeace",
+      "year": 2013,
+      "title": "PAPER CUTS LIFE (BEAR, GIRAFFE, SNUB NOSED MONKEY)",
+      "brand": "GREENPEACE",
+      "agency": "SAATCHI & SAATCHI SHANGHAI"
+    },
+    {
+      "id": "2013-the-biggest-air-filter-pacific-paint-boysen-philippines",
+      "year": 2013,
+      "title": "THE BIGGEST AIR FILTER",
+      "brand": "PACIFIC PAINT (BOYSEN) PHILIPPINES",
+      "agency": "TBWA MAKATI CITY"
+    },
+    {
+      "id": "2012-a-personal-apology-just-for-you-o-b-tampons",
+      "year": 2012,
+      "title": "A PERSONAL APOLOGY (JUST FOR YOU)",
+      "brand": "O.B. TAMPONS",
+      "agency": "LOWE ROCHE TORONTO"
+    },
+    {
+      "id": "2012-chevy-sonic-launch-campaign-goodby-silverstein-partners-san-francisco",
+      "year": 2012,
+      "title": "CHEVY SONIC LAUNCH CAMPAIGN",
+      "brand": "(GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO)COCOON – GENERAL MILLS",
+      "agency": "SAATCHI & SAATCHI NEW YORK"
+    },
+    {
+      "id": "2012-halitosis-chicken-licken-network-bbdo-johannesburg-bacteria-chicken-licken",
+      "year": 2012,
+      "title": "HALITOSIS",
+      "brand": "CHICKEN LICKEN (NETWORK BBDO JOHANNESBURG) BACTERIA – CHICKEN LICKEN",
+      "agency": "NETWORK BBDO JOHANNESBURG"
+    },
+    {
+      "id": "2012-motorola-urban-art-motorola-human-b-side-sa-buenos-aries",
+      "year": 2012,
+      "title": "MOTOROLA URBAN ART",
+      "brand": "MOTOROLA (HUMAN (B SIDE SA) BUENOS ARIES)",
+      "agency": ""
+    },
+    {
+      "id": "2011-get-the-big-pictures-cine-las-americas-latinworks-austin-beetle-deep-ocean-explorer-spaceship-lego-leo-burnett-mosc",
+      "year": 2011,
+      "title": "GET THE BIG PICTURES- CINE LAS AMERICAS (LATINWORKS AUSTIN)BEETLE, DEEP OCEAN EXPLORER, SPACESHIP",
+      "brand": "LEGO (LEO BURNETT MOSCOW)BALLOONS – MTV BRAZIL (LODUCCA SÃO PAULO)MANUEL, ALBERTINA, CARLOS – AMNESTY INTERNATIONAL PORTUGAL (FUEL LISBON)COME BACK FERRORAMA – ESTRELLA TOYS (DM9DDB SÃO PAULO)BURMA – HUMAN RIGHTS WATCH (JWT NEW YORK)SHOELACES – OTRIVIN (SAATCHI & SAATCHI GENEVA)CLASSROM CRAFT – OTRIVIN",
+      "agency": "SAATCHI & SAATCHI GENEVA"
+    },
+    {
+      "id": "2009-cross-x-lines-t-circles-oo-epa",
+      "year": 2009,
+      "title": "CROSS (X), LINES (T), CIRCLES (OO)",
+      "brand": "EPA",
+      "agency": "BBDO SÃO PAULO"
+    },
+    {
+      "id": "2008-manju-no-shizuku-the-dew-of-longevity-tropical-plant-resources-research-institute-inc",
+      "year": 2008,
+      "title": "MANJU NO SHIZUKU (THE DEW OF LONGEVITY)",
+      "brand": "TROPICAL PLANT RESOURCES RESEARCH INSTITUTE, INC.",
+      "agency": "DENTSU TOKYO"
+    },
+    {
+      "id": "2003-welcome-to-the-urban-jungle-animal-planet",
+      "year": 2003,
+      "title": "WELCOME TO THE (URBAN) JUNGLE!",
+      "brand": "ANIMAL PLANET",
+      "agency": "OMD COPENHAGEN"
+    }
+  ]
+}

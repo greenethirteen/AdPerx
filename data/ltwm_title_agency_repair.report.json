@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2026-02-17T05:33:03.917Z",
+  "targets": 13,
+  "changed": 5,
+  "skipped": 8,
+  "changedRows": [
+    {
+      "id": "2019-der-tagesspiegel-queerformat-scholz-friends-berlin",
+      "before": {
+        "title": "DER TAGESSPIEGEL #QUEERFORMAT",
+        "brand": "(SCHOLZ & FRIENDS BERLIN)COME OUT AND PLAY – PADDY POWER",
+        "agency": "OFFICER & GENTLEMAN MADRID",
+        "outboundUrl": "https://www.youtube.com/watch?v=LwZ7-MFqYmg"
+      },
+      "after": {
+        "title": "DER TAGESSPIEGEL #QUEERFORMAT",
+        "brand": "DER TAGESSPIEGEL",
+        "agency": "SCHOLZ & FRIENDS BERLIN",
+        "outboundUrl": "https://amadeusamadeus.de/Tagesspiegel-Queerformat"
+      },
+      "rawAnchor": "DER TAGESSPIEGEL #QUEERFORMAT  –  (SCHOLZ & FRIENDS BERLIN)"
+    },
+    {
+      "id": "2019-sickkids-vs-crews-cossette-toronto",
+      "before": {
+        "title": "SICKKIDS VS: CREWS",
+        "brand": "(COSSETTE TORONTO)SHARK BAIT – UBER EATS",
+        "agency": "SPECIAL GROUP AUCKLAND",
+        "outboundUrl": "https://www.youtube.com/watch?v=bAVnygzEK0w"
+      },
+      "after": {
+        "title": "SICKKIDS VS: CREWS",
+        "brand": "SICKKIDS VS",
+        "agency": "COSSETTE TORONTO",
+        "outboundUrl": "https://clios.com/awards/winner/integrated-campaign/sickkids-foundation/sickkids-vs-crews-69375"
+      },
+      "rawAnchor": "SICKKIDS VS: CREWS  –  (COSSETTE TORONTO)"
+    },
+    {
+      "id": "2018-alexander-wang-x-adidas-originals-johannes-leonardo-new-york",
+      "before": {
+        "title": "ALEXANDER WANG X ADIDAS ORIGINALS",
+        "brand": "(JOHANNES LEONARDO NEW YORK)AMERICA. JUST LIKE THE MOVIES. – NORWEGIAN AIR",
+        "agency": "TRY OSLO",
+        "outboundUrl": "https://www.youtube.com/watch?v=MeOmACZbu3o"
+      },
+      "after": {
+        "title": "ALEXANDER WANG X ADIDAS ORIGINALS",
+        "brand": "ADIDAS ORIGINALS",
+        "agency": "JOHANNES LEONARDO NEW YORK",
+        "outboundUrl": "https://clios.com/fashion-beauty/winner/prestige-public-relations/adidas-originals/adidas-originals-x-alexander-wang-s2-39902"
+      },
+      "rawAnchor": "ALEXANDER WANG X ADIDAS ORIGINALS  –  (JOHANNES LEONARDO NEW YORK)"
+    },
+    {
+      "id": "2018-blink-to-speak-tbwa-mumbai-evert-45-kpn-n-5-amsterdam-the-talk-p-g-bbdo-new-york-the-donald-j-trump-presidential-tw",
+      "before": {
+        "title": "BLINK TO SPEAK",
+        "brand": "(TBWA MUMBAI) EVERT_45 – KPN (N=5 AMSTERDAM) THE TALK – P&G (BBDO NEW YORK)THE DONALD J.TRUMP PRESIDENTIAL TWITTER LIBRARY",
+        "agency": "COMEDY CENTRAL NEW YORK",
+        "outboundUrl": "https://www.youtube.com/watch?v=2crDzLZwWNo"
+      },
+      "after": {
+        "title": "BLINK TO SPEAK",
+        "brand": "BLINK TO SPEAK",
+        "agency": "TBWA MUMBAI",
+        "outboundUrl": "https://www.youtube.com/watch?v=IdrwWaC0YyQ"
+      },
+      "rawAnchor": "BLINK TO SPEAK  –  (TBWA MUMBAI)"
+    },
+    {
+      "id": "2012-chevy-sonic-launch-campaign-goodby-silverstein-partners-san-francisco",
+      "before": {
+        "title": "CHEVY SONIC LAUNCH CAMPAIGN",
+        "brand": "(GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO)COCOON – GENERAL MILLS",
+        "agency": "SAATCHI & SAATCHI NEW YORK",
+        "outboundUrl": "https://www.youtube.com/watch?v=Fgr-R5MNLko"
+      },
+      "after": {
+        "title": "CHEVY SONIC LAUNCH CAMPAIGN",
+        "brand": "CHEVROLET",
+        "agency": "GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO",
+        "outboundUrl": "http://cargocollective.com/DamianFitzgerald/CHEVY-LAUNCH-CAMPAIGN"
+      },
+      "rawAnchor": "CHEVY SONIC LAUNCH CAMPAIGN  –  (GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO)"
+    }
+  ],
+  "skippedRows": [
+    {
+      "id": "2019-this-is-a-tree-pacific-paint-boysen-philippines-inc",
+      "reason": "no_title-agency_anchor_match"
+    },
+    {
+      "id": "2018-radio-make-a-different-friend-castle-lager-ogilvy-johannesburg-1",
+      "reason": "no_title-agency_anchor_match"
+    },
+    {
+      "id": "2018-radio-make-a-different-friend-castle-lager-ogilvy-johannesburg-1-2-3",
+      "reason": "no_title-agency_anchor_match"
+    },
+    {
+      "id": "2018-the-secret-monde-nissin-thailand-co-ltd",
+      "reason": "no_title-agency_anchor_match"
+    },
+    {
+      "id": "2017-speed-o-track-arteris",
+      "reason": "no_title-agency_anchor_match"
+    },
+    {
+      "id": "2013-the-biggest-air-filter-pacific-paint-boysen-philippines",
+      "reason": "no_title-agency_anchor_match"
+    },
+    {
+      "id": "2012-halitosis-chicken-licken-network-bbdo-johannesburg-bacteria-chicken-licken",
+      "reason": "no_title-agency_anchor_match"
+    },
+    {
+      "id": "2012-motorola-urban-art-motorola-human-b-side-sa-buenos-aries",
+      "reason": "no_title-agency_anchor_match"
+    }
+  ]
+}
