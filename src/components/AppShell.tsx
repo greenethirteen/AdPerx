@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import Link from "next/link";
 import type { SearchFilters, SearchResponse } from "@/lib/types";
 import SearchBar from "./SearchBar";
 import FiltersPanel from "./FiltersPanel";
@@ -89,7 +88,7 @@ export default function AppShell() {
   const showFiltersPanel = mode === "search";
   const modeButtonClass = (active: boolean) =>
     [
-      "rounded-xl px-3 py-2 text-sm shadow-soft transition duration-150 select-none",
+      "rounded-xl px-2 py-1.5 text-xs shadow-soft transition duration-150 select-none md:px-3 md:py-2 md:text-sm",
       "focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2",
       "active:scale-[0.98] active:translate-y-px",
       active
@@ -122,24 +121,15 @@ export default function AppShell() {
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
-      <header className="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
-        <div className="space-y-2">
-          <div className="inline-flex items-center gap-2">
-            <span className="rounded-full bg-black/5 px-2 py-1 text-xs font-semibold">MVP</span>
-            <span className="text-xs text-black/60">Metadata + links • Your searchable inspiration vault</span>
-          </div>
-          <h1 className="text-3xl font-semibold tracking-tight md:text-4xl">
-            <Link href="/" className="transition hover:text-black/75">
-              AdPerx
-            </Link>{" "}
-            <span className="text-black/50">— Perplexity for advertising</span>
-          </h1>
-          <p className="max-w-2xl text-sm text-black/65">
-            Find award-winning work fast: search, filter by industry (e.g., airlines), topics, formats, and open previews.
+      <header className="flex items-start justify-between gap-3">
+        <div className="space-y-1">
+          <h1 className="logo-mark text-3xl font-extrabold tracking-tight md:text-5xl">BrainStormer™</h1>
+          <p className="hidden md:block text-[10px] font-semibold uppercase tracking-[0.12em] text-black/65">
+            A Powerful Search Engine for Award-Winning Work
           </p>
         </div>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-1.5 md:gap-2">
           <button
             className={modeButtonClass(mode === "search")}
             onClick={() => setMode("search")}
@@ -159,7 +149,7 @@ export default function AppShell() {
             onClick={() => setMode("ideate")}
             aria-pressed={mode === "ideate"}
           >
-            BrainStormer™
+            Idea Generator
           </button>
         </div>
       </header>
@@ -365,6 +355,31 @@ export default function AppShell() {
       <footer className="mt-10 text-xs text-black/50">
         Built as a metadata indexer + search UI. Always respect source licensing & terms.
       </footer>
+      <style jsx>{`
+        .logo-mark {
+          background-image: linear-gradient(110deg, #0f766e 0%, #06b6d4 35%, #16a34a 65%, #0f766e 100%);
+          background-size: 200% 100%;
+          -webkit-background-clip: text;
+          background-clip: text;
+          color: transparent;
+          text-shadow: 0 0 22px rgba(6, 182, 212, 0.2);
+          animation: logoShift 6s ease-in-out infinite;
+        }
+        @keyframes logoShift {
+          0% {
+            background-position: 0% 50%;
+            text-shadow: 0 0 12px rgba(6, 182, 212, 0.18);
+          }
+          50% {
+            background-position: 100% 50%;
+            text-shadow: 0 0 24px rgba(22, 163, 74, 0.24);
+          }
+          100% {
+            background-position: 0% 50%;
+            text-shadow: 0 0 12px rgba(6, 182, 212, 0.18);
+          }
+        }
+      `}</style>
     </div>
   );
 }

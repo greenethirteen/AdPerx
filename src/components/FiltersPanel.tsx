@@ -29,15 +29,50 @@ export default function FiltersPanel({
 }) {
   const yearValues = buildYearFacetWithVintage(facets.years);
   const selectedYearKeys = getSelectedYearKeys(filters.years ?? [], facets.years);
+  const mobileAwardTierValue = (filters.awardTiers ?? []).length === 1 ? (filters.awardTiers ?? [])[0] : "";
+  const mobileCategoryValue = (filters.categories ?? []).length === 1 ? (filters.categories ?? [])[0] : "";
+  const mobileYearValue = selectedYearKeys.length === 1 ? selectedYearKeys[0] : "";
 
   return (
     <div className="rounded-2xl bg-white/70 p-4 shadow-soft backdrop-blur">
       <div className="flex items-center justify-between">
-        <h2 className="text-sm font-semibold">Filters</h2>
+        <h2 className="hidden text-sm font-semibold md:block">Filters</h2>
         {loading ? <span className="text-xs text-black/50">Searching…</span> : null}
       </div>
 
-      <div className="mt-4 space-y-4">
+      <div className="mt-4 grid grid-cols-3 gap-2 md:hidden">
+        <MobileSelectFacet
+          title="Award Tier"
+          options={sortFacetEntries("Award Tier", facets.awardTiers)}
+          value={mobileAwardTierValue}
+          onChange={(v) => onChange({ ...filters, awardTiers: v ? [v] : [] })}
+        />
+        <MobileSelectFacet
+          title="Category"
+          options={sortFacetEntries("Category", facets.categories)}
+          value={mobileCategoryValue}
+          onChange={(v) => onChange({ ...filters, categories: v ? [v] : [] })}
+        />
+        <MobileSelectFacet
+          title="Year"
+          options={sortFacetEntries("Year", yearValues)}
+          value={mobileYearValue}
+          onChange={(v) => {
+            if (!v) {
+              onChange({ ...filters, years: [] });
+              return;
+            }
+            if (v === VINTAGE_KEY) {
+              onChange({ ...filters, years: getVintageYearsFromFacets(facets.years) });
+              return;
+            }
+            const y = Number(v);
+            onChange({ ...filters, years: Number.isFinite(y) ? [y] : [] });
+          }}
+        />
+      </div>
+
+      <div className="mt-4 hidden space-y-4 md:block">
         <Facet
           title="Award Tier"
           values={facets.awardTiers}
@@ -91,6 +126,39 @@ export default function FiltersPanel({
         </div>
       </div>
     </div>
+  );
+}
+
+function MobileSelectFacet({
+  title,
+  options,
+  value,
+  onChange
+}: {
+  title: string;
+  options: Array<[string, number]>;
+  value: string;
+  onChange: (v: string) => void;
+}) {
+  return (
+    <label className="block">
+      <div className="mb-1 text-[10px] font-semibold uppercase tracking-[0.08em] text-black/55">{title}</div>
+      <div className="relative rounded-xl border border-black/10 bg-white/95 px-2 shadow-sm">
+      <select
+        value={value}
+        onChange={(e) => onChange(e.target.value)}
+        className="h-9 w-full appearance-none bg-transparent pr-6 text-[13px] font-medium text-black outline-none"
+      >
+        <option value="">All</option>
+        {options.map(([k, c]) => (
+          <option key={k} value={k}>
+            {k} · {c}
+          </option>
+        ))}
+      </select>
+      <span className="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 text-[11px] text-black/55">▾</span>
+      </div>
+    </label>
   );
 }
 

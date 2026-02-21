@@ -9,10 +9,10 @@ const EMPTY: IdeationResponse = { brief: "", items: [], sources: [] };
 const DEMO_BRIEF = "Give me creative idea angles for a Harvey Nichols Christmas Sale Campaign.";
 const DEMO_LINES: Array<[string, string, string, string]> = [
   [
-    "ES01 Glorify People",
-    "Crown Britain's most legendary gift-giver, one Christmas save at a time.",
-    "Christmas status gets assigned by who gives the gift everyone talks about first.",
-    "Build a social leaderboard of Gift Legends with weekly winners shoppable in-store and online."
+    "ES21 Conduct an Experiment",
+    "Put gift options on trial and crown the undisputed winner.",
+    "A head-to-head test format makes taste claims feel objective and boosts confidence in the final pick.",
+    "Run bracket-style gift trials with live votes and reveal one clear winner each week across social and in-store."
   ],
   [
     "ES02 Honour a Place",
@@ -129,10 +129,10 @@ const DEMO_LINES: Array<[string, string, string, string]> = [
     "Run myth-vs-fact creative with price-anchored edits and direct conversion routes."
   ],
   [
-    "ES21 Conduct an Experiment",
-    "Run a live experiment proving reaction quality rises with better-curated gifts.",
-    "Observed evidence persuades faster when personal taste claims feel subjective.",
-    "Execute controlled social experiments and publish measurable response deltas by gift strategy."
+    "ES01 Glorify People",
+    "Crown Britain's most legendary gift-giver, one Christmas save at a time.",
+    "Christmas status gets assigned by who gives the gift everyone talks about first.",
+    "Build a social leaderboard of Gift Legends with weekly winners shoppable in-store and online."
   ]
 ];
 
@@ -164,6 +164,7 @@ export default function IdeatePanel({
     if (!t) return "—";
     return t.length > n ? `${t.slice(0, n - 1)}…` : t;
   };
+  const cleanTechnique = (s: string) => String(s ?? "").replace(/^ES\d+\s+/i, "").trim();
 
   const sourceMap = useMemo(() => {
     const map = new Map<string, { label: string; thumb?: string; href?: string }>();
@@ -294,10 +295,9 @@ export default function IdeatePanel({
           <div className="space-y-3 md:col-span-2">
             <div className="rounded-2xl border border-black/10 bg-gradient-to-r from-emerald-700 via-green-700 to-lime-700 p-4 text-white shadow-soft">
               <p className="text-xs uppercase tracking-[0.22em] text-white/70">Creative Engine</p>
-              <h2 className="mt-1 text-2xl font-semibold tracking-tight">BrainStormer™</h2>
+              <h2 className="mt-1 text-2xl font-semibold tracking-tight">Idea Generator</h2>
               <p className="mt-1 text-sm text-white/80">
-                Stuck in a brainstorm with nothing smart to say? Is your CD grilling you? Are you about to be fired?
-                Generate ideas that actually work with BrainStormer™. Not ChatGPT slop.
+                Generate ideas that actually work with Idea Generator - A creative copilot that pulls references, rationales, and routes to executions.
               </p>
               <div className="mt-3 inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-3 py-1 text-xs text-white/85">
                 <span className="h-2 w-2 animate-pulse rounded-full bg-emerald-300" />
@@ -323,14 +323,9 @@ export default function IdeatePanel({
                   disabled={loading}
                   className="flex-1 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 px-4 py-2 text-xs font-semibold text-white transition hover:brightness-95 disabled:opacity-60"
                 >
-                  {loading ? `BrainStormer™ generating live… ${progress}/${ALL_PURPOSE_TECHNIQUES.length}` : "Run BrainStormer™"}
+                  {loading ? `Idea Generator generating live… ${progress}/${ALL_PURPOSE_TECHNIQUES.length}` : "Run Idea Generator"}
                 </button>
               </div>
-            </div>
-
-            <div className="rounded-2xl border border-black/10 bg-white/90 p-4 text-xs text-black/60">
-              Requires <span className="font-semibold">OPENAI_API_KEY</span> in <span className="font-semibold">.env.local</span>.
-              Outputs include citations that open specific reference work.
             </div>
 
             <div className="rounded-2xl border border-black/10 bg-white/90 p-4">
@@ -354,7 +349,7 @@ export default function IdeatePanel({
                   <div className="flex items-start justify-between gap-3">
                     <div>
                       <div className="text-xs font-semibold uppercase tracking-[0.18em] text-black/45">
-                        #{String(idx + 1).padStart(2, "0")} {item.technique}
+                        #{String(idx + 1).padStart(2, "0")} {cleanTechnique(item.technique)}
                       </div>
                       <div className="mt-1 text-lg font-semibold leading-snug text-black">{clamp(item.line, 96)}</div>
                     </div>
