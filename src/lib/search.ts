@@ -123,6 +123,12 @@ const CHRISTMAS_PRESET_TERMS = [
 const GAMING_PRESET_TERMS = [
   "gaming", "game", "games", "esports", "fortnite", "xbox", "playstation", "nintendo", "gamer"
 ];
+const AIRLINE_TERMS_SET = new Set(AIRLINE_PRESET_TERMS.map((t) => t.toLowerCase()));
+const BAD_THUMBNAIL_TERMS = [
+  "freepik.com",
+  "thumbnail-with-correct-ratio-scaled.jpg",
+  "marketing-campaign-case-study_1029473"
+];
 
 function campaignSearchBlob(c: Campaign) {
   return `${c.brand ?? ""} ${c.title ?? ""} ${c.agency ?? ""} ${c.notes ?? ""} ${c.outboundUrl ?? ""}`.toLowerCase();
@@ -138,11 +144,56 @@ function matchesTermPreset(c: Campaign, terms: string[]) {
   return terms.some((t) => blob.includes(t));
 }
 
+function countManySeparators(text: string) {
+  const t = text.toLowerCase();
+  const commaCount = (t.match(/,/g) ?? []).length;
+  const dashCount = (t.match(/\s[-–]\s/g) ?? []).length;
+  const parenCount = (t.match(/[()]/g) ?? []).length;
+  return commaCount + dashCount + parenCount;
+}
+
+function looksCorruptedText(c: Campaign) {
+  const parts = [c.brand ?? "", c.title ?? "", c.agency ?? ""];
+  const joined = parts.join(" ");
+  if (!joined.trim()) return false;
+  if (joined.length >= 220) return true;
+  if (joined.length >= 140 && countManySeparators(joined) >= 10) return true;
+  return false;
+}
+
+function hasSuspiciousAirlineTag(c: Campaign) {
+  if ((c.industry ?? "").toLowerCase() !== "airlines") return false;
+  const blob = campaignSearchBlob(c);
+  const hasAnyAirlineSignal = [...AIRLINE_TERMS_SET].some((t) => blob.includes(t));
+  return !hasAnyAirlineSignal;
+}
+
+function isDirectImageUrl(url: string | undefined) {
+  const u = (url ?? "").toLowerCase().trim();
+  if (!u) return false;
+  return /\\.(jpg|jpeg|png|webp|gif|bmp|svg)(\\?|$)/.test(u);
+}
+
+function hasBadThumbnail(c: Campaign) {
+  const t = (c.thumbnailUrl ?? "").toLowerCase();
+  if (!t) return true;
+  return BAD_THUMBNAIL_TERMS.some((needle) => t.includes(needle));
+}
+
+function matchesErrorsPreset(c: Campaign) {
+  if (hasBadThumbnail(c)) return true;
+  if (looksCorruptedText(c)) return true;
+  if (hasSuspiciousAirlineTag(c)) return true;
+  if (isDirectImageUrl(c.outboundUrl)) return true;
+  return false;
+}
+
 function matchesPreset(c: Campaign, preset: string) {
   if (preset === "airlines") return matchesAirlinePreset(c);
   if (preset === "olympics") return matchesTermPreset(c, OLYMPICS_PRESET_TERMS);
   if (preset === "christmas") return matchesTermPreset(c, CHRISTMAS_PRESET_TERMS);
   if (preset === "gaming") return matchesTermPreset(c, GAMING_PRESET_TERMS);
+  if (preset === "errors") return matchesErrorsPreset(c);
   return true;
 }
 

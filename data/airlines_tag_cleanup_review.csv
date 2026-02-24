@@ -1,0 +1,109 @@
+id,year,brand,title,old_industry,reason
+2025-aeromexicanos-aeromexicanos,2025,AEROMEXICANOS,AEROMEXICANOS,airlines,no_airline_signal
+2025-bark-air-launch-bark-air,2025,BARK AIR,BARK AIR LAUNCH,airlines,no_airline_signal
+2025-dove-love-your-hair-unilever,2025,UNILEVER,DOVE LOVE YOUR HAIR,airlines,no_airline_signal
+2024-contrails-making-flying-more-sustainable-with-google-ai-google-mountain-view,2024,GOOGLE MOUNTAIN VIEW,CONTRAILS: MAKING FLYING MORE SUSTAINABLE WITH GOOGLE AI,airlines,no_airline_signal
+2024-flying-guardians-planet-labs-pbc-greenpeace,2024,PLANET LABS PBC & GREENPEACE,FLYING GUARDIANS,airlines,no_airline_signal
+2024-the-flying-train-a-magnetic-story-siemens-healthineers,2024,SIEMENS HEALTHINEERS,"THE FLYING TRAIN, A MAGNETIC STORY",airlines,no_airline_signal
+2023-das-chair-volkswagen-commercial-vehicles,2023,VOLKSWAGEN COMMERCIAL VEHICLES,DAS CHAIR,airlines,no_airline_signal
+2023-eart4-b3-stock-exchange-united-nations-global-compact,2023,B3 STOCK EXCHANGE & UNITED NATIONS GLOBAL COMPACT,EART4,airlines,no_airline_signal
+2023-the-undeniable-street-view-united24-nova-ukraine-voices-of-children-boctok-sos,2023,"UNITED24 NOVA UKRAINE VOICES OF CHILDREN, BOCTOK SOS",THE UNDENIABLE STREET VIEW,airlines,hard_false_pattern
+2023-untangling-the-politics-of-hair-stir,2023,STIR,UNTANGLING THE POLITICS OF HAIR,airlines,no_airline_signal
+2019-air-max-graffiti-stores-nike,2019,NIKE,AIR MAX GRAFFITI STORES,airlines,hard_false_pattern
+2019-air-time-sickkids,2019,SICKKIDS,AIR TIME,airlines,hard_false_pattern
+2019-discover-your-air-foot-locker,2019,FOOT LOCKER,DISCOVER YOUR AIR,airlines,hard_false_pattern
+2019-legs-to-fly-espn,2019,ESPN,LEGS TO FLY,airlines,no_airline_signal
+2019-no-need-to-fly-german-rail,2019,GERMAN RAIL,NO NEED TO FLY,airlines,no_airline_signal
+2019-the-firefly-bradesco,2019,BRADESCO,THE FIREFLY,airlines,no_airline_signal
+2019-the-firefly-bradesco-publicis,2019,BRADESCO (PUBLICIS,THE FIREFLY,airlines,no_airline_signal
+2019-the-people-s-seat-united-nations,2019,UNITED NATIONS,THE PEOPLE’S SEAT,airlines,hard_false_pattern
+2017-cogy-wheelchair-tess-co,2017,TESS CO,COGY WHEELCHAIR,airlines,no_airline_signal
+2017-guillotine-electric-chair-global2000,2017,GLOBAL2000,GUILLOTINE / ELECTRIC CHAIR,airlines,no_airline_signal
+2017-nike-air-max-17-the-art-of-negative-space-nike,2017,NIKE,NIKE AIR MAX ’17—THE ART OF NEGATIVE SPACE,airlines,hard_false_pattern
+2017-the-app-you-ll-be-glad-you-don-t-need-united-we-dream,2017,UNITED WE DREAM,THE APP YOU’LL BE GLAD YOU DON’T NEED,airlines,no_airline_signal
+2017-the-biggest-sports-endorsement-deal-of-all-time-archer-air-superiority,2017,ARCHER AIR SUPERIORITY,THE BIGGEST SPORTS ENDORSEMENT DEAL OF ALL TIME,airlines,no_airline_signal
+2017-the-wheelchair-hour-akademia-auto-swiat,2017,AKADEMIA AUTO SWIAT,THE WHEELCHAIR HOUR,airlines,no_airline_signal
+2017-travel-agency-for-the-imagination-radio-flyer-inc,2017,"RADIO FLYER, INC.",TRAVEL AGENCY FOR THE IMAGINATION,airlines,no_airline_signal
+2016-airforce-com-u-s-air-force,2016,U.S. AIR FORCE,AIRFORCE.COM,airlines,no_airline_signal
+2016-daddo-pantene-hair-care,2016,PANTENE HAIR CARE,DADDO,airlines,no_airline_signal
+2016-devices-united-communities-of-san-antonio,2016,UNITED COMMUNITIES OF SAN ANTONIO,DEVICES,airlines,no_airline_signal
+2016-envy-hair-treatment-clinic,2016,HAIR TREATMENT CLINIC,ENVY,airlines,no_airline_signal
+2016-firefly-man-ocedel,2016,OCEDEL,FIREFLY MAN,airlines,no_airline_signal
+2016-flypaper-boeing,2016,BOEING,FLYPAPER,airlines,no_airline_signal
+2016-ghost-vote-states-united-to-prevent-gun-violence,2016,STATES UNITED TO PREVENT GUN VIOLENCE,GHOST VOTE,airlines,no_airline_signal
+2016-intelligent-parking-chair-nissan,2016,NISSAN,INTELLIGENT PARKING CHAIR,airlines,no_airline_signal
+2016-pigeon-air-patrol-pigeon-air-patrol,2016,PIGEON AIR PATROL,PIGEON AIR PATROL,airlines,no_airline_signal
+2016-waves-of-grace-the-united-nations,2016,THE UNITED NATIONS,WAVES OF GRACE,airlines,no_airline_signal
+2016-ways-in-campaign-unitedhealthcare-brand,2016,UNITEDHEALTHCARE BRAND,WAYS IN CAMPAIGN,airlines,no_airline_signal
+2015-805-million-names-united-nations-world-food-programme,2015,UNITED NATIONS WORLD FOOD PROGRAMME,805 MILLION NAMES,airlines,no_airline_signal
+2015-beach-mountain-waterfall-thai-airasia,2015,THAI AIRASIA,"BEACH, MOUNTAIN, WATERFALL",airlines,no_airline_signal
+2015-the-gun-shop-states-united-to-prevent-gun-violence,2015,STATES UNITED TO PREVENT GUN VIOLENCE,THE GUN SHOP,airlines,no_airline_signal
+2015-the-hair-fest-casa-de-la-amistad,2015,CASA DE LA AMISTAD,THE HAIR FEST,airlines,no_airline_signal
+2015-the-world-has-attractions-for-everyone-flying-pet,2015,FLYING PET,THE WORLD HAS ATTRACTIONS FOR EVERYONE,airlines,no_airline_signal
+2014-air-oil-philips-air-fryer,2014,PHILIPS AIR FRYER,AIR OIL,airlines,no_airline_signal
+2014-ballet-karate-gymnastic-saudia,2014,SAUDIA,"BALLET, KARATE, GYMNASTIC",airlines,no_airline_signal
+2014-hairtag-project-the-lounge-hair-salon,2014,THE LOUNGE HAIR SALON,HAIRTAG PROJECT,airlines,no_airline_signal
+2014-integrated-hair-campaign-old-spice,2014,OLD SPICE,INTEGRATED HAIR CAMPAIGN,airlines,no_airline_signal
+2014-the-collaboratory-us-air-force,2014,US AIR FORCE,THE COLLABORATORY,airlines,no_airline_signal
+2014-unload-your-401k-states-united-to-prevent-gun-violence,2014,STATES UNITED TO PREVENT GUN VIOLENCE,UNLOAD YOUR 401K,airlines,no_airline_signal
+2013-anytime-anywhere-australian-air-force,2013,AUSTRALIAN AIR FORCE,ANYTIME. ANYWHERE,airlines,no_airline_signal
+2013-beer-chase-carlton-united-breweries,2013,CARLTON & UNITED BREWERIES,BEER CHASE,airlines,no_airline_signal
+2013-fair-go-bro-virgin,2013,VIRGIN,FAIR GO BRO,airlines,no_airline_signal
+2013-fly-bees-mosquitos-westone,2013,WESTONE,"FLY, BEES, MOSQUITOS",airlines,no_airline_signal
+2013-for-all-hair-types-garnier-fructis,2013,GARNIER FRUCTIS,FOR ALL HAIR TYPES,airlines,no_airline_signal
+2013-kyrie-in-the-air-foot-locker,2013,FOOT LOCKER,KYRIE IN THE AIR,airlines,no_airline_signal
+2013-marionettebot-united-arrows,2013,UNITED ARROWS,MARIONETTEBOT,airlines,no_airline_signal
+2013-rescue-radio-sri-lankan-health-spa,2013,SRI LANKAN HEALTH SPA,RESCUE RADIO,airlines,no_airline_signal
+2013-the-biggest-air-filter-pacific-paint-boysen-philippines,2013,PACIFIC PAINT (BOYSEN) PHILIPPINES,THE BIGGEST AIR FILTER,airlines,no_airline_signal
+2013-the-enemies-of-despair-the-swedish-social-insurance-agency,2013,THE SWEDISH SOCIAL INSURANCE AGENCY,THE ENEMIES OF DESPAIR,airlines,no_airline_signal
+2013-the-invisible-flyer-missing-children-s-network,2013,MISSING CHILDREN’S NETWORK,THE INVISIBLE FLYER,airlines,no_airline_signal
+2012-butterfly-bundaberg-rum,2012,BUNDABERG RUM,BUTTERFLY,airlines,no_airline_signal
+2012-cat-toast-flying-horse-energy-drink,2012,FLYING HORSE ENERGY DRINK,CAT-TOAST,airlines,no_airline_signal
+2012-cat-toast-flying-horse-energy-drink-ogilvy-mather-s,2012,FLYING HORSE ENERGY DRINK (OGILVY & MATHER S,CAT-TOAST,airlines,no_airline_signal
+2012-fair-tweets-ben-jerry-s,2012,BEN & JERRY’S,FAIR TWEETS,airlines,no_airline_signal
+2012-flying-objects-road-safety-nzta,2012,ROAD SAFETY NZTA,FLYING OBJECTS,airlines,no_airline_signal
+2012-great-paper-airplane-project-pima-air-space-museum,2012,PIMA AIR & SPACE MUSEUM,GREAT PAPER AIRPLANE PROJECT,airlines,no_airline_signal
+2012-hair-for-hope-cancer-patients-department,2012,CANCER PATIENTS DEPARTMENT,HAIR FOR HOPE,airlines,no_airline_signal
+2012-reunited-greenpeace,2012,GREENPEACE,REUNITED,airlines,no_airline_signal
+2012-song-on-air-clip-online-belgian-rock-band,2012,BELGIAN ROCK BAND,SONG ON AIR CLIP ONLINE,airlines,no_airline_signal
+2012-unhate-united-colors-of-benetton,2012,UNITED COLORS OF BENETTON,UNHATE,airlines,no_airline_signal
+2011-bad-hair-day-spot-bottom-breast-cancer-foundation,2011,BREAST CANCER FOUNDATION,"BAD HAIR DAY, SPOT, BOTTOM",airlines,no_airline_signal
+2011-chair-raising-the-proof,2011,RAISING THE PROOF,CHAIR,airlines,no_airline_signal
+2011-despair-whirlpool-guangzhou-yangai-special-children-parent-club,2011,GUANGZHOU YANGAI SPECIAL CHILDREN PARENT CLUB,DESPAIR WHIRLPOOL,airlines,no_airline_signal
+2011-i-swim-with-marcos-united-nations,2011,UNITED NATIONS,I SWIM WITH MARCOS,airlines,no_airline_signal
+2010-fear-of-not-flying-virgin,2010,VIRGIN,FEAR OF NOT FLYING,airlines,no_airline_signal
+2010-flyvertising-eichborn,2010,EICHBORN,FLYVERTISING,airlines,no_airline_signal
+2010-hair-conditioning-santander,2010,SANTANDER,HAIR CONDITIONING,airlines,no_airline_signal
+2010-kit-kat-chair-kit-kat,2010,KIT KAT,KIT KAT CHAIR,airlines,no_airline_signal
+2010-space-chair-toshiba,2010,TOSHIBA,SPACE CHAIR,airlines,no_airline_signal
+2010-virtual-hair-action-axe,2010,AXE,VIRTUAL HAIR ACTION,airlines,no_airline_signal
+2009-fill-the-indigo2-o2,2009,O2,FILL THE INDIGO2,airlines,no_airline_signal
+2009-mumbai-new-york-bangalore-dubai-air-india,2009,AIR INDIA,"MUMBAI-NEW YORK, BANGALORE-DUBAI",airlines,no_airline_signal
+2009-stag-beetle-dragon-fly-fire-salamander-andreas-tscheppe,2009,ANDREAS TSCHEPPE,"STAG BEETLE, DRAGON FLY & FIRE SALAMANDER",airlines,no_airline_signal
+2008-brand-new-vw-golf-united,2008,VW GOLF UNITED,BRAND NEW,airlines,no_airline_signal
+2008-hair-lips-koleston,2008,KOLESTON,HAIR LIPS,airlines,no_airline_signal
+2008-promotions-flyer-akatu,2008,AKATU,PROMOTIONS FLYER,airlines,no_airline_signal
+2008-voices-project-united-nations-australia,2008,UNITED NATIONS AUSTRALIA,VOICES PROJECT,airlines,no_airline_signal
+2005-butterfly-children-debra-austria,2005,DEBRA AUSTRIA,BUTTERFLY CHILDREN,airlines,no_airline_signal
+2005-england-united-states-australia-western-union,2005,WESTERN UNION,"ENGLAND, UNITED STATES, AUSTRALIA",airlines,no_airline_signal
+2005-fly-smith-wesson,2005,SMITH & WESSON,FLY,airlines,no_airline_signal
+2005-liberty-crowd-skyline-air-tahiti-nui,2005,AIR TAHITI NUI,"LIBERTY, CROWD, SKYLINE",airlines,no_airline_signal
+2004-coqueiro-network-is-on-the-air-coqueiro,2004,COQUEIRO,COQUEIRO NETWORK IS ON THE AIR,airlines,no_airline_signal
+2004-flying-away-somela,2004,SOMELA,FLYING AWAY,airlines,no_airline_signal
+2004-light-switch-fly-dandelion-seed-olympus,2004,OLYMPUS,"LIGHT SWITCH, FLY, DANDELION SEED",airlines,no_airline_signal
+2004-the-grey-hair-la-mondiale,2004,LA MONDIALE,THE GREY HAIR,airlines,no_airline_signal
+2004-windscreen-flyer-environment-waikato,2004,ENVIRONMENT WAIKATO,WINDSCREEN FLYER,airlines,no_airline_signal
+2003-fly-mosquito-spider-kiwicare,2003,KIWICARE,"FLY, MOSQUITO, SPIDER",airlines,no_airline_signal
+2003-flying-saucer-mt-rushmore-rio-de-janeiro-indosport,2003,INDOSPORT,"FLYING SAUCER, MT RUSHMORE, RIO DE JANEIRO",airlines,no_airline_signal
+2003-sales-repair-opel,2003,OPEL,SALES & REPAIR,airlines,no_airline_signal
+2003-wheelchair-carabineros-de-chile,2003,CARABINEROS DE CHILE,WHEELCHAIR,airlines,no_airline_signal
+2002-dots-air-crested-butte-mud-nike,2002,NIKE,DOTS/AIR CRESTED BUTTE MUD,airlines,no_airline_signal
+2002-fly-chicken-boeri,2002,BOERI,"FLY, CHICKEN",airlines,no_airline_signal
+2002-the-fly-carrier,2002,CARRIER,THE FLY,airlines,no_airline_signal
+2001-100-people-united-nations,2001,UNITED NATIONS,100 PEOPLE,airlines,no_airline_signal
+2001-desk-shoe-hair-sparletta-bubble-blu,2001,SPARLETTA BUBBLE BLU,"DESK, SHOE, HAIR",airlines,no_airline_signal
+2001-life-s-unfair-till-you-get-a-degree-macquarie-university,2001,MACQUARIE UNIVERSITY,LIFE’S UNFAIR TILL YOU GET A DEGREE,airlines,no_airline_signal
+2001-venus-fly-trap-sbp-insecticide,2001,SBP INSECTICIDE,VENUS FLY TRAP,airlines,no_airline_signal
+2001-wheelchair-axel-springer,2001,AXEL SPRINGER,WHEELCHAIR,airlines,no_airline_signal
+2000-fly-volvo,2000,VOLVO,FLY,airlines,no_airline_signal
+2000-love-affair-mercedes-benz,2000,MERCEDES-BENZ,LOVE AFFAIR,airlines,no_airline_signal

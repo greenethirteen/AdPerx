@@ -85,6 +85,7 @@ export default function AppShell() {
     filters.sort === "year_desc" &&
     VINTAGE_YEARS.every((y) => (filters.years ?? []).includes(y)) &&
     (filters.years?.length ?? 0) === VINTAGE_YEARS.length;
+  const isErrorsShortcutActive = (filters.preset ?? "").toLowerCase() === "errors";
   const showFiltersPanel = mode === "search";
   const modeButtonClass = (active: boolean) =>
     [
@@ -274,6 +275,24 @@ export default function AppShell() {
                   setFilters({
                     q: "",
                     preset: "gaming",
+                    sort: "relevance",
+                    years: [],
+                    awardTiers: [],
+                    categories: [],
+                    industry: [],
+                    topics: [],
+                    formats: [],
+                    brands: [],
+                    agencies: []
+                  })
+              },
+              {
+                label: "Errors",
+                active: isErrorsShortcutActive,
+                apply: () =>
+                  setFilters({
+                    q: "",
+                    preset: "errors",
                     sort: "relevance",
                     years: [],
                     awardTiers: [],

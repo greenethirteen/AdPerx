@@ -13,7 +13,7 @@ export default function SearchBar({
   onClear: () => void;
   quickChips: Chip[];
 }) {
-  const mobileChipLabels = new Set(["Cannes Lions Winners", "Super Bowl Ads", "Vintage"]);
+  const mobileChipLabels = new Set(["Cannes Lions Winners", "Super Bowl Ads", "Vintage", "Errors"]);
   const mobileChips = quickChips.filter((c) => mobileChipLabels.has(c.label));
 
   return (

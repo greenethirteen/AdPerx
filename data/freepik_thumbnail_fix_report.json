@@ -1,0 +1,385 @@
+{
+  "processed": 66,
+  "fixed": 48,
+  "unresolved": 18,
+  "details": [
+    {
+      "id": "2025-annahar-s-active-journalism-annahar",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/2028555724-e0528cdb252be74e300afa8dd6d048feff070ff463ccab59b0b3b314ce154ce4-d_295x166?region=us"
+    },
+    {
+      "id": "2025-go-further-7-eleven",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/1913666852-22585f1948efd578beb1e84e4acc251c79149f84fece094d314321d08efb978b-d_295x166?region=us"
+    },
+    {
+      "id": "2025-project-voice-google",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/2027757656-d5d34eff6befb9900e79c97f8ab10f7f2790a18e6a19780254908ca16c20c009-d_295x166?region=us"
+    },
+    {
+      "id": "2025-research-my-body-grupo-botic-rio",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/2023773508-fc0f68e946551539732d987865cce517fe761c8287c8d1250d1cc9555bc5b719-d_295x166?region=us"
+    },
+    {
+      "id": "2025-skin-ra-a-magazine",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/2020475409-6c65bbb7f91c47a93432ecd5a1823fbaef5a99df70fe869eeb1f439edb3e14ab-d_295x166?region=us"
+    },
+    {
+      "id": "2025-sun-reserve-corona",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/2024773523-8525ad63ab73fd8a49b140cd13878302bc23f6830f82c6434eef0991a5418c56-d_295x166?region=us"
+    },
+    {
+      "id": "2025-vi-guardian-beads-vi",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2024-drops-of-joy-lay-s",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/1877366045-7919f0d9f72885829058925aba62884d501661b2b55f8368e9fd84703e950bb0-d_295x166?region=us"
+    },
+    {
+      "id": "2024-if-you-re-into-it-it-s-in-the-v-a-the-v-a",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2024-women-s-football-orange",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2023-the-loudest-call-whitelion",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/1670282404-4422c485c589028c66240f795b58a93955f9fd8f20d59ab70329b952abdcf23d-d_295x166?region=us"
+    },
+    {
+      "id": "2022-the-art-of-self-examination-macma",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.ogilvy.com/sites/g/files/dhpsjz106/files/work/social-share/SITE-SOCIAL-001-MACMA.jpg"
+    },
+    {
+      "id": "2019-a-world-without-borders-aeromexico",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2019-football-decoded-microsoft",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2019-great-shows-stay-with-you-amazon",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2019-guns-change-the-ref",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.adsoftheworld.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcStYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--56d4491a10aba2e3a69cc4ce91a31b1ae15b6c7f/thumbnail_358427"
+    },
+    {
+      "id": "2019-hornbach-morning-hornback",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/1020335105-bec3c933e358486d1c323a18340bb858c27e43d754c92faaece2ef1735fc9ad8-d_295x166?region=us"
+    },
+    {
+      "id": "2019-open-shelves-writer-s-bookstore",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/830868078-395575e29f447e4e5d20f8fa3f0d9dff048d16cf4ffdb2d98fa2ff7badbac0eb-d_295x166?region=us"
+    },
+    {
+      "id": "2019-pride-shield-mergence-foundation",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2019-the-color-experiment-som",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/784734910-8a8597defef94719d9b1be1b08c8b3c7c548ede130a3ae46a62c3214c3fb8150-d_295x166?region=us"
+    },
+    {
+      "id": "2019-when-the-game-became-an-art-basket-mag",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2019-you-need-it-sekron",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.adsoftheworld.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmVRIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0117a2c37f377823ec15c6dbb6dbb4f3b7cd3e4d/thumbnail_363019"
+    },
+    {
+      "id": "2018-fight-for-territory-steinlager",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2018-footballpen-radio-de",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2018-god-is-busy-sekron-security-systems",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2018-i-m-still-her-johan-alzheimer",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2018-it-all-begins-with-a-song-nashville",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2018-my-line-ministry-of-communications-information",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2018-not-sure-song-sparkasse-bank",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/745572529-5499fa7f66b6655a175f24acc9e7bc7227e947a23067ad9b02ce9d287dc426c3-d_640?region=us"
+    },
+    {
+      "id": "2018-only-for-aesthetic-eyes-good-morning",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2018-saved-by-monster-monster",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2018-thank-you-all-marie-claire",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2018-the-good-vibes-sense-international-india",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2018-the-voice-of-art-ibm",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/681696454-be7573aade4000477b69c11b39fc10c42f7b414c645c9b7f918c86250870e525-d_640?region=us"
+    },
+    {
+      "id": "2018-would-you-have-a-coffee-with-a-stranger-frivillig-no",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2018-youth-can-do-it-prince-trust",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2018-zwemmer-fonds-gehandicapten-sport",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2017-art-beats-hate-legacy-berlin",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/642666638-1d9942464b6daaa5aae2adf6f4de08e721618b46e74f3910f26e93f70ec13107-d_640?region=us"
+    },
+    {
+      "id": "2017-guillotine-electric-chair-global2000",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.adsoftheworld.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2ZqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7695ae766d9b734c769e9ff883e28e8bd7b0a52b/thumbnail_301530"
+    },
+    {
+      "id": "2017-one-breath-j-j",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2017-sauna-urinals-volkswagen",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2017-the-voice-of-art-ibm",
+      "status": "fixed",
+      "method": "vimeo_oembed",
+      "thumb": "https://i.vimeocdn.com/video/681696454-be7573aade4000477b69c11b39fc10c42f7b414c645c9b7f918c86250870e525-d_640?region=us"
+    },
+    {
+      "id": "2016-pure-design-d-ad-awards-2015-exhibition",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2014-white-shadow-dmg-events-japan",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2012-am-pm-blonde-girl-mcdonald-s",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2012-mini-maps-mini",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2012-only-free-is-cheaper-tele2",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2011-iraq-t-shirt-boys-marca-brasil-newspaper",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2010-doors-vip-magazine",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2010-go-visit-your-wallpaper-go-outside",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2009-sofa-wardrobe-bed-ikea",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2004-flor-summer-03-b4",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2004-god-slices-dualit",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2003-baby-knife-skateboard-room-familiprix",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2003-bath-tub-kitchen-room-photoespana",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2003-bottle-news-international",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2003-master-lau-fen-laufen",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2003-tape-measure-arena225-exercise-dance-classes",
+      "status": "unresolved",
+      "method": "none"
+    },
+    {
+      "id": "2003-under-construction-five",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2002-baby-tags-barnardo-s",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2002-classroom-china-light-power",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2002-hitchhiker-automobile-association",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2002-mizuno-wave-alpargatas",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2002-paralysis-impotence-incontinence-ms-society",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2002-x-ray-flower-lily-farm",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    },
+    {
+      "id": "2001-fast-gt-bicycles",
+      "status": "fixed",
+      "method": "meta_image",
+      "thumb": "https://www.dandad.org/images/social.jpg"
+    }
+  ]
+}

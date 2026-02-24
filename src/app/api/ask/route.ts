@@ -12,8 +12,18 @@ type AskReq = {
 
 function pickSources(results: Campaign[], n = 18) {
   const ranked = results
-    .map((r) => ({ ...r, bestLink: getBestCampaignLink(r) }))
-    .filter((r) => !!r.bestLink);
+    .map((r, idx) => ({ ...r, _rank: idx, bestLink: getBestCampaignLink(r) }))
+    .filter((r) => !!r.bestLink)
+    .sort((a, b) => {
+      // Preserve search relevance first; use enrichment only as a tie-breaker.
+      const as = Number((a as any).score ?? 0);
+      const bs = Number((b as any).score ?? 0);
+      if (bs !== as) return bs - as;
+      const ae = a.enrichmentText ? 1 : 0;
+      const be = b.enrichmentText ? 1 : 0;
+      if (be !== ae) return be - ae;
+      return a._rank - b._rank;
+    });
 
   return ranked.slice(0, n).map((r) => ({
     id: r.id,
@@ -27,7 +37,9 @@ function pickSources(results: Campaign[], n = 18) {
     sourceUrl: r.sourceUrl ?? "",
     outboundUrl: r.outboundUrl ?? "",
     thumbnailUrl: r.thumbnailUrl ?? "",
-    bestLink: r.bestLink
+    bestLink: r.bestLink,
+    enrichment: r.enrichment ?? null,
+    enrichmentText: r.enrichmentText ?? ""
   }));
 }
 
@@ -67,6 +79,7 @@ async function callOpenAI(question: string, sources: ReturnType<typeof pickSourc
   const system = [
     "You are a senior advertising strategy analyst.",
     "Answer ONLY from the provided campaign sources.",
+    "When enrichment fields are present, prefer them for factual detail.",
     "Be specific and practical, not generic.",
     "Return JSON only with shape: { answer: string, keyPoints: string[], sourceIds: string[] }.",
     "sourceIds must be ids from the provided sources."

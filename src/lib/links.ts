@@ -173,6 +173,10 @@ export function isRenderableThumbnailUrl(raw: string) {
 export function getPreferredThumbnailUrl(raw: string) {
   const url = normalizeUrl(raw);
   if (!/^https?:\/\//i.test(url)) return url;
+  // YouTube maxres can return a "missing thumbnail" placeholder image even when HTTP status is 404.
+  // Prefer hqdefault proactively to avoid broken-looking previews.
+  if (url.includes("/maxresdefault.jpg")) return url.replace("/maxresdefault.jpg", "/hqdefault.jpg");
+  if (url.includes("/sddefault.jpg")) return url.replace("/sddefault.jpg", "/hqdefault.jpg");
   try {
     const u = new URL(url);
     const host = u.hostname.toLowerCase();

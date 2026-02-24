@@ -8,6 +8,7 @@ import MiniSearch from "minisearch";
  */
 const root = process.cwd();
 const campaignsPath = path.join(root, "data", "campaigns.json");
+const enrichmentPath = path.join(root, "data", "campaign_enrichment.json");
 const outPath = path.join(root, "data", "index.json");
 
 if (!fs.existsSync(campaignsPath)) {
@@ -16,19 +17,76 @@ if (!fs.existsSync(campaignsPath)) {
 }
 
 const campaigns = JSON.parse(fs.readFileSync(campaignsPath, "utf-8"));
+const enrichmentById = fs.existsSync(enrichmentPath)
+  ? JSON.parse(fs.readFileSync(enrichmentPath, "utf-8"))
+  : {};
+
+function buildEnrichmentText(c) {
+  const e = c.enrichment;
+  if (!e) return "";
+  return [
+    e.summary,
+    e.objective,
+    e.insight,
+    e.execution,
+    e.impact,
+    e.releaseDate,
+    e.region,
+    e.language,
+    e.sourceNotes,
+    ...(e.channels ?? []),
+    ...(e.keywords ?? [])
+  ]
+    .map((v) => String(v ?? "").trim())
+    .filter(Boolean)
+    .join(" ");
+}
 
 const mini = new MiniSearch({
-  fields: ["title", "brand", "agency", "notes", "topics", "industry", "formatHints", "awardTier", "awardCategory", "categoryBucket"],
-  storeFields: ["id", "title", "brand", "agency", "year", "sourceUrl", "outboundUrl", "thumbnailUrl", "awardTier", "awardCategory", "categoryBucket", "topics", "industry", "formatHints", "notes"],
+  fields: [
+    "title",
+    "brand",
+    "agency",
+    "notes",
+    "topics",
+    "industry",
+    "formatHints",
+    "awardTier",
+    "awardCategory",
+    "categoryBucket",
+    "enrichmentText"
+  ],
+  storeFields: [
+    "id",
+    "title",
+    "brand",
+    "agency",
+    "year",
+    "sourceUrl",
+    "outboundUrl",
+    "thumbnailUrl",
+    "awardTier",
+    "awardCategory",
+    "categoryBucket",
+    "topics",
+    "industry",
+    "formatHints",
+    "notes",
+    "enrichment",
+    "enrichmentText"
+  ],
   searchOptions: { boost: { title: 3, brand: 2, agency: 1.5 }, fuzzy: 0.2 }
 });
 
 // Ensure arrays exist
 for (const c of campaigns) {
+  const enrich = enrichmentById[c.id];
+  if (enrich) c.enrichment = { ...(c.enrichment ?? {}), ...enrich };
   c.topics ??= [];
   c.formatHints ??= [];
   c.industry ??= "";
   c.notes ??= "";
+  c.enrichmentText = buildEnrichmentText(c);
 }
 mini.addAll(campaigns);
 

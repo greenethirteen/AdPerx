@@ -14,6 +14,23 @@ export type Campaign = {
   topics?: string[];      // women's rights, sustainability...
   industry?: string;      // airlines, finance...
   notes?: string;
+  enrichment?: {
+    summary?: string;
+    objective?: string;
+    insight?: string;
+    execution?: string;
+    impact?: string;
+    releaseDate?: string;
+    region?: string;
+    language?: string;
+    channels?: string[];
+    keywords?: string[];
+    sourceUrls?: string[];
+    sourceNotes?: string;
+    verifiedAt?: string;
+    confidence?: "low" | "medium" | "high";
+  };
+  enrichmentText?: string;
 };
 
 export type SearchFilters = {

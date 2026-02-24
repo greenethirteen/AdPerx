@@ -1,0 +1,5243 @@
+{
+  "summary": {
+    "generatedAt": "2026-02-24T03:46:27.623Z",
+    "brokenRowsInCsv": 354,
+    "searchedRows": 338,
+    "pageCount": 500,
+    "catalogEntries": 9753,
+    "titleThreshold": 0.45,
+    "aboveTitleThreshold": 62,
+    "verifiedCount": 62,
+    "withFinalMatch": 38
+  },
+  "rows": [
+    {
+      "id": "2022-we-will-become-better-lgbtnet-org",
+      "year": 2022,
+      "brand": "LGBTNET.ORG",
+      "title": "WE WILL BECOME BETTER",
+      "agency": "HALAL AMSTERDAM",
+      "currentUrl": "https://www.youtube.com/watch?v=hGRkKVPpcvU",
+      "bestTitleCandidate": {
+        "title": "Better",
+        "nanoId": "eccb17c68348",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-9-58-seconds-the-world-s-fastest-annual-report-puma-se",
+      "year": 2019,
+      "brand": "PUMA SE",
+      "title": "9.58 SECONDS: THE WORLD’S FASTEST ANNUAL REPORT",
+      "agency": "PUBLICIS HAMBURG",
+      "currentUrl": "https://clios.com/awards/winner/digital-mobile-social-media-technique/puma-se/9-58-seconds-the-world-s-fastest-annual-report-69437",
+      "bestTitleCandidate": {
+        "title": "9.58 Seconds - The World's Fastest Annual Report, 3",
+        "nanoId": "c48e2cf8b63b",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "2019-9-58-seconds-the-world-s-fastest-annual-report-puma-se",
+        "candidateTitle": "9.58 Seconds - The World's Fastest Annual Report, 3",
+        "candidateNanoId": "c48e2cf8b63b",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/puma-958-seconds-the-worlds-fastest-annual-report-3-c48e2cf8b63b",
+        "metaScore": 0.8,
+        "totalScore": 0.94
+      }
+    },
+    {
+      "id": "2019-an-post-address-point",
+      "year": 2019,
+      "brand": "ADDRESS POINT",
+      "title": "AN POST",
+      "agency": "WUNDERMAN THOMPSON DUBLIN",
+      "currentUrl": "http://post/address-point-pointing-a-way-back-home-for-ireland-67773",
+      "bestTitleCandidate": {
+        "title": "Australia Post: Mayen",
+        "nanoId": "bcd80b3413f9",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-behind-the-mac-make-something-wonderful-apple",
+      "year": 2019,
+      "brand": "MAKE SOMETHING WONDERFUL – APPLE",
+      "title": "BEHIND THE MAC",
+      "agency": "",
+      "currentUrl": "https://www.youtube.com/watch?v=Ny-MGNf301k&ab_channel=AppleUK",
+      "bestTitleCandidate": {
+        "title": "Behind the Music. Behind the Mac",
+        "nanoId": "337822805e51",
+        "titleScore": 0.75
+      },
+      "verified": {
+        "id": "2019-behind-the-mac-make-something-wonderful-apple",
+        "candidateTitle": "Behind the Music. Behind the Mac",
+        "candidateNanoId": "337822805e51",
+        "candidateTitleScore": 0.75,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/apple-behind-the-music-behind-the-mac-337822805e51",
+        "metaScore": 0.625,
+        "totalScore": 0.7125
+      }
+    },
+    {
+      "id": "2019-blink-test-jimmy-nelson-foundation",
+      "year": 2019,
+      "brand": "JIMMY NELSON FOUNDATION",
+      "title": "BLINK TEST",
+      "agency": "WUNDERMAN THOMPSON MUMBAI",
+      "currentUrl": "https://www.youtube.com/watch?v=YCT6HzTqEmo",
+      "bestTitleCandidate": {
+        "title": "Gene Test, 7",
+        "nanoId": "23d574d5e033",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-block-wish-hok-elanto",
+      "year": 2019,
+      "brand": "HOK-ELANTO",
+      "title": "BLOCK WISH",
+      "agency": "",
+      "currentUrl": "https://clios.com/awards/winner/digital-mobile-social-media-technique/alepa/block-wish-49298",
+      "bestTitleCandidate": {
+        "title": "Careful what you wish for, 1",
+        "nanoId": "1ab1ce2e9845",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-cards-of-knowledgement-miscarriage-association",
+      "year": 2019,
+      "brand": "MISCARRIAGE ASSOCIATION",
+      "title": "CARDS OF KNOWLEDGEMENT",
+      "agency": "MCCANN LONDON",
+      "currentUrl": "https://creativepool.com/mrmlondon/projects/cards-of-acknowledgement-for-miscarriage-association-",
+      "bestTitleCandidate": {
+        "title": "Playing Cards, 11",
+        "nanoId": "6a36365201db",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-contract-translator-reclame-aqui",
+      "year": 2019,
+      "brand": "RECLAME AQUI",
+      "title": "CONTRACT TRANSLATOR",
+      "agency": "GREY SÃO PAULO",
+      "currentUrl": "https://sites.wpp.com/wppedcream/2019/advertising/promo_and_activation/contract-translator",
+      "bestTitleCandidate": {
+        "title": "Dot Translate. The First Braille Translator Based on AI., 6",
+        "nanoId": "6a425092db3d",
+        "titleScore": 0.125
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-dollar-agony-ripio",
+      "year": 2019,
+      "brand": "RIPIO",
+      "title": "DOLLAR AGONY",
+      "agency": "VMLY&R BUENOS AIRES",
+      "currentUrl": "https://sites.wpp.com/wppedcream/2019/advertising/radio/dollar-agony?c=5e3417d9-cc54-4fa9-84d7-bd8a923a09ff",
+      "bestTitleCandidate": {
+        "title": "Eyes Dollar",
+        "nanoId": "267611b86d70",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-e-quality-telefonica-brasil-s-a",
+      "year": 2019,
+      "brand": "TELEFONICA BRASIL S.A.",
+      "title": "E-QUALITY",
+      "agency": "VMLY&R SÃO PAULO",
+      "currentUrl": "https://www.vmlyr.com/work/vivo-telefonica-brasil-e-quality",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-lessons-for-good-leroy-merlin",
+      "year": 2019,
+      "brand": "LEROY MERLIN",
+      "title": "LESSONS FOR GOOD",
+      "agency": "PUBLICIS MILAN",
+      "currentUrl": "https://clios.com/awards/winner/experiential-events/leroy-merlin/lessons-for-good-72287",
+      "bestTitleCandidate": {
+        "title": "Lessons for Good",
+        "nanoId": "d882892d2390",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "2019-lessons-for-good-leroy-merlin",
+        "candidateTitle": "Lessons for Good",
+        "candidateNanoId": "d882892d2390",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/prints/leroy-merlin-lessons-for-good-d882892d2390",
+        "metaScore": 0.875,
+        "totalScore": 0.9625
+      }
+    },
+    {
+      "id": "2019-nationalroastday-wendy-s",
+      "year": 2019,
+      "brand": "WENDY’S",
+      "title": "#NATIONALROASTDAY",
+      "agency": "VMLY&R KANSAS",
+      "currentUrl": "https://www.vmlyr.com/work/nationalroastday",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-oakley-it-s-ok-oakley",
+      "year": 2019,
+      "brand": "OAKLEY",
+      "title": "OAKLEY “IT’S OK”",
+      "agency": "GREGORY CARON MUSIC & SOUND DESIGN GENT",
+      "currentUrl": "https://clios.com/awards/winner/film-technique-music-original/oakley/oakley-it-s-ok-56913",
+      "bestTitleCandidate": {
+        "title": "Oakley",
+        "nanoId": "8389a79076f2",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "2019-oakley-it-s-ok-oakley",
+        "candidateTitle": "Oakley",
+        "candidateNanoId": "8389a79076f2",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/prints/oakley-oakley-8389a79076f2",
+        "metaScore": 0.125,
+        "totalScore": 0.7375
+      }
+    },
+    {
+      "id": "2019-pass-the-bill-leaf-forward",
+      "year": 2019,
+      "brand": "LEAF FORWARD",
+      "title": "PASS THE BILL",
+      "agency": "RETHINK TORONTO",
+      "currentUrl": "https://clios.com/awards/winner/innovation/leaf-forward/pass-the-bill-68582",
+      "bestTitleCandidate": {
+        "title": "The Green New Bill",
+        "nanoId": "2e3b3a9c15e0",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-pride-shield-mergence-foundation",
+      "year": 2019,
+      "brand": "ÉMERGENCE FOUNDATION",
+      "title": "PRIDE SHIELD",
+      "agency": "RETHINK MONTREAL",
+      "currentUrl": "https://www.youtube.com/watch?v=5GpbjNjq2Fw",
+      "bestTitleCandidate": {
+        "title": "Outfits of Pride, 4",
+        "nanoId": "7a423a7cf836",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-rearranged-queens-berliner-philharmoniker",
+      "year": 2019,
+      "brand": "BERLINER PHILHARMONIKER",
+      "title": "REARRANGED QUEENS",
+      "agency": "SCHOLZ & FRIENDS BERLIN",
+      "currentUrl": "https://clios.com/awards/winner/out-of-home/berliner-philharmoniker/rearranged-1-70963",
+      "bestTitleCandidate": {
+        "title": "Queen of Queens feat. Serena Williams and Nicki Minaj",
+        "nanoId": "1da075e6dc0b",
+        "titleScore": 0.1111111111111111
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-squarespace-make-it-squarespace",
+      "year": 2019,
+      "brand": "SQUARESPACE",
+      "title": "SQUARESPACE MAKE IT",
+      "agency": "MJZ LOS ANGELES",
+      "currentUrl": "https://clios.com/awards/winner/film/squarespace/make-it-72251",
+      "bestTitleCandidate": {
+        "title": "Make it happen",
+        "nanoId": "87134b3f4cca",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-the-8-city-of-no-cars-bmv",
+      "year": 2019,
+      "brand": "CITY OF NO CARS – BMV",
+      "title": "THE 8",
+      "agency": "SERVICEPLAN MUNICH",
+      "currentUrl": "https://clios.com/awards/winner/film-technique-cinematography/bmw/the-8-city-of-no-cars-70803",
+      "bestTitleCandidate": {
+        "title": "The Keys",
+        "nanoId": "ddf83c7b25c8",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2019-the-8-city-of-no-cars-bmv",
+        "candidateTitle": "The Keys",
+        "candidateNanoId": "ddf83c7b25c8",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/seloger-the-keys-ddf83c7b25c8",
+        "metaScore": 0.14285714285714285,
+        "totalScore": 0.3929
+      }
+    },
+    {
+      "id": "2019-the-9-58-biography-puma",
+      "year": 2019,
+      "brand": "PUMA",
+      "title": "THE 9’58 BIOGRAPHY",
+      "agency": "BETC SÃO PAULO",
+      "currentUrl": "https://clios.com/awards/winner/design/puma/the-9-58-biography-73780",
+      "bestTitleCandidate": {
+        "title": "The 9'58 Biography - Board",
+        "nanoId": "cfb0f60bc067",
+        "titleScore": 0.6666666666666666
+      },
+      "verified": {
+        "id": "2019-the-9-58-biography-puma",
+        "candidateTitle": "The 9'58 Biography - Board",
+        "candidateNanoId": "cfb0f60bc067",
+        "candidateTitleScore": 0.6666666666666666,
+        "canonicalUrl": "https://adsspot.me/media/prints/puma-the-958-biography-board-cfb0f60bc067",
+        "metaScore": 1,
+        "totalScore": 0.7667
+      }
+    },
+    {
+      "id": "2019-the-commercial-that-saves-lives-ministerio-de-salud-chile",
+      "year": 2019,
+      "brand": "MINISTERIO DE SALUD CHILE",
+      "title": "THE COMMERCIAL THAT SAVES LIVES",
+      "agency": "VMLY&R SANTIAGO",
+      "currentUrl": "https://www.vmlyr.com/work/ministerio-de-salud-chile-commercial-saves-lives",
+      "bestTitleCandidate": {
+        "title": "That’s The Taste",
+        "nanoId": "f02a19005b49",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2019-tourists-volkswagen",
+      "year": 2019,
+      "brand": "VOLKSWAGEN",
+      "title": "TOURISTS",
+      "agency": "BBDO SÃO PAULO",
+      "currentUrl": "https://carlosyanke.work/Park-Assist",
+      "bestTitleCandidate": {
+        "title": "The Grand Tourists",
+        "nanoId": "8d1a566e63dc",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-ake-demo-dir-komson",
+      "year": 2018,
+      "brand": "DIR. KOMSON",
+      "title": "AKE DEMO",
+      "agency": "SUNETA HOUSE BANGKOK",
+      "currentUrl": "http://sunetahouse.com/video/226289889",
+      "bestTitleCandidate": {
+        "title": "Hankograph - Demo Film",
+        "nanoId": "8908fbadccde",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-all-night-long-trading-td-ameritrade",
+      "year": 2018,
+      "brand": "TD AMERITRADE",
+      "title": "ALL NIGHT LONG TRADING",
+      "agency": "HAVAS NEW YORK",
+      "currentUrl": "https://dare.havas.com/news-archive/all-night-long/",
+      "bestTitleCandidate": {
+        "title": "All Night Long Trading [30 sec]",
+        "nanoId": "2a94bd1725ae",
+        "titleScore": 0.8
+      },
+      "verified": {
+        "id": "2018-all-night-long-trading-td-ameritrade",
+        "candidateTitle": "All Night Long Trading [30 sec]",
+        "candidateNanoId": "2a94bd1725ae",
+        "candidateTitleScore": 0.8,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/td-ameritrade-all-night-long-trading-30-sec-2a94bd1725ae",
+        "metaScore": 1,
+        "totalScore": 0.86
+      }
+    },
+    {
+      "id": "2018-america-just-like-the-movies-norwegian-air",
+      "year": 2018,
+      "brand": "NORWEGIAN AIR",
+      "title": "AMERICA. JUST LIKE THE MOVIES.",
+      "agency": "TRY OSLO",
+      "currentUrl": "https://www.youtube.com/watch?v=CXFMQss33CQ&ab_channel=GREATADS%26LESSGREATADS%28BUTSTILLOK%29",
+      "bestTitleCandidate": {
+        "title": "Like the Night",
+        "nanoId": "fef1d0509127",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-beware-the-dangers-of-almost-the-same-toyota",
+      "year": 2018,
+      "brand": "TOYOTA",
+      "title": "BEWARE THE DANGERS OF ALMOST THE SAME",
+      "agency": "TOYOTA PALMERSTON NORTH",
+      "currentUrl": "http://jakeandjoshcreative.com/beware-the-dangers-of-almost-the-same-1",
+      "bestTitleCandidate": {
+        "title": "Beware the Fee Shark",
+        "nanoId": "deaea2738469",
+        "titleScore": 0.2857142857142857
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-boxes-uber",
+      "year": 2018,
+      "brand": "UBER",
+      "title": "BOXES",
+      "agency": "FORSMAN & BODENFORS GOTHENBURG",
+      "currentUrl": "https://forsman.co/work/uber/boxes",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-breathing-life-into-transit-ads-altered-carbon-netflix",
+      "year": 2018,
+      "brand": "ALTERED CARBON NETFLIX",
+      "title": "BREATHING LIFE INTO TRANSIT ADS",
+      "agency": "MEDIAHUB BOSTON",
+      "currentUrl": "https://vimeopro.com/mullenlowegroup/cannes-lions-2018-winners/video/276851263",
+      "bestTitleCandidate": {
+        "title": "My life is yours",
+        "nanoId": "43416af67406",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-bring-back-your-smile-colgate",
+      "year": 2018,
+      "brand": "COLGATE",
+      "title": "BRING BACK YOUR SMILE",
+      "agency": "RED FUSE PARIS",
+      "currentUrl": "https://www.adruby.com/print-ads/colgate-bring-back-your-white-smile",
+      "bestTitleCandidate": {
+        "title": "Bring Your Curiosity",
+        "nanoId": "4c999102cb73",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-carsales-autoads-carsales-com-au",
+      "year": 2018,
+      "brand": "CARSALES.COM.AU",
+      "title": "CARSALES AUTOADS",
+      "agency": "PROXIMITY MELBOURNE",
+      "currentUrl": "https://clios.com/awards/winner/branded-content/carsales-com-au/autoads-43624",
+      "bestTitleCandidate": {
+        "title": "carsales AutoAds [image] 1",
+        "nanoId": "f5e216228b6c",
+        "titleScore": 0.6666666666666666
+      },
+      "verified": {
+        "id": "2018-carsales-autoads-carsales-com-au",
+        "candidateTitle": "carsales AutoAds [image] 1",
+        "candidateNanoId": "f5e216228b6c",
+        "candidateTitleScore": 0.6666666666666666,
+        "canonicalUrl": "https://adsspot.me/media/digital/carsales-carsales-autoads-image-1-f5e216228b6c",
+        "metaScore": 0.6666666666666666,
+        "totalScore": 0.6667
+      }
+    },
+    {
+      "id": "2018-change-gout-grunenthal",
+      "year": 2018,
+      "brand": "GRUNENTHAL",
+      "title": "CHANGE GOUT",
+      "agency": "GRUNENTHAL HIGH WYCOMBE",
+      "currentUrl": "https://clios.com/health/winner/integrated-campaign-pharmaceutical/gr%C3%BCnenthal/change-gout-52257",
+      "bestTitleCandidate": {
+        "title": "Change Gout, 2",
+        "nanoId": "6c08891ff5bd",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "2018-change-gout-grunenthal",
+        "candidateTitle": "Change Gout, 2",
+        "candidateNanoId": "6c08891ff5bd",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/digital/grunenthal-change-gout-2-6c08891ff5bd",
+        "metaScore": 0.6666666666666666,
+        "totalScore": 0.9
+      }
+    },
+    {
+      "id": "2018-chatty-school-bus-hyundai",
+      "year": 2018,
+      "brand": "HYUNDAI",
+      "title": "CHATTY SCHOOL BUS",
+      "agency": "INNOCEAN SEOUL",
+      "currentUrl": "https://clios.com/awards/winner/public-relations/hyundai-motor-company/chatty-school-bus-51247",
+      "bestTitleCandidate": {
+        "title": "Chatty School Bus [supporting image] 2",
+        "nanoId": "7a158fc052f6",
+        "titleScore": 0.6
+      },
+      "verified": {
+        "id": "2018-chatty-school-bus-hyundai",
+        "candidateTitle": "Chatty School Bus [supporting image] 2",
+        "candidateNanoId": "7a158fc052f6",
+        "candidateTitleScore": 0.6,
+        "canonicalUrl": "https://adsspot.me/media/prints/hyundai-chatty-school-bus-supporting-image-2-7a158fc052f6",
+        "metaScore": 0.8571428571428571,
+        "totalScore": 0.6771
+      }
+    },
+    {
+      "id": "2018-cheetos-museum-frito-lay",
+      "year": 2018,
+      "brand": "FRITO LAY",
+      "title": "CHEETOS MUSEUM",
+      "agency": "GOODBY SILVERSTEIN & PARTNERS SAN FRANCISCO",
+      "currentUrl": "https://clios.com/awards/winner/events-experiential/cheetos/cheetos-museum-21652",
+      "bestTitleCandidate": {
+        "title": "Museum",
+        "nanoId": "cd367e1f8c4a",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2018-cheetos-museum-frito-lay",
+        "candidateTitle": "Museum",
+        "candidateNanoId": "cd367e1f8c4a",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/australian-government-museum-cd367e1f8c4a",
+        "metaScore": 0.2,
+        "totalScore": 0.41
+      }
+    },
+    {
+      "id": "2018-christmas-2117-edeka",
+      "year": 2018,
+      "brand": "EDEKA",
+      "title": "CHRISTMAS 2117",
+      "agency": "JUNG VON MATT HAMBURG",
+      "currentUrl": "https://clios.com/awards/winner/film-technique-visual-effects/edeka/christmas-2117-38347",
+      "bestTitleCandidate": {
+        "title": "Christmas Present",
+        "nanoId": "5402ea4d7751",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-cliffside-shop-37-5-technology",
+      "year": 2018,
+      "brand": "37.5 TECHNOLOGY",
+      "title": "CLIFFSIDE SHOP",
+      "agency": "WORKINPROGRESS BOULDER",
+      "currentUrl": "https://clios.com/awards/winner/out-of-home/37-5-technology/cliffside-shop-39832",
+      "bestTitleCandidate": {
+        "title": "HI SA TI Shop",
+        "nanoId": "33b9df6118bb",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2018-cliffside-shop-37-5-technology",
+        "candidateTitle": "HI SA TI Shop",
+        "candidateNanoId": "33b9df6118bb",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/krungthai-bank-hi-sa-ti-shop-33b9df6118bb",
+        "metaScore": 0.3333333333333333,
+        "totalScore": 0.45
+      }
+    },
+    {
+      "id": "2018-coma-mini-series-getty-images-almapbbdo",
+      "year": 2018,
+      "brand": "GETTY IMAGES (ALMAPBBDO",
+      "title": "COMA MINI SERIES",
+      "agency": "",
+      "currentUrl": "https://pedrocorbett.com/getty-images-coma-miniseries",
+      "bestTitleCandidate": {
+        "title": "COMA – A Getty Images Original Series",
+        "nanoId": "9d72bf86cfdd",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-coverage-coalition-get-america-covered",
+      "year": 2018,
+      "brand": "GET AMERICA COVERED",
+      "title": "COVERAGE COALITION",
+      "agency": "BARTON F GRAF NEW YORK",
+      "currentUrl": "https://clios.com/awards/winner/public-relations/get-america-covered/coverage-coalition-49303",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-destination-pride-pflag-canada",
+      "year": 2018,
+      "brand": "PFLAG CANADA",
+      "title": "DESTINATION PRIDE",
+      "agency": "FCB/SIX TORONTO",
+      "currentUrl": "https://clios.com/awards/winner/digital-mobile/pflag-canada/destination-pride-47165",
+      "bestTitleCandidate": {
+        "title": "Destination Pride [supporting content] 4",
+        "nanoId": "48112e05cdff",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2018-destination-pride-pflag-canada",
+        "candidateTitle": "Destination Pride [supporting content] 4",
+        "candidateNanoId": "48112e05cdff",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/digital/pflag-canada-destination-pride-supporting-content-4-48112e05cdff",
+        "metaScore": 0.875,
+        "totalScore": 0.6125
+      }
+    },
+    {
+      "id": "2018-disappearing-person-alerts-queensland-police",
+      "year": 2018,
+      "brand": "QUEENSLAND POLICE",
+      "title": "DISAPPEARING PERSON ALERTS",
+      "agency": "DENTSU MELBOURNE",
+      "currentUrl": "https://www.dentsu.com/au/en/our-work/bwm-dentsu-cox-inall-change-disappearing-person-alerts",
+      "bestTitleCandidate": {
+        "title": "Disappearing Person Alerts [Supporting Images], 4",
+        "nanoId": "09bebf6bdb33",
+        "titleScore": 0.6
+      },
+      "verified": {
+        "id": "2018-disappearing-person-alerts-queensland-police",
+        "candidateTitle": "Disappearing Person Alerts [Supporting Images], 4",
+        "candidateNanoId": "09bebf6bdb33",
+        "candidateTitleScore": 0.6,
+        "canonicalUrl": "https://adsspot.me/media/digital/queensland-government-disappearing-person-alerts-supporting-images-4-09bebf6bdb33",
+        "metaScore": 0.75,
+        "totalScore": 0.645
+      }
+    },
+    {
+      "id": "2018-dispatch-oculus",
+      "year": 2018,
+      "brand": "OCULUS",
+      "title": "DISPATCH",
+      "agency": "HERE BE DRAGONS LOS ANGELES",
+      "currentUrl": "https://kyst.co/dispatch",
+      "bestTitleCandidate": {
+        "title": "Dispatch",
+        "nanoId": "49f9d28aeb47",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "2018-dispatch-oculus",
+        "candidateTitle": "Dispatch",
+        "candidateNanoId": "49f9d28aeb47",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/oculus-dispatch-49f9d28aeb47",
+        "metaScore": 0.5714285714285714,
+        "totalScore": 0.8714
+      }
+    },
+    {
+      "id": "2018-dissolving-posters-habitat-for-humanity-brazil",
+      "year": 2018,
+      "brand": "HABITAT FOR HUMANITY BRAZIL",
+      "title": "DISSOLVING POSTERS",
+      "agency": "BETC SÃO PAULO",
+      "currentUrl": "https://clios.com/health/winner/out-of-home-health-wellness/habitat-for-humanity-brazil/the-dissolving-poster-55812",
+      "bestTitleCandidate": {
+        "title": "Live Posters",
+        "nanoId": "4903cffab947",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-don-t-let-your-loved-ones-be-the-home-for-worms-ferienzeit",
+      "year": 2018,
+      "brand": "FERIENZEIT",
+      "title": "DON’T LET YOUR LOVED ONES BE THE HOME FOR WORMS",
+      "agency": "SAATCHI & SAATCHI DÜSSELDORF",
+      "currentUrl": "https://saatchi.de/arbeiten/entry/puenktlich-zur-ferienzeit-neue-reise-kampagne-fuer-elanco/",
+      "bestTitleCandidate": {
+        "title": "Don't Let The Bill, 3",
+        "nanoId": "8a0b6d261ea2",
+        "titleScore": 0.3
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-easyassistance-easy-taxi",
+      "year": 2018,
+      "brand": "EASY TAXI (",
+      "title": "EASYASSISTANCE",
+      "agency": "",
+      "currentUrl": "https://www.youtube.com/watch?v=xYnINEnuga8&ab_channel=%23LatinosEnCannes",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-edeka-2117-edeka-zentrale-ag-co-kg",
+      "year": 2018,
+      "brand": "EDEKA ZENTRALE AG & CO. KG",
+      "title": "EDEKA 2117",
+      "agency": "MPC LONDON",
+      "currentUrl": "https://clios.com/awards/winner/film-technique-direction/edeka/christmas-2117-38346",
+      "bestTitleCandidate": {
+        "title": "Edeka",
+        "nanoId": "c872b142d22b",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2018-edeka-2117-edeka-zentrale-ag-co-kg",
+        "candidateTitle": "Edeka",
+        "candidateNanoId": "c872b142d22b",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/edeka-edeka-c872b142d22b",
+        "metaScore": 0.16666666666666666,
+        "totalScore": 0.4
+      }
+    },
+    {
+      "id": "2018-el-mundo-newspaper-nuyorican-basket-doc",
+      "year": 2018,
+      "brand": "NUYORICAN BASKET DOC",
+      "title": "EL MUNDO NEWSPAPER",
+      "agency": "ARCO PUBLICIDAD SAN JUAN",
+      "currentUrl": "https://clios.com/entertainment/winner/theatrical-events-experiential/nuyorican-basket-documentary/el-mundo-55413",
+      "bestTitleCandidate": {
+        "title": "Your News Bulletin: Newspaper",
+        "nanoId": "be5a4996c285",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-fifa-18-more-than-a-game-ea-games",
+      "year": 2018,
+      "brand": "EA GAMES",
+      "title": "FIFA 18 MORE THAN A GAME",
+      "agency": "ADAM&EVEDDB LONDON",
+      "currentUrl": "https://www.thedrum.com/creative-works/project/adameveddb-fifa-more-game",
+      "bestTitleCandidate": {
+        "title": "More Than That",
+        "nanoId": "2cba52e09bde",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-fish-scrabble",
+      "year": 2018,
+      "brand": "SCRABBLE",
+      "title": "FISH",
+      "agency": "LOLA MULLENLOWE MADRID",
+      "currentUrl": "https://vimeopro.com/mullenlowegroup/cannes-lions-2018-winners/video/276851094",
+      "bestTitleCandidate": {
+        "title": "Fish",
+        "nanoId": "545865095b9f",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "2018-fish-scrabble",
+        "candidateTitle": "Fish",
+        "candidateNanoId": "545865095b9f",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/prints/spondylus-fish-545865095b9f",
+        "metaScore": 0.3333333333333333,
+        "totalScore": 0.8
+      }
+    },
+    {
+      "id": "2018-forbidden-stories-freedom-voices-network",
+      "year": 2018,
+      "brand": "FREEDOM VOICES NETWORK (",
+      "title": "FORBIDDEN STORIES",
+      "agency": "",
+      "currentUrl": "https://www.youtube.com/watch?v=lhEiEIjvdOQ&ab_channel=WundermanThompsonParis",
+      "bestTitleCandidate": {
+        "title": "4am Stories",
+        "nanoId": "0430117831d0",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-geoff-heinz",
+      "year": 2018,
+      "brand": "HEINZ",
+      "title": "GEOFF",
+      "agency": "Y&R AUCKLAND",
+      "currentUrl": "https://www.vmlyr.com/en-nz/new-zealand/work/heinz-geoff",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-give-nothing-to-racism-human-rights-commission",
+      "year": 2018,
+      "brand": "HUMAN RIGHTS COMMISSION",
+      "title": "GIVE NOTHING TO RACISM",
+      "agency": "BBDO WELLINGTON",
+      "currentUrl": "https://www.clemengerbbdo.co.nz/the-work/give-nothing-to-racism",
+      "bestTitleCandidate": {
+        "title": "Give Me Hope",
+        "nanoId": "42f44d461086",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-hearprint-cochlear-australia",
+      "year": 2018,
+      "brand": "COCHLEAR AUSTRALIA",
+      "title": "HEARPRINT",
+      "agency": "CHE PROXIMITY MELBOURNE",
+      "currentUrl": "https://www.thedrum.com/creative-works/project/che-proximity-cochlear-hearprint",
+      "bestTitleCandidate": {
+        "title": "Hearprint, 5",
+        "nanoId": "d6415dc9bd0e",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "2018-hearprint-cochlear-australia",
+        "candidateTitle": "Hearprint, 5",
+        "candidateNanoId": "d6415dc9bd0e",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/digital/cochlear-hearprint-5-d6415dc9bd0e",
+        "metaScore": 0.8571428571428571,
+        "totalScore": 0.9571
+      }
+    },
+    {
+      "id": "2018-heath-immigration-jig-saw",
+      "year": 2018,
+      "brand": "JIG SAW",
+      "title": "“HEATH IMMIGRATION”",
+      "agency": "THE CORNER LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=g2mPGGQDzH0&ab_channel=MassimoFiori",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-help-a-dane-danish-cancer-society-trygfonden",
+      "year": 2018,
+      "brand": "DANISH CANCER SOCIETY & TRYGFONDEN",
+      "title": "HELP A DANE",
+      "agency": "&CO / NOA COPENHAGEN",
+      "currentUrl": "https://clios.com/health/winner/integrated-campaign-health-wellness/danish-cancer-society-trygfonden/help-a-dane-55847",
+      "bestTitleCandidate": {
+        "title": "Help is Part of It",
+        "nanoId": "961875a00b8f",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-i-m-still-her-johan-alzheimer",
+      "year": 2018,
+      "brand": "ALZHEIMER",
+      "title": "I’M STILL HER: JOHAN",
+      "agency": "DDB BRUSSELS",
+      "currentUrl": "https://ddbbrussels.prezly.com/dementia-will-never-take-away-our-beautiful-memories",
+      "bestTitleCandidate": {
+        "title": "Still got it",
+        "nanoId": "5ebc3bf28462",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-life-saving-safecap-ford",
+      "year": 2018,
+      "brand": "FORD",
+      "title": "LIFE-SAVING SAFECAP",
+      "agency": "GTB SÃO PAULO",
+      "currentUrl": "https://activationideas.com/blog/safecap",
+      "bestTitleCandidate": {
+        "title": "My life is yours",
+        "nanoId": "43416af67406",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-london-symphony-orchestra-sir-simon-rattle",
+      "year": 2018,
+      "brand": "SIR SIMON RATTLE",
+      "title": "LONDON SYMPHONY ORCHESTRA",
+      "agency": "SUPER UNION LONDON",
+      "currentUrl": "https://www.superunion.com/work/london-symphony-orchestra/",
+      "bestTitleCandidate": {
+        "title": "BÖKAN London, 14",
+        "nanoId": "c196a49d465b",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-lynching-in-america-google-equal-justice-initiative",
+      "year": 2018,
+      "brand": "GOOGLE & EQUAL JUSTICE INITIATIVE",
+      "title": "LYNCHING IN AMERICA",
+      "agency": "TEAM IN HOUSE",
+      "currentUrl": "https://www.lizvwells.com/project/lynching-in-america",
+      "bestTitleCandidate": {
+        "title": "America The Beautiful",
+        "nanoId": "d0856c58522c",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-nike-react-game-of-go-nike",
+      "year": 2018,
+      "brand": "NIKE",
+      "title": "NIKE REACT GAME OF GO",
+      "agency": "MEDIAMONKS AMSTERDAM",
+      "currentUrl": "https://media.monks.com/case-studies/nike-game-of-go-real-time",
+      "bestTitleCandidate": {
+        "title": "Nike",
+        "nanoId": "581ea1a687e1",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-qq-alert-reunion-after-years-tencent",
+      "year": 2018,
+      "brand": "TENCENT",
+      "title": "QQ ALERT: REUNION AFTER YEARS",
+      "agency": "TENCENT SHENZHEN",
+      "currentUrl": "https://www.youtube.com/watch?v=4ZwJCTNT_Ps&ab_channel=XinYang",
+      "bestTitleCandidate": {
+        "title": "Years",
+        "nanoId": "79ac708466cb",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-r-word-avivo",
+      "year": 2018,
+      "brand": "AVIVO",
+      "title": "R WORD",
+      "agency": "MARKETFORCE PERTH",
+      "currentUrl": "https://clios.com/health/winner/social-media-health-wellness/avivo/the-r-word-51228",
+      "bestTitleCandidate": {
+        "title": "What is the most expensive word in business",
+        "nanoId": "c5101dcf1f56",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-rat-s-tale-nz-transport-agency",
+      "year": 2018,
+      "brand": "NZ TRANSPORT AGENCY",
+      "title": "RAT’S TALE",
+      "agency": "FINCH SYDNEY",
+      "currentUrl": "https://www.finchcompany.com/production/nzta-rats-tale/",
+      "bestTitleCandidate": {
+        "title": "A Tale Well Told",
+        "nanoId": "f7a4bb9435e0",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-self-discounting-products-koctas",
+      "year": 2018,
+      "brand": "KOCTAS",
+      "title": "SELF DISCOUNTING PRODUCTS",
+      "agency": "DDB ISTANBUL",
+      "currentUrl": "https://istanbul.ddb.com/en/works/koctas-self-discounting-products/",
+      "bestTitleCandidate": {
+        "title": "The Art Of Self-Care",
+        "nanoId": "c7747896907d",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-station-with-a-view-skoda",
+      "year": 2018,
+      "brand": "SKODA",
+      "title": "STATION WITH A VIEW",
+      "agency": "ROSAPARK PARIS",
+      "currentUrl": "http://www.nielsvincent.fr/2018",
+      "bestTitleCandidate": {
+        "title": "Wasteland with a V",
+        "nanoId": "3f947aa046ca",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-telenet-play-sports-preroll-football-match-play-sports",
+      "year": 2018,
+      "brand": "PLAY SPORTS",
+      "title": "TELENET PLAY SPORTS PREROLL FOOTBALL MATCH",
+      "agency": "TBWA\\BRUSSELS",
+      "currentUrl": "https://www.tbwa.be/cases/47/play-sports-preroll-football-match",
+      "bestTitleCandidate": {
+        "title": "EA Sports",
+        "nanoId": "1dcf331d5326",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-the-canceller-reclame-aqui",
+      "year": 2018,
+      "brand": "RECLAME AQUI",
+      "title": "THE CANCELLER",
+      "agency": "GREY SÃO PAULO",
+      "currentUrl": "https://www.youtube.com/watch?v=bsrmvc440SI",
+      "bestTitleCandidate": {
+        "title": "The Keys",
+        "nanoId": "ddf83c7b25c8",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-the-curious-cat-book-mars",
+      "year": 2018,
+      "brand": "MARS",
+      "title": "THE CURIOUS CAT BOOK",
+      "agency": "BBDO SÃO PAULO",
+      "currentUrl": "https://bbdo.com/work/5b182e5bf1e61dad7f19c63c",
+      "bestTitleCandidate": {
+        "title": "THE JB RESTAURANT BOOK",
+        "nanoId": "7628033e3cd3",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-the-equality-bill-ddl-co",
+      "year": 2018,
+      "brand": "DDL&CO",
+      "title": "THE EQUALITY BILL",
+      "agency": "HAVAS BUENOS AIRES",
+      "currentUrl": "https://www.youtube.com/watch?v=AHQrD2TUMdg",
+      "bestTitleCandidate": {
+        "title": "The Green New Bill",
+        "nanoId": "2e3b3a9c15e0",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-the-fading-font-alzheimer-s-disease-awareness",
+      "year": 2018,
+      "brand": "ALZHEIMER’S DISEASE AWARENESS",
+      "title": "THE FADING FONT",
+      "agency": "MCGARRYBOWEN SHANGHAI",
+      "currentUrl": "https://www.dentsu.com/sg/en/our-work/case-studies-the-fading-font/case-studies-mcgarrybowen-the-fading-font",
+      "bestTitleCandidate": {
+        "title": "The Keys",
+        "nanoId": "ddf83c7b25c8",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-the-faith-of-a-few-bmw",
+      "year": 2018,
+      "brand": "BMW",
+      "title": "THE FAITH OF A FEW",
+      "agency": "JUNG VON MATT HAMBURG",
+      "currentUrl": "https://clios.com/awards/winner/film-technique-cinematography/bmw-group-mini-brand-management/the-faith-of-a-few-37540",
+      "bestTitleCandidate": {
+        "title": "The Faith of a Few [30 sec]",
+        "nanoId": "08f13056e4e5",
+        "titleScore": 0.75
+      },
+      "verified": {
+        "id": "2018-the-faith-of-a-few-bmw",
+        "candidateTitle": "The Faith of a Few [30 sec]",
+        "candidateNanoId": "08f13056e4e5",
+        "candidateTitleScore": 0.75,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/mini-the-faith-of-a-few-30-sec-08f13056e4e5",
+        "metaScore": 0.6666666666666666,
+        "totalScore": 0.725
+      }
+    },
+    {
+      "id": "2018-the-fall-hospital-de-amor",
+      "year": 2018,
+      "brand": "HOSPITAL DE AMOR",
+      "title": "THE FALL",
+      "agency": "WMCCANN SÃO PAULO",
+      "currentUrl": "https://clios.com/health/winner/film-health-wellness/hospital-de-amor/hospital-de-amor-the-fall-48451",
+      "bestTitleCandidate": {
+        "title": "The Keys",
+        "nanoId": "ddf83c7b25c8",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-the-gallery-of-emerging-species-play-doh",
+      "year": 2018,
+      "brand": "PLAY-DOH",
+      "title": "THE GALLERY OF EMERGING SPECIES",
+      "agency": "DDB PARIS",
+      "currentUrl": "https://clios.com/awards/winner/branded-content/hasbro-play-doh/the-gallery-of-emerging-species-42539",
+      "bestTitleCandidate": {
+        "title": "The Keys",
+        "nanoId": "ddf83c7b25c8",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-the-honest-proposal-flora-tristan",
+      "year": 2018,
+      "brand": "FLORA TRISTAN",
+      "title": "THE HONEST PROPOSAL",
+      "agency": "CIRCUS GREY LIMA",
+      "currentUrl": "https://www.behance.net/gallery/72409531/The-Honest-Proposal",
+      "bestTitleCandidate": {
+        "title": "The Gift of Eggs: Proposal",
+        "nanoId": "2bb460cf2296",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-the-most-well-reviewed-city-on-amazon-amazon",
+      "year": 2018,
+      "brand": "AMAZON",
+      "title": "THE MOST WELL REVIEWED CITY ON AMAZON",
+      "agency": "BARKLEY KANSAS CITY",
+      "currentUrl": "https://www.barkleyus.com/ideas/amazon/",
+      "bestTitleCandidate": {
+        "title": "The Most Well Reviewed City On Amazon [suppirting image]",
+        "nanoId": "95b336ac1b0d",
+        "titleScore": 0.75
+      },
+      "verified": {
+        "id": "2018-the-most-well-reviewed-city-on-amazon-amazon",
+        "candidateTitle": "The Most Well Reviewed City On Amazon [suppirting image]",
+        "candidateNanoId": "95b336ac1b0d",
+        "candidateTitleScore": 0.75,
+        "canonicalUrl": "https://adsspot.me/media/digital/kansas-city-economic-development-the-most-well-reviewed-city-on-amazon-suppirting-image-95b336ac1b0d",
+        "metaScore": 1,
+        "totalScore": 0.825
+      }
+    },
+    {
+      "id": "2018-the-price-of-equality-scotiabank",
+      "year": 2018,
+      "brand": "SCOTIABANK",
+      "title": "THE PRICE OF EQUALITY",
+      "agency": "WUNDERMAN LIMA",
+      "currentUrl": "https://www.youtube.com/watch?v=aD7n0N_X62Y&ab_channel=%23LatinosEnCannes",
+      "bestTitleCandidate": {
+        "title": "The Price",
+        "nanoId": "0eb822e51e4d",
+        "titleScore": 0.6666666666666666
+      },
+      "verified": {
+        "id": "2018-the-price-of-equality-scotiabank",
+        "candidateTitle": "The Price",
+        "candidateNanoId": "0eb822e51e4d",
+        "candidateTitleScore": 0.6666666666666666,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/honda-the-price-0eb822e51e4d",
+        "metaScore": 0.2857142857142857,
+        "totalScore": 0.5524
+      }
+    },
+    {
+      "id": "2018-the-worst-song-in-the-world-monoprix",
+      "year": 2018,
+      "brand": "MONOPRIX",
+      "title": "THE WORST SONG IN THE WORLD",
+      "agency": "ROSA PARIS",
+      "currentUrl": "https://clios.com/awards/winner/film/monoprix/the-worst-song-in-the-world-49232",
+      "bestTitleCandidate": {
+        "title": "The Worst Song in The World [film]",
+        "nanoId": "2a7400599c47",
+        "titleScore": 0.8
+      },
+      "verified": {
+        "id": "2018-the-worst-song-in-the-world-monoprix",
+        "candidateTitle": "The Worst Song in The World [film]",
+        "candidateNanoId": "2a7400599c47",
+        "candidateTitleScore": 0.8,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/monoprix-the-worst-song-in-the-world-film-2a7400599c47",
+        "metaScore": 0.875,
+        "totalScore": 0.8225
+      }
+    },
+    {
+      "id": "2018-tiny-doll-kleenex",
+      "year": 2018,
+      "brand": "KLEENEX",
+      "title": "TINY DOLL",
+      "agency": "J. WALTER THOMPSON BANGKOK",
+      "currentUrl": "https://www.wundermanthompson.com/work/tiny-doll-gentlenotweak",
+      "bestTitleCandidate": {
+        "title": "Doll Family",
+        "nanoId": "52c414cf20a2",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2018-together-weplaystrong-uefa",
+      "year": 2018,
+      "brand": "UEFA",
+      "title": "TOGETHER #WEPLAYSTRONG",
+      "agency": "FCB LONDON",
+      "currentUrl": "https://www.fcbinferno.com/work/case-studies/together-weplaystrong/",
+      "bestTitleCandidate": {
+        "title": "Together #WePlayStrong",
+        "nanoId": "97c2030e670c",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "2018-together-weplaystrong-uefa",
+        "candidateTitle": "Together #WePlayStrong",
+        "candidateNanoId": "97c2030e670c",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/uefa-together-weplaystrong-97c2030e670c",
+        "metaScore": 0.8333333333333334,
+        "totalScore": 0.95
+      }
+    },
+    {
+      "id": "2018-voces-expertas-triple-s",
+      "year": 2018,
+      "brand": "TRIPLE-S",
+      "title": "VOCES EXPERTAS",
+      "agency": "J.WALTER THOMPSON SAN JUAN",
+      "currentUrl": "https://clios.com/entertainment/winner/television-streaming-original-content/triple-s/experienced-voices-44516",
+      "bestTitleCandidate": {
+        "title": "Voces Perdidas, 4",
+        "nanoId": "8ee8e49ede3c",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-amazon-warriors-safe-collection-ananse",
+      "year": 2017,
+      "brand": "ANANSE",
+      "title": "AMAZON WARRIORS SAFE COLLECTION",
+      "agency": "LITTLE GEORGE SÃO PAULO",
+      "currentUrl": "https://clios.com/health/winner/public-relations-health-wellness/ananse/amazon-warriors-safe-collection-31458",
+      "bestTitleCandidate": {
+        "title": "Amazon",
+        "nanoId": "a4308679477d",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-auktyon-on-the-sun-auktyon",
+      "year": 2017,
+      "brand": "AUKTYON",
+      "title": "AUKTYON ON THE SUN",
+      "agency": "GREAT ADVERTISING GROUP ST. PETERSBURG",
+      "currentUrl": "https://clios.com/music/winner/innovation/auktyon-band/on-the-sun-21977",
+      "bestTitleCandidate": {
+        "title": "The Sun and The Snake",
+        "nanoId": "db3297c504df",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-brad-is-single-norwegian",
+      "year": 2017,
+      "brand": "NORWEGIAN",
+      "title": "BRAD IS SINGLE",
+      "agency": "TRY OSLO",
+      "currentUrl": "https://www.youtube.com/watch?v=EKgclrmuJmM&ab_channel=TheTravelAwards",
+      "bestTitleCandidate": {
+        "title": "Single Bed",
+        "nanoId": "557179f2f01e",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-bradshaw-stain-tide",
+      "year": 2017,
+      "brand": "TIDE",
+      "title": "BRADSHAW STAIN",
+      "agency": "SAATCHI & SAATCHI NEW YORK",
+      "currentUrl": "https://javiercampopiano.squarespace.com/tide-bradshaw-stain",
+      "bestTitleCandidate": {
+        "title": "Tough on Stain",
+        "nanoId": "8dd994fb7301",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-darwin-einstein-mozart-autism-new-zealand",
+      "year": 2017,
+      "brand": "AUTISM NEW ZEALAND",
+      "title": "DARWIN, EINSTEIN, MOZART",
+      "agency": "DDB AUCKLAND",
+      "currentUrl": "https://www.sarshadrakeford.com/autism-nz-radio",
+      "bestTitleCandidate": {
+        "title": "Mozart",
+        "nanoId": "5a907e9a3d6e",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-donotabandon-30-millions-d-amis",
+      "year": 2017,
+      "brand": "30 MILLIONS D’AMIS",
+      "title": "#DONOTABANDON",
+      "agency": "BUZZMAN PARIS",
+      "currentUrl": "https://www.youtube.com/watch?v=CLn5GhTdY2c&ab_channel=DemusMC",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-doors-of-thrones-tourism-ireland",
+      "year": 2017,
+      "brand": "TOURISM IRELAND",
+      "title": "DOORS OF THRONES",
+      "agency": "PUBLICIS LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=5KN99jVU8BI&ab_channel=TheTravelAwards",
+      "bestTitleCandidate": {
+        "title": "Front Doors",
+        "nanoId": "bc8e5ffb58b5",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-down-syndrome-answers-canadian-down-syndrome-society",
+      "year": 2017,
+      "brand": "CANADIAN DOWN SYNDROME SOCIETY",
+      "title": "DOWN SYNDROME ANSWERS",
+      "agency": "FCB TORONTO",
+      "currentUrl": "http://fcbtoronto.com/our-work/down-syndrome-answers/",
+      "bestTitleCandidate": {
+        "title": "Up Syndrome",
+        "nanoId": "0a2b5ea0225a",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-epidemics-catastrophe-deforestation-education-opel",
+      "year": 2017,
+      "brand": "OPEL",
+      "title": "EPIDEMICS + CATASTROPHE + DEFORESTATION + EDUCATION",
+      "agency": "Y&R MADRID",
+      "currentUrl": "https://www.jesusmorilla.com/opel-load",
+      "bestTitleCandidate": {
+        "title": "Education is a Weapon - Crime",
+        "nanoId": "54062b9ab875",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-every-speed-has-a-consequence-transport-accident-commission-victoria",
+      "year": 2017,
+      "brand": "TRANSPORT ACCIDENT COMMISSION VICTORIA",
+      "title": "EVERY SPEED HAS A CONSEQUENCE",
+      "agency": "CLEMENGER BBDO MELBOURNE",
+      "currentUrl": "https://clios.com/awards/winner/film/transport-accident-commission-victoria/every-speed-has-a-consequence-25727",
+      "bestTitleCandidate": {
+        "title": "Speed",
+        "nanoId": "89992231937a",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-everything-in-black-white-leica",
+      "year": 2017,
+      "brand": "LEICA",
+      "title": "EVERYTHING IN BLACK & WHITE",
+      "agency": "F/NAZCA SAATCHI & SAATCHI SÃO PAULO",
+      "currentUrl": "https://lobo.cx/leica-everything-in-black-and-white/",
+      "bestTitleCandidate": {
+        "title": "Everything",
+        "nanoId": "f5ff36b1f044",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-firecracker-kfc",
+      "year": 2017,
+      "brand": "KFC",
+      "title": "FIRECRACKER",
+      "agency": "IMPACT BBDO DUBAI",
+      "currentUrl": "https://www.bestadsontv.com/ad/87354/KFC-Australia-Firecracker",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-funeral-for-kent-sweden-s-biggest-rock-band",
+      "year": 2017,
+      "brand": "SWEDEN’S BIGGEST ROCK BAND",
+      "title": "FUNERAL FOR KENT",
+      "agency": "SONY MUSIC ENTERTAINMENT SWEDEN",
+      "currentUrl": "https://www.youtube.com/watch?v=4VET8zkQsGM&ab_channel=SonyMusicLearning",
+      "bestTitleCandidate": {
+        "title": "2 for 5 Sweepstakes",
+        "nanoId": "1a0e64b44118",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-girls-of-paradise-mouvement-du-nid",
+      "year": 2017,
+      "brand": "MOUVEMENT DU NID",
+      "title": "GIRLS OF PARADISE",
+      "agency": "MCCANN PARIS",
+      "currentUrl": "https://clios.com/awards/winner/audio/mouvement-du-nid/girls-of-paradise-13503",
+      "bestTitleCandidate": {
+        "title": "Work In Paradise, 4",
+        "nanoId": "ee49846328f8",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-giveher5-the-ammada-trust",
+      "year": 2017,
+      "brand": "THE AMMADA TRUST",
+      "title": "#GIVEHER5",
+      "agency": "SAATCHI & SAATCHI MUMBAI",
+      "currentUrl": "https://www.youtube.com/watch?v=T6PKddieRC0&ab_channel=Revolt",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-glitch-adidas",
+      "year": 2017,
+      "brand": "ADIDAS",
+      "title": "GLITCH",
+      "agency": "IRIS LONDON",
+      "currentUrl": "https://www.wojciechzalot.com/adidas-glitch",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-hidden-kids-volkswagen",
+      "year": 2017,
+      "brand": "VOLKSWAGEN",
+      "title": "HIDDEN KIDS",
+      "agency": "DDB BERLIN",
+      "currentUrl": "https://ricardowolff.com/VOLKSWAGEN-HIDDEN-KIDS",
+      "bestTitleCandidate": {
+        "title": "Hidden Allergy, 4",
+        "nanoId": "40d5cc0c5d95",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-home-undp-kosovo",
+      "year": 2017,
+      "brand": "UNDP KOSOVO",
+      "title": "HOME",
+      "agency": "BLACK SHEEP STUDIOS LONDON",
+      "currentUrl": "https://www.thedrum.com/creative-works/project/black-sheep-unhcr-home",
+      "bestTitleCandidate": {
+        "title": "No Home, 10",
+        "nanoId": "d88abcee3f1f",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "2017-home-undp-kosovo",
+        "candidateTitle": "No Home, 10",
+        "candidateNanoId": "d88abcee3f1f",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/prints/united-way-no-home-10-d88abcee3f1f",
+        "metaScore": 0.125,
+        "totalScore": 0.7375
+      }
+    },
+    {
+      "id": "2017-human-by-design-square-enix",
+      "year": 2017,
+      "brand": "SQUARE ENIX",
+      "title": "HUMAN BY DESIGN",
+      "agency": "TURNER INTERNATIONAL ATLANTA",
+      "currentUrl": "http://www.emchao.com/portfolio/hxd/",
+      "bestTitleCandidate": {
+        "title": "Unapologetically Human",
+        "nanoId": "a7a15622da47",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-i-m-ada-i-can-help-ada",
+      "year": 2017,
+      "brand": "ADA",
+      "title": "I’M ADA, I CAN HELP",
+      "agency": "KBS ALBION LONDON",
+      "currentUrl": "https://clios.com/health/winner/digital-mobile-health-wellness/ada-health-inc-/i-m-ada-i-can-help-33646",
+      "bestTitleCandidate": {
+        "title": "Help is Part of It",
+        "nanoId": "961875a00b8f",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-ikea-responds-to-balenciaga-ikea",
+      "year": 2017,
+      "brand": "IKEA",
+      "title": "IKEA RESPONDS TO BALENCIAGA",
+      "agency": "ACNE STOCKHOLM",
+      "currentUrl": "https://www.tiagopinho.work/#/ikea/",
+      "bestTitleCandidate": {
+        "title": "IKEA",
+        "nanoId": "6f0d575d1495",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-jenesupportepaslesbleus-elle-simagine-nt",
+      "year": 2017,
+      "brand": "ELLE’SIMAGINE’NT",
+      "title": "#JENESUPPORTEPASLESBLEUS",
+      "agency": "BUZZMAN PARIS",
+      "currentUrl": "https://clios.com/awards/winner/public-relations/elle-s-imagine-nt/jenesupportepaslesbleus-29624",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-keepers-of-the-game-dick-s-sporting-goods",
+      "year": 2017,
+      "brand": "DICK’S SPORTING GOODS",
+      "title": "KEEPERS OF THE GAME",
+      "agency": "TRIBECA DIGITAL STUDIOS NEW YORK",
+      "currentUrl": "https://tribecafilm.com/studios/keepers-of-the-game",
+      "bestTitleCandidate": {
+        "title": "The Away Game",
+        "nanoId": "2d688e79a67f",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2017-keepers-of-the-game-dick-s-sporting-goods",
+        "candidateTitle": "The Away Game",
+        "candidateNanoId": "2d688e79a67f",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/tim-hortons-the-away-game-2d688e79a67f",
+        "metaScore": 0.16666666666666666,
+        "totalScore": 0.4
+      }
+    },
+    {
+      "id": "2017-marriage-market-takeover-sk-ii",
+      "year": 2017,
+      "brand": "SK-II",
+      "title": "MARRIAGE MARKET TAKEOVER",
+      "agency": "FORSMAN & BODENFORS STOCKHOLM",
+      "currentUrl": "https://forsman.co/work/sk-ii/change-destiny",
+      "bestTitleCandidate": {
+        "title": "Marriage",
+        "nanoId": "14eaf9490108",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-melanoma-monsters-mollie-s-fund",
+      "year": 2017,
+      "brand": "MOLLIE’S FUND",
+      "title": "MELANOMA MONSTERS",
+      "agency": "FCB AREA 23 NEW YORK",
+      "currentUrl": "https://guillermoaracena.com/project/print-ads",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-no-more-black-targets-new-york-society-for-ethical-culture",
+      "year": 2017,
+      "brand": "NEW YORK SOCIETY FOR ETHICAL CULTURE",
+      "title": "NO MORE BLACK TARGETS",
+      "agency": "FRED & FARID NEW YORK",
+      "currentUrl": "https://clios.com/awards/winner/brand-design/new-york-society-for-ethical-culture/no-more-black-targets-29168",
+      "bestTitleCandidate": {
+        "title": "Targets, 4",
+        "nanoId": "97668df136ca",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-no-one-should-have-no-one-age-uk",
+      "year": 2017,
+      "brand": "AGE UK",
+      "title": "NO ONE SHOULD HAVE NO ONE",
+      "agency": "MG OMD LONDON",
+      "currentUrl": "https://drum.co.uk/archives/work/no-one-should-have-no-one-at-christmas",
+      "bestTitleCandidate": {
+        "title": "One-to-One",
+        "nanoId": "67f75d55d65e",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-one-source-campaign-absolut",
+      "year": 2017,
+      "brand": "ABSOLUT",
+      "title": "ONE SOURCE: CAMPAIGN",
+      "agency": "VMLY&R JOHANNESBURG",
+      "currentUrl": "https://www.wpp.com/featured/work/2018/06/vml-absolut-one-source",
+      "bestTitleCandidate": {
+        "title": "KO Campaign, 6",
+        "nanoId": "45c35edcd85f",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-opel-signals-opel-eye",
+      "year": 2017,
+      "brand": "OPEL EYE",
+      "title": "OPEL SIGNALS",
+      "agency": "Y&R MADRID",
+      "currentUrl": "https://www.jesusmorilla.com/opel-signals",
+      "bestTitleCandidate": {
+        "title": "Opel",
+        "nanoId": "1e2a9e1cd920",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2017-opel-signals-opel-eye",
+        "candidateTitle": "Opel",
+        "candidateNanoId": "1e2a9e1cd920",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/digital/opel-opel-1e2a9e1cd920",
+        "metaScore": 0.4,
+        "totalScore": 0.47
+      }
+    },
+    {
+      "id": "2017-outcast-interactive-trailer-possession-begins-cinemax",
+      "year": 2017,
+      "brand": "CINEMAX",
+      "title": "OUTCAST INTERACTIVE TRAILER: “POSSESSION BEGINS”",
+      "agency": "CAMPFIRE AT SAPIENTNITRO NEW YORK",
+      "currentUrl": "https://clios.com/entertainment/winner/television-streaming-digital-mobile-technique/cinemax-outcast/outcast-interactive-trailer-possession-begins-14134",
+      "bestTitleCandidate": {
+        "title": "WHO? [Trailer]",
+        "nanoId": "ff29219d7046",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-paris-britney-harry-duracell",
+      "year": 2017,
+      "brand": "DURACELL",
+      "title": "PARIS, BRITNEY, HARRY",
+      "agency": "GREY JOHANNESBURG",
+      "currentUrl": "https://www.grey.africa/pf/duracell-radio-spots/",
+      "bestTitleCandidate": {
+        "title": "Paris",
+        "nanoId": "682e0c3a0348",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-portrait-completed-kiwi-quality-shoe-care",
+      "year": 2017,
+      "brand": "KIWI QUALITY SHOE CARE",
+      "title": "PORTRAIT COMPLETED",
+      "agency": "OGILVY CHICAGO",
+      "currentUrl": "https://www.nicolasmejia.com/kiwi-shoe-care",
+      "bestTitleCandidate": {
+        "title": "Give Art Life - Portrait",
+        "nanoId": "556ae78a202b",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-protecting-us-nutcase-helmets",
+      "year": 2017,
+      "brand": "NUTCASE HELMETS",
+      "title": "PROTECTING US",
+      "agency": "THE COMMUNITY MIAMI",
+      "currentUrl": "https://www.marcelopadoca.com/new-page-40",
+      "bestTitleCandidate": {
+        "title": "Keep Protecting",
+        "nanoId": "77ac77eb3295",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2017-protecting-us-nutcase-helmets",
+        "candidateTitle": "Keep Protecting",
+        "candidateNanoId": "77ac77eb3295",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/prints/reckitt-benckiser-keep-protecting-77ac77eb3295",
+        "metaScore": 0.2857142857142857,
+        "totalScore": 0.4357
+      }
+    },
+    {
+      "id": "2017-qq-alert-hope-never-dies-qq",
+      "year": 2017,
+      "brand": "QQ",
+      "title": "QQ ALERT: HOPE NEVER DIES",
+      "agency": "TENCENT SHENZHEN",
+      "currentUrl": "https://www.youtube.com/watch?v=4ZwJCTNT_Ps&ab_channel=XinYang",
+      "bestTitleCandidate": {
+        "title": "Hope",
+        "nanoId": "cfb258ddc085",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-radio-collection-of-poophemisims-gui-ling-yuan-fang",
+      "year": 2017,
+      "brand": "GUI LING YUAN FANG",
+      "title": "RADIO: COLLECTION OF POOPHEMISIMS",
+      "agency": "Y&R CAPE TOWN",
+      "currentUrl": "https://sites.wpp.com/wppedcream/2017/advertising/radio/a-collection-of-poophemisims?c=74ac44fc-c773-45d5-a42c-51d025216eb3",
+      "bestTitleCandidate": {
+        "title": "Radio",
+        "nanoId": "1cccaed8bb8c",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-sounds-of-conquest-caixa-econ-mica-federal",
+      "year": 2017,
+      "brand": "CAIXA ECONÔMICA FEDERAL",
+      "title": "SOUNDS OF CONQUEST",
+      "agency": "NOVA/SB SÃO PAULO",
+      "currentUrl": "https://clios.com/sports/winner/integrated-campaign/caixa-economica-federal/sounds-of-conquest-16665",
+      "bestTitleCandidate": {
+        "title": "Sounds of Lust",
+        "nanoId": "111a89c09eac",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-talking-hands-therapy-foundation-for-rheumatic",
+      "year": 2017,
+      "brand": "FOUNDATION FOR RHEUMATIC",
+      "title": "TALKING HANDS THERAPY",
+      "agency": "FLOCK MEXICO",
+      "currentUrl": "https://clios.com/health/winner/events-experiential-health-wellness/fumerac-fundaci%C3%B3n-mexicana-para-enfermos-reum%C3%A1ti/talking-hands-34022",
+      "bestTitleCandidate": {
+        "title": "Gamer Therapy",
+        "nanoId": "f11220024e24",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-the-app-you-ll-be-glad-you-don-t-need-united-we-dream",
+      "year": 2017,
+      "brand": "UNITED WE DREAM",
+      "title": "THE APP YOU’LL BE GLAD YOU DON’T NEED",
+      "agency": "HUGE NEW YORK",
+      "currentUrl": "https://clios.com/awards/winner/digital-mobile/united-we-dream/notifica-the-app-you-ll-be-glad-you-don-t-need--27657",
+      "bestTitleCandidate": {
+        "title": "Shoes Don’t Change the World. You Do",
+        "nanoId": "60896d76f168",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-the-biggest-sports-endorsement-deal-of-all-time-archer-air-superiority",
+      "year": 2017,
+      "brand": "ARCHER AIR SUPERIORITY",
+      "title": "THE BIGGEST SPORTS ENDORSEMENT DEAL OF ALL TIME",
+      "agency": "FCB CHICAGO",
+      "currentUrl": "https://clios.com/awards/winner/public-relations/archer-wolf-llc/the-biggest-sports-endorsement-deal-of-all-time-27592",
+      "bestTitleCandidate": {
+        "title": "All The Moods, 1",
+        "nanoId": "ab71e15348de",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-the-box-that-keeps-giving-godiva",
+      "year": 2017,
+      "brand": "GODIVA",
+      "title": "THE BOX THAT KEEPS GIVING",
+      "agency": "CHOCOLATE MCCANN NEW YORK",
+      "currentUrl": "https://nelsparkman.com/Godiva-The-Box-That-Keeps-Giving",
+      "bestTitleCandidate": {
+        "title": "The Box",
+        "nanoId": "dfe3de986fcb",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-the-shared-story-of-harry-and-ahmed-unicef",
+      "year": 2017,
+      "brand": "UNICEF",
+      "title": "THE SHARED STORY OF HARRY AND AHMED",
+      "agency": "180 AMSTERDAM",
+      "currentUrl": "https://www.dandad.org/awards/professional/2017/digital-marketing/26384/unicef-the-shared-story-of-harry-and-ahmed/",
+      "bestTitleCandidate": {
+        "title": "Bedtime Stories Chapter II: Harry and The Haters",
+        "nanoId": "2bf457141445",
+        "titleScore": 0.3
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-the-swimmer-fonds-gehandicapt-ensport",
+      "year": 2017,
+      "brand": "FONDS GEHANDICAPT ENSPORT",
+      "title": "THE SWIMMER",
+      "agency": "TBWA\\NEBOKO AMSTERDAM",
+      "currentUrl": "https://www.adcn.nl/archives/zwemmer",
+      "bestTitleCandidate": {
+        "title": "Swimmer",
+        "nanoId": "cdc1619728ac",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2017-the-swimmer-fonds-gehandicapt-ensport",
+        "candidateTitle": "Swimmer",
+        "candidateNanoId": "cdc1619728ac",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/american-family-insurance-swimmer-cdc1619728ac",
+        "metaScore": 0.2222222222222222,
+        "totalScore": 0.4167
+      }
+    },
+    {
+      "id": "2017-time-to-get-out-there-volkswagen-suv",
+      "year": 2017,
+      "brand": "VOLKSWAGEN-SUV",
+      "title": "TIME TO GET OUT THERE",
+      "agency": "DDB BERLIN",
+      "currentUrl": "https://ricardowolff.com/VOLKSWAGEN-SUVs",
+      "bestTitleCandidate": {
+        "title": "When we get out",
+        "nanoId": "2b28dd761e0c",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-tomcat-facebook-not-live-the-scotts-miracle",
+      "year": 2017,
+      "brand": "NOT LIVE – THE SCOTTS MIRACLE",
+      "title": "TOMCAT: FACEBOOK",
+      "agency": "BARTON F. GRAF NEW YORK",
+      "currentUrl": "https://www.nickkaplan.com/FACEBOOK-NOT-LIVE",
+      "bestTitleCandidate": {
+        "title": "Facebook",
+        "nanoId": "6dd334ccf9f6",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2017-tomcat-facebook-not-live-the-scotts-miracle",
+        "candidateTitle": "Facebook",
+        "candidateNanoId": "6dd334ccf9f6",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/prints/guapo-cafe-facebook-6dd334ccf9f6",
+        "metaScore": 0.16666666666666666,
+        "totalScore": 0.4
+      }
+    },
+    {
+      "id": "2017-trump-royal-jordanian-airlines",
+      "year": 2017,
+      "brand": "ROYAL JORDANIAN AIRLINES",
+      "title": "TRUMP",
+      "agency": "MEMAC OGILVY ADVIZE",
+      "currentUrl": "https://www.youtube.com/watch?v=sYzLxHTV_tQ&ab_channel=TheTravelAwards",
+      "bestTitleCandidate": {
+        "title": "Trump",
+        "nanoId": "33b3f9c056a5",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "2017-trump-royal-jordanian-airlines",
+        "candidateTitle": "Trump",
+        "candidateNanoId": "33b3f9c056a5",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/prints/time-trump-33b3f9c056a5",
+        "metaScore": 0.125,
+        "totalScore": 0.7375
+      }
+    },
+    {
+      "id": "2017-unsuccessful-ticket-sampling-folkoperan",
+      "year": 2017,
+      "brand": "FOLKOPERAN",
+      "title": "UNSUCCESSFUL TICKET SAMPLING",
+      "agency": "INGO STOCKHOLM",
+      "currentUrl": "https://ingostockholm.se/folkoperan.html",
+      "bestTitleCandidate": {
+        "title": "BVG x adidas – The ticket-shoe [Supporting Images], 4",
+        "nanoId": "9ea643efa16b",
+        "titleScore": 0.1111111111111111
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-until-we-all-belong-airbnb",
+      "year": 2017,
+      "brand": "AIRBNB",
+      "title": "UNTIL WE ALL BELONG",
+      "agency": "CLEMENGER BBDO MELBOURNE",
+      "currentUrl": "https://www.youtube.com/watch?v=FHqcfyXcjjU&ab_channel=TheTravelAwards",
+      "bestTitleCandidate": {
+        "title": "Cheers to All",
+        "nanoId": "30deb793d75c",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-van-gogh-s-bedrooms-art-institute-of-chicago",
+      "year": 2017,
+      "brand": "ART INSTITUTE OF CHICAGO",
+      "title": "VAN GOGH’S BEDROOMS",
+      "agency": "LEO BURNETT CHICAGO",
+      "currentUrl": "https://www.youtube.com/watch?v=UAdgxQjKX3k&ab_channel=TheTravelAwards",
+      "bestTitleCandidate": {
+        "title": "Van",
+        "nanoId": "212315a5fcde",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-venmo-micro-hack-waterislife",
+      "year": 2017,
+      "brand": "WATERISLIFE",
+      "title": "VENMO MICRO HACK",
+      "agency": "DEUTSCH NEW YORK",
+      "currentUrl": "http://www.fannyjosefsson.com/water-is-life",
+      "bestTitleCandidate": {
+        "title": "Micro Universe",
+        "nanoId": "cb1f6ea8471e",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2017-visit-britain-expedia",
+      "year": 2017,
+      "brand": "EXPEDIA",
+      "title": "VISIT BRITAIN",
+      "agency": "180 LOS ANGELES",
+      "currentUrl": "https://www.youtube.com/watch?v=5pTYlCFjt54&ab_channel=TheTravelAwards",
+      "bestTitleCandidate": {
+        "title": "Powering Britain",
+        "nanoId": "425ecc79f078",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-3-pretty-playful-minutes-tic-tac",
+      "year": 2016,
+      "brand": "TIC TAC",
+      "title": "3 PRETTY PLAYFUL MINUTES",
+      "agency": "LA COMUNIDAD BUENOS AIRES",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/tic-tac-la-comunidad-05-2016",
+      "bestTitleCandidate": {
+        "title": "Nicotine Addiction Isn’t Pretty, 1",
+        "nanoId": "f13c4a5591fe",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-anti-rival-vaccine-corporate-image",
+      "year": 2016,
+      "brand": "CORPORATE IMAGE",
+      "title": "ANTI-RIVAL VACCINE",
+      "agency": "OGILVY SÃO PAULO",
+      "currentUrl": "https://sites.wpp.com/wppedcream/2016/advertising/promo_activation/anti_rival_vaccine/",
+      "bestTitleCandidate": {
+        "title": "The Anti-bullying month",
+        "nanoId": "ddd981e448a0",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-close-shave-stories-philips",
+      "year": 2016,
+      "brand": "PHILIPS",
+      "title": "CLOSE SHAVE STORIES",
+      "agency": "OGILVY JOHANNESBURG",
+      "currentUrl": "https://sites.wpp.com/wppedcream/2016/advertising/radio/close_shave_stories/",
+      "bestTitleCandidate": {
+        "title": "4am Stories",
+        "nanoId": "0430117831d0",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-duck-squid-pig-sunlight",
+      "year": 2016,
+      "brand": "SUNLIGHT",
+      "title": "DUCK, SQUID, PIG",
+      "agency": "MULLENLOWE SINGAPORE",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/sunlight-lowe-06-2016",
+      "bestTitleCandidate": {
+        "title": "Duck",
+        "nanoId": "d91d197b4fec",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-emergency-pin-code-sekron-digital-protection",
+      "year": 2016,
+      "brand": "SEKRON DIGITAL PROTECTION",
+      "title": "EMERGENCY PIN CODE",
+      "agency": "GREY SÃO PAULO",
+      "currentUrl": "https://sites.wpp.com/wppedcream/2016/digital/emergency_pin_code",
+      "bestTitleCandidate": {
+        "title": "The CHOI Pin",
+        "nanoId": "b3d2bb082c86",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-fire-emergency-robbery-smart",
+      "year": 2016,
+      "brand": "SMART",
+      "title": "FIRE, EMERGENCY, ROBBERY",
+      "agency": "CONTRAPUNTO BBDO MADRID",
+      "currentUrl": "https://www.behance.net/gallery/38625923/Better-to-park-at-the-front-door",
+      "bestTitleCandidate": {
+        "title": "Fire",
+        "nanoId": "fdb8c43afe4e",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-fish-cardinal-baby-milkman-mini-babybel",
+      "year": 2016,
+      "brand": "MINI BABYBEL",
+      "title": "FISH, CARDINAL, BABY, MILKMAN",
+      "agency": "Y&R PARIS",
+      "currentUrl": "https://creativepool.com/jsragency/projects/carioca-studio-win-cannes-lions-for-babybel-",
+      "bestTitleCandidate": {
+        "title": "Fish",
+        "nanoId": "545865095b9f",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-free-the-kids-persil-omo",
+      "year": 2016,
+      "brand": "PERSIL/OMO",
+      "title": "FREE THE KIDS",
+      "agency": "MULLENLOWE LONDON",
+      "currentUrl": "https://www.mullenlowegroupuk.com/our-work/unilever-highlights-global-plight-of-childhood-play/",
+      "bestTitleCandidate": {
+        "title": "Uniform Of The Free",
+        "nanoId": "24f3c6255080",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2016-free-the-kids-persil-omo",
+        "candidateTitle": "Uniform Of The Free",
+        "candidateNanoId": "24f3c6255080",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/g-star-raw-uniform-of-the-free-24f3c6255080",
+        "metaScore": 0.25,
+        "totalScore": 0.425
+      }
+    },
+    {
+      "id": "2016-game-of-thrones-shame-soho-pop-up-channel",
+      "year": 2016,
+      "brand": "SOHO POP UP CHANNEL",
+      "title": "GAME OF THRONES SHAME",
+      "agency": "DDB GROUP AUCKLAND",
+      "currentUrl": "https://kirano.me/portfolio/sky/",
+      "bestTitleCandidate": {
+        "title": "Game of Thrones (HBO)",
+        "nanoId": "a719de3ada67",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2016-game-of-thrones-shame-soho-pop-up-channel",
+        "candidateTitle": "Game of Thrones (HBO)",
+        "candidateNanoId": "a719de3ada67",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/outdoor/kfc-hong-kong-game-of-thrones-hbo-a719de3ada67",
+        "metaScore": 0.2,
+        "totalScore": 0.41
+      }
+    },
+    {
+      "id": "2016-hcd-rink-bingo-hcd-merchandise",
+      "year": 2016,
+      "brand": "HCD MERCHANDISE",
+      "title": "HCD RINK BINGO",
+      "agency": "FCB ZURICH",
+      "currentUrl": "https://clios.com/awards/winner/engagement-experiential/hockey-club-davos/rink-bingo-13217",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-hill-lamb-moran-brookes-the-times",
+      "year": 2016,
+      "brand": "THE TIMES",
+      "title": "HILL, LAMB, MORAN, BROOKES",
+      "agency": "CHI + PARTNERS LONDON",
+      "currentUrl": "https://sites.wpp.com/wppedcream/2016/advertising/outdoor/the_journalist_campaign",
+      "bestTitleCandidate": {
+        "title": "Hill Crafts",
+        "nanoId": "e125ecbfea4f",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-iammuslim-passop",
+      "year": 2016,
+      "brand": "PASSOP",
+      "title": "#IAMMUSLIM",
+      "agency": "NATIVE VML JOHANNESBURG",
+      "currentUrl": "https://www.vmlyr.com/en-za/south-africa/work/passop-iammuslim",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-igugu-khanyi-c-surance",
+      "year": 2016,
+      "brand": "C SURANCE",
+      "title": "IGUGU KHANYI",
+      "agency": "1886 ADVERTISING JOHANNESBURG",
+      "currentUrl": "https://www.youtube.com/watch?v=rVYd5rD6y3I&ab_channel=CellCSouthAfrica",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-igugu-thembi-c-surance",
+      "year": 2016,
+      "brand": "C SURANCE",
+      "title": "IGUGU THEMBI",
+      "agency": "1886 ADVERTISING JOHANNESBURG",
+      "currentUrl": "https://www.youtube.com/watch?v=ZiAvyugaadg&ab_channel=CellCSouthAfrica",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-ikea-decisions-ikea",
+      "year": 2016,
+      "brand": "IKEA",
+      "title": "IKEA DECISIONS",
+      "agency": "DDB GROUP BERLIN",
+      "currentUrl": "https://ricardowolff.com/IKEA-DECISIONS",
+      "bestTitleCandidate": {
+        "title": "IKEA",
+        "nanoId": "6f0d575d1495",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2016-ikea-decisions-ikea",
+        "candidateTitle": "IKEA",
+        "candidateNanoId": "6f0d575d1495",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/ikea-ikea-6f0d575d1495",
+        "metaScore": 0.16666666666666666,
+        "totalScore": 0.4
+      }
+    },
+    {
+      "id": "2016-itv2-itv",
+      "year": 2016,
+      "brand": "ITV",
+      "title": "ITV2",
+      "agency": "ITV CREATIVE LONDON",
+      "currentUrl": "https://clios.com/awards/winner/brand-design/itv/itv2-13485",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-jabu-darryl-cansa",
+      "year": 2016,
+      "brand": "CANSA",
+      "title": "JABU, DARRYL",
+      "agency": "FCB CAPE TOWN",
+      "currentUrl": "https://clios.com/health/winner/film/cansa-the-cancer-association-of-south-africa/darryl-14591",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-jane-sprout",
+      "year": 2016,
+      "brand": "SPROUT",
+      "title": "JANE",
+      "agency": "180LA SANTA MONICA",
+      "currentUrl": "https://clios.com/music/winner/use-of-music/jane-12697",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-last-nike",
+      "year": 2016,
+      "brand": "NIKE",
+      "title": "LAST",
+      "agency": "WIEDEN+KENNEDY PORTLAND",
+      "currentUrl": "https://www.youtube.com/watch?v=ptoi8BIdRRQ&ab_channel=nikeindia",
+      "bestTitleCandidate": {
+        "title": "LAST LAUGH, 5",
+        "nanoId": "11f24dd18e7c",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2016-last-nike",
+        "candidateTitle": "LAST LAUGH, 5",
+        "candidateNanoId": "11f24dd18e7c",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/prints/indian-association-of-palliative-care-iapc-last-laugh-5-11f24dd18e7c",
+        "metaScore": 0.16666666666666666,
+        "totalScore": 0.4
+      }
+    },
+    {
+      "id": "2016-last-one-to-get-married-mom-at-40-magistral",
+      "year": 2016,
+      "brand": "MAGISTRAL",
+      "title": "LAST ONE TO GET MARRIED, MOM AT 40",
+      "agency": "GREY BUENOS AIRES",
+      "currentUrl": "https://sites.wpp.com/wppedcream/2016/advertising/radio/last_one_to_get_married_mom",
+      "bestTitleCandidate": {
+        "title": "One-to-One",
+        "nanoId": "67f75d55d65e",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-margot-vs-lily-nike-women",
+      "year": 2016,
+      "brand": "NIKE WOMEN",
+      "title": "MARGOT VS LILY",
+      "agency": "WIEDEN + KENNEDY PORTLAND",
+      "currentUrl": "http://www.darcieburrell.com/margot-vs-lily/2016/12/15/episode-4-trolls",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-mctrax-mcdonald-s",
+      "year": 2016,
+      "brand": "MCDONALD’S",
+      "title": "MCTRAX",
+      "agency": "TBWA\\NEBOKO AMSTERDAM",
+      "currentUrl": "https://www.adcn.nl/archives/mctrax",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-meet-halfway-airbnb-paypal",
+      "year": 2016,
+      "brand": "AIRBNB & PAYPAL",
+      "title": "MEET HALFWAY",
+      "agency": "CP+B BOULDER",
+      "currentUrl": "http://aemile.com/17/project/paypal",
+      "bestTitleCandidate": {
+        "title": "Meet Extraordinary",
+        "nanoId": "4357520e6742",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-merkel-obama-putin-pope-bi-weekend-supplement",
+      "year": 2016,
+      "brand": "BI WEEKEND SUPPLEMENT",
+      "title": "MERKEL, OBAMA, PUTIN, POPE",
+      "agency": "Y&R LISBON",
+      "currentUrl": "https://sites.wpp.com/wppedcream/2016/advertising/print/merkel_obama_pope_putin_kim/",
+      "bestTitleCandidate": {
+        "title": "Putin",
+        "nanoId": "81e1438b43ef",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-original-samba-bossa-nova-futebol-pier-havaianas",
+      "year": 2016,
+      "brand": "HAVAIANAS",
+      "title": "ORIGINAL: SAMBA, BOSSA NOVA, FUTEBOL, PIER",
+      "agency": "ALMAPBBDO SÃO PAULO",
+      "currentUrl": "https://www.lucianolincoln.com/havaianas-1",
+      "bestTitleCandidate": {
+        "title": "Drive Responsibly - tv original",
+        "nanoId": "bd7ad6799502",
+        "titleScore": 0.125
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-out-there-canada-goose",
+      "year": 2016,
+      "brand": "CANADA GOOSE",
+      "title": "OUT THERE",
+      "agency": "CAA MARKETING LOS ANGELES",
+      "currentUrl": "https://clios.com/awards/winner/branded-content/canada-goose/out-there-13299",
+      "bestTitleCandidate": {
+        "title": "There’s an Unknown Breed Out There",
+        "nanoId": "4825cd9a865d",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2016-out-there-canada-goose",
+        "candidateTitle": "There’s an Unknown Breed Out There",
+        "candidateNanoId": "4825cd9a865d",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/puma-theres-an-unknown-breed-out-there-4825cd9a865d",
+        "metaScore": 0.2222222222222222,
+        "totalScore": 0.4167
+      }
+    },
+    {
+      "id": "2016-protest-prematek",
+      "year": 2016,
+      "brand": "PREMATEK",
+      "title": "PROTEST",
+      "agency": "FAHRENHEIT DDB LIMA",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/prematek-ddb-05-2016",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-raising-eyebrows-and-subscriptions-newspaper",
+      "year": 2016,
+      "brand": "NEWSPAPER",
+      "title": "RAISING EYEBROWS AND SUBSCRIPTIONS",
+      "agency": "PROXIMITY LONDON",
+      "currentUrl": "https://www.impactproximity.com/work/raising-eyebrows-and-subscriptions",
+      "bestTitleCandidate": {
+        "title": "Raising Profiles: PR",
+        "nanoId": "652ac4478c46",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-safety-instruction-sl-benfica-sponsorship",
+      "year": 2016,
+      "brand": "SL BENFICA SPONSORSHIP",
+      "title": "SAFETY INSTRUCTION",
+      "agency": "O ESCRITÓRIO LISBON",
+      "currentUrl": "https://clios.com/sports/winner/partnerships-sponsorships-endorsements/emirates-sl-benfica/sl-benfica-safety-instructions-12400",
+      "bestTitleCandidate": {
+        "title": "Safety Hub",
+        "nanoId": "fe4c77214460",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-shoemaker-watchmaker-keymaker-institutional-africa-s",
+      "year": 2016,
+      "brand": "INSTITUTIONAL (AFRICA S",
+      "title": "SHOEMAKER, WATCHMAKER, KEYMAKER",
+      "agency": "",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/espn-africa-06-2016",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-slums-housing-colonies-for-worms-zentel",
+      "year": 2016,
+      "brand": "ZENTEL",
+      "title": "SLUMS (HOUSING COLONIES) FOR WORMS",
+      "agency": "MEDULLA COMMUNICATIONS MUMBAI",
+      "currentUrl": "https://clios.com/health/winner/out-of-home/zentel/slums-housing-colonies-for-worms-14642",
+      "bestTitleCandidate": {
+        "title": "2 for 5 Sweepstakes",
+        "nanoId": "1a0e64b44118",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-step-out-the-samaritans",
+      "year": 2016,
+      "brand": "THE SAMARITANS",
+      "title": "STEP OUT",
+      "agency": "Y&R SHANGHAI",
+      "currentUrl": "https://sites.wpp.com/wppedcream/2016/advertising/outdoor/step_out",
+      "bestTitleCandidate": {
+        "title": "Step Inside",
+        "nanoId": "cb6995a32707",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-student-gameboy-painter-xalatan",
+      "year": 2016,
+      "brand": "XALATAN",
+      "title": "STUDENT, GAMEBOY, PAINTER",
+      "agency": "MCCANN HEALTH HONG KONG",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/xalatan-mccann-04-2016",
+      "bestTitleCandidate": {
+        "title": "Student Debt, 2",
+        "nanoId": "e7adcb0051c2",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-the-barbwire-campaign-amnesty-international",
+      "year": 2016,
+      "brand": "AMNESTY INTERNATIONAL",
+      "title": "THE BARBWIRE CAMPAIGN",
+      "agency": "OGILVY FRANKFURT",
+      "currentUrl": "https://clios.com/awards/winner/brand-design/amnesty-international/the-barbwire-campaign-12886",
+      "bestTitleCandidate": {
+        "title": "The Chaeli Campaign",
+        "nanoId": "8e2d09054382",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2016-the-barbwire-campaign-amnesty-international",
+        "candidateTitle": "The Chaeli Campaign",
+        "candidateNanoId": "8e2d09054382",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/the-chaeli-campaign-the-chaeli-campaign-8e2d09054382",
+        "metaScore": 0.25,
+        "totalScore": 0.425
+      }
+    },
+    {
+      "id": "2016-the-bullet-pen-ministry-of-national-education",
+      "year": 2016,
+      "brand": "MINISTRY OF NATIONAL EDUCATION",
+      "title": "THE BULLET PEN",
+      "agency": "MCCANN BOGOTÁ",
+      "currentUrl": "https://clios.com/awards/winner/public-relations/the-bulletpen-12870",
+      "bestTitleCandidate": {
+        "title": "The Keys",
+        "nanoId": "ddf83c7b25c8",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-the-dilemma-beer",
+      "year": 2016,
+      "brand": "BEER",
+      "title": "THE DILEMMA",
+      "agency": "STARCOM MEDIAVEST GROUP MILAN",
+      "currentUrl": "https://clios.com/sports/winner/partnerships-sponsorships-endorsements/heineken/the-dilemma-12530",
+      "bestTitleCandidate": {
+        "title": "The Keys",
+        "nanoId": "ddf83c7b25c8",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-the-full-story-het-parool",
+      "year": 2016,
+      "brand": "HET PAROOL",
+      "title": "THE FULL STORY",
+      "agency": "JWT AMSTERDAM",
+      "currentUrl": "https://www.adcn.nl/archives/the-full-story",
+      "bestTitleCandidate": {
+        "title": "The Story of Colour, 8",
+        "nanoId": "c7277cd42d76",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2016-the-full-story-het-parool",
+        "candidateTitle": "The Story of Colour, 8",
+        "candidateNanoId": "c7277cd42d76",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/digital/glc-paints-the-story-of-colour-8-c7277cd42d76",
+        "metaScore": 0.25,
+        "totalScore": 0.425
+      }
+    },
+    {
+      "id": "2016-the-sab-spike-detector-coaster-south-african-breweries",
+      "year": 2016,
+      "brand": "SOUTH AFRICAN BREWERIES",
+      "title": "THE SAB SPIKE DETECTOR COASTER",
+      "agency": "GEOMETRY JOHANNESBURG",
+      "currentUrl": "https://sites.wpp.com/wppedcream/2016/direct/ambient/the_sab_spike_detector_coaster",
+      "bestTitleCandidate": {
+        "title": "The Keys",
+        "nanoId": "ddf83c7b25c8",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-the-super-bowl-dunk-gatorade",
+      "year": 2016,
+      "brand": "GATORADE",
+      "title": "THE SUPER BOWL DUNK",
+      "agency": "VMLY&R KANSAS",
+      "currentUrl": "https://clios.com/sports/winner/social-media/gatorade/the-super-bowl-dunk-12568",
+      "bestTitleCandidate": {
+        "title": "The Keys",
+        "nanoId": "ddf83c7b25c8",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-ultimate-death-scene-sea-shepherd",
+      "year": 2016,
+      "brand": "SEA SHEPHERD",
+      "title": "ULTIMATE DEATH SCENE",
+      "agency": "THE WORKS SYDNEY",
+      "currentUrl": "http://kimberliesanders.com/seashepherdultimatedeathscene",
+      "bestTitleCandidate": {
+        "title": "Ultimate X",
+        "nanoId": "94ca0d58a94e",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-weber-bbq-cultures-weber-grills",
+      "year": 2016,
+      "brand": "WEBER GRILLS",
+      "title": "WEBER BBQ CULTURES",
+      "agency": "UNCLE GREY COPENHAGEN",
+      "currentUrl": "https://www.adcn.nl/archives/weber-bbq-cultures",
+      "bestTitleCandidate": {
+        "title": "BBQ",
+        "nanoId": "7154494b96f4",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2016-whopper-sign-burger-king",
+      "year": 2016,
+      "brand": "BURGER KING",
+      "title": "WHOPPER SIGN",
+      "agency": "DAVID MIAMI",
+      "currentUrl": "https://clios.com/awards/winner/social-media/burger-king/whopper-sign-13235",
+      "bestTitleCandidate": {
+        "title": "Sign",
+        "nanoId": "b0b8e24c96fc",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2016-whopper-sign-burger-king",
+        "candidateTitle": "Sign",
+        "candidateNanoId": "b0b8e24c96fc",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/atandt-sign-b0b8e24c96fc",
+        "metaScore": 0.14285714285714285,
+        "totalScore": 0.3929
+      }
+    },
+    {
+      "id": "2016-wiener-stampede-heinz",
+      "year": 2016,
+      "brand": "HEINZ",
+      "title": "WIENER STAMPEDE",
+      "agency": "DAVID MIAMI",
+      "currentUrl": "https://clios.com/awards/winner/film/wiener-stampede-13289",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-a-bit-bitter-farnham",
+      "year": 2015,
+      "brand": "FARNHAM",
+      "title": "A BIT BITTER",
+      "agency": "LG2 QUÉBEC",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/farnham-ale-lager-lg2-12-2014",
+      "bestTitleCandidate": {
+        "title": "Bitter, but Good, 5",
+        "nanoId": "cbbe4988c51c",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-blind-trip-ministry-of-transportation-and-tourism",
+      "year": 2015,
+      "brand": "MINISTRY OF TRANSPORTATION AND TOURISM",
+      "title": "BLIND TRIP",
+      "agency": "MARURI GREY GUAYAQUIL",
+      "currentUrl": "https://clios.com/awards/winner/direct/ministry-of-transportation-and-tourism/blind-trip-1285",
+      "bestTitleCandidate": {
+        "title": "Road trip",
+        "nanoId": "99661bef94e2",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-carpet-rug-protector-scotchgard",
+      "year": 2015,
+      "brand": "SCOTCHGARD",
+      "title": "CARPET & RUG PROTECTOR",
+      "agency": "MULLENLOWE SINGAPORE",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/scotchgard-lowe-12-2015",
+      "bestTitleCandidate": {
+        "title": "Carpet Street",
+        "nanoId": "c3cef6014aba",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-indifference-museo-memoria-y-tolerancia",
+      "year": 2015,
+      "brand": "MUSEO MEMORIA Y TOLERANCIA",
+      "title": "INDIFFERENCE",
+      "agency": "MADE MEXICO CITY",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/museum-of-memory-tolerance-made-07-2015",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-keep-out-of-children-s-reach-santana-drugstore",
+      "year": 2015,
+      "brand": "SANTANA DRUGSTORE",
+      "title": "KEEP OUT OF CHILDREN’S REACH",
+      "agency": "REVOLUTION BRAZIL",
+      "currentUrl": "http://www.bestadsontv.com/files/print/2014/Dec/67520_EnglishSantana.jpg",
+      "bestTitleCandidate": {
+        "title": "Children",
+        "nanoId": "0a8dad8a65e8",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-learning-on-the-way-adn",
+      "year": 2015,
+      "brand": "ADN",
+      "title": "LEARNING ON THE WAY",
+      "agency": "BBDO BOGOTA",
+      "currentUrl": "https://clios.com/awards/winner/audio/adn/learning-on-the-way-13106",
+      "bestTitleCandidate": {
+        "title": "Love The Way",
+        "nanoId": "16ea11e8e7d6",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2015-learning-on-the-way-adn",
+        "candidateTitle": "Love The Way",
+        "candidateNanoId": "16ea11e8e7d6",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/via-rail-love-the-way-16ea11e8e7d6",
+        "metaScore": 0.2857142857142857,
+        "totalScore": 0.4357
+      }
+    },
+    {
+      "id": "2015-rotten-cells-fischel-drugstores",
+      "year": 2015,
+      "brand": "FISCHEL DRUGSTORES",
+      "title": "ROTTEN CELLS",
+      "agency": "BBDO SAN JOSE",
+      "currentUrl": "https://clios.com/health/winner/out-of-home/fischel-drugstores/rotten-cells-1432",
+      "bestTitleCandidate": {
+        "title": "Tree Cells",
+        "nanoId": "32638a159982",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-some-stains-are-not-meant-to-disappear-green-works",
+      "year": 2015,
+      "brand": "GREEN WORKS",
+      "title": "SOME STAINS ARE NOT MEANT TO DISAPPEAR",
+      "agency": "ALMA MIAMI",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/green-works-alma-04-2015",
+      "bestTitleCandidate": {
+        "title": "We Are Not An Island",
+        "nanoId": "faed69afb2c4",
+        "titleScore": 0.2857142857142857
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-the-cancer-sutra-stupid-cancer",
+      "year": 2015,
+      "brand": "STUPID CANCER",
+      "title": "THE CANCER SUTRA",
+      "agency": "THE BULL-WHITE HOUSE NEW YORK",
+      "currentUrl": "http://jephedrine.com/cancer-sutra",
+      "bestTitleCandidate": {
+        "title": "The Cancer Cover, 2",
+        "nanoId": "a6971a2e2628",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2015-the-cancer-sutra-stupid-cancer",
+        "candidateTitle": "The Cancer Cover, 2",
+        "candidateNanoId": "a6971a2e2628",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/case-study/kk-magazine-the-cancer-cover-2-a6971a2e2628",
+        "metaScore": 0.2,
+        "totalScore": 0.41
+      }
+    },
+    {
+      "id": "2015-the-monster-smart-launch-smart",
+      "year": 2015,
+      "brand": "SMART",
+      "title": "THE MONSTER-SMART LAUNCH",
+      "agency": "BBDO BERLIN",
+      "currentUrl": "https://clios.com/awards/winner/direct/daimler-ag-smart-mm/the-monster-smart-launch-13",
+      "bestTitleCandidate": {
+        "title": "The Hunger Monster",
+        "nanoId": "db26db712b5c",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-the-return-of-coach-lasso-nbc-sports",
+      "year": 2015,
+      "brand": "NBC SPORTS",
+      "title": "THE RETURN OF COACH LASSO",
+      "agency": "THE BROOKLYN BROTHERS NEW YORK",
+      "currentUrl": "https://clios.com/sports/winner/film/nbc-sports/the-return-of-coach-lasso-2319",
+      "bestTitleCandidate": {
+        "title": "Return of the Macca's, 1",
+        "nanoId": "b505d1ecdd67",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-the-weddinglope-rosenthal",
+      "year": 2015,
+      "brand": "ROSENTHAL",
+      "title": "THE WEDDINGLOPE",
+      "agency": "KOLLE REBBE HAMBURG",
+      "currentUrl": "https://clios.com/awards/winner/design/rosenthal/the-weddinglope-326",
+      "bestTitleCandidate": {
+        "title": "The Keys",
+        "nanoId": "ddf83c7b25c8",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-unforgettable-shots-shopping-sp-market-caminho-de-volta-project",
+      "year": 2015,
+      "brand": "SHOPPING SP MARKET/CAMINHO DE VOLTA PROJECT",
+      "title": "UNFORGETTABLE SHOTS",
+      "agency": "AFRICA SÃO PAULO",
+      "currentUrl": "https://clios.com/awards/winner/out-of-home/shopping-sp-market-projeto-caminho-de-volta/unforgettable-shots-1184",
+      "bestTitleCandidate": {
+        "title": "Unforgettable Denim",
+        "nanoId": "af304ee84566",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-viaoptadaily-novartis",
+      "year": 2015,
+      "brand": "NOVARTIS",
+      "title": "VIAOPTADAILY",
+      "agency": "ARWORKS BUDAPEST",
+      "currentUrl": "https://www.youtube.com/watch?v=1iU541hQz0c",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2015-you-give-more-than-just-blood-city-of-buenos-aires",
+      "year": 2015,
+      "brand": "CITY OF BUENOS AIRES",
+      "title": "YOU GIVE MORE THAN JUST BLOOD",
+      "agency": "THE COMMUNITY MIAMI",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/city-of-buenos-aires-la-comunidad-12-2015",
+      "bestTitleCandidate": {
+        "title": "More than you think",
+        "nanoId": "84cfcf6f5d84",
+        "titleScore": 0.42857142857142855
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-amazing-street-hacks-watchdogs",
+      "year": 2014,
+      "brand": "WATCHDOGS",
+      "title": "AMAZING STREET HACKS",
+      "agency": "BETC PARIS",
+      "currentUrl": "https://www.youtube.com/watch?v=gbswS7AcrnI&ab_channel=HavasGroup",
+      "bestTitleCandidate": {
+        "title": "Treat Street",
+        "nanoId": "f1ba26e8673f",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-boardwalk-old-spice",
+      "year": 2014,
+      "brand": "OLD SPICE",
+      "title": "BOARDWALK",
+      "agency": "WIEDEN+KENNEDY PORTLAND",
+      "currentUrl": "https://www.youtube.com/watch?v=1BOfhSVUI38&ab_channel=AdFibs.Com",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-cat-lady-devondale-long-life-milk",
+      "year": 2014,
+      "brand": "DEVONDALE LONG LIFE MILK",
+      "title": "CAT LADY",
+      "agency": "DDB MELBOURNE",
+      "currentUrl": "https://www.youtube.com/watch?v=AqrnQ1KdR20&ab_channel=AndrewKovalenko",
+      "bestTitleCandidate": {
+        "title": "Cat",
+        "nanoId": "ba17a72a17a5",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2014-cat-lady-devondale-long-life-milk",
+        "candidateTitle": "Cat",
+        "candidateNanoId": "ba17a72a17a5",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/bravecto-cat-ba17a72a17a5",
+        "metaScore": 0.1111111111111111,
+        "totalScore": 0.3833
+      }
+    },
+    {
+      "id": "2014-central-park-conservancy-receptacles-central-park",
+      "year": 2014,
+      "brand": "CENTRAL PARK",
+      "title": "CENTRAL PARK CONSERVANCY RECEPTACLES",
+      "agency": "LANDOR ASSOCIATES NEW YORK",
+      "currentUrl": "https://landor.com/work/central-park-conservancy",
+      "bestTitleCandidate": {
+        "title": "Battery Park, 10",
+        "nanoId": "5c55b7efc026",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-crack-snog-sack-road-lodge",
+      "year": 2014,
+      "brand": "ROAD LODGE",
+      "title": "CRACK, SNOG, SACK",
+      "agency": "TBWA\\\\HUNT\\\\LASCARIS JOHANNESBURG",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/road-lodge-tbwa-06-2014",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-daddy-citroen",
+      "year": 2014,
+      "brand": "CITROEN",
+      "title": "DADDY",
+      "agency": "LES GAULOIS PARIS",
+      "currentUrl": "https://www.youtube.com/watch?v=cE-1DNrcls4&ab_channel=HavasGroup",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-diana-tunnel-napalm-girl-mandela-in-prison-mail-guardian",
+      "year": 2014,
+      "brand": "MAIL & GUARDIAN",
+      "title": "DIANA TUNNEL,NAPALM GIRL,MANDELA IN PRISON",
+      "agency": "TBWA\\\\HUNT\\\\LASCARIS JOHANNESBURG",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/mail-guardian-tbwa-06-2014",
+      "bestTitleCandidate": {
+        "title": "Diana",
+        "nanoId": "5282c64ede43",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-friend-compass-momondo",
+      "year": 2014,
+      "brand": "MOMONDO",
+      "title": "FRIEND COMPASS",
+      "agency": "MCCANN LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=I2hi1wZcjOA&ab_channel=McCannParis",
+      "bestTitleCandidate": {
+        "title": "Friend at Quarantine",
+        "nanoId": "46d624d843fc",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-limousine-directory-golf-jewelry-jet-tinka-lottery",
+      "year": 2014,
+      "brand": "TINKA LOTTERY",
+      "title": "LIMOUSINE, DIRECTORY, GOLF, JEWELRY, JET",
+      "agency": "PUBLICIS LIMA",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/tinka-lottery-publicis-06-2014",
+      "bestTitleCandidate": {
+        "title": "Golf",
+        "nanoId": "c9717ae9e13c",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-nature-is-tricky-jeep-leo-burnett-tailor-made-s",
+      "year": 2014,
+      "brand": "JEEP (LEO BURNETT TAILOR MADE S",
+      "title": "NATURE IS TRICKY",
+      "agency": "",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/jeep-leo-burnett-07-2014",
+      "bestTitleCandidate": {
+        "title": "Nature's Miracle",
+        "nanoId": "5cbfd35bfaaf",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-plastic-bag-kids-grandma-dudes-sm-eco-bag",
+      "year": 2014,
+      "brand": "SM ECO BAG",
+      "title": "PLASTIC BAG: KIDS, GRANDMA, DUDES",
+      "agency": "LOWE MAKATI CITY",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/sm-eco-bag-lowe-06-2014",
+      "bestTitleCandidate": {
+        "title": "Plastic, 1",
+        "nanoId": "f9fe45bd2279",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-punks-duck-hunters-bikers-rothammer",
+      "year": 2014,
+      "brand": "ROTHAMMER",
+      "title": "PUNKS, DUCK HUNTERS, BIKERS",
+      "agency": "PROLAM Y&R SANTIAGO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/rothhammer-yr-06-2014",
+      "bestTitleCandidate": {
+        "title": "Duck",
+        "nanoId": "d91d197b4fec",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-rebirth-of-sound-dtac",
+      "year": 2014,
+      "brand": "DTAC",
+      "title": "REBIRTH OF SOUND",
+      "agency": "Y&R BANGKOK",
+      "currentUrl": "https://www.wppstream.com/wpp/wppedcream/2015/healthcare/public-service/rebirth_of_sound",
+      "bestTitleCandidate": {
+        "title": "Sound Tracks",
+        "nanoId": "09badc110f64",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-remote-control-tourist-melbourne",
+      "year": 2014,
+      "brand": "MELBOURNE",
+      "title": "REMOTE CONTROL TOURIST",
+      "agency": "TOOL LOS ANGELES",
+      "currentUrl": "https://www.toolofna.com/work/remote-control-tourist",
+      "bestTitleCandidate": {
+        "title": "G_N CONTROL?",
+        "nanoId": "960bf7bb812d",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-roquefort-pistache-jamon-santa-casa-de-miseric-rdia",
+      "year": 2014,
+      "brand": "SANTA CASA DE MISERICÓRDIA",
+      "title": "ROQUEFORT, PISTACHE, JAMON",
+      "agency": "Y&R SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/santa-casa-de-misericordia-yr-03-2014",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-roquefort-pistache-jamon-santa-casa-de-miseric-rdia-y-r-s",
+      "year": 2014,
+      "brand": "SANTA CASA DE MISERICÓRDIA (Y&R S",
+      "title": "ROQUEFORT, PISTACHE, JAMON",
+      "agency": "",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/santa-casa-de-misericordia-yr-03-2014",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-seductive-intriguing-heroic-classy-sexy-axe",
+      "year": 2014,
+      "brand": "AXE",
+      "title": "SEDUCTIVE,INTRIGUING,HEROIC,CLASSY,SEXY",
+      "agency": "PONCE BUENOS AIRES",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/axe-lowe-06-2014",
+      "bestTitleCandidate": {
+        "title": "Heroic Medal",
+        "nanoId": "da51f04cb831",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-sports-car-vintage-car-truck-howard-s-auto-body",
+      "year": 2014,
+      "brand": "HOWARD’S AUTO BODY",
+      "title": "SPORTS CAR, VINTAGE CAR, TRUCK",
+      "agency": "FITZGERALD+CO ATLANTA",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/howards-auto-body-fitzgeraldco-06-2014",
+      "bestTitleCandidate": {
+        "title": "Car",
+        "nanoId": "b23aa4dc9605",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-stop-one-stop-them-all-wwf",
+      "year": 2014,
+      "brand": "WWF",
+      "title": "STOP ONE. STOP THEM ALL",
+      "agency": "LEO BURNETT SYDNEY",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/wwf-leo-burnett-06-2014",
+      "bestTitleCandidate": {
+        "title": "Take Them All On",
+        "nanoId": "8ea8a09427e6",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-the-big-leap-lacoste",
+      "year": 2014,
+      "brand": "LACOSTE",
+      "title": "THE BIG LEAP",
+      "agency": "BETC DIGITAL PARIS",
+      "currentUrl": "https://www.youtube.com/watch?v=BzB3KW4uBhw&ab_channel=HavasGroup",
+      "bestTitleCandidate": {
+        "title": "The Big Eight",
+        "nanoId": "d6d63042fff3",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2014-the-big-leap-lacoste",
+        "candidateTitle": "The Big Eight",
+        "candidateNanoId": "d6d63042fff3",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/park-mgm-the-big-eight-d6d63042fff3",
+        "metaScore": 0.25,
+        "totalScore": 0.425
+      }
+    },
+    {
+      "id": "2014-the-day-i-visited-my-son-comfort",
+      "year": 2014,
+      "brand": "COMFORT",
+      "title": "THE DAY I VISITED MY SON",
+      "agency": "OGILVY SINGAPORE",
+      "currentUrl": "https://clios.com/awards/winner/branded-entertainment-content/the-day-i-visited-my-son-a-true-story-3582",
+      "bestTitleCandidate": {
+        "title": "The Day Can Wait - Emails",
+        "nanoId": "a6346106ef37",
+        "titleScore": 0.2857142857142857
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-the-most-serious-game-ever-transport",
+      "year": 2014,
+      "brand": "TRANSPORT",
+      "title": "THE MOST SERIOUS GAME EVER",
+      "agency": "TBWA\\\\PARIS",
+      "currentUrl": "https://clios.com/awards/winner/digital-social/the-most-serious-game-ever-3590",
+      "bestTitleCandidate": {
+        "title": "The Most Office",
+        "nanoId": "19d49ff0c87a",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-the-sleeping-supporter-citro-n",
+      "year": 2014,
+      "brand": "CITROËN",
+      "title": "THE SLEEPING SUPPORTER",
+      "agency": "LES GAULOIS PARIS",
+      "currentUrl": "https://www.youtube.com/watch?v=rCoNYiffjEQ&ab_channel=HavasGroup",
+      "bestTitleCandidate": {
+        "title": "The Keys",
+        "nanoId": "ddf83c7b25c8",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2014-william-daddy-e-s-cvv",
+      "year": 2014,
+      "brand": "CVV",
+      "title": "WILLIAM, DADDY, E.S",
+      "agency": "LEO BURNETT TAILOR MADE SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/cvv-leo-burnett-06-2014",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-a-dog-makes-your-life-happier-pedigree",
+      "year": 2013,
+      "brand": "PEDIGREE",
+      "title": "A DOG MAKES YOUR LIFE HAPPIER",
+      "agency": "BBDO SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/pedigree-bbdo-06-2013",
+      "bestTitleCandidate": {
+        "title": "Vote for Your Life",
+        "nanoId": "f1b6cc0f18e7",
+        "titleScore": 0.2857142857142857
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-absolut-unique-absolut-vodka",
+      "year": 2013,
+      "brand": "ABSOLUT VODKA",
+      "title": "ABSOLUT UNIQUE",
+      "agency": "SATUMAA FAMILY BUSINESS STOCKHOLM",
+      "currentUrl": "https://www.absolut.com/gulf/absolutcollaborations/absolut-unique/",
+      "bestTitleCandidate": {
+        "title": "Absolut",
+        "nanoId": "2d585c80ccad",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2013-absolut-unique-absolut-vodka",
+        "candidateTitle": "Absolut",
+        "candidateNanoId": "2d585c80ccad",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/absolut-absolut-2d585c80ccad",
+        "metaScore": 0.125,
+        "totalScore": 0.3875
+      }
+    },
+    {
+      "id": "2013-all-the-muscles-you-need-stihl",
+      "year": 2013,
+      "brand": "STIHL",
+      "title": "ALL THE MUSCLES YOU NEED",
+      "agency": "PUBLICIS BRUSSELS",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/stihl-publicis-05-2013",
+      "bestTitleCandidate": {
+        "title": "A Voice Is All You Need: Opera",
+        "nanoId": "00901db28540",
+        "titleScore": 0.42857142857142855
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-botox-ray-ban",
+      "year": 2013,
+      "brand": "RAY BAN",
+      "title": "BOTOX",
+      "agency": "MARCEL PARIS",
+      "currentUrl": "https://clios.com/awards/winner/out-of-home/botox-3451",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-championship-palmers",
+      "year": 2013,
+      "brand": "PALMERS",
+      "title": "CHAMPIONSHIP",
+      "agency": "SIMPLE SANTIAGO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/palmers-simple-07-2013",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-clouds-over-cuba-the-jfk-presidential-library-museum",
+      "year": 2013,
+      "brand": "THE JFK PRESIDENTIAL LIBRARY & MUSEUM",
+      "title": "CLOUDS OVER CUBA",
+      "agency": "THE MARTIN AGENCY RICHMOND",
+      "currentUrl": "https://clios.com/awards/winner/film/clouds-over-cuba-5698",
+      "bestTitleCandidate": {
+        "title": "Over Speed",
+        "nanoId": "685505be00f9",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-dikembe-mutombo-s-4-1-2-weeks-to-save-the-world-old-spice",
+      "year": 2013,
+      "brand": "OLD SPICE",
+      "title": "DIKEMBE MUTOMBO’S 4 1/2 WEEKS TO SAVE THE WORLD",
+      "agency": "WIEDEN+KENNEDY PORTLAND",
+      "currentUrl": "https://www.youtube.com/watch?v=tbgU8oNdJ5Q&t=1s",
+      "bestTitleCandidate": {
+        "title": "Save the World",
+        "nanoId": "c480f7505858",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2013-dikembe-mutombo-s-4-1-2-weeks-to-save-the-world-old-spice",
+        "candidateTitle": "Save the World",
+        "candidateNanoId": "c480f7505858",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/pornhub-save-the-world-c480f7505858",
+        "metaScore": 0.25,
+        "totalScore": 0.425
+      }
+    },
+    {
+      "id": "2013-ex-vs-bride-yakuza-vs-man-granny-vs-sado-chez-restaurant",
+      "year": 2013,
+      "brand": "CHEZ RESTAURANT",
+      "title": "EX VS BRIDE,YAKUZA VS MAN,GRANNY VS SADO",
+      "agency": "Y&R SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/chez-restaurant-yr-07-2013",
+      "bestTitleCandidate": {
+        "title": "Man",
+        "nanoId": "8c9d10575e70",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-farmer-s-lad-hovis-bakery",
+      "year": 2013,
+      "brand": "HOVIS BAKERY",
+      "title": "FARMER’S LAD",
+      "agency": "ACADEMY FILMS LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=FF_1r65LrBk&ab_channel=Hovis",
+      "bestTitleCandidate": {
+        "title": "Farmer’s Day",
+        "nanoId": "f10422d1b18a",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-fly-bees-mosquitos-westone",
+      "year": 2013,
+      "brand": "WESTONE",
+      "title": "FLY, BEES, MOSQUITOS",
+      "agency": "DDB HONG KONG",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/westone-ddb-07-2013",
+      "bestTitleCandidate": {
+        "title": "Fly",
+        "nanoId": "5e5c23d32286",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-good-paper-project-bio-farm-organic-fertilizer",
+      "year": 2013,
+      "brand": "BIO FARM ORGANIC FERTILIZER",
+      "title": "GOOD PAPER PROJECT",
+      "agency": "LEO BURNETT MUMBAI",
+      "currentUrl": "https://clios.com/awards/winner/design/good-paper-project-2597",
+      "bestTitleCandidate": {
+        "title": "Project XY",
+        "nanoId": "6b6026cafea3",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-hear-it-live-beijing-sports-radio",
+      "year": 2013,
+      "brand": "BEIJING SPORTS RADIO",
+      "title": "HEAR IT LIVE",
+      "agency": "OGILVY HONG KONG",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/beijing-sports-radio-ogilvy-01-2013",
+      "bestTitleCandidate": {
+        "title": "A Place to Live",
+        "nanoId": "82c99e8a1eec",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-it-never-goes-away-cpcr",
+      "year": 2013,
+      "brand": "CPCR",
+      "title": "IT NEVER GOES AWAY",
+      "agency": "LEO BURNETT BANGKOK",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/the-center-for-protection-of-childrens-rights-foundation-leo-burnett-08-2013",
+      "bestTitleCandidate": {
+        "title": "Fade Away",
+        "nanoId": "1913c5010631",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-launch-site-on-ebay-volvo-trucks",
+      "year": 2013,
+      "brand": "VOLVO TRUCKS",
+      "title": "LAUNCH SITE ON EBAY",
+      "agency": "FORSMAN & BODENFORS GOTHENBURG",
+      "currentUrl": "https://forsman.co/work/volvo-trucks/the-launch-site-on-ebay",
+      "bestTitleCandidate": {
+        "title": "Launch Show",
+        "nanoId": "77abfea81c32",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-moto-dog-drums-meccano-games-toys",
+      "year": 2013,
+      "brand": "MECCANO GAMES & TOYS",
+      "title": "MOTO, DOG, DRUMS",
+      "agency": "Y&R PARIS",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/meccano-yr-07-2012",
+      "bestTitleCandidate": {
+        "title": "Dog",
+        "nanoId": "e9090784b2d5",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-noose-building-train-world-for-all",
+      "year": 2013,
+      "brand": "WORLD FOR ALL",
+      "title": "NOOSE, BUILDING, TRAIN",
+      "agency": "OGILVY MUMBAI",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/world-for-all-ogilvy-01-2013",
+      "bestTitleCandidate": {
+        "title": "Train",
+        "nanoId": "7394c4899073",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-nutcase-s-outdoor-fitting-room-nutcase-bike-helmets",
+      "year": 2013,
+      "brand": "NUTCASE BIKE HELMETS",
+      "title": "NUTCASE’S OUTDOOR FITTING ROOM",
+      "agency": "OGILVY COPENHAGEN",
+      "currentUrl": "https://www.youtube.com/watch?v=CX2nvG_O6ic&ab_channel=OgilvyDanmark",
+      "bestTitleCandidate": {
+        "title": "Outdoor",
+        "nanoId": "1ff3429fadaa",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-parental-control-bar-wraac",
+      "year": 2013,
+      "brand": "WRAAC",
+      "title": "PARENTAL CONTROL BAR",
+      "agency": "LATINWORKS AUSTIN",
+      "currentUrl": "https://rotch.me/Parental-Control",
+      "bestTitleCandidate": {
+        "title": "My Bar, 4",
+        "nanoId": "0b457b6d6523",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-story-changes-ecofill",
+      "year": 2013,
+      "brand": "ECOFILL",
+      "title": "STORY CHANGES",
+      "agency": "OGILVY BOGOTÁ",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/ecofill-ogilvy-06-2013",
+      "bestTitleCandidate": {
+        "title": "Small Changes",
+        "nanoId": "d20144ed3c06",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-suspect-journey-arrival-mistake-scrabble",
+      "year": 2013,
+      "brand": "SCRABBLE",
+      "title": "SUSPECT, JOURNEY, ARRIVAL, MISTAKE",
+      "agency": "PEREIRA & O’DELL SAN FRANCISCO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/scrabble-pereira-odell-02-2013",
+      "bestTitleCandidate": {
+        "title": "Mistake",
+        "nanoId": "db58dad3bb38",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-the-future-of-the-fashion-show-topshop",
+      "year": 2013,
+      "brand": "TOPSHOP",
+      "title": "THE FUTURE OF THE FASHION SHOW",
+      "agency": "TOPSHOP LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=5TAF9OfL99g&ab_channel=Topshop",
+      "bestTitleCandidate": {
+        "title": "The Future Peasants",
+        "nanoId": "8f0aae028d33",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-the-most-powerful-arm-ever-invented-save-our-sons",
+      "year": 2013,
+      "brand": "SAVE OUR SONS",
+      "title": "THE MOST POWERFUL ARM EVER INVENTED",
+      "agency": "RED AGENCY SYDNEY",
+      "currentUrl": "https://www.youtube.com/watch?v=afR-7F31Tco",
+      "bestTitleCandidate": {
+        "title": "The Most Office",
+        "nanoId": "19d49ff0c87a",
+        "titleScore": 0.2857142857142857
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-the-power-of-cute-the-royal-borough-of-greenwich",
+      "year": 2013,
+      "brand": "THE ROYAL BOROUGH OF GREENWICH",
+      "title": "THE POWER OF CUTE",
+      "agency": "OGILVY LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=qsGCtQcUDZk",
+      "bestTitleCandidate": {
+        "title": "The Power of Two",
+        "nanoId": "949a66caed7e",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2013-the-power-of-cute-the-royal-borough-of-greenwich",
+        "candidateTitle": "The Power of Two",
+        "candidateNanoId": "949a66caed7e",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/lexus-the-power-of-two-949a66caed7e",
+        "metaScore": 0.3333333333333333,
+        "totalScore": 0.45
+      }
+    },
+    {
+      "id": "2013-the-world-s-most-powerful-banner-neckermann",
+      "year": 2013,
+      "brand": "NECKERMANN",
+      "title": "THE WORLD’S MOST POWERFUL BANNER",
+      "agency": "OGILVY FRANKFURT",
+      "currentUrl": "https://clios.com/awards/winner/public-relations/the-worlds-most-powerful-banner-5352",
+      "bestTitleCandidate": {
+        "title": "The World's Most Boring Billboard",
+        "nanoId": "282b41824e82",
+        "titleScore": 0.42857142857142855
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-weyland-s-2023-ted-talk-prometheus",
+      "year": 2013,
+      "brand": "PROMETHEUS",
+      "title": "WEYLAND’S 2023 TED TALK",
+      "agency": "RSA FILMS NEW YORK",
+      "currentUrl": "https://www.youtube.com/watch?v=dQpGwnN3dfc&ab_channel=Prometheus",
+      "bestTitleCandidate": {
+        "title": "The Talk",
+        "nanoId": "45eaf296a047",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2013-window-shopping-adidas",
+      "year": 2013,
+      "brand": "ADIDAS",
+      "title": "WINDOW SHOPPING",
+      "agency": "TBWA HELSINKI",
+      "currentUrl": "https://www.youtube.com/watch?v=MYBURgFgP7w",
+      "bestTitleCandidate": {
+        "title": "Shopping",
+        "nanoId": "8146320239f3",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2013-window-shopping-adidas",
+        "candidateTitle": "Shopping",
+        "candidateNanoId": "8146320239f3",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/prints/diesel-shopping-8146320239f3",
+        "metaScore": 0.16666666666666666,
+        "totalScore": 0.4
+      }
+    },
+    {
+      "id": "2013-you-can-t-get-any-close-to-the-news-cape-times",
+      "year": 2013,
+      "brand": "CAPE TIMES",
+      "title": "YOU CAN’T GET ANY CLOSE TO THE NEWS.",
+      "agency": "LOWE & PARTNERS CAPE TOWN",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/cape-times-lowe-12-2012",
+      "bestTitleCandidate": {
+        "title": "The Hybrid You Can Feel",
+        "nanoId": "7afffc363aa2",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-adult-action-epic-cine-las-americas",
+      "year": 2012,
+      "brand": "CINE LAS AMERICAS",
+      "title": "ADULT, ACTION, EPIC",
+      "agency": "LATINWORKS AUSTIN",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/cine-las-americas-latinworks-05-2012",
+      "bestTitleCandidate": {
+        "title": "Adult Table",
+        "nanoId": "5fea6a37e197",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-commander-santher-nappies",
+      "year": 2012,
+      "brand": "SANTHER NAPPIES",
+      "title": "COMMANDER",
+      "agency": "TALENT SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/santher-talent-06-2012",
+      "bestTitleCandidate": {
+        "title": "Road Commander Gets a WoF",
+        "nanoId": "4b18496372ed",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-dulcinea-maria-antonieta-stabilo-boss",
+      "year": 2012,
+      "brand": "STABILO BOSS",
+      "title": "DULCINEA, MARIA ANTONIETA",
+      "agency": "Y&R SANTIAGO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/stabilo-yr-01-2012",
+      "bestTitleCandidate": {
+        "title": "Marias vs Maria, 3",
+        "nanoId": "3f1c4593155b",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-live-explosions-pilsen",
+      "year": 2012,
+      "brand": "PILSEN",
+      "title": "LIVE EXPLOSIONS",
+      "agency": "HAVAS GURISA MONTEVIDEO",
+      "currentUrl": "https://www.youtube.com/watch?v=BrAWljg9yZs",
+      "bestTitleCandidate": {
+        "title": "A Place to Live",
+        "nanoId": "82c99e8a1eec",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-mis-matsch-goteborgsoperan",
+      "year": 2012,
+      "brand": "GOTEBORGSOPERAN",
+      "title": "MIS-MATSCH",
+      "agency": "FORSMAN & BODENFORS GOTHENBURG",
+      "currentUrl": "https://forsman.co/work/goteborgsoperan/mis-match",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-mud-adventures-bravery-omo",
+      "year": 2012,
+      "brand": "OMO",
+      "title": "MUD, ADVENTURES, BRAVERY",
+      "agency": "DLKW LOWE LONDON",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/omo-lowe-07-2012",
+      "bestTitleCandidate": {
+        "title": "Mud Run",
+        "nanoId": "f828eb5fd0d7",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-nissan-rumble-nissan",
+      "year": 2012,
+      "brand": "NISSAN",
+      "title": "NISSAN RUMBLE",
+      "agency": "TBWA\\PHS HELSINKI",
+      "currentUrl": "https://www.youtube.com/watch?v=tkqLVdi1Wj4&ab_channel=TBWAHelsinki",
+      "bestTitleCandidate": {
+        "title": "Nissan",
+        "nanoId": "cbff8dde972f",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2012-nissan-rumble-nissan",
+        "candidateTitle": "Nissan",
+        "candidateNanoId": "cbff8dde972f",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/prints/nissan-nissan-cbff8dde972f",
+        "metaScore": 0.3333333333333333,
+        "totalScore": 0.45
+      }
+    },
+    {
+      "id": "2012-one-letter-is-all-it-takes-claro",
+      "year": 2012,
+      "brand": "CLARO",
+      "title": "ONE LETTER IS ALL IT TAKES",
+      "agency": "OGILVY SÃO PAULO",
+      "currentUrl": "https://osocio.org/message/one-letter-is-all-it-takes/",
+      "bestTitleCandidate": {
+        "title": "A Little Hungry - Temple [all-in-one]",
+        "nanoId": "95c6e2db9bed",
+        "titleScore": 0.2857142857142857
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-only-free-is-cheaper-tele2",
+      "year": 2012,
+      "brand": "TELE2",
+      "title": "ONLY FREE IS CHEAPER",
+      "agency": "FORSMAN & BODENFORS GOTHENBURG",
+      "currentUrl": "https://forsman.co/work/tele2/only-free-is-cheaper",
+      "bestTitleCandidate": {
+        "title": "Crocodile free",
+        "nanoId": "af02ddca2c69",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-parking-ticket-t-mobile",
+      "year": 2012,
+      "brand": "T MOBILE",
+      "title": "PARKING TICKET",
+      "agency": "SAATCHI & SAATCHI LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=c5-i5DqbmdI&ab_channel=lifesforsharing",
+      "bestTitleCandidate": {
+        "title": "Parking Sensor",
+        "nanoId": "84dddbe235ca",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-reclaim-your-space-bajaj",
+      "year": 2012,
+      "brand": "BAJAJ",
+      "title": "RECLAIM YOUR SPACE",
+      "agency": "LEO BURNETT MUMBAI",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/bajaj-leo-burnett-05-2012",
+      "bestTitleCandidate": {
+        "title": "Space",
+        "nanoId": "05f059a40cb1",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-snow-white-and-sherlock-holmes-harry-potter-and-troy-little-red-riding-hood-and-moby-dick-colsubsidio",
+      "year": 2012,
+      "brand": "COLSUBSIDIO",
+      "title": "SNOW WHITE AND SHERLOCK HOLMES, HARRY POTTER AND TROY, LITTLE RED RIDING HOOD AND MOBY DICK",
+      "agency": "LOWE SSP3 BOGOTA",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/colsubsidio-lowe-04-2012",
+      "bestTitleCandidate": {
+        "title": "Snow White",
+        "nanoId": "94e65ba02111",
+        "titleScore": 0.14285714285714285
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-swedish-national-parks-swedish-environmental-protection-agency",
+      "year": 2012,
+      "brand": "SWEDISH ENVIRONMENTAL PROTECTION AGENCY",
+      "title": "SWEDISH NATIONAL PARKS",
+      "agency": "HAPPY F&B GOTHENBURG",
+      "currentUrl": "https://happy.fb.se/project/sveriges-nationalparker/",
+      "bestTitleCandidate": {
+        "title": "National Geographic Moments",
+        "nanoId": "61dbf55bba1b",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-tap-fuse-box-filing-cabinet-carburetor-medicins-sans-frontieres",
+      "year": 2012,
+      "brand": "MEDICINS SANS FRONTIERES",
+      "title": "TAP, FUSE BOX, FILING CABINET, CARBURETOR",
+      "agency": "M&C SAATCHI SYDNEY",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/medecins-sans-frontieres-mc-saatchi-05-2012",
+      "bestTitleCandidate": {
+        "title": "Letter Box",
+        "nanoId": "b5c8f727e205",
+        "titleScore": 0.14285714285714285
+      },
+      "verified": null
+    },
+    {
+      "id": "2012-walk-of-shame-harvey-nichols",
+      "year": 2012,
+      "brand": "HARVEY NICHOLS",
+      "title": "WALK OF SHAME",
+      "agency": "ADAM&EVEDDB LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=qKVbQrUxBY8",
+      "bestTitleCandidate": {
+        "title": "Tag of Shame",
+        "nanoId": "5c8d42d3de3d",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-baby-aircraft-road-crossing-prism-rolling-stone-magazine",
+      "year": 2011,
+      "brand": "ROLLING STONE MAGAZINE",
+      "title": "BABY, AIRCRAFT, ROAD CROSSING, PRISM",
+      "agency": "OGILVY FRANKFURT",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/rolling-stone-ogilvy-06-2010",
+      "bestTitleCandidate": {
+        "title": "Road",
+        "nanoId": "ce7ec213f3bb",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-blind-man-nerd-body-builder-snickers",
+      "year": 2011,
+      "brand": "SNICKERS",
+      "title": "BLIND MAN, NERD, BODY BUILDER",
+      "agency": "BBDO BOULOGNE-BILLANCOURT",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/snickers-bbdo-07-2011",
+      "bestTitleCandidate": {
+        "title": "Man",
+        "nanoId": "8c9d10575e70",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-boys-girls-tower-hamlets",
+      "year": 2011,
+      "brand": "TOWER HAMLETS",
+      "title": "BOYS, GIRLS",
+      "agency": "AMVBBDO LONDON",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/tower-hamlets-bbdo-06-2011",
+      "bestTitleCandidate": {
+        "title": "Anansi Boys, 10",
+        "nanoId": "97c2a5e38023",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-cat-dog-rabbit-bubbles-pet-cologne",
+      "year": 2011,
+      "brand": "BUBBLES PET COLOGNE",
+      "title": "CAT, DOG, RABBIT",
+      "agency": "GREY JAKARTA",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/bubbles-grey-06-2011",
+      "bestTitleCandidate": {
+        "title": "Cat",
+        "nanoId": "ba17a72a17a5",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-chicken-lips-traffic-retail-tax-dodger-doctor-railways-ibm",
+      "year": 2011,
+      "brand": "IBM",
+      "title": "CHICKEN LIPS, TRAFFIC, RETAIL, TAX DODGER, DOCTOR, RAILWAYS",
+      "agency": "OGILVY PARIS",
+      "currentUrl": "https://clios.com/awards/winner/design/traffic-retail-chicken-lips-tax-dodger-doctor-rail-9112",
+      "bestTitleCandidate": {
+        "title": "Doctor",
+        "nanoId": "0ed207b62759",
+        "titleScore": 0.125
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-commuter-office-worker-runner-ms-waikato",
+      "year": 2011,
+      "brand": "MS WAIKATO",
+      "title": "COMMUTER, OFFICE WORKER, RUNNER",
+      "agency": "COLENSO BBDO AUCKLAND",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/multiple-sclerosis-society-bbdo-06-2011",
+      "bestTitleCandidate": {
+        "title": "Office",
+        "nanoId": "15e8723f37f3",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-donated-songs-salvation-army",
+      "year": 2011,
+      "brand": "SALVATION ARMY",
+      "title": "DONATED SONGS",
+      "agency": "WIRZ ZURICH",
+      "currentUrl": "https://www.youtube.com/watch?v=2mQNCN7tS98&ab_channel=WirzGruppe",
+      "bestTitleCandidate": {
+        "title": "Giving Songs",
+        "nanoId": "08d013680cb7",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-exploitation-smuggling-riot-new-straits-times",
+      "year": 2011,
+      "brand": "NEW STRAITS TIMES",
+      "title": "EXPLOITATION, SMUGGLING, RIOT",
+      "agency": "MCCANN KUALA LUMPUR",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/new-straits-times-mccann-12-2010",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-famous-speeches-collection-walls-editions-points",
+      "year": 2011,
+      "brand": "EDITIONS POINTS",
+      "title": "FAMOUS SPEECHES COLLECTION WALLS",
+      "agency": "MARCEL PARIS",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/editions-points-marcel-06-2011",
+      "bestTitleCandidate": {
+        "title": "Pyros Collection",
+        "nanoId": "9bc4783c246f",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-heartbreaker-3-kaizers-orchestra",
+      "year": 2011,
+      "brand": "KAIZERS ORCHESTRA",
+      "title": "HEARTBREAKER<3",
+      "agency": "ANORAK OSLO",
+      "currentUrl": "https://www.youtube.com/watch?v=_4fQwxYpzAE&ab_channel=AnorakOslo",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-iceberg-gate-cannon-fiat-group",
+      "year": 2011,
+      "brand": "FIAT GROUP",
+      "title": "ICEBERG, GATE, CANNON",
+      "agency": "LEO BURNETT SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/fiat-leo-burnett-02-2011",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-insanity-taxes-lines-cinema-schauspielhaus-hamburg",
+      "year": 2011,
+      "brand": "SCHAUSPIELHAUS HAMBURG",
+      "title": "INSANITY, TAXES, LINES, CINEMA",
+      "agency": "LEAGAS DELANEY HAMBURG",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/the-hamburg-theatre-leagas-delaney-06-2011",
+      "bestTitleCandidate": {
+        "title": "IMARS Cinema, 5",
+        "nanoId": "c2caf41accc0",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-kurt-madonna-eminem-daft-monkey-week",
+      "year": 2011,
+      "brand": "MONKEY WEEK",
+      "title": "KURT, MADONNA, EMINEM, DAFT",
+      "agency": "LEO BURNETT MADRID",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/monkey-week-leo-burnett-06-2011",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-models-sony-ericsson",
+      "year": 2011,
+      "brand": "SONY ERICSSON",
+      "title": "MODELS",
+      "agency": "DARE LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=p2AP3VMAkpA&ab_channel=sonyericsson",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-paper-pvc-plastic-plastic-bag-roll-of-aluminium-volkswagen",
+      "year": 2011,
+      "brand": "VOLKSWAGEN",
+      "title": "PAPER, PVC PLASTIC, PLASTIC BAG, ROLL OF ALUMINIUM",
+      "agency": "ALMAPBBDO SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/volkswagen-bbdo-06-2011_0",
+      "bestTitleCandidate": {
+        "title": "Plastic, 1",
+        "nanoId": "f9fe45bd2279",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-photogenic-fibertel",
+      "year": 2011,
+      "brand": "FIBERTEL",
+      "title": "PHOTOGENIC",
+      "agency": "DON BUENOS AIRES",
+      "currentUrl": "https://clios.com/awards/winner/film/photogenic-7276",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-prisoner-skinny-bear-gentleman-woman-gillette",
+      "year": 2011,
+      "brand": "GILLETTE",
+      "title": "PRISONER, SKINNY, BEAR, GENTLEMAN, WOMAN",
+      "agency": "BBDO NEW YORK",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/gillette-bbdo-06-2011_0",
+      "bestTitleCandidate": {
+        "title": "Mama Bear",
+        "nanoId": "c238cee6abca",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-puppets-magic-origami-volkswagen",
+      "year": 2011,
+      "brand": "VOLKSWAGEN",
+      "title": "PUPPETS, MAGIC, ORIGAMI",
+      "agency": "ALMAPBBDO SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/volkswagen-bbdo-06-2011",
+      "bestTitleCandidate": {
+        "title": "Magic",
+        "nanoId": "06a86d553aa6",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-rainy-days-walkers",
+      "year": 2011,
+      "brand": "WALKERS",
+      "title": "RAINY DAYS",
+      "agency": "OMD LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=bUkTV0Z4HMk&ab_channel=OMDUKLondon",
+      "bestTitleCandidate": {
+        "title": "Rainy Day",
+        "nanoId": "d7e7378843c4",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-sausageflan-wasabimuffin-fishchocolate-ayudin-washing-up-liquid",
+      "year": 2011,
+      "brand": "AYUDIN WASHING UP LIQUID",
+      "title": "SAUSAGEFLAN, WASABIMUFFIN, FISHCHOCOLATE",
+      "agency": "GREY BUENOS AIRES",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/ayudin-grey-05-2011",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-shave-sutra-gillette",
+      "year": 2011,
+      "brand": "GILLETTE",
+      "title": "SHAVE SUTRA",
+      "agency": "RK SWAMY BBDO MUMBAI",
+      "currentUrl": "https://www.youtube.com/watch?v=ahFoFSnHadk&ab_channel=Kulzy",
+      "bestTitleCandidate": {
+        "title": "First Shave",
+        "nanoId": "0604d0baf496",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-slide-kite-swing-active-life",
+      "year": 2011,
+      "brand": "ACTIVE LIFE",
+      "title": "SLIDE, KITE, SWING",
+      "agency": "LATINWORKS AUSTIN",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/active-life-latinworks-06-2011",
+      "bestTitleCandidate": {
+        "title": "Windsurfing Kite",
+        "nanoId": "e1f560a3abb0",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-what-a-person-can-miss-a-machine-will-find-the-polish-federation-of-cancer-survivors",
+      "year": 2011,
+      "brand": "THE POLISH FEDERATION OF CANCER SURVIVORS",
+      "title": "WHAT A PERSON CAN MISS A MACHINE WILL FIND",
+      "agency": "HAVAS WARSAW",
+      "currentUrl": "https://www.youtube.com/watch?v=sfDdAuitZjk&ab_channel=Havas",
+      "bestTitleCandidate": {
+        "title": "It can happen, it does happen, it will happen, 3",
+        "nanoId": "11bd3912ef45",
+        "titleScore": 0.2222222222222222
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-when-i-grow-up-faktum",
+      "year": 2011,
+      "brand": "FAKTUM",
+      "title": "WHEN I GROW UP",
+      "agency": "FORSMAN & BODENFORS STOCKHOLM",
+      "currentUrl": "https://forsman.co/work/faktum/calendar-2011-when-i-grow-up",
+      "bestTitleCandidate": {
+        "title": "Grow Good",
+        "nanoId": "5dcf0ab8d45b",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2011-woman-bald-bear-santa-casa-da-misericordia",
+      "year": 2011,
+      "brand": "SANTA CASA DA MISERICORDIA",
+      "title": "WOMAN, BALD, BEAR",
+      "agency": "Y&R SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/santa-casa-yr-05-2011",
+      "bestTitleCandidate": {
+        "title": "Mama Bear",
+        "nanoId": "c238cee6abca",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-always-a-woman-john-lewis",
+      "year": 2010,
+      "brand": "JOHN LEWIS",
+      "title": "ALWAYS A WOMAN",
+      "agency": "ADAM&EVEDDB LONDON",
+      "currentUrl": "https://adamandeveddb.com/work/john-lewis-and-partners-always-a-woman",
+      "bestTitleCandidate": {
+        "title": "24:7 Always On",
+        "nanoId": "56d51621d615",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2010-always-a-woman-john-lewis",
+        "candidateTitle": "24:7 Always On",
+        "candidateNanoId": "56d51621d615",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/politix-247-always-on-56d51621d615",
+        "metaScore": 0.125,
+        "totalScore": 0.3875
+      }
+    },
+    {
+      "id": "2010-auto-insurance-nissan",
+      "year": 2010,
+      "brand": "NISSAN",
+      "title": "AUTO INSURANCE",
+      "agency": "TBWA SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/nissan-tbwa-06-2010_0",
+      "bestTitleCandidate": {
+        "title": "AA Insurance",
+        "nanoId": "2482c1039991",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2010-auto-insurance-nissan",
+        "candidateTitle": "AA Insurance",
+        "candidateNanoId": "2482c1039991",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/aa-insurance-aa-insurance-2482c1039991",
+        "metaScore": 0.14285714285714285,
+        "totalScore": 0.3929
+      }
+    },
+    {
+      "id": "2010-car-safe-antique-midea",
+      "year": 2010,
+      "brand": "MIDEA",
+      "title": "CAR, SAFE, ANTIQUE",
+      "agency": "OGILVY SHANGHAI",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/midea-ogilvy-06-2010",
+      "bestTitleCandidate": {
+        "title": "Car",
+        "nanoId": "b23aa4dc9605",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-come-i-wish-to-see-you-masp",
+      "year": 2010,
+      "brand": "MASP",
+      "title": "COME. I WISH TO SEE YOU.",
+      "agency": "DDB SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/masp-ddb-02-2010",
+      "bestTitleCandidate": {
+        "title": "You Will See Me",
+        "nanoId": "b347206b2c77",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-find-music-the-fridge",
+      "year": 2010,
+      "brand": "THE FRIDGE",
+      "title": "FIND MUSIC",
+      "agency": "TBWA DUBAI",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/the-fridge-tbwa-06-2010",
+      "bestTitleCandidate": {
+        "title": "Music",
+        "nanoId": "af5fa98340ff",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2010-find-music-the-fridge",
+        "candidateTitle": "Music",
+        "candidateNanoId": "af5fa98340ff",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/prints/chupa-chups-music-af5fa98340ff",
+        "metaScore": 0.2857142857142857,
+        "totalScore": 0.4357
+      }
+    },
+    {
+      "id": "2010-follow-the-white-rabbit-syfy",
+      "year": 2010,
+      "brand": "SYFY",
+      "title": "FOLLOW THE WHITE RABBIT",
+      "agency": "FALLON MINNEAPOLIS",
+      "currentUrl": "https://www.catchaaron.com/syfy-channel-follow-the-white-rabbit",
+      "bestTitleCandidate": {
+        "title": "Hunt the White Creme Egg, 7",
+        "nanoId": "aee1bdb59d09",
+        "titleScore": 0.2857142857142857
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-go-back-suplicy-coffees",
+      "year": 2010,
+      "brand": "SUPLICY COFFEES",
+      "title": "GO BACK",
+      "agency": "SAATCHI & SAATCHI SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/cafe-suplicy-saatchi-saatchi-05-2010",
+      "bestTitleCandidate": {
+        "title": "BACK TO 99",
+        "nanoId": "59746241e4b0",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "2010-go-back-suplicy-coffees",
+        "candidateTitle": "BACK TO 99",
+        "candidateNanoId": "59746241e4b0",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/prints/ing-direct-back-to-99-59746241e4b0",
+        "metaScore": 0.14285714285714285,
+        "totalScore": 0.7429
+      }
+    },
+    {
+      "id": "2010-gun-ring-watch-masterlock",
+      "year": 2010,
+      "brand": "MASTERLOCK",
+      "title": "GUN, RING, WATCH",
+      "agency": "FOXP2 CAPE TOWN",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/master-lock-foxp2-11-2009",
+      "bestTitleCandidate": {
+        "title": "Ring and Knot, 1",
+        "nanoId": "fb91a0cda7e1",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-it-barely-leaves-a-trace-klunter-adhesive",
+      "year": 2010,
+      "brand": "KLUNTER ADHESIVE",
+      "title": "IT BARELY LEAVES A TRACE",
+      "agency": "Y&R BOGOTA",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/klunter-yr-04-2010",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-josh-s-band-t-mobile",
+      "year": 2010,
+      "brand": "T MOBILE",
+      "title": "JOSH’S BAND",
+      "agency": "SAATCHI & SAATCHI LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=jzRF10wwdvo",
+      "bestTitleCandidate": {
+        "title": "Rock Band",
+        "nanoId": "d4bd43c509fe",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-life-s-hard-when-you-re-a-fat-dog-masterdog-light",
+      "year": 2010,
+      "brand": "MASTERDOG LIGHT",
+      "title": "LIFE’S HARD WHEN YOU’RE A FAT DOG",
+      "agency": "Y&R SANTIAGO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/master-dog-yr-05-2010",
+      "bestTitleCandidate": {
+        "title": "For Life As You Know It",
+        "nanoId": "c9c73c7090cf",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-mud-fedex",
+      "year": 2010,
+      "brand": "FEDEX",
+      "title": "MUD",
+      "agency": "BBDO MAKATI CITY",
+      "currentUrl": "https://adsarchive.com/wp-content/uploads/2015/04/fedexmud.jpg",
+      "bestTitleCandidate": {
+        "title": "Mud Run",
+        "nanoId": "f828eb5fd0d7",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2010-mud-fedex",
+        "candidateTitle": "Mud Run",
+        "candidateNanoId": "f828eb5fd0d7",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/navy-federal-credit-union-mud-run-f828eb5fd0d7",
+        "metaScore": 0.16666666666666666,
+        "totalScore": 0.4
+      }
+    },
+    {
+      "id": "2010-organo-elephant-vault-ford",
+      "year": 2010,
+      "brand": "FORD",
+      "title": "ORGANO, ELEPHANT, VAULT",
+      "agency": "JWT BUENOS AIRES",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/ford-jwt-06-2010",
+      "bestTitleCandidate": {
+        "title": "Elephant in the Room",
+        "nanoId": "b9b12363cbf0",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-out-of-this-world-lika-gum",
+      "year": 2010,
+      "brand": "LIKA GUM",
+      "title": "OUT OF THIS WORLD",
+      "agency": "ELEPHANT CAIRO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/lika-gum-elephant-03-2010",
+      "bestTitleCandidate": {
+        "title": "We hold a mirror up to this world., 7",
+        "nanoId": "c5c8df2f93a2",
+        "titleScore": 0.4
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-pig-calf-chicken-luftal-antacid",
+      "year": 2010,
+      "brand": "LUFTAL ANTACID",
+      "title": "PIG, CALF, CHICKEN",
+      "agency": "TBWA SÃO PAULO",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/alcaluftal-tbwa-05-2010",
+      "bestTitleCandidate": {
+        "title": "Chicken",
+        "nanoId": "86626450b80c",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-polar-bear-plane-stupid",
+      "year": 2010,
+      "brand": "PLANE STUPID",
+      "title": "POLAR BEAR",
+      "agency": "MOTHER LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=aMnzSvZP_kE",
+      "bestTitleCandidate": {
+        "title": "Milkana Polar Bear",
+        "nanoId": "138a730f9fc1",
+        "titleScore": 0.6666666666666666
+      },
+      "verified": {
+        "id": "2010-polar-bear-plane-stupid",
+        "candidateTitle": "Milkana Polar Bear",
+        "candidateNanoId": "138a730f9fc1",
+        "candidateTitleScore": 0.6666666666666666,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/milkana-milkana-polar-bear-138a730f9fc1",
+        "metaScore": 0.2857142857142857,
+        "totalScore": 0.5524
+      }
+    },
+    {
+      "id": "2010-the-sooner-you-advertise-here-the-better-interbest-outdoor",
+      "year": 2010,
+      "brand": "INTERBEST OUTDOOR",
+      "title": "THE SOONER YOU ADVERTISE HERE THE BETTER.",
+      "agency": "Y&R AMSTERDAM",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/interbest-yr-06-2010",
+      "bestTitleCandidate": {
+        "title": "Better at the Gym - You. Only Stronger.",
+        "nanoId": "40c24680eb17",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-unicorn-squirrel-bambi-deutscher-caritasverband",
+      "year": 2010,
+      "brand": "DEUTSCHER CARITASVERBAND",
+      "title": "UNICORN, SQUIRREL, BAMBI",
+      "agency": "BBDO DUSSELDORF",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/caritas-bbdo-06-2010",
+      "bestTitleCandidate": {
+        "title": "Unicorn",
+        "nanoId": "783a522da8ac",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2010-what-will-it-take-before-we-respect-the-planet-wwf",
+      "year": 2010,
+      "brand": "WWF",
+      "title": "WHAT WILL IT TAKE BEFORE WE RESPECT THE PLANET?",
+      "agency": "OGILVY PARIS",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/wwf-ogilvy-06-2010_0",
+      "bestTitleCandidate": {
+        "title": "The Match Before the Match",
+        "nanoId": "51edbfa83ae9",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2009-bagpiper-opera-singer-priest-honda",
+      "year": 2009,
+      "brand": "HONDA",
+      "title": "BAGPIPER, OPERA SINGER, PRIEST",
+      "agency": "FISCHER LISBON",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/honda-fischer-06-2009",
+      "bestTitleCandidate": {
+        "title": "Lyric Opera of Chicago",
+        "nanoId": "351e97eb3d18",
+        "titleScore": 0.16666666666666666
+      },
+      "verified": null
+    },
+    {
+      "id": "2009-barkeeper-skater-shower-ikea",
+      "year": 2009,
+      "brand": "IKEA",
+      "title": "BARKEEPER, SKATER, SHOWER",
+      "agency": "GRABARZ & PARTNER HAMBURG",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/ikea-grabarz-partner-05-2009",
+      "bestTitleCandidate": {
+        "title": "Shower",
+        "nanoId": "58f82df927b3",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2009-classroom-bus-stop-living-room-carl-zeiss",
+      "year": 2009,
+      "brand": "CARL ZEISS",
+      "title": "CLASSROOM, BUS-STOP, LIVING ROOM",
+      "agency": "BBDO SINGAPORE",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/zeiss-bbdo-07-2009",
+      "bestTitleCandidate": {
+        "title": "5 Million Puffs - LIVING ROOM",
+        "nanoId": "ced5558e37c8",
+        "titleScore": 0.2857142857142857
+      },
+      "verified": null
+    },
+    {
+      "id": "2009-cop-tram-vespa",
+      "year": 2009,
+      "brand": "VESPA",
+      "title": "COP, TRAM",
+      "agency": "SAATCHI & SAATCHI AUCKLAND",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/vespa-saatchi-saatchi-09-2008",
+      "bestTitleCandidate": {
+        "title": "Budapest tram stops feature music generated by living plants, 4",
+        "nanoId": "d8518a421f99",
+        "titleScore": 0.1111111111111111
+      },
+      "verified": null
+    },
+    {
+      "id": "2009-gm-foods-car-wash-computer-economic-crises-subway-nuclear-greenpeace",
+      "year": 2009,
+      "brand": "GREENPEACE",
+      "title": "GM FOODS, CAR WASH, COMPUTER, ECONOMIC CRISES, SUBWAY, NUCLEAR",
+      "agency": "DDB PARIS",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/greenpeace-ddb-05-2009",
+      "bestTitleCandidate": {
+        "title": "Car",
+        "nanoId": "b23aa4dc9605",
+        "titleScore": 0.125
+      },
+      "verified": null
+    },
+    {
+      "id": "2009-multi-media-coke-machine-coca-cola",
+      "year": 2009,
+      "brand": "COCA COLA",
+      "title": "MULTI-MEDIA COKE MACHINE",
+      "agency": "SAPIENTNITRO MIAMI",
+      "currentUrl": "https://cargo.teamgoodguys.com/Coca-Cola-Multi-Media-Vending",
+      "bestTitleCandidate": {
+        "title": "Coke Mystical",
+        "nanoId": "79d8f4491d0b",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2009-parking-the-ad-squatter-crowded-shelter-home-real-size-home-abbe-pierre-foundation",
+      "year": 2009,
+      "brand": "ABBE PIERRE FOUNDATION",
+      "title": "PARKING, THE AD SQUATTER, CROWDED, SHELTER HOME, REAL SIZE HOME",
+      "agency": "BDDP & FILS PARIS",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/fondation-abbe-pierre-bddp-01-2009",
+      "bestTitleCandidate": {
+        "title": "Be the real thing, 3",
+        "nanoId": "60762fc87dcb",
+        "titleScore": 0.2222222222222222
+      },
+      "verified": null
+    },
+    {
+      "id": "2009-pinky-collar-decrossifier-miller",
+      "year": 2009,
+      "brand": "MILLER",
+      "title": "PINKY, COLLAR, DECROSSIFIER",
+      "agency": "SAATCHI & SAATCHI NEW YORK",
+      "currentUrl": "https://mitchgage.cargo.site/Miller-High-Life",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2009-purple-caterpillar-whale-cow-hugs-recipe-book-ben-jerry",
+      "year": 2009,
+      "brand": "BEN & JERRY",
+      "title": "PURPLE CATERPILLAR, WHALE COW, HUGS, RECIPE BOOK",
+      "agency": "OGILVY SINGAPORE",
+      "currentUrl": "https://www.adsoftheworld.com/campaign/ben-jerrys-ogilvy-07-2009",
+      "bestTitleCandidate": {
+        "title": "Book Unique, 2",
+        "nanoId": "9c0c2f8c7f75",
+        "titleScore": 0.125
+      },
+      "verified": null
+    },
+    {
+      "id": "2008-building-anando-milk",
+      "year": 2008,
+      "brand": "ANANDO MILK",
+      "title": "BUILDING",
+      "agency": "MCCANN MUMBAI",
+      "currentUrl": "https://d3nuqriibqh3vw.cloudfront.net/styles/aotw_detail_ir/s3/images/anandomilkbuilding.jpg?itok=9vH-pWEk",
+      "bestTitleCandidate": {
+        "title": "Building Memories",
+        "nanoId": "a9d4f31f247e",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2008-building-anando-milk",
+        "candidateTitle": "Building Memories",
+        "candidateNanoId": "a9d4f31f247e",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/lego-building-memories-a9d4f31f247e",
+        "metaScore": 0.16666666666666666,
+        "totalScore": 0.4
+      }
+    },
+    {
+      "id": "2008-eating-in-toilet-hong-kong-breastfeeding-mothers-association",
+      "year": 2008,
+      "brand": "HONG KONG BREASTFEEDING MOTHERS’ ASSOCIATION",
+      "title": "EATING IN TOILET",
+      "agency": "FCB SHANGHAI",
+      "currentUrl": "https://storage.googleapis.com/adforum-media/12654353/FCBC_12550_12654353A.JPG",
+      "bestTitleCandidate": {
+        "title": "Tonight I'll Be Eating, 1",
+        "nanoId": "094e034f0349",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2008-mms-amf-pension",
+      "year": 2008,
+      "brand": "AMF PENSION",
+      "title": "MMS",
+      "agency": "FORSMAN & BODENFORS GOTHENBURG",
+      "currentUrl": "https://forsman.co/work/amf/mms",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2008-night-reflection-mcdonald-s",
+      "year": 2008,
+      "brand": "MCDONALD’S",
+      "title": "NIGHT REFLECTION",
+      "agency": "DDB SYDNEY",
+      "currentUrl": "https://creativecriminals.com/pictures/hq/161/mcdonaldsnight1.jpg",
+      "bestTitleCandidate": {
+        "title": "Reflection",
+        "nanoId": "b4f4dca636d4",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2008-night-reflection-mcdonald-s",
+        "candidateTitle": "Reflection",
+        "candidateNanoId": "b4f4dca636d4",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/volkswagen-reflection-b4f4dca636d4",
+        "metaScore": 0.16666666666666666,
+        "totalScore": 0.4
+      }
+    },
+    {
+      "id": "2008-rob-lowe-orange",
+      "year": 2008,
+      "brand": "ORANGE",
+      "title": "ROB LOWE",
+      "agency": "MOTHER LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=5i2N0_UPRxM",
+      "bestTitleCandidate": {
+        "title": "Rob",
+        "nanoId": "8bbecdada25e",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2008-rob-lowe-orange",
+        "candidateTitle": "Rob",
+        "candidateNanoId": "8bbecdada25e",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/taylors-wines-rob-8bbecdada25e",
+        "metaScore": 0.16666666666666666,
+        "totalScore": 0.4
+      }
+    },
+    {
+      "id": "2005-brick-wall-dscr-french-road-safety",
+      "year": 2005,
+      "brand": "DSCR FRENCH ROAD SAFETY",
+      "title": "BRICK WALL",
+      "agency": "LOWE PARIS",
+      "currentUrl": "https://assets.lovethework.com/loc1/archive/2005/press/high/03606.jpg?Key-Pair-Id=K3KXIJDC8V1Z48&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2MTEzNDEwOX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vYXNzZXRzLmxvdmV0aGV3b3JrLmNvbS9sb2MxL2FyY2hpdmUvMjAwNS9wcmVzcy9oaWdoLzAzNjA2LmpwZyJ9XX0&Signature=OrzJRREQYLCJ162tycL7JuP7NXMMmWG0SUTtylEV0Vt0E2IBxN185oNChTjYBldPvcdcuAa2lfUdx7qxcfITQz7klrXqNkX3xO3TITqn43RBEpbhebW6ovM%2FeI6Pi753K3YKzn1a%2BEVyUoTO80CnGjS5%2FTlOkFl4B%2BAAMi%2BaBIGt4hqMkLVgGG4FveCvghf6iZCb56lXGMYLJyiVY79D8CTNmWEZFTuT154CPHe%2BcYj%2BCDG1Exp7JoVHUGSdn%2Fvy8XuDWr8t8hkxFYsZPh8%2Bt3QkrmHdBjRsy8Vwk30vRgu4XomUJiZlyhyy8JynDD6994hfawKFaSbGqN%2BI8ncCGQ",
+      "bestTitleCandidate": {
+        "title": "Wall",
+        "nanoId": "9d4f2b8f16ca",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2005-brick-wall-dscr-french-road-safety",
+        "candidateTitle": "Wall",
+        "candidateNanoId": "9d4f2b8f16ca",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/prints/bt-sport-wall-9d4f2b8f16ca",
+        "metaScore": 0.1111111111111111,
+        "totalScore": 0.3833
+      }
+    },
+    {
+      "id": "2005-bunso-unicef",
+      "year": 2005,
+      "brand": "UNICEF",
+      "title": "BUNSO",
+      "agency": "BBDO MAKATI CITY",
+      "currentUrl": "https://www.youtube.com/watch?v=yh6lz7zgGNY&ab_channel=ANRW",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2005-marie-inpes",
+      "year": 2005,
+      "brand": "INPES",
+      "title": "MARIE",
+      "agency": "FCB CLICHY",
+      "currentUrl": "https://player.vimeo.com/video/105691925",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2005-verne-troyer-orange",
+      "year": 2005,
+      "brand": "ORANGE",
+      "title": "VERNE TROYER",
+      "agency": "MOTHER LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=UOzZs4krFKY&ab_channel=motherlondon",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2004-court-stenographer-agf-financial-services",
+      "year": 2004,
+      "brand": "AGF FINANCIAL SERVICES",
+      "title": "COURT STENOGRAPHER",
+      "agency": "TBWA\\TORONTO",
+      "currentUrl": "https://www.youtube.com/watch?v=ywjOf030J-Y&ab_channel=davisatlas",
+      "bestTitleCandidate": {
+        "title": "Food Court",
+        "nanoId": "e5d9079c6445",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2004-flight-attendant-agf-financial-services",
+      "year": 2004,
+      "brand": "AGF FINANCIAL SERVICES",
+      "title": "FLIGHT ATTENDANT",
+      "agency": "TBWA\\TORONTO",
+      "currentUrl": "https://www.youtube.com/watch?v=GLWNfkTv-to&ab_channel=BenjaminPadero",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2004-try-k2r-k2r",
+      "year": 2004,
+      "brand": "K2R",
+      "title": "TRY K2R",
+      "agency": "TBWA\\PARIS BOULOGNE-BILLANCOURT",
+      "currentUrl": "https://www.youtube.com/watch?v=ibTxMvCZpFI&amp;ab_channel=GCCarvalho",
+      "bestTitleCandidate": {
+        "title": "Try Not To Hear This, 3",
+        "nanoId": "ebc0cb30fe5f",
+        "titleScore": 0.2
+      },
+      "verified": null
+    },
+    {
+      "id": "2004-village-aides",
+      "year": 2004,
+      "brand": "AIDES",
+      "title": "VILLAGE",
+      "agency": "TBWA\\PARIS BOULOGNE-BILLANCOURT",
+      "currentUrl": "https://www.youtube.com/watch?v=ibTxMvCZpFI&ab_channel=GCCarvalho",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2003-bruised-ambassadors-nz-women-s-refuge",
+      "year": 2003,
+      "brand": "NZ WOMEN’S REFUGE",
+      "title": "BRUISED AMBASSADORS",
+      "agency": "SAATCHI & SAATCHI AUCKLAND",
+      "currentUrl": "https://d26eb5y2jukpbz.cloudfront.net/ebs/archive/2003/media/03374A_a.jpg",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2003-live-fast-die-a-senior-citizen-rolling-stone",
+      "year": 2003,
+      "brand": "ROLLING STONE",
+      "title": "LIVE FAST, DIE A SENIOR CITIZEN",
+      "agency": "BBH NEW YORK",
+      "currentUrl": "https://storage.googleapis.com/adforum-media/30113/BARB_12048_0030113A.JPG",
+      "bestTitleCandidate": {
+        "title": "Be a chicken - Ballsy ones die young. Chickens live longer.",
+        "nanoId": "bf29e79f9f56",
+        "titleScore": 0.18181818181818182
+      },
+      "verified": null
+    },
+    {
+      "id": "2003-streaker-bilbao-athletic-club",
+      "year": 2003,
+      "brand": "BILBAO ATHLETIC CLUB",
+      "title": "STREAKER",
+      "agency": "DIMENSION SAN SEBASTIAN",
+      "currentUrl": "http://www.papik.es/en/portfolio/athletic-club-streaker/",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2003-wimbledon-2002-ibm",
+      "year": 2003,
+      "brand": "IBM",
+      "title": "WIMBLEDON 2002",
+      "agency": "OGILYONE LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=ipAC-xBbVOc",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2002-aids-help-vienna-aids-foundation",
+      "year": 2002,
+      "brand": "AIDS FOUNDATION",
+      "title": "AIDS HELP VIENNA",
+      "agency": "PALLA KOBLINGER PROXIMITY VIENNA",
+      "currentUrl": "https://www.youtube.com/watch?v=ukVCbNt9FpY&ab_channel=ElisaR.",
+      "bestTitleCandidate": {
+        "title": "Help is Part of It",
+        "nanoId": "961875a00b8f",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2002-always-have-the-last-word-the-economist",
+      "year": 2002,
+      "brand": "THE ECONOMIST",
+      "title": "ALWAYS HAVE THE LAST WORD",
+      "agency": "OGILVY & MATHER ADVERTISING HONG KONG",
+      "currentUrl": "https://d26eb5y2jukpbz.cloudfront.net/ebs/archive/2002/media/02216A_b.jpg",
+      "bestTitleCandidate": {
+        "title": "The Last Goodbye",
+        "nanoId": "ccd03ebbc6d5",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2002-audi-a4-avant-audi",
+      "year": 2002,
+      "brand": "AUDI",
+      "title": "AUDI A4 AVANT",
+      "agency": "DOUBLEYOU BARCELONA",
+      "currentUrl": "https://d26eb5y2jukpbz.cloudfront.net/ebs/archive/2002/media/02112N.jpg",
+      "bestTitleCandidate": {
+        "title": "Audi",
+        "nanoId": "59c3467b35cb",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2002-audi-a4-avant-audi",
+        "candidateTitle": "Audi",
+        "candidateNanoId": "59c3467b35cb",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/audi-audi-59c3467b35cb",
+        "metaScore": 0.4,
+        "totalScore": 0.47
+      }
+    },
+    {
+      "id": "2002-forever-estrella-damm-beer",
+      "year": 2002,
+      "brand": "ESTRELLA DAMM BEER",
+      "title": "FOREVER",
+      "agency": "TANDEM DDB MADRID",
+      "currentUrl": "https://www.youtube.com/watch?v=b0KFxIi_jME",
+      "bestTitleCandidate": {
+        "title": "Forever Now",
+        "nanoId": "b9a3966e3a4e",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2002-forever-estrella-damm-beer",
+        "candidateTitle": "Forever Now",
+        "candidateNanoId": "b9a3966e3a4e",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/polaroid-forever-now-b9a3966e3a4e",
+        "metaScore": 0.125,
+        "totalScore": 0.3875
+      }
+    },
+    {
+      "id": "2002-one-in-four-womankind",
+      "year": 2002,
+      "brand": "WOMANKIND",
+      "title": "ONE IN FOUR",
+      "agency": "RAINEY KELLY CAMPBELL ROALFE/Y&R LONDON",
+      "currentUrl": "https://www.adforum.com/creative-work/ad/player/20749/one-in-four/womankind",
+      "bestTitleCandidate": {
+        "title": "One-to-One",
+        "nanoId": "67f75d55d65e",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2002-one-in-four-womankind",
+        "candidateTitle": "One-to-One",
+        "candidateNanoId": "67f75d55d65e",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/the-wayfarer-foundation-one-to-one-67f75d55d65e",
+        "metaScore": 0.1111111111111111,
+        "totalScore": 0.3833
+      }
+    },
+    {
+      "id": "2001-adidas-beat-rugby-i-adidas",
+      "year": 2001,
+      "brand": "ADIDAS",
+      "title": "ADIDAS BEAT RUGBY I",
+      "agency": "SAATCHI & SAATCHI NEW ZEALAND WELLINGTON",
+      "currentUrl": "https://d26eb5y2jukpbz.cloudfront.net/ebs/archive/osi/2001/media/010018N_b.jpg",
+      "bestTitleCandidate": {
+        "title": "Adidas",
+        "nanoId": "1b57c9c3b5aa",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2001-kiss-on-the-bus-smint",
+      "year": 2001,
+      "brand": "SMINT",
+      "title": "KISS ON THE BUS",
+      "agency": "TANDEM CAMPMANY GUASCH DDB BARCELONA",
+      "currentUrl": "https://www.adforum.com/creative-work/ad/player/14665/bus-opened-doors/smint",
+      "bestTitleCandidate": {
+        "title": "Bus",
+        "nanoId": "37eeea68517a",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "2000-jukka-bros-xmas-story-mtv-networks",
+      "year": 2000,
+      "brand": "MTV NETWORKS",
+      "title": "JUKKA BROS / XMAS STORY",
+      "agency": "FALLON NEW YORK",
+      "currentUrl": "https://www.youtube.com/watch?v=qp7LaVl6ons&ab_channel=LakshmipathyBhat",
+      "bestTitleCandidate": {
+        "title": "Bros",
+        "nanoId": "f9b17b14bce3",
+        "titleScore": 0.25
+      },
+      "verified": null
+    },
+    {
+      "id": "2000-lyrebird-forestry-stewardship-commission",
+      "year": 2000,
+      "brand": "FORESTRY STEWARDSHIP COMMISSION",
+      "title": "LYREBIRD",
+      "agency": "SAATCHI & SAATCHI EMEA",
+      "currentUrl": "https://www.youtube.com/watch?v=0uDk-EYGY3I&ab_channel=MindlessShelfIndulgence",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "2000-window-camel",
+      "year": 2000,
+      "brand": "CAMEL",
+      "title": "WINDOW",
+      "agency": "MCCANN LONDON",
+      "currentUrl": "https://www.youtube.com/watch?v=sZoMxFiPAyA&ab_channel=TheHallofAdvertising",
+      "bestTitleCandidate": {
+        "title": "From My Window",
+        "nanoId": "1b21fdb3583d",
+        "titleScore": 0.5
+      },
+      "verified": {
+        "id": "2000-window-camel",
+        "candidateTitle": "From My Window",
+        "candidateNanoId": "1b21fdb3583d",
+        "candidateTitleScore": 0.5,
+        "canonicalUrl": "https://adsspot.me/media/digital/rga-from-my-window-1b21fdb3583d",
+        "metaScore": 0.4,
+        "totalScore": 0.47
+      }
+    },
+    {
+      "id": "1999-the-child-in-the-crowd-france-telecom",
+      "year": 1999,
+      "brand": "FRANCE TELECOM",
+      "title": "THE CHILD IN THE CROWD",
+      "agency": "CLM/BBDO PARIS",
+      "currentUrl": "https://www.youtube.com/watch?v=cbTAsUSpcQI",
+      "bestTitleCandidate": {
+        "title": "The Best Gift for Your Child",
+        "nanoId": "6905c93d9326",
+        "titleScore": 0.2857142857142857
+      },
+      "verified": null
+    },
+    {
+      "id": "1997-internet-telenordia",
+      "year": 1997,
+      "brand": "TELENORDIA",
+      "title": "INTERNET",
+      "agency": "GARBERS ANNONSBYRA",
+      "currentUrl": "https://www.youtube.com/watch?v=zFdwYDmiL4M&ab_channel=rocketraccoon20",
+      "bestTitleCandidate": {
+        "title": "DR. INTERNET",
+        "nanoId": "95c0516bdf3e",
+        "titleScore": 1
+      },
+      "verified": {
+        "id": "1997-internet-telenordia",
+        "candidateTitle": "DR. INTERNET",
+        "candidateNanoId": "95c0516bdf3e",
+        "candidateTitleScore": 1,
+        "canonicalUrl": "https://adsspot.me/media/tv-commercials/konsultamd-dr-internet-95c0516bdf3e",
+        "metaScore": 0.2,
+        "totalScore": 0.76
+      }
+    },
+    {
+      "id": "1996-elephant-nestle-co",
+      "year": 1996,
+      "brand": "NESTLE CO",
+      "title": "ELEPHANT",
+      "agency": "AMMIRATI PURIS LINTAS AMSTERDAM",
+      "currentUrl": "https://www.youtube.com/watch?v=qVZK1OWtqwY&ab_channel=DoniAmaro",
+      "bestTitleCandidate": {
+        "title": "Elephant in the Room",
+        "nanoId": "b9b12363cbf0",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "1996-idols-swf-television",
+      "year": 1996,
+      "brand": "SWF TELEVISION",
+      "title": "IDOLS",
+      "agency": "OGILVY & MATHER",
+      "currentUrl": "https://www.youtube.com/watch?v=877cHKgLRzA&ab_channel=rocketraccoon19",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "1996-gecko-bosch-wiper-blades",
+      "year": 1996,
+      "brand": "BOSCH WIPER BLADES",
+      "title": "GECKO",
+      "agency": "Y&R JOHANNESBURG",
+      "currentUrl": "https://www.youtube.com/watch?v=Gu7KEFr-6Hc&ab_channel=TheLouBuford",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    },
+    {
+      "id": "1990-nutrition-ricegrowers-co-ip",
+      "year": 1990,
+      "brand": "RICEGROWERS CO-IP",
+      "title": "NUTRITION",
+      "agency": "CLEMENGER BBDO MELBOURNE",
+      "currentUrl": "https://www.youtube.com/watch?v=jYo7NR1LJYE&ab_channel=SunRice",
+      "bestTitleCandidate": {
+        "title": "Nestle Nutrition Cart",
+        "nanoId": "3a6c5843f913",
+        "titleScore": 0.3333333333333333
+      },
+      "verified": null
+    },
+    {
+      "id": "1978-la-copieuse-waterman",
+      "year": 1978,
+      "brand": "WATERMAN",
+      "title": "LA COPIEUSE",
+      "agency": "BENTON & BOWLES",
+      "currentUrl": "https://www.adforum.com/creative-work/ad/player/33194/the-graduate/waterman",
+      "bestTitleCandidate": {
+        "title": "Loaf Like You Mean It",
+        "nanoId": "9a6ba565a6fa",
+        "titleScore": 0
+      },
+      "verified": null
+    }
+  ]
+}

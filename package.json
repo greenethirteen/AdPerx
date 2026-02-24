@@ -9,7 +9,9 @@
     "lint": "next lint",
     "scrape:ltwm": "node scripts/scrape-lovetheworkmore.mjs",
     "build:index": "node scripts/build-index.mjs",
-    "import:superbowl": "node scripts/import-superbowl-youtube.mjs"
+    "import:superbowl": "node scripts/import-superbowl-youtube.mjs",
+    "validate:enrichment": "node scripts/validate-campaign-enrichment.mjs",
+    "enrich:campaigns": "node scripts/enrich-campaign-metadata.mjs"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
