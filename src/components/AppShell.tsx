@@ -124,7 +124,7 @@ export default function AppShell() {
     <div className="mx-auto max-w-7xl px-4 py-8">
       <header className="flex items-start justify-between gap-3">
         <div className="space-y-1">
-          <h1 className="logo-mark text-3xl font-extrabold tracking-tight md:text-5xl">BrainStormer™</h1>
+          <h1 className="logo-mark text-3xl font-extrabold tracking-tight md:text-5xl">AdPerx™</h1>
           <p className="hidden md:block text-[10px] font-semibold uppercase tracking-[0.12em] text-black/65">
             A Powerful Search Engine for Award-Winning Work
           </p>
