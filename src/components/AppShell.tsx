@@ -145,6 +145,7 @@ export default function AppShell() {
           <button type="button" className="logo-home-btn" onClick={resetToHome} aria-label="Go to home and reset search">
             <div className="logo-badge-wrap">
               <h1 className="logo-mark text-3xl font-extrabold tracking-tight md:text-5xl">BrainStormer™</h1>
+              <p className="logo-submark">POWER SEARCH FOR AWARD WINNING WORK</p>
             </div>
           </button>
         </div>
@@ -173,7 +174,6 @@ export default function AppShell() {
           </button>
         </div>
       </header>
-
       <div className="mt-6 space-y-4">
         {mode === "search" ? (
           <SearchBar
@@ -420,10 +420,16 @@ export default function AppShell() {
           border-radius: 26px;
           padding: 8px 14px 6px 14px;
           transform: rotate(-2.6deg);
+          margin-bottom: 20px;
           box-shadow:
             14px 10px 0 0 #df7a2c,
             26px 18px 0 0 #e6ad35,
             0 2px 0 rgba(0, 0, 0, 0.08);
+        }
+        @media (min-width: 768px) {
+          .logo-badge-wrap {
+            margin-bottom: 0;
+          }
         }
         .logo-mark {
           color: #f7f2e5;
@@ -436,6 +442,24 @@ export default function AppShell() {
             0 0 1px rgba(0, 0, 0, 0.08);
           transform: skewX(-7deg);
           animation: logoPulse 4.5s ease-in-out infinite;
+        }
+        .logo-submark {
+          margin: 2px 0 0 10px;
+          color: #f7f2e5;
+          font-size: 8px;
+          font-weight: 700;
+          letter-spacing: 0.1em;
+          text-transform: uppercase;
+          line-height: 1;
+          white-space: nowrap;
+          opacity: 0.96;
+          transform: skewX(-7deg);
+        }
+        @media (min-width: 768px) {
+          .logo-submark {
+            margin-left: 14px;
+            font-size: 9px;
+          }
         }
         @keyframes logoPulse {
           0% {
