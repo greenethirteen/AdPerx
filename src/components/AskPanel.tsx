@@ -77,6 +77,21 @@ function AskMascot({ state }: { state: "idle" | "thinking" | "done" | "error" })
   );
 }
 
+function AskSpectrum() {
+  return (
+    <div className="ask-osc-shell mt-4 rounded-2xl border border-cyan-200/45 bg-gradient-to-br from-cyan-50/60 via-white/75 to-blue-50/60 p-4">
+      <div className="ask-osc-frame relative h-44 overflow-hidden rounded-xl border border-cyan-100/60 bg-[#090d1a]">
+        <div className="ask-osc-glow absolute inset-0" />
+        <div className="ask-osc-container relative mx-auto w-[220px] pt-8">
+          {Array.from({ length: 7 }).map((_, i) => (
+            <div key={i} className="ask-osc-ball" />
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export default function AskPanel({ filters }: { filters: SearchFilters }) {
   const [question, setQuestion] = useState("");
   const [answer, setAnswer] = useState("");
@@ -295,6 +310,8 @@ export default function AskPanel({ filters }: { filters: SearchFilters }) {
                   </div>
                 </div>
               ) : null}
+
+              <AskSpectrum />
             </div>
           </div>
         </div>

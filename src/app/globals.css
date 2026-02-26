@@ -79,6 +79,40 @@ body {
   75% { transform: rotate(4deg) translateY(-1px); }
 }
 
+@keyframes askSpectrumHue {
+  0% { filter: hue-rotate(0deg) saturate(110%); }
+  50% { filter: hue-rotate(36deg) saturate(145%); }
+  100% { filter: hue-rotate(0deg) saturate(110%); }
+}
+
+@keyframes askSpectrumSlideA {
+  0% { transform: translateX(0) scale(1); opacity: 0.5; }
+  50% { transform: translateX(22%) scale(1.08); opacity: 0.95; }
+  100% { transform: translateX(40%) scale(0.95); opacity: 0.35; }
+}
+
+@keyframes askSpectrumSlideB {
+  0% { transform: translateX(0) scale(1); opacity: 0.45; }
+  50% { transform: translateX(-24%) scale(1.06); opacity: 0.9; }
+  100% { transform: translateX(-42%) scale(0.94); opacity: 0.35; }
+}
+
+@keyframes askSpectrumPulse {
+  0%, 100% { transform: translateY(0px); opacity: 0.55; }
+  50% { transform: translateY(-6px); opacity: 0.9; }
+}
+
+@keyframes askSpectrumPrism {
+  0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.72; }
+  50% { transform: translate(-50%, -50%) scale(1.03); opacity: 0.95; }
+}
+
+@keyframes askSpectrumSparkle {
+  0% { background-position: 0% 0%, 0% 0%; opacity: 0.35; }
+  50% { background-position: 32px 20px, -28px 16px; opacity: 0.72; }
+  100% { background-position: 64px 40px, -56px 32px; opacity: 0.35; }
+}
+
 .ask-aurora {
   background-image:
     radial-gradient(120% 140% at 0% 0%, rgba(34, 211, 238, 0.12), transparent 48%),
@@ -113,4 +147,164 @@ body {
 .ask-mascot-think {
   transform-origin: 50% 50%;
   animation: askMascotThink 850ms ease-in-out infinite;
+}
+
+.ask-spectrum-shell {
+  box-shadow: inset 0 0 0 1px rgba(125, 211, 252, 0.12), 0 10px 28px rgba(15, 23, 42, 0.08);
+}
+
+.ask-spectrum-frame {
+  box-shadow:
+    inset 0 0 50px rgba(56, 189, 248, 0.22),
+    inset 0 -30px 80px rgba(30, 64, 175, 0.24),
+    0 0 0 1px rgba(255, 255, 255, 0.12);
+}
+
+.ask-spectrum-gradient {
+  background:
+    linear-gradient(120deg, rgba(34, 211, 238, 0.2), rgba(99, 102, 241, 0.2), rgba(236, 72, 153, 0.18), rgba(251, 191, 36, 0.16)),
+    radial-gradient(120% 90% at 20% 20%, rgba(56, 189, 248, 0.15), transparent 60%),
+    radial-gradient(120% 90% at 80% 80%, rgba(232, 121, 249, 0.14), transparent 60%);
+  animation: askSpectrumHue 8s ease-in-out infinite;
+}
+
+.ask-spectrum-prism {
+  border: 1px solid rgba(191, 219, 254, 0.44);
+  background:
+    linear-gradient(140deg, rgba(255, 255, 255, 0.2), rgba(148, 163, 184, 0.08)),
+    radial-gradient(120% 120% at 15% 15%, rgba(125, 211, 252, 0.22), transparent 56%),
+    radial-gradient(120% 120% at 85% 80%, rgba(196, 181, 253, 0.2), transparent 58%);
+  backdrop-filter: blur(5px);
+  box-shadow:
+    inset 0 0 28px rgba(255, 255, 255, 0.1),
+    0 0 22px rgba(56, 189, 248, 0.26),
+    0 0 44px rgba(167, 139, 250, 0.18);
+  animation: askSpectrumPrism 4.4s ease-in-out infinite;
+}
+
+.ask-spectrum-trail {
+  filter: blur(10px);
+  mix-blend-mode: screen;
+}
+
+.ask-spectrum-trail-a {
+  background: linear-gradient(90deg, rgba(34, 211, 238, 0), rgba(34, 211, 238, 0.9), rgba(167, 139, 250, 0));
+  animation: askSpectrumSlideA 5.2s linear infinite;
+}
+
+.ask-spectrum-trail-b {
+  background: linear-gradient(90deg, rgba(236, 72, 153, 0), rgba(236, 72, 153, 0.85), rgba(251, 191, 36, 0));
+  animation: askSpectrumSlideB 5.8s linear infinite;
+}
+
+.ask-spectrum-trail-c {
+  background: linear-gradient(90deg, rgba(59, 130, 246, 0), rgba(59, 130, 246, 0.85), rgba(34, 197, 94, 0));
+  animation: askSpectrumPulse 3.2s ease-in-out infinite;
+}
+
+.ask-spectrum-trail-d {
+  background: linear-gradient(90deg, rgba(250, 204, 21, 0), rgba(250, 204, 21, 0.8), rgba(14, 165, 233, 0));
+  animation: askSpectrumSlideA 6.4s linear infinite;
+}
+
+.ask-spectrum-trail-e {
+  background: linear-gradient(90deg, rgba(16, 185, 129, 0), rgba(16, 185, 129, 0.84), rgba(236, 72, 153, 0));
+  animation: askSpectrumSlideB 6.9s linear infinite;
+}
+
+.ask-spectrum-grid {
+  background-image:
+    linear-gradient(rgba(125, 211, 252, 0.12) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(125, 211, 252, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.ask-spectrum-particles {
+  background-image:
+    radial-gradient(rgba(255, 255, 255, 0.75) 1px, transparent 1px),
+    radial-gradient(rgba(125, 211, 252, 0.55) 1px, transparent 1px);
+  background-size: 38px 38px, 52px 52px;
+  background-position: 0 0, 20px 14px;
+  animation: askSpectrumSparkle 10s linear infinite;
+}
+
+.ask-spectrum-noise {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.16) 0.55px, transparent 0.55px);
+  background-size: 3px 3px;
+  opacity: 0.1;
+}
+
+@keyframes askOscRight {
+  0% { transform: translateX(-15px); }
+  50% { transform: translateX(15px); }
+  100% { transform: translateX(-15px); }
+}
+
+@keyframes askOscLeft {
+  0% { transform: translateX(15px); }
+  50% { transform: translateX(-15px); }
+  100% { transform: translateX(15px); }
+}
+
+.ask-osc-shell {
+  box-shadow: inset 0 0 0 1px rgba(125, 211, 252, 0.12), 0 10px 28px rgba(15, 23, 42, 0.08);
+}
+
+.ask-osc-frame {
+  box-shadow:
+    inset 0 0 34px rgba(56, 189, 248, 0.18),
+    inset 0 -24px 62px rgba(30, 64, 175, 0.24);
+}
+
+.ask-osc-glow {
+  background:
+    radial-gradient(80% 90% at 20% 20%, rgba(34, 211, 238, 0.22), transparent 60%),
+    radial-gradient(80% 90% at 80% 78%, rgba(167, 139, 250, 0.2), transparent 58%);
+}
+
+.ask-osc-container {
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.ask-osc-ball {
+  width: 11px;
+  height: 11px;
+  margin: 0;
+  border-radius: 9999px;
+  background: #ffffff;
+  box-shadow: 0 0 12px rgba(255, 255, 255, 0.45);
+}
+
+.ask-osc-ball:nth-child(1) {
+  animation: askOscRight 1s infinite ease-in-out;
+}
+
+.ask-osc-ball:nth-child(2) {
+  animation: askOscLeft 1.1s infinite ease-in-out;
+}
+
+.ask-osc-ball:nth-child(3) {
+  animation: askOscRight 1.05s infinite ease-in-out;
+}
+
+.ask-osc-ball:nth-child(4) {
+  animation: askOscLeft 1.15s infinite ease-in-out;
+}
+
+.ask-osc-ball:nth-child(5) {
+  animation: askOscRight 1.1s infinite ease-in-out;
+}
+
+.ask-osc-ball:nth-child(6) {
+  animation: askOscLeft 1.05s infinite ease-in-out;
+}
+
+.ask-osc-ball:nth-child(7) {
+  animation: askOscRight 1s infinite ease-in-out;
 }

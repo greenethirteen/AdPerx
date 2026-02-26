@@ -2,7 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "AdPerx™ - The Comprehensive Award Winning Archive",
+  title: "BrainStormer™ - The Comprehensive Award Winning Archive",
   description: "Search award-winning advertising work with fast filters and previews."
 };
 

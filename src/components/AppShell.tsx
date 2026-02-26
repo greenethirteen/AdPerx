@@ -87,6 +87,24 @@ export default function AppShell() {
     (filters.years?.length ?? 0) === VINTAGE_YEARS.length;
   const isErrorsShortcutActive = (filters.preset ?? "").toLowerCase() === "errors";
   const showFiltersPanel = mode === "search";
+  const resetToHome = () => {
+    setMode("search");
+    setSelectedId(null);
+    setPage(1);
+    setFilters({
+      q: "",
+      preset: "",
+      sort: "relevance",
+      years: [],
+      awardTiers: [],
+      categories: [],
+      industry: [],
+      topics: [],
+      formats: [],
+      brands: [],
+      agencies: []
+    });
+  };
   const modeButtonClass = (active: boolean) =>
     [
       "rounded-xl px-2 py-1.5 text-xs shadow-soft transition duration-150 select-none md:px-3 md:py-2 md:text-sm",
@@ -124,10 +142,11 @@ export default function AppShell() {
     <div className="mx-auto max-w-7xl px-4 py-8">
       <header className="flex items-start justify-between gap-3">
         <div className="space-y-1">
-          <h1 className="logo-mark text-3xl font-extrabold tracking-tight md:text-5xl">AdPerx™</h1>
-          <p className="hidden md:block text-[10px] font-semibold uppercase tracking-[0.12em] text-black/65">
-            A Powerful Search Engine for Award-Winning Work
-          </p>
+          <button type="button" className="logo-home-btn" onClick={resetToHome} aria-label="Go to home and reset search">
+            <div className="logo-badge-wrap">
+              <h1 className="logo-mark text-3xl font-extrabold tracking-tight md:text-5xl">BrainStormer™</h1>
+            </div>
+          </button>
         </div>
 
         <div className="flex items-center gap-1.5 md:gap-2">
@@ -375,27 +394,58 @@ export default function AppShell() {
         Built as a metadata indexer + search UI. Always respect source licensing & terms.
       </footer>
       <style jsx>{`
-        .logo-mark {
-          background-image: linear-gradient(110deg, #0f766e 0%, #06b6d4 35%, #16a34a 65%, #0f766e 100%);
-          background-size: 200% 100%;
-          -webkit-background-clip: text;
-          background-clip: text;
-          color: transparent;
-          text-shadow: 0 0 22px rgba(6, 182, 212, 0.2);
-          animation: logoShift 6s ease-in-out infinite;
+        .logo-home-btn {
+          background: transparent;
+          border: 0;
+          padding: 0;
+          cursor: pointer;
+          transition: transform 180ms ease, filter 180ms ease;
         }
-        @keyframes logoShift {
+        .logo-home-btn:hover {
+          transform: translateY(-2px) rotate(-0.6deg) scale(1.015);
+          filter: saturate(1.08);
+        }
+        .logo-home-btn:active {
+          transform: translateY(0) rotate(-1deg) scale(0.985);
+          filter: saturate(0.98);
+        }
+        .logo-home-btn:focus-visible {
+          outline: 2px solid rgba(6, 182, 212, 0.55);
+          outline-offset: 4px;
+          border-radius: 14px;
+        }
+        .logo-badge-wrap {
+          display: inline-block;
+          background: #d71920;
+          border-radius: 26px;
+          padding: 8px 14px 6px 14px;
+          transform: rotate(-2.6deg);
+          box-shadow:
+            14px 10px 0 0 #df7a2c,
+            26px 18px 0 0 #e6ad35,
+            0 2px 0 rgba(0, 0, 0, 0.08);
+        }
+        .logo-mark {
+          color: #f7f2e5;
+          font-style: italic;
+          font-weight: 900;
+          letter-spacing: -0.03em;
+          line-height: 0.95;
+          text-shadow:
+            1px 1px 0 rgba(255, 255, 255, 0.35),
+            0 0 1px rgba(0, 0, 0, 0.08);
+          transform: skewX(-7deg);
+          animation: logoPulse 4.5s ease-in-out infinite;
+        }
+        @keyframes logoPulse {
           0% {
-            background-position: 0% 50%;
-            text-shadow: 0 0 12px rgba(6, 182, 212, 0.18);
+            filter: brightness(0.98);
           }
           50% {
-            background-position: 100% 50%;
-            text-shadow: 0 0 24px rgba(22, 163, 74, 0.24);
+            filter: brightness(1.07);
           }
           100% {
-            background-position: 0% 50%;
-            text-shadow: 0 0 12px rgba(6, 182, 212, 0.18);
+            filter: brightness(0.98);
           }
         }
       `}</style>
