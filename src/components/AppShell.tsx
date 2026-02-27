@@ -107,7 +107,7 @@ export default function AppShell() {
   };
   const modeButtonClass = (active: boolean) =>
     [
-      "rounded-xl px-2 py-1.5 text-xs shadow-soft transition duration-150 select-none md:px-3 md:py-2 md:text-sm",
+      "whitespace-nowrap rounded-xl px-2 py-1.5 text-xs shadow-soft transition duration-150 select-none md:px-3 md:py-2 md:text-sm",
       "focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-300 focus-visible:ring-offset-2",
       "active:scale-[0.98] active:translate-y-px",
       active
@@ -139,7 +139,7 @@ export default function AppShell() {
   }, [filters, page]);
 
   return (
-    <div className="mx-auto max-w-7xl px-4 py-8">
+    <div className="mx-auto max-w-7xl px-4 py-6 md:py-8">
       <header className="flex items-start justify-between gap-3">
         <div className="space-y-1">
           <button type="button" className="logo-home-btn" onClick={resetToHome} aria-label="Go to home and reset search">
@@ -150,7 +150,7 @@ export default function AppShell() {
           </button>
         </div>
 
-        <div className="flex items-center gap-1.5 md:gap-2">
+        <div className="ml-auto flex flex-wrap items-center justify-end gap-1.5 self-start md:flex-nowrap md:gap-2">
           <button
             className={modeButtonClass(mode === "search")}
             onClick={() => setMode("search")}
@@ -163,7 +163,7 @@ export default function AppShell() {
             onClick={() => setMode("ask")}
             aria-pressed={mode === "ask"}
           >
-            Ask (RAG)
+            Ask AI
           </button>
           <button
             className={modeButtonClass(mode === "ideate")}
@@ -420,7 +420,7 @@ export default function AppShell() {
           border-radius: 26px;
           padding: 8px 14px 6px 14px;
           transform: rotate(-2.6deg);
-          margin-bottom: 20px;
+          margin-bottom: 8px;
           box-shadow:
             14px 10px 0 0 #df7a2c,
             26px 18px 0 0 #e6ad35,
