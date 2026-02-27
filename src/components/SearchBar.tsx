@@ -24,7 +24,7 @@ export default function SearchBar({
           <input
             value={value}
             onChange={(e) => onChange(e.target.value)}
-            placeholder="Search brands, titles, agencies… e.g., “airline”, “Etihad”, “women’s rights”, “integrated”"
+            placeholder="Search for brands, titles, agencies... e.g. McDonald's, Droga5, Women's Rights, Airlines"
             className="w-full rounded-xl border border-black/10 bg-white px-3 py-2.5 text-sm outline-none ring-0 focus:border-black/20 md:px-4 md:py-3"
           />
         </div>
